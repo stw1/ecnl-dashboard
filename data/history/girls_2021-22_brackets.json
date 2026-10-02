@@ -174,6 +174,40 @@
  },
  {
   "age": "U13",
+  "conf": "Mountain",
+  "teams": {
+   "59850": "Colorado Rapids ECNL GU13",
+   "58634": "Real Colorado Athletico ECNL GU13",
+   "58631": "Real Colorado National ECNL GU13",
+   "59883": "Pride SC ECNL GU13",
+   "45847": "La Roca FC ECNL GU13"
+  },
+  "clubs": {
+   "59850": [
+    "29",
+    "Colorado Storm"
+   ],
+   "58634": [
+    "81",
+    "Real Colorado"
+   ],
+   "58631": [
+    "81",
+    "Real Colorado"
+   ],
+   "59883": [
+    "2335",
+    "Pride SC"
+   ],
+   "45847": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
   "conf": "New England",
   "teams": {
    "47024": "Connecticut FC ECNL GU13",
@@ -282,7 +316,7 @@
  },
  {
   "age": "U13",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "60044": "DeAnza Force ECNL GU13",
    "56277": "Marin FC ECNL GU13",
@@ -291,21 +325,7 @@
    "31488": "San Juan SC ECNL GU13",
    "33438": "MVLA ECNL GU13",
    "31328": "Mustang SC ECNL GU13",
-   "60301": "Davis Legacy ECNL GU13",
-   "59883": "Pride SC ECNL GU13",
-   "58631": "Real Colorado National ECNL GU13",
-   "59850": "Colorado Rapids ECNL GU13",
-   "58634": "Real Colorado Athletico ECNL GU13",
-   "54576": "Washington Premier ECNL GU13",
-   "46755": "PacNW SC ECNL GU13",
-   "45847": "La Roca FC ECNL GU13",
-   "57358": "FC Portland ECNL GU13",
-   "59582": "Portland Thorns ECNL GU13",
-   "59855": "Eastside FC ECNL GU13",
-   "44063": "Northwest Elite FC ECNL GU13",
-   "60436": "Crossfire Premier ECNL GU13",
-   "56728": "Seattle United ECNL GU13",
-   "59556": "Boise Thorns FC ECNL GU13"
+   "60301": "Davis Legacy ECNL GU13"
   },
   "clubs": {
    "60044": [
@@ -339,35 +359,25 @@
    "60301": [
     "1425",
     "Davis Legacy Soccer Club"
-   ],
-   "59883": [
-    "2335",
-    "Pride SC"
-   ],
-   "58631": [
-    "81",
-    "Real Colorado"
-   ],
-   "59850": [
-    "29",
-    "Colorado Storm"
-   ],
-   "58634": [
-    "81",
-    "Real Colorado"
-   ],
-   "54576": [
-    "112",
-    "Washington Premier FC"
-   ],
-   "46755": [
-    "2331",
-    "PacNW"
-   ],
-   "45847": [
-    "1760",
-    "La Roca FC"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Northwest",
+  "teams": {
+   "57358": "FC Portland ECNL GU13",
+   "59582": "Portland Thorns ECNL GU13",
+   "59556": "Boise Thorns FC ECNL GU13",
+   "59855": "Eastside FC ECNL GU13",
+   "46755": "PacNW SC ECNL GU13",
+   "44063": "Northwest Elite FC ECNL GU13",
+   "60436": "Crossfire Premier ECNL GU13",
+   "56728": "Seattle United ECNL GU13",
+   "54576": "Washington Premier ECNL GU13"
+  },
+  "clubs": {
    "57358": [
     "603",
     "FC Portland Academy"
@@ -376,9 +386,17 @@
     "3406",
     "Portland Thorns FC"
    ],
+   "59556": [
+    "51",
+    "Boise Timbers | Thorns"
+   ],
    "59855": [
     "398",
     "Eastside FC (WA)"
+   ],
+   "46755": [
+    "2331",
+    "PacNW"
    ],
    "44063": [
     "737",
@@ -392,35 +410,12 @@
     "1643",
     "Seattle United"
    ],
-   "59556": [
-    "51",
-    "Boise Timbers | Thorns"
+   "54576": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "60044": "Bay Area",
-   "56277": "Bay Area",
-   "49621": "Bay Area",
-   "39256": "Bay Area",
-   "31488": "Bay Area",
-   "33438": "Bay Area",
-   "31328": "Bay Area",
-   "60301": "Bay Area",
-   "59883": "Mountain",
-   "58631": "Mountain",
-   "59850": "Mountain",
-   "58634": "Mountain",
-   "54576": "Pacific",
-   "46755": "Pacific",
-   "45847": "Mountain",
-   "57358": "Pacific",
-   "59582": "Pacific",
-   "59855": "Pacific",
-   "44063": "Pacific",
-   "60436": "Pacific",
-   "56728": "Pacific",
-   "59556": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U13",
@@ -929,6 +924,45 @@
  },
  {
   "age": "U14",
+  "conf": "Mountain",
+  "teams": {
+   "45853": "Real Colorado National ECNL GU14",
+   "48226": "Pride SC ECNL GU14",
+   "46752": "Colorado Rapids ECNL GU14",
+   "46443": "Real Colorado Athletico ECNL GU14",
+   "46754": "Utah Avalanche ECNL GU14",
+   "45848": "La Roca FC ECNL GU14"
+  },
+  "clubs": {
+   "45853": [
+    "81",
+    "Real Colorado"
+   ],
+   "48226": [
+    "2335",
+    "Pride SC"
+   ],
+   "46752": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46443": [
+    "81",
+    "Real Colorado"
+   ],
+   "46754": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45848": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
   "conf": "New England",
   "teams": {
    "46829": "Connecticut FC ECNL GU14",
@@ -1037,7 +1071,7 @@
  },
  {
   "age": "U14",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "39174": "San Juan SC ECNL GU14",
    "30872": "MVLA ECNL GU14",
@@ -1046,22 +1080,7 @@
    "45841": "DeAnza Force ECNL GU14",
    "39517": "Marin FC ECNL GU14",
    "4653": "Mustang SC ECNL GU14",
-   "39186": "Davis Legacy ECNL GU14",
-   "45853": "Real Colorado National ECNL GU14",
-   "46443": "Real Colorado Athletico ECNL GU14",
-   "46752": "Colorado Rapids ECNL GU14",
-   "48226": "Pride SC ECNL GU14",
-   "35172": "PacNW SC ECNL GU14",
-   "39098": "Washington Premier ECNL GU14",
-   "46754": "Utah Avalanche ECNL GU14",
-   "45848": "La Roca FC ECNL GU14",
-   "46753": "Eastside FC ECNL GU14",
-   "50300": "FC Portland ECNL GU14",
-   "45859": "Portland Thorns ECNL GU14",
-   "32701": "Northwest Elite FC ECNL GU14",
-   "21818": "Crossfire Premier ECNL GU14",
-   "39162": "Seattle United ECNL GU14",
-   "46756": "Boise Thorns FC ECNL GU14"
+   "39186": "Davis Legacy ECNL GU14"
   },
   "clubs": {
    "39174": [
@@ -1095,38 +1114,36 @@
    "39186": [
     "7",
     "No Club Selection"
-   ],
-   "45853": [
-    "81",
-    "Real Colorado"
-   ],
-   "46443": [
-    "81",
-    "Real Colorado"
-   ],
-   "46752": [
-    "29",
-    "Colorado Storm"
-   ],
-   "48226": [
-    "2335",
-    "Pride SC"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Northwest",
+  "teams": {
+   "35172": "PacNW SC ECNL GU14",
+   "32701": "Northwest Elite FC ECNL GU14",
+   "46756": "Boise Thorns FC ECNL GU14",
+   "46753": "Eastside FC ECNL GU14",
+   "50300": "FC Portland ECNL GU14",
+   "45859": "Portland Thorns ECNL GU14",
+   "39162": "Seattle United ECNL GU14",
+   "21818": "Crossfire Premier ECNL GU14",
+   "39098": "Washington Premier ECNL GU14"
+  },
+  "clubs": {
    "35172": [
     "2331",
     "PacNW"
    ],
-   "39098": [
-    "112",
-    "Washington Premier FC"
+   "32701": [
+    "737",
+    "Oregon Surf SC"
    ],
-   "46754": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45848": [
-    "1760",
-    "La Roca FC"
+   "46756": [
+    "51",
+    "Boise Timbers | Thorns"
    ],
    "46753": [
     "398",
@@ -1140,48 +1157,20 @@
     "3406",
     "Portland Thorns FC"
    ],
-   "32701": [
-    "737",
-    "Oregon Surf SC"
+   "39162": [
+    "1643",
+    "Seattle United"
    ],
    "21818": [
     "7",
     "No Club Selection"
    ],
-   "39162": [
-    "1643",
-    "Seattle United"
-   ],
-   "46756": [
-    "51",
-    "Boise Timbers | Thorns"
+   "39098": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "39174": "Bay Area",
-   "30872": "Bay Area",
-   "39258": "Bay Area",
-   "39255": "Bay Area",
-   "45841": "Bay Area",
-   "39517": "Bay Area",
-   "4653": "Bay Area",
-   "39186": "Bay Area",
-   "45853": "Mountain",
-   "46443": "Mountain",
-   "46752": "Mountain",
-   "48226": "Mountain",
-   "35172": "Pacific",
-   "39098": "Pacific",
-   "46754": "Mountain",
-   "45848": "Mountain",
-   "46753": "Pacific",
-   "50300": "Pacific",
-   "45859": "Pacific",
-   "32701": "Pacific",
-   "21818": "Pacific",
-   "39162": "Pacific",
-   "46756": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U14",
@@ -1675,6 +1664,45 @@
  },
  {
   "age": "U15",
+  "conf": "Mountain",
+  "teams": {
+   "35218": "Colorado Rapids ECNL GU15",
+   "46444": "Real Colorado Athletico ECNL GU15",
+   "45854": "Real Colorado National ECNL GU15",
+   "35220": "Pride SC ECNL GU15",
+   "35178": "Utah Avalanche ECNL GU15",
+   "45849": "La Roca FC ECNL GU15"
+  },
+  "clubs": {
+   "35218": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46444": [
+    "81",
+    "Real Colorado"
+   ],
+   "45854": [
+    "81",
+    "Real Colorado"
+   ],
+   "35220": [
+    "2335",
+    "Pride SC"
+   ],
+   "35178": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45849": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
   "conf": "New England",
   "teams": {
    "24089": "Connecticut FC ECNL GU15",
@@ -1783,7 +1811,7 @@
  },
  {
   "age": "U15",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "35173": "San Juan SC ECNL GU15",
    "35169": "MVLA ECNL GU15",
@@ -1792,22 +1820,7 @@
    "18803": "Mustang SC ECNL GU15",
    "21335": "Davis Legacy ECNL GU15",
    "45842": "DeAnza Force ECNL GU15",
-   "35162": "Marin FC ECNL GU15",
-   "35220": "Pride SC ECNL GU15",
-   "45854": "Real Colorado National ECNL GU15",
-   "46444": "Real Colorado Athletico ECNL GU15",
-   "35218": "Colorado Rapids ECNL GU15",
-   "19484": "PacNW SC ECNL GU15",
-   "35179": "Washington Premier ECNL GU15",
-   "35178": "Utah Avalanche ECNL GU15",
-   "45849": "La Roca FC ECNL GU15",
-   "35159": "FC Portland ECNL GU15",
-   "35153": "Eastside FC ECNL GU15",
-   "45860": "Portland Thorns ECNL GU15",
-   "32700": "Northwest Elite FC ECNL GU15",
-   "35177": "Seattle United ECNL GU15",
-   "26840": "Crossfire Premier ECNL GU15",
-   "35152": "Boise Thorns FC ECNL GU15"
+   "35162": "Marin FC ECNL GU15"
   },
   "clubs": {
    "35173": [
@@ -1841,93 +1854,63 @@
    "35162": [
     "1585",
     "Marin FC"
-   ],
-   "35220": [
-    "2335",
-    "Pride SC"
-   ],
-   "45854": [
-    "81",
-    "Real Colorado"
-   ],
-   "46444": [
-    "81",
-    "Real Colorado"
-   ],
-   "35218": [
-    "29",
-    "Colorado Storm"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Northwest",
+  "teams": {
+   "19484": "PacNW SC ECNL GU15",
+   "35177": "Seattle United ECNL GU15",
+   "32700": "Northwest Elite FC ECNL GU15",
+   "35159": "FC Portland ECNL GU15",
+   "45860": "Portland Thorns ECNL GU15",
+   "35152": "Boise Thorns FC ECNL GU15",
+   "35153": "Eastside FC ECNL GU15",
+   "26840": "Crossfire Premier ECNL GU15",
+   "35179": "Washington Premier ECNL GU15"
+  },
+  "clubs": {
    "19484": [
     "2331",
     "PacNW"
-   ],
-   "35179": [
-    "112",
-    "Washington Premier FC"
-   ],
-   "35178": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45849": [
-    "1760",
-    "La Roca FC"
-   ],
-   "35159": [
-    "603",
-    "FC Portland Academy"
-   ],
-   "35153": [
-    "398",
-    "Eastside FC (WA)"
-   ],
-   "45860": [
-    "3406",
-    "Portland Thorns FC"
-   ],
-   "32700": [
-    "737",
-    "Oregon Surf SC"
    ],
    "35177": [
     "1643",
     "Seattle United"
    ],
-   "26840": [
-    "7",
-    "No Club Selection"
+   "32700": [
+    "737",
+    "Oregon Surf SC"
+   ],
+   "35159": [
+    "603",
+    "FC Portland Academy"
+   ],
+   "45860": [
+    "3406",
+    "Portland Thorns FC"
    ],
    "35152": [
     "51",
     "Boise Timbers | Thorns"
+   ],
+   "35153": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "26840": [
+    "7",
+    "No Club Selection"
+   ],
+   "35179": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "35173": "Bay Area",
-   "35169": "Bay Area",
-   "35174": "Bay Area",
-   "35170": "Bay Area",
-   "18803": "Bay Area",
-   "21335": "Bay Area",
-   "45842": "Bay Area",
-   "35162": "Bay Area",
-   "35220": "Mountain",
-   "45854": "Mountain",
-   "46444": "Mountain",
-   "35218": "Mountain",
-   "19484": "Pacific",
-   "35179": "Pacific",
-   "35178": "Mountain",
-   "45849": "Mountain",
-   "35159": "Pacific",
-   "35153": "Pacific",
-   "45860": "Pacific",
-   "32700": "Pacific",
-   "35177": "Pacific",
-   "26840": "Pacific",
-   "35152": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U15",
@@ -2421,6 +2404,45 @@
  },
  {
   "age": "U16",
+  "conf": "Mountain",
+  "teams": {
+   "21349": "Colorado Rapids ECNL GU16",
+   "46445": "Real Colorado Athletico ECNL GU16",
+   "45855": "Real Colorado National ECNL GU16",
+   "35221": "Pride SC ECNL GU16",
+   "20424": "Utah Avalanche ECNL GU16",
+   "45850": "La Roca FC ECNL GU16"
+  },
+  "clubs": {
+   "21349": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46445": [
+    "81",
+    "Real Colorado"
+   ],
+   "45855": [
+    "81",
+    "Real Colorado"
+   ],
+   "35221": [
+    "7",
+    "No Club Selection"
+   ],
+   "20424": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45850": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
   "conf": "New England",
   "teams": {
    "11478": "Connecticut FC ECNL GU16",
@@ -2529,7 +2551,7 @@
  },
  {
   "age": "U16",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "13301": "Mustang SC ECNL GU16",
    "20425": "Davis Legacy ECNL GU16",
@@ -2538,22 +2560,7 @@
    "45843": "DeAnza Force ECNL GU16",
    "35163": "Marin FC ECNL GU16",
    "20430": "San Juan SC ECNL GU16",
-   "20426": "MVLA ECNL GU16",
-   "45855": "Real Colorado National ECNL GU16",
-   "46445": "Real Colorado Athletico ECNL GU16",
-   "35221": "Pride SC ECNL GU16",
-   "21349": "Colorado Rapids ECNL GU16",
-   "19373": "PacNW SC ECNL GU16",
-   "18776": "Washington Premier ECNL GU16",
-   "20424": "Utah Avalanche ECNL GU16",
-   "45850": "La Roca FC ECNL GU16",
-   "20247": "FC Portland ECNL GU16",
-   "10513": "Eastside FC ECNL GU16",
-   "45861": "Portland Thorns ECNL GU16",
-   "18342": "Northwest Elite FC ECNL GU16",
-   "19791": "Seattle United ECNL GU16",
-   "13932": "Crossfire Premier ECNL GU16",
-   "20416": "Boise Thorns FC ECNL GU16"
+   "20426": "MVLA ECNL GU16"
   },
   "clubs": {
    "13301": [
@@ -2587,46 +2594,44 @@
    "20426": [
     "294",
     "MVLA"
-   ],
-   "45855": [
-    "81",
-    "Real Colorado"
-   ],
-   "46445": [
-    "81",
-    "Real Colorado"
-   ],
-   "35221": [
-    "7",
-    "No Club Selection"
-   ],
-   "21349": [
-    "29",
-    "Colorado Storm"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Northwest",
+  "teams": {
+   "19373": "PacNW SC ECNL GU16",
+   "19791": "Seattle United ECNL GU16",
+   "20416": "Boise Thorns FC ECNL GU16",
+   "10513": "Eastside FC ECNL GU16",
+   "20247": "FC Portland ECNL GU16",
+   "45861": "Portland Thorns ECNL GU16",
+   "18342": "Northwest Elite FC ECNL GU16",
+   "13932": "Crossfire Premier ECNL GU16",
+   "18776": "Washington Premier ECNL GU16"
+  },
+  "clubs": {
    "19373": [
     "2331",
     "PacNW"
    ],
-   "18776": [
-    "112",
-    "Washington Premier FC"
+   "19791": [
+    "1643",
+    "Seattle United"
    ],
-   "20424": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45850": [
-    "1760",
-    "La Roca FC"
-   ],
-   "20247": [
-    "603",
-    "FC Portland Academy"
+   "20416": [
+    "51",
+    "Boise Timbers | Thorns"
    ],
    "10513": [
     "398",
     "Eastside FC (WA)"
+   ],
+   "20247": [
+    "603",
+    "FC Portland Academy"
    ],
    "45861": [
     "3406",
@@ -2636,44 +2641,16 @@
     "737",
     "Oregon Surf SC"
    ],
-   "19791": [
-    "1643",
-    "Seattle United"
-   ],
    "13932": [
     "3476",
     "Crossfire Premier"
    ],
-   "20416": [
-    "51",
-    "Boise Timbers | Thorns"
+   "18776": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "13301": "Bay Area",
-   "20425": "Bay Area",
-   "20432": "Bay Area",
-   "20429": "Bay Area",
-   "45843": "Bay Area",
-   "35163": "Bay Area",
-   "20430": "Bay Area",
-   "20426": "Bay Area",
-   "45855": "Mountain",
-   "46445": "Mountain",
-   "35221": "Mountain",
-   "21349": "Mountain",
-   "19373": "Pacific",
-   "18776": "Pacific",
-   "20424": "Mountain",
-   "45850": "Mountain",
-   "20247": "Pacific",
-   "10513": "Pacific",
-   "45861": "Pacific",
-   "18342": "Pacific",
-   "19791": "Pacific",
-   "13932": "Pacific",
-   "20416": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U16",
@@ -3167,6 +3144,45 @@
  },
  {
   "age": "U17",
+  "conf": "Mountain",
+  "teams": {
+   "11901": "Colorado Rapids ECNL GU17",
+   "46446": "Real Colorado Athletico ECNL GU17",
+   "45856": "Real Colorado National ECNL GU17",
+   "35222": "Pride SC ECNL GU17",
+   "45851": "La Roca FC ECNL GU17",
+   "12594": "Utah Avalanche ECNL GU17"
+  },
+  "clubs": {
+   "11901": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46446": [
+    "81",
+    "Real Colorado"
+   ],
+   "45856": [
+    "81",
+    "Real Colorado"
+   ],
+   "35222": [
+    "7",
+    "No Club Selection"
+   ],
+   "45851": [
+    "1760",
+    "La Roca FC"
+   ],
+   "12594": [
+    "107",
+    "Utah Avalanche"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
   "conf": "New England",
   "teams": {
    "12258": "Connecticut FC ECNL GU17",
@@ -3275,7 +3291,7 @@
  },
  {
   "age": "U17",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "12597": "San Juan SC ECNL GU17",
    "12024": "MVLA ECNL GU17",
@@ -3284,22 +3300,7 @@
    "12596": "Santa Rosa United ECNL GU17",
    "11855": "Pleasanton RAGE ECNL GU17",
    "45844": "DeAnza Force ECNL GU17",
-   "35164": "Marin FC ECNL GU17",
-   "46446": "Real Colorado Athletico ECNL GU17",
-   "11901": "Colorado Rapids ECNL GU17",
-   "45856": "Real Colorado National ECNL GU17",
-   "35222": "Pride SC ECNL GU17",
-   "12363": "Washington Premier ECNL GU17",
-   "19374": "PacNW SC ECNL GU17",
-   "45851": "La Roca FC ECNL GU17",
-   "12594": "Utah Avalanche ECNL GU17",
-   "12592": "FC Portland ECNL GU17",
-   "33076": "Eastside FC ECNL GU17",
-   "45862": "Portland Thorns ECNL GU17",
-   "7129": "Northwest Elite FC ECNL GU17",
-   "19792": "Seattle United ECNL GU17",
-   "12590": "Crossfire Premier ECNL GU17",
-   "12593": "Boise Thorns FC ECNL GU17"
+   "35164": "Marin FC ECNL GU17"
   },
   "clubs": {
    "12597": [
@@ -3333,93 +3334,63 @@
    "35164": [
     "1585",
     "Marin FC"
-   ],
-   "46446": [
-    "81",
-    "Real Colorado"
-   ],
-   "11901": [
-    "29",
-    "Colorado Storm"
-   ],
-   "45856": [
-    "81",
-    "Real Colorado"
-   ],
-   "35222": [
-    "7",
-    "No Club Selection"
-   ],
-   "12363": [
-    "112",
-    "Washington Premier FC"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Northwest",
+  "teams": {
+   "19374": "PacNW SC ECNL GU17",
+   "19792": "Seattle United ECNL GU17",
+   "12593": "Boise Thorns FC ECNL GU17",
+   "33076": "Eastside FC ECNL GU17",
+   "7129": "Northwest Elite FC ECNL GU17",
+   "12592": "FC Portland ECNL GU17",
+   "45862": "Portland Thorns ECNL GU17",
+   "12590": "Crossfire Premier ECNL GU17",
+   "12363": "Washington Premier ECNL GU17"
+  },
+  "clubs": {
    "19374": [
     "2331",
     "PacNW"
-   ],
-   "45851": [
-    "1760",
-    "La Roca FC"
-   ],
-   "12594": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "12592": [
-    "603",
-    "FC Portland Academy"
-   ],
-   "33076": [
-    "398",
-    "Eastside FC (WA)"
-   ],
-   "45862": [
-    "3406",
-    "Portland Thorns FC"
-   ],
-   "7129": [
-    "737",
-    "Oregon Surf SC"
    ],
    "19792": [
     "1643",
     "Seattle United"
    ],
+   "12593": [
+    "51",
+    "Boise Timbers | Thorns"
+   ],
+   "33076": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "7129": [
+    "737",
+    "Oregon Surf SC"
+   ],
+   "12592": [
+    "603",
+    "FC Portland Academy"
+   ],
+   "45862": [
+    "3406",
+    "Portland Thorns FC"
+   ],
    "12590": [
     "3476",
     "Crossfire Premier"
    ],
-   "12593": [
-    "51",
-    "Boise Timbers | Thorns"
+   "12363": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "12597": "Bay Area",
-   "12024": "Bay Area",
-   "12598": "Bay Area",
-   "11107": "Bay Area",
-   "12596": "Bay Area",
-   "11855": "Bay Area",
-   "45844": "Bay Area",
-   "35164": "Bay Area",
-   "46446": "Mountain",
-   "11901": "Mountain",
-   "45856": "Mountain",
-   "35222": "Mountain",
-   "12363": "Pacific",
-   "19374": "Pacific",
-   "45851": "Mountain",
-   "12594": "Mountain",
-   "12592": "Pacific",
-   "33076": "Pacific",
-   "45862": "Pacific",
-   "7129": "Pacific",
-   "19792": "Pacific",
-   "12590": "Pacific",
-   "12593": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U17",
@@ -3913,6 +3884,45 @@
  },
  {
   "age": "U18/19",
+  "conf": "Mountain",
+  "teams": {
+   "45857": "Real Colorado National ECNL GU18/U19",
+   "35223": "Pride SC ECNL GU18/U19",
+   "6883": "Colorado Rapids ECNL GU18/U19",
+   "46447": "Real Colorado Athletico ECNL GU18/U19",
+   "45852": "La Roca FC ECNL GU18/U19",
+   "11580": "Utah Avalanche ECNL GU18/U19"
+  },
+  "clubs": {
+   "45857": [
+    "81",
+    "Real Colorado"
+   ],
+   "35223": [
+    "7",
+    "No Club Selection"
+   ],
+   "6883": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46447": [
+    "81",
+    "Real Colorado"
+   ],
+   "45852": [
+    "1760",
+    "La Roca FC"
+   ],
+   "11580": [
+    "107",
+    "Utah Avalanche"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
   "conf": "New England",
   "teams": {
    "11571": "FSA FC ECNL GU18/U19",
@@ -4021,7 +4031,7 @@
  },
  {
   "age": "U18/19",
-  "conf": "Northwest",
+  "conf": "Northern Cal",
   "teams": {
    "7758": "San Juan SC ECNL GU18/U19",
    "11586": "MVLA ECNL GU18/U19",
@@ -4030,22 +4040,7 @@
    "11585": "Mustang SC ECNL GU18/U19",
    "10853": "Davis Legacy ECNL GU18/U19",
    "45845": "DeAnza Force ECNL GU18/U19",
-   "35165": "Marin FC ECNL GU18/U19",
-   "45857": "Real Colorado National ECNL GU18/U19",
-   "6883": "Colorado Rapids ECNL GU18/U19",
-   "46447": "Real Colorado Athletico ECNL GU18/U19",
-   "35223": "Pride SC ECNL GU18/U19",
-   "7035": "Washington Premier ECNL GU18/U19",
-   "19375": "PacNW SC ECNL GU18/U19",
-   "45852": "La Roca FC ECNL GU18/U19",
-   "11580": "Utah Avalanche ECNL GU18/U19",
-   "11578": "FC Portland ECNL GU18/U19",
-   "35154": "Eastside FC ECNL GU18/U19",
-   "45863": "Portland Thorns ECNL GU18/U19",
-   "10434": "Northwest Elite FC ECNL GU18/U19",
-   "11576": "Crossfire Premier ECNL GU18/U19",
-   "10594": "Seattle United ECNL GU18/U19",
-   "11579": "Boise Thorns FC ECNL GU18/U19"
+   "35165": "Marin FC ECNL GU18/U19"
   },
   "clubs": {
    "7758": [
@@ -4079,93 +4074,63 @@
    "35165": [
     "1585",
     "Marin FC"
-   ],
-   "45857": [
-    "81",
-    "Real Colorado"
-   ],
-   "6883": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46447": [
-    "81",
-    "Real Colorado"
-   ],
-   "35223": [
-    "7",
-    "No Club Selection"
-   ],
-   "7035": [
-    "112",
-    "Washington Premier FC"
-   ],
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Northwest",
+  "teams": {
+   "19375": "PacNW SC ECNL GU18/U19",
+   "10594": "Seattle United ECNL GU18/U19",
+   "10434": "Northwest Elite FC ECNL GU18/U19",
+   "11578": "FC Portland ECNL GU18/U19",
+   "45863": "Portland Thorns ECNL GU18/U19",
+   "35154": "Eastside FC ECNL GU18/U19",
+   "11576": "Crossfire Premier ECNL GU18/U19",
+   "11579": "Boise Thorns FC ECNL GU18/U19",
+   "7035": "Washington Premier ECNL GU18/U19"
+  },
+  "clubs": {
    "19375": [
     "2331",
     "PacNW"
-   ],
-   "45852": [
-    "1760",
-    "La Roca FC"
-   ],
-   "11580": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "11578": [
-    "603",
-    "FC Portland Academy"
-   ],
-   "35154": [
-    "398",
-    "Eastside FC (WA)"
-   ],
-   "45863": [
-    "3406",
-    "Portland Thorns FC"
-   ],
-   "10434": [
-    "737",
-    "Oregon Surf SC"
-   ],
-   "11576": [
-    "3476",
-    "Crossfire Premier"
    ],
    "10594": [
     "1643",
     "Seattle United"
    ],
+   "10434": [
+    "737",
+    "Oregon Surf SC"
+   ],
+   "11578": [
+    "603",
+    "FC Portland Academy"
+   ],
+   "45863": [
+    "3406",
+    "Portland Thorns FC"
+   ],
+   "35154": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "11576": [
+    "3476",
+    "Crossfire Premier"
+   ],
    "11579": [
     "51",
     "Boise Timbers | Thorns"
+   ],
+   "7035": [
+    "112",
+    "Washington Premier FC"
    ]
   },
-  "groups": {
-   "7758": "Bay Area",
-   "11586": "Bay Area",
-   "11583": "Bay Area",
-   "10626": "Bay Area",
-   "11585": "Bay Area",
-   "10853": "Bay Area",
-   "45845": "Bay Area",
-   "35165": "Bay Area",
-   "45857": "Mountain",
-   "6883": "Mountain",
-   "46447": "Mountain",
-   "35223": "Mountain",
-   "7035": "Pacific",
-   "19375": "Pacific",
-   "45852": "Mountain",
-   "11580": "Mountain",
-   "11578": "Pacific",
-   "35154": "Pacific",
-   "45863": "Pacific",
-   "10434": "Pacific",
-   "11576": "Pacific",
-   "10594": "Pacific",
-   "11579": "Pacific"
-  }
+  "groups": {}
  },
  {
   "age": "U18/19",

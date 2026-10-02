@@ -74,10 +74,15 @@ def conf_of(name):
     c = re.sub(r"\s+Conf[a-z]*$", "", c, flags=re.I).strip()
     return {"Norcal": "Northern Cal"}.get(c, c)
 
+# flights that were really separate conferences, named as ECNL named them later
+FLIGHT_CONF = {("Northwest", "Bay Area"): "Northern Cal", ("Northwest", "Pacific"): "Northwest", ("Northwest", "Mountain"): "Mountain"}
+
 def fetch_events(label, events, season=SEASON):
     """Every conference game of these TGS events: (brackets, games). Games of one age group are merged across the
-    event's divisions and flights; flights that play each other stay one bracket, with each team's flight as its group,
-    and flights that never meet become separate brackets ('Southwest North')."""
+    event's divisions and flights. Two-division conferences (a third or more of the games between divisions, e.g.
+    Heartland Blue/White) stay one bracket with each team's flight as its group. Flights that rarely or never meet
+    become separate conferences ('Northeast North'; Girls 2020-22 'Northwest' Bay Area -> 'Northern Cal'), and their
+    few games against each other are left out, as in ECNL's own standings."""
     by = {}  # (age, conf) -> {"rows": {match id: game}, "flight": {team: Counter of flights}}
     for ev in events:
         conf = conf_of(get(f"{API}/get-event-details-by-eventID/{ev}")["name"])
@@ -101,8 +106,11 @@ def fetch_events(label, events, season=SEASON):
         names = sorted(set(grp.values()))
         rows = list(B["rows"].values())
         cross = sum(1 for g in rows if grp[str(g["hometeamID"])] != grp[str(g["awayteamID"])])
-        parts = [(conf, rows, grp if len(names) > 1 else {})] if len(names) == 1 or cross else \
-                [(f"{conf} {n}", [g for g in rows if grp[str(g["hometeamID"])] == n], {}) for n in names]
+        if len(names) == 1 or cross >= 0.3 * len(rows):
+            parts = [(conf, rows, grp if len(names) > 1 else {})]
+        else:
+            parts = [(FLIGHT_CONF.get((conf, n), f"{conf} {n}"), [g for g in rows if grp[str(g["hometeamID"])] == grp[str(g["awayteamID"])] == n], {})
+                     for n in names]
         for cname, rs, groups in parts:
             teams, clubs = {}, {}
             for g in rs:

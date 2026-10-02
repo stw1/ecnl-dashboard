@@ -64,6 +64,14 @@ manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from 
 - Feed quirks handled: friendlies and "TBD" opponents dropped, placeholder dates (0001-01-01) dropped, and midnight
   kickoffs mean the time isn't set ("time TBD"). Unplayed games dated before today show as "waiting for a score",
   not as upcoming, but are still simulated.
+- **Standings match ECNL's official ones:** `python3 scripts/checkstandings.py` compares every team's GP/W/D/L/GF/GA and the
+  order in each flight with `Event/get-standings-by-div-and-flight/{division}/{flight}/{event}`. The workflow runs it as a
+  warning-only step. ECNL's order is points per game, then head-to-head for two tied teams, then **total** goal
+  difference and total goals scored. On 2026-10-02 every record and position matched for all 1,812 teams. Rerun after
+  changing table logic.
+- Two-division conferences (a third or more of the games between divisions) are one bracket with group tags. Flights that
+  rarely meet are separate conferences (`refresh.FLIGHT_CONF`). Girls 2020-22 "Northwest" is really Northern Cal (Bay Area),
+  Northwest (Pacific) and Mountain.
 - Team names are cleaned by `refresh.team_label` ("XF ECNL B2013/14 2" becomes "XF 2"). Clubs are grouped by TGS club id.
 
 ## Postseason
@@ -106,7 +114,7 @@ League Cup winners can't be predicted, so those spots go to the team in the tabl
 ## Model (template JS, search for "fit penalised Poisson model")
 Poisson goals model with attack and defense ratings per team, ridge priors (σ 0.35, centered on last season's
 rating when there is one), home edge, and a Dixon-Coles low-score adjustment. The season sim plays out every remaining
-game 10,000 times and ranks by points per game (ECNL's rule), then GD and GF per game. "How accurate are the
+game 10,000 times and ranks the way ECNL does (points per game, then total GD and GF). "How accurate are the
 predictions?" is a walk-forward backtest of the current model.
 
 ## Conventions

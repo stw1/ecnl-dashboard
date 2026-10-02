@@ -151,6 +151,45 @@
  },
  {
   "age": "U13",
+  "conf": "Mountain",
+  "teams": {
+   "45853": "Real Colorado National ECNL GU13",
+   "48226": "Pride SC ECNL GU13",
+   "46752": "Colorado Rapids ECNL GU13",
+   "46443": "Real Colorado Athletico ECNL GU13",
+   "45847": "La Roca FC ECNL GU13",
+   "46754": "Utah Avalanche ECNL GU13"
+  },
+  "clubs": {
+   "45853": [
+    "81",
+    "Real Colorado"
+   ],
+   "48226": [
+    "2335",
+    "Pride SC"
+   ],
+   "46752": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46443": [
+    "81",
+    "Real Colorado"
+   ],
+   "45847": [
+    "1760",
+    "La Roca FC"
+   ],
+   "46754": [
+    "107",
+    "Utah Avalanche"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
   "conf": "New England",
   "teams": {
    "36636": "FC Stars Blue ECNL GU13",
@@ -259,7 +298,7 @@
  },
  {
   "age": "U13",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "4653": "Mustang SC ECNL GU13",
    "39255": "Pleasanton Rage ECNL GU13",
@@ -308,46 +347,7 @@
  },
  {
   "age": "U13",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "45853": "Real Colorado National ECNL GU13",
-   "48226": "Pride SC ECNL GU13",
-   "46752": "Colorado Rapids ECNL GU13",
-   "46443": "Real Colorado Athletico ECNL GU13",
-   "45847": "La Roca FC ECNL GU13",
-   "46754": "Utah Avalanche ECNL GU13"
-  },
-  "clubs": {
-   "45853": [
-    "81",
-    "Real Colorado"
-   ],
-   "48226": [
-    "2335",
-    "Pride SC"
-   ],
-   "46752": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46443": [
-    "81",
-    "Real Colorado"
-   ],
-   "45847": [
-    "1760",
-    "La Roca FC"
-   ],
-   "46754": [
-    "107",
-    "Utah Avalanche"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U13",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "32701": "Crossfire United ECNL GU13",
    "45859": "Portland Thorns Academy ECNL GU13",
@@ -832,6 +832,45 @@
  },
  {
   "age": "U14",
+  "conf": "Mountain",
+  "teams": {
+   "45854": "Real Colorado National ECNL GU14",
+   "35220": "Pride SC ECNL GU14",
+   "35218": "Colorado Rapids ECNL GU14",
+   "46444": "Real Colorado Athletico ECNL GU14",
+   "35178": "Utah Avalanche ECNL GU14",
+   "45848": "La Roca FC ECNL GU14"
+  },
+  "clubs": {
+   "45854": [
+    "81",
+    "Real Colorado"
+   ],
+   "35220": [
+    "2335",
+    "Pride SC"
+   ],
+   "35218": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46444": [
+    "81",
+    "Real Colorado"
+   ],
+   "35178": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45848": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
   "conf": "New England",
   "teams": {
    "35284": "World Class FC ECNL GU14",
@@ -940,7 +979,7 @@
  },
  {
   "age": "U14",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "35169": "MVLA ECNL GU14",
    "45842": "DeAnza Force ECNL GU14",
@@ -989,46 +1028,7 @@
  },
  {
   "age": "U14",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "45854": "Real Colorado National ECNL GU14",
-   "35220": "Pride SC ECNL GU14",
-   "35218": "Colorado Rapids ECNL GU14",
-   "46444": "Real Colorado Athletico ECNL GU14",
-   "35178": "Utah Avalanche ECNL GU14",
-   "45848": "La Roca FC ECNL GU14"
-  },
-  "clubs": {
-   "45854": [
-    "81",
-    "Real Colorado"
-   ],
-   "35220": [
-    "2335",
-    "Pride SC"
-   ],
-   "35218": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46444": [
-    "81",
-    "Real Colorado"
-   ],
-   "35178": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45848": [
-    "1760",
-    "La Roca FC"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U14",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "32700": "Crossfire United ECNL GU14",
    "45860": "Portland Thorns Academy ECNL GU14",
@@ -1496,6 +1496,45 @@
  },
  {
   "age": "U15",
+  "conf": "Mountain",
+  "teams": {
+   "45855": "Real Colorado National ECNL GU15",
+   "35221": "Pride SC ECNL GU15",
+   "21349": "Colorado Rapids ECNL GU15",
+   "46445": "Real Colorado Athletico ECNL GU15",
+   "45849": "La Roca FC ECNL GU15",
+   "20424": "Utah Avalanche ECNL GU15"
+  },
+  "clubs": {
+   "45855": [
+    "81",
+    "Real Colorado"
+   ],
+   "35221": [
+    "7",
+    "No Club Selection"
+   ],
+   "21349": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46445": [
+    "81",
+    "Real Colorado"
+   ],
+   "45849": [
+    "1760",
+    "La Roca FC"
+   ],
+   "20424": [
+    "107",
+    "Utah Avalanche"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
   "conf": "New England",
   "teams": {
    "35275": "East Meadow SC ECNL GU15",
@@ -1604,7 +1643,7 @@
  },
  {
   "age": "U15",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "20426": "MVLA ECNL GU15",
    "45843": "DeAnza Force ECNL GU15",
@@ -1653,46 +1692,7 @@
  },
  {
   "age": "U15",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "45855": "Real Colorado National ECNL GU15",
-   "35221": "Pride SC ECNL GU15",
-   "21349": "Colorado Rapids ECNL GU15",
-   "46445": "Real Colorado Athletico ECNL GU15",
-   "45849": "La Roca FC ECNL GU15",
-   "20424": "Utah Avalanche ECNL GU15"
-  },
-  "clubs": {
-   "45855": [
-    "81",
-    "Real Colorado"
-   ],
-   "35221": [
-    "7",
-    "No Club Selection"
-   ],
-   "21349": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46445": [
-    "81",
-    "Real Colorado"
-   ],
-   "45849": [
-    "1760",
-    "La Roca FC"
-   ],
-   "20424": [
-    "107",
-    "Utah Avalanche"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U15",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "18342": "Crossfire United ECNL GU15",
    "45861": "Portland Thorns Academy ECNL GU15",
@@ -2160,6 +2160,45 @@
  },
  {
   "age": "U16",
+  "conf": "Mountain",
+  "teams": {
+   "11901": "Colorado Rapids ECNL GU16",
+   "46446": "Real Colorado Athletico ECNL GU16",
+   "45856": "Real Colorado National ECNL GU16",
+   "35222": "Pride SC ECNL GU16",
+   "12594": "Utah Avalanche ECNL GU16",
+   "45850": "La Roca FC ECNL GU16"
+  },
+  "clubs": {
+   "11901": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46446": [
+    "81",
+    "Real Colorado"
+   ],
+   "45856": [
+    "81",
+    "Real Colorado"
+   ],
+   "35222": [
+    "7",
+    "No Club Selection"
+   ],
+   "12594": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45850": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
   "conf": "New England",
   "teams": {
    "12266": "East Meadow SC ECNL GU16",
@@ -2268,7 +2307,7 @@
  },
  {
   "age": "U16",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "35164": "Marin FC ECNL GU16",
    "12596": "Santa Rosa United ECNL GU16",
@@ -2317,46 +2356,7 @@
  },
  {
   "age": "U16",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "11901": "Colorado Rapids ECNL GU16",
-   "46446": "Real Colorado Athletico ECNL GU16",
-   "45856": "Real Colorado National ECNL GU16",
-   "35222": "Pride SC ECNL GU16",
-   "12594": "Utah Avalanche ECNL GU16",
-   "45850": "La Roca FC ECNL GU16"
-  },
-  "clubs": {
-   "11901": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46446": [
-    "81",
-    "Real Colorado"
-   ],
-   "45856": [
-    "81",
-    "Real Colorado"
-   ],
-   "35222": [
-    "7",
-    "No Club Selection"
-   ],
-   "12594": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45850": [
-    "1760",
-    "La Roca FC"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U16",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "7129": "Crossfire United ECNL GU16",
    "45862": "Portland Thorns Academy ECNL GU16",
@@ -2824,6 +2824,45 @@
  },
  {
   "age": "U17",
+  "conf": "Mountain",
+  "teams": {
+   "45857": "Real Colorado National ECNL GU17",
+   "35223": "Pride SC ECNL GU17",
+   "6883": "Colorado Rapids ECNL GU17",
+   "46447": "Real Colorado Athletico ECNL GU17",
+   "11580": "Utah Avalanche ECNL GU17",
+   "45851": "La Roca FC ECNL GU17"
+  },
+  "clubs": {
+   "45857": [
+    "81",
+    "Real Colorado"
+   ],
+   "35223": [
+    "7",
+    "No Club Selection"
+   ],
+   "6883": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46447": [
+    "81",
+    "Real Colorado"
+   ],
+   "11580": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "45851": [
+    "1760",
+    "La Roca FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
   "conf": "New England",
   "teams": {
    "11575": "East Meadow SC ECNL GU17",
@@ -2932,7 +2971,7 @@
  },
  {
   "age": "U17",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "35165": "Marin FC ECNL GU17",
    "11583": "Santa Rosa United ECNL GU17",
@@ -2981,46 +3020,7 @@
  },
  {
   "age": "U17",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "45857": "Real Colorado National ECNL GU17",
-   "35223": "Pride SC ECNL GU17",
-   "6883": "Colorado Rapids ECNL GU17",
-   "46447": "Real Colorado Athletico ECNL GU17",
-   "11580": "Utah Avalanche ECNL GU17",
-   "45851": "La Roca FC ECNL GU17"
-  },
-  "clubs": {
-   "45857": [
-    "81",
-    "Real Colorado"
-   ],
-   "35223": [
-    "7",
-    "No Club Selection"
-   ],
-   "6883": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46447": [
-    "81",
-    "Real Colorado"
-   ],
-   "11580": [
-    "107",
-    "Utah Avalanche"
-   ],
-   "45851": [
-    "1760",
-    "La Roca FC"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U17",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "10434": "Crossfire United ECNL GU17",
    "45863": "Portland Thorns Academy ECNL GU17",
@@ -3488,6 +3488,45 @@
  },
  {
   "age": "U18/19",
+  "conf": "Mountain",
+  "teams": {
+   "45858": "Real Colorado National ECNL GU18/U19",
+   "35224": "Pride SC ECNL GU18/U19",
+   "2856": "Colorado Rapids ECNL GU18/U19",
+   "46448": "Real Colorado Athletico ECNL GU18/U19",
+   "45852": "La Roca FC ECNL GU18/U19",
+   "6935": "Utah Avalanche ECNL GU18/U19"
+  },
+  "clubs": {
+   "45858": [
+    "81",
+    "Real Colorado"
+   ],
+   "35224": [
+    "2335",
+    "Pride SC"
+   ],
+   "2856": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46448": [
+    "81",
+    "Real Colorado"
+   ],
+   "45852": [
+    "1760",
+    "La Roca FC"
+   ],
+   "6935": [
+    "107",
+    "Utah Avalanche"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
   "conf": "New England",
   "teams": {
    "6915": "World Class FC ECNL GU18/U19",
@@ -3596,7 +3635,7 @@
  },
  {
   "age": "U18/19",
-  "conf": "Northwest Bay Area",
+  "conf": "Northern Cal",
   "teams": {
    "7211": "Mustang SC ECNL GU18/U19",
    "6899": "Pleasanton Rage ECNL GU18/U19",
@@ -3645,46 +3684,7 @@
  },
  {
   "age": "U18/19",
-  "conf": "Northwest Mountain",
-  "teams": {
-   "45858": "Real Colorado National ECNL GU18/U19",
-   "35224": "Pride SC ECNL GU18/U19",
-   "2856": "Colorado Rapids ECNL GU18/U19",
-   "46448": "Real Colorado Athletico ECNL GU18/U19",
-   "45852": "La Roca FC ECNL GU18/U19",
-   "6935": "Utah Avalanche ECNL GU18/U19"
-  },
-  "clubs": {
-   "45858": [
-    "81",
-    "Real Colorado"
-   ],
-   "35224": [
-    "2335",
-    "Pride SC"
-   ],
-   "2856": [
-    "29",
-    "Colorado Storm"
-   ],
-   "46448": [
-    "81",
-    "Real Colorado"
-   ],
-   "45852": [
-    "1760",
-    "La Roca FC"
-   ],
-   "6935": [
-    "107",
-    "Utah Avalanche"
-   ]
-  },
-  "groups": {}
- },
- {
-  "age": "U18/19",
-  "conf": "Northwest Pacific",
+  "conf": "Northwest",
   "teams": {
    "6932": "Crossfire United ECNL GU18/U19",
    "45864": "Portland Thorns Academy ECNL GU18/U19",

@@ -34,7 +34,7 @@ def load(gender, season):
     return _cache[(gender, season)]
 
 def ranked(games, teams):
-    """ECNL order: points per game, then head-to-head for two tied teams, wins, goal difference and goals per game.
+    """ECNL order: points per game, then head-to-head for two tied teams, total goal difference, total goals scored.
     games: [(h, a, hs, as)] -> [(team, stats)] best first."""
     T = {t: dict(mp=0, w=0, d=0, l=0, gf=0, ga=0, pts=0) for t in teams}
     for h, a, x, y in games:
@@ -54,7 +54,7 @@ def ranked(games, teams):
             if (h, a) == (t, u): p += 3 if x > y else 1 if x == y else 0
             elif (h, a) == (u, t): p += 3 if y > x else 1 if x == y else 0
         return p
-    key = lambda t: (ppm[t], h2h(t), pm(t, T[t]["w"]), pm(t, T[t]["gf"] - T[t]["ga"]), pm(t, T[t]["gf"]))
+    key = lambda t: (ppm[t], h2h(t), T[t]["gf"] - T[t]["ga"], T[t]["gf"])
     return [(t, T[t]) for t in sorted(teams, key=key, reverse=True)]
 
 def played(games, b):
