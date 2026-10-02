@@ -17,6 +17,8 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import postseason
 API = "https://api.athleteone.com/api/Event"
 UA = {"User-Agent": "Mozilla/5.0 (personal ECNL fan dashboard; github.com/stw1/ecnl-dashboard)"}
 SEASON = "2026-27"
@@ -141,8 +143,10 @@ def build(gender, brackets, games, meta):
     data = {"default": {"age": dage, "conf": dconf}, "snap": meta["snapshot"], "venues": venues, "brand": lg["label"],
             "leagues": [{"key": "Boys" if k == "boys" else "Girls", "file": v["file"], "on": k == gender} for k, v in LEAGUES.items()],
             "clubs": clubs, "localTimes": True,
+            "tiers": postseason.TIERS[gender], "postNotes": postseason.NOTES[gender],
             "brackets": [{"age": b["age"], "conf": b["conf"], "teams": {k: team_label(n) for k, n in b["teams"].items()},
                           "club": {k: v[0] for k, v in b["clubs"].items() if v[0]}, "groups": b.get("groups") or {},
+                          "post": postseason.RULES[gender].get(b["conf"], {}).get(b["age"], []),
                           "raw": ";".join(league.get((b["age"], b["conf"]), [])), "flex": ""} for b in brackets]}
     html = (tpl.replace("/*__DATA__*/{}", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
                .replace("__TITLE__", f"{lg['label']} standings and predictions").replace("__SEASON__", f"{SEASON.replace('-', '–')} season"))
@@ -156,6 +160,7 @@ if __name__ == "__main__":
     ap.add_argument("--offline", action="store_true")
     ap.add_argument("--tz", default="America/Los_Angeles", help="time zone for the snapshot date")
     a = ap.parse_args()
+    postseason.check()
     meta = {"snapshot": datetime.now(ZoneInfo(a.tz)).date().isoformat(), "season": SEASON}
     if a.offline:
         meta = json.load(open(f"{ROOT}/data/meta.json"))

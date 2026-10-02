@@ -87,6 +87,12 @@ table tbody tr.me td,table tbody tr.me:hover td{background:#fef9c3}table tbody t
 @media(max-width:700px){.tstats{grid-template-columns:repeat(2,minmax(0,1fr))}#tSched .dt{width:68px}#tSched .rs{white-space:normal;width:58px}#tSched .odds span{display:block;margin:0!important;line-height:1.4}#tSched td{padding:9px 4px}
  #tSched a.tl,#tOpp a.tl{display:inline-block;padding:10px 0;margin:-10px 0}.tother a{padding:12px 0}}
 @media(prefers-color-scheme:dark){.tbtns .btn.on{background:#3a3210;border-color:#5c4a12;color:#fde68a}#tSched tr.next td{background:#0f2236}}
+.pchip{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.02em;border-radius:4px;padding:1px 5px;margin-left:6px;vertical-align:1px;white-space:nowrap;border:1px solid transparent}
+.t-cl{background:#ccfbf1;color:#0f766e}.t-pi{background:#e0f2fe;color:#0369a1}.t-nac{background:#dbeafe;color:#1d4ed8}.t-sa{background:#fef3c7;color:#92400e}.t-sb{background:#f1f5f9;color:#475569}.t-out{background:none;border:1px dashed #94a3b8;color:var(--mut)}
+@media(prefers-color-scheme:dark){.t-cl{background:#134e4a;color:#99f6e4}.t-pi{background:#0c4a6e;color:#bae6fd}.t-nac{background:#1e3a8a;color:#bfdbfe}.t-sa{background:#78350f;color:#fde68a}.t-sb{background:#334155;color:#e2e8f0}}
+table.st td.team.zt-cl{box-shadow:inset 3px 0 #14b8a6}table.st td.team.zt-pi{box-shadow:inset 3px 0 #38bdf8}table.st td.team.zt-nac{box-shadow:inset 3px 0 #3b82f6}table.st td.team.zt-sa{box-shadow:inset 3px 0 #f59e0b}table.st td.team.zt-sb{box-shadow:inset 3px 0 #94a3b8}table.st td.team.zt-wc{box-shadow:inset 3px 0 #94a3b8}
+@media(max-width:700px){#standings .pchip,#natTable .pchip{display:none}}
+.postkey{display:block;width:100%;line-height:1.7}.postkey .pchip{margin:0 4px 0 0}
 .grp-tag{display:inline-block;font-size:10px;font-weight:600;color:var(--mut);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px;vertical-align:1px}
 .ftag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#ede9fe;color:#5b21b6;border-radius:4px;padding:1px 5px;margin-left:6px;vertical-align:1px}
 .nopred{font-size:12px;color:var(--mut);text-align:center;white-space:normal}.my .flexl{margin-top:8px;font-size:12.5px;color:var(--ink2)}
@@ -283,7 +289,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="pctl"><label>Conference <select id="natConf"></select></label><span class="mut" id="natCount" style="font-size:12.5px"></span></div>
 <div class="scroll"><table class="st nat" id="natTable"></table></div>
 <div id="natPppWrap"></div>
-<div class="hint">Tap a team to open its team page. Teams you follow are highlighted in yellow.</div></div>
+<div class="hint">Tap a team to open its team page. Teams you follow are highlighted in yellow. The tag next to a team (on phones, the colored stripe) is the postseason spot it would get if the season ended today (CL = Champions League, WC = wildcard spot<span id="natTiers"></span>); each conference has its own number of spots.</div></div>
 <div id="s-club" style="display:none">
 <div class="kpis" id="clubKpis"></div>
 <div class="card" id="s-cteams"><h2>Teams</h2><div class="sub">Every age group this club has in the league. National rank compares teams within their own conference strength (see the national page for what that means). Tap a team to open its team page.</div>
@@ -296,6 +302,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="cols">
 <div><h3>Team ratings</h3><p>Each team gets an <b>attack</b> and a <b>defense</b> rating, fit to every completed game with a Poisson goals model, the standard approach for predicting soccer scores. Expected goals for the home side = league average × home edge × home attack × away defense weakness, and likewise for the away side. Home teams currently get <span id="hadv"></span> more goals in the model.</p></div>
 <div><h3>From ratings to odds</h3><p>From the two expected-goal numbers the model works out the chance of every scoreline (0–0, 1–0, 2–1, …), which gives the win, draw and loss chances and the most likely score. A small Dixon-Coles adjustment makes 0–0 and 1–1 a bit more likely (and 1–0 and 0–1 a bit less), because plain Poisson models under-predict draws; its strength is estimated from the results so far (currently <span id="rho"></span>). The pick is the more likely winner, or "too close to call" when the two are within 5 points; the margin is the expected goal difference, rounded. The projected finish plays out every remaining game 10,000 times using those chances.</p></div>
+<div><h3>Postseason chances</h3><p>Each simulated season ends with ECNL's official 2026–27 qualification rules for that conference and age group: how many teams reach the Champions League (ECNL National Playoffs) and, for the girls, the North American Cup and Showcase Cups. That includes the top teams in each group, wildcards and play-ins. A wildcard spot goes to whichever of two conferences' teams has more points per game, so the two conferences' seasons are simulated side by side. League Cup winners can't be predicted from this data, so a spot that the League Cup winner can take is treated as going to the team in the table.</p></div>
 <div><h3>What it leaves out</h3><p>Not included: roster changes, injuries, travel, weather, out-of-conference events, and the fact that youth results are noisy. Treat these numbers as a guide, not a guarantee.</p></div>
 </div></div>
 </main>
@@ -409,12 +416,53 @@ function table(list,ids=codes){const T=Object.fromEntries(ids.map(c=>[c,{c,mp:0,
   ||pm(b,b.agf-b.aga)-pm(a,a.agf-a.aga)||pm(b,b.agf)-pm(a,a.agf)||pm(b,b.hgf-b.hga)-pm(a,a.hgf-a.hga)||pm(b,b.hgf)-pm(a,a.hgf));}
 const tbl=table(played);
 
-// ---- MLS NEXT Cup spots per conference ----
-// Nothing official is published for 2026-27 yet, so these are estimates. U13/U14: last season's (2025-26)
-// Championship / Premier bracket seeds per conference as reported by UpNext Analytics (MLS's own wording was
-// "Quality of Play rankings"). U15-U19: the Cup grows to 48 teams, but the split isn't announced, so no line.
-const CUP_EST={};
-const CUT=PAST?null:(CUP_EST[B.age]||{})[B.conf]||null,CH=CUT?CUT[0]:4,CUP=CUT?CUT[0]+CUT[1]:4;
+const BM=new Map();// bracketInfo cache (used below for wildcard partners)
+// ---- ECNL postseason: the official 2026-27 qualification rules for each conference and age group ----
+// b.post = steps applied in order to the final table, each [tier, n, how, partner] (see scripts/postseason.py):
+// how "" = next n teams without a spot, "g" = top n of each group, "g2" = best n of the groups' 2nd-placed teams,
+// "lc" = next n unless the League Cup winner takes it, "wc" = next team if its points per game beat the partner
+// conference's wildcard team, "pi" = next n play the partner conference's team in a play-in game
+const TIERS=DATA.tiers||{},POST=PAST?[]:B.post||[],HASPOST=POST.length>0;
+const tierName=k=>(TIERS[k]||[k])[0],tierShort=k=>(TIERS[k]||[k,k])[1];
+// tiers this bracket can send teams to, best first; "other" = anything below the Champions League
+const POSTT=[...new Set(POST.map(s=>s[0]))],OTHERT=POSTT.filter(k=>k!=="cl");
+const partnerB=(b,conf)=>DATA.brackets.find(x=>x.age===b.age&&x.conf===conf);
+// points per game, then goal difference and goals per game: how two conferences' wildcard teams are compared
+const cmpS=(x,y)=>x[0]-y[0]||x[1]-y[1]||x[2]-y[2];
+function postAssign(steps,ord,groups){const t={},wc=[],free=()=>ord.filter(c=>!t[c]);
+ for(const[tier,n,how]of steps){
+  if(how==="g"||how==="g2"){const by={};for(const c of ord)(by[groups[c]||""]=by[groups[c]||""]||[]).push(c);
+   if(how==="g")Object.values(by).forEach(l=>l.filter(c=>!t[c]).slice(0,n).forEach(c=>t[c]=tier));
+   else ord.filter(c=>!t[c]&&by[groups[c]||""][1]===c).slice(0,n).forEach(c=>t[c]=tier)}
+  else if(how==="wc"){const c=free()[0];if(c){t[c]="?";wc.push(c)}}
+  else free().slice(0,n).forEach(c=>t[c]=tier)}
+ for(const c in t)if(t[c]==="?")delete t[c];return{t,wc:wc[0]}}
+// where each team would go if the season ended today: {team: {tier, wc, ahead, vs}}
+function postToday(b,tb){const steps=PAST?[]:b.post||[],out={};if(!steps.length||!tb.some(r=>r.mp))return out;
+ const{t,wc}=postAssign(steps,tb.map(r=>r.c),b.groups||{}),trip=r=>[r.ppm,r.mp?r.gd/r.mp:0,r.mp?r.gf/r.mp:0];
+ for(const c in t)out[c]={tier:t[c]};
+ const st=steps.find(s=>s[2]==="wc");
+ if(wc&&st){const r=tb.find(x=>x.c===wc),pb=partnerB(b,st[3]);let ahead=true,vs="";
+  if(pb){const po=bracketInfo(pb),pw=postAssign(pb.post||[],po.tb.map(x=>x.c),pb.groups||{}).wc;
+   if(pw){const q=po.tb.find(x=>x.c===pw);ahead=cmpS(trip(r),trip(q))>=0;vs=`${pb.teams[pw]} (${pb.conf}, ${q.ppm.toFixed(2)} pts/game)`}}
+  out[wc]={tier:ahead?st[0]:"",wc:true,ahead,vs,partner:st[3]}}
+ for(const c in out)if(!(tb.find(x=>x.c===c)||{}).mp)delete out[c];return out}
+const zt=x=>!x?"":x.wc&&!x.ahead?" zt-wc":` zt-${x.tier}`;
+const tierChip=x=>!x?"":x.wc?`<span class="pchip ${x.ahead?"t-cl":"t-out"}" title="Wildcard: one ${tierName("cl")} spot goes to the better of this team and ${esc(x.partner)}'s wildcard team on points per game. ${x.vs?`${x.ahead?"Ahead of":"Behind"} ${esc(x.vs)} right now.`:""}">WC</span>`
+ :`<span class="pchip t-${x.tier}" title="${esc(tierName(x.tier))} spot if the season ended today">${esc(tierShort(x.tier))}</span>`;
+// the rules in words, e.g. "CL top 3 · CL 4th, unless the League Cup winner takes it · NAC 5th–6th"
+function postText(b){const steps=b.post||[];if(!steps.length)return"";let pos=0,grouped=false;const ng=new Set(Object.values(b.groups||{})).size||1;
+ const rng=(a,n)=>n===1?ordn(a):`${ordn(a)}–${ordn(a+n-1)}`,place=n=>grouped?`next ${n===1?"best team":n+" best teams"} from either group`:pos?rng(pos+1,n):`top ${n===1?"team":n}`;
+ const parts=steps.map(([tier,n,how,partner])=>{let w;
+  if(how==="g"){w=`top ${n===1?"team":n} in each group`;pos+=n*ng;grouped=true}
+  else if(how==="g2"){w=`best 2nd-placed team from either group`;pos+=n}
+  else if(how==="wc"){w=`wildcard: the ${grouped?"next best team":ordn(pos+1)+"-placed team"}, if its points per game beat ${esc(partner)}'s wildcard team`;pos+=1}
+  else if(how==="pi"){w=`${place(n)} plays ${esc(partner)}'s team in a play-in game for a spot`;pos+=n}
+  else if(how==="lc"){w=`${place(n)}, unless the League Cup winner (not in this data) takes the spot`;pos+=n}
+  else{w=place(n);pos+=n}
+  return`<span class="pchip t-${how==="wc"?"out":tier}">${esc(tierShort(tier))}</span>${w}`});
+ const note=(DATA.postNotes||{})[b.age];
+ return`<span class="postkey"><b>2026–27 postseason</b> (ECNL rules, points per game from conference games only): ${parts.join(" · ")}.${note?" "+esc(note):""} The tag next to a team (on phones, the colored stripe) shows where it would go if the season ended today.</span>`}
 
 // ---- simulation ----
 let seed=12345;const rnd=()=>{seed=(seed*1664525+1013904223)>>>0;return seed/4294967296};
@@ -423,11 +471,16 @@ const sample=cum=>{const u=rnd()*cum[120];let lo=0,hi=120;while(lo<hi){const md=
 const SIMS=10000,simPts=Object.fromEntries(codes.map(c=>[c,0])),first=Object.fromEntries(codes.map(c=>[c,0])),top4=Object.fromEntries(codes.map(c=>[c,0])),topCup=Object.fromEntries(codes.map(c=>[c,0]));
 // final matches played per team, so the simulated table can rank by points per match like the real one
 const finMp=Object.fromEntries(codes.map(c=>[c,games.filter(g=>g.h===c||g.a===c).length||1]));
+const tierCnt=Object.fromEntries(codes.map(c=>[c,{}])),wcRuns=[],addT=(c,k)=>tierCnt[c][k]=(tierCnt[c][k]||0)+1;
 const base=Object.fromEntries(tbl.map(t=>[t.c,{pts:t.pts,gd:t.gd,gf:t.gf}]));const fl=unplayed.map(g=>{const[lh,la]=lam(g.h,g.a),cum=new Float64Array(121);let t=0;for(let k=0;k<121;k++){t+=pxy(k/11|0,k%11,lh,la,rho);cum[k]=t}return[g.h,g.a,cum]});
 for(let s=0;s<SIMS;s++){const S=Object.fromEntries(codes.map(c=>[c,{...base[c]}]));
  for(const[h,a,cum]of fl){const k=sample(cum),x=k/11|0,y=k%11;S[h].gd+=x-y;S[a].gd+=y-x;S[h].gf+=x;S[a].gf+=y;if(x>y)S[h].pts+=3;else if(y>x)S[a].pts+=3;else{S[h].pts++;S[a].pts++}}
  const ord=codes.slice().sort((p,q)=>S[q].pts/finMp[q]-S[p].pts/finMp[p]||S[q].gd/finMp[q]-S[p].gd/finMp[p]||S[q].gf/finMp[q]-S[p].gf/finMp[p]||rnd()-.5);
- first[ord[0]]++;ord.slice(0,CH).forEach(c=>top4[c]++);ord.slice(0,CUP).forEach(c=>topCup[c]++);codes.forEach(c=>simPts[c]+=S[c].pts);}
+ first[ord[0]]++;ord.slice(0,4).forEach(c=>top4[c]++);codes.forEach(c=>simPts[c]+=S[c].pts);
+ if(HASPOST){const{t,wc}=postAssign(POST,ord,B.groups||{});for(const c in t)addT(c,t[c]);if(wc)wcRuns.push([wc,S[wc].pts/finMp[wc],S[wc].gd/finMp[wc],S[wc].gf/finMp[wc]])}}
+// wildcard: pair each run with a run of the partner conference's own simulation (the two never play each other)
+{const st=POST.find(s=>s[2]==="wc"),pb=st&&partnerB(B,st[3]),ps=pb?simRaw(bracketInfo(pb)).wcS:[];
+ if(st)wcRuns.forEach((x,i)=>{const y=ps.length?ps[i%ps.length]:null,d=y?cmpS(x.slice(1),y.slice(1)):1;if(d>0||(d===0&&rnd()<.5))addT(x[0],st[0])})}
 
 // ---- render helpers ----
 const $=id=>document.getElementById(id);const pct=x=>(x*100).toFixed(0)+"%";const ALLN=Object.assign({},DATA.xnames||{},...DATA.brackets.map(b=>b.teams)),nm=c=>TEAMS[c]||ALLN[c]||"?";
@@ -532,13 +585,15 @@ if(future.length){const wk=byWeek(future)[0];kp.push(["Next matchday",weekLabel(
 $("kpis").innerHTML=kp.map(([l,v,s,t])=>`<div class="kpi"><div class="l">${l}</div><div class="v"${t?` title="${t}"`:""}>${v}</div><div class="s">${s}</div></div>`).join("");
 
 // Standings (sortable)
-const srows=tbl.map((t,k)=>({rk:k+1,...t,proj:simPts[t.c]/SIMS,p1:first[t.c]/SIMS,p4:top4[t.c]/SIMS,pc:topCup[t.c]/SIMS}));
+const TODAY=postToday(B,tbl);
+const srows=tbl.map((t,k)=>({rk:k+1,...t,proj:simPts[t.c]/SIMS,p1:first[t.c]/SIMS,p4:top4[t.c]/SIMS,
+ pcl:(tierCnt[t.c].cl||0)/SIMS,pany:Object.values(tierCnt[t.c]).reduce((a,x)=>a+x,0)/SIMS,today:TODAY[t.c]}));
 // [key, label, class, tooltip]; no key = not sortable
 const cols=[["rk","Team","t team"],["mp","MP","","Matches played"],["w","W","xs-hide","Wins"],["d","D","xs-hide","Draws"],["l","L","xs-hide","Losses"],["gf","Goals","xs-hide","Goals scored–conceded"],["gd","GD","","Goal difference"],["pts","Pts","pts","Points: 3 for a win, 1 for a draw"],["ppm","Pts/G","","Points per game"],["","Last 5","","Last five results, oldest to newest"],
  ["proj","Proj. pts","pj div","Expected points at the end of the season"],
- ...(CUT?[["pc","Cup (est.)","pj",`Chance of a top-${CUP} finish: last season this conference sent ${CUP} teams to MLS NEXT Cup (estimate, not official for 2026-27)`],
-         ["p4","Champ. (est.)","pj",`Chance of a top-${CH} finish: last season's Championship-bracket spots for this conference (estimate)`]]
-      :[["p4","Top 4","pj","Chance of finishing in the top four. Not an official playoff line"]]),
+ ...(HASPOST?[["pcl","Champ. League","pj",`Chance of a ${tierName("cl")} spot (ECNL National Playoffs) under ECNL's 2026-27 rules for this conference${POST.some(s=>s[2]==="wc")?", including the wildcard":""}`],
+   ...(OTHERT.length?[["pany","Postseason","pj",`Chance of any ECNL postseason spot: ${POSTT.map(tierName).join(", ")}`]]:[])]
+      :[["p4","Top 4","pj","Chance of finishing in the top four"]]),
  ["p1","1st","pj","Chance of finishing first"]];
 const pbar=x=>`<span class="pbar"><i><b style="width:${x*100}%"></b></i><span>${x>0&&x<.005?"<1%":pct(x)}</span></span>`;
 const last5=c=>played.filter(g=>involves(g,c)).slice(-5).map(g=>{const v=fromRow(g,c),R=v.res.toUpperCase();
@@ -548,11 +603,14 @@ const last5=c=>played.filter(g=>involves(g,c)).slice(-5).map(g=>{const v=fromRow
 const GROUPS=B.groups||{},grpTag=c=>GROUPS[c]?`<span class="grp-tag" title="${esc(GROUPS[c])} group">${esc(GROUPS[c])}</span>`:"";
 if(Object.keys(GROUPS).length){const gs=[...new Set(Object.values(GROUPS))].sort();document.querySelector("#s-table .sub").insertAdjacentHTML("beforeend",` This conference plays this age group in ${gs.join(" and ")} groups that also play each other; the table combines them.`)}
 let sortK="rk",sortDir=1;
+// a line under the last team of each postseason tier (table order only; grouped tables use the tags alone)
+const lineAfter=(r,i)=>{if(!HASPOST||sortK!=="rk"||sortDir<0||Object.keys(GROUPS).length||i===r.length-1)return"";
+ const a=(r[i].today||{}).tier||"",b=(r[i+1].today||{}).tier||"";return a&&a!==b?(a==="cl"?" cut1":" cut2"):""};
 function drawStand(){const r=srows.slice().sort((a,b)=>(a[sortK]-b[sortK])*sortDir||a.rk-b.rk);
- $("standings").innerHTML=`<thead><tr class="grp"><th class="team"></th><th colspan="9">Table so far</th><th colspan="${CUT?4:3}" class="pj div">Projected finish</th></tr><tr>`+
+ $("standings").innerHTML=`<thead><tr class="grp"><th class="team"></th><th colspan="9">Table so far</th><th colspan="${cols.length-10}" class="pj div">Projected finish</th></tr><tr>`+
   cols.map(([k,l,c,tip])=>`<th class="${c}${k===sortK?" sorted":""}"${k?` data-k="${k}"`:""}${tip?` title="${tip}"`:""}>${l}${k===sortK?(sortDir>0?" ▲":" ▼"):""}</th>`).join("")+"</tr></thead><tbody>"+
-  r.map(t=>`<tr class="${t.c===myTeam?"me":""}${sortK==="rk"&&sortDir>0&&CUT?(t.rk===CH?" cut1":t.rk===CUP?" cut2":""):""}"><td class="t team"><span class="rk">${t.rk}</span>${tlink(t.c,teamName(t.c))}${grpTag(t.c)}</td><td>${t.mp}</td><td class="xs-hide">${t.w}</td><td class="xs-hide">${t.d}</td><td class="xs-hide">${t.l}</td><td class="mut xs-hide">${t.gf}–${t.ga}</td><td class="${t.gd>0?"pos":t.gd<0?"neg":""}">${t.gd>0?"+":""}${t.gd}</td><td class="pts">${t.pts}</td><td class="mut">${t.ppm.toFixed(2)}</td><td class="form">${last5(t.c)}</td><td class="pj div">${t.proj.toFixed(0)}</td>${CUT?`<td class="pj">${pbar(t.pc)}</td>`:""}<td class="pj">${pbar(t.p4)}</td><td class="pj">${pbar(t.p1)}</td></tr>`).join("")+"</tbody>";
- $("cutKey").innerHTML=CUT?`<span><b>Lines</b> solid = estimated Championship-bracket cut (top ${CH}), dashed = estimated MLS NEXT Cup cut (top ${CUP}), based on last season. MLS NEXT hasn't published 2026-27 spots.</span>`:`<span><b>Top 4</b> isn't an official playoff line.</span>`;
+  r.map((t,i)=>`<tr class="${t.c===myTeam?"me":""}${lineAfter(r,i)}"><td class="t team${zt(t.today)}"><span class="rk">${t.rk}</span>${tlink(t.c,teamName(t.c))}${grpTag(t.c)}${tierChip(t.today)}</td><td>${t.mp}</td><td class="xs-hide">${t.w}</td><td class="xs-hide">${t.d}</td><td class="xs-hide">${t.l}</td><td class="mut xs-hide">${t.gf}–${t.ga}</td><td class="${t.gd>0?"pos":t.gd<0?"neg":""}">${t.gd>0?"+":""}${t.gd}</td><td class="pts">${t.pts}</td><td class="mut">${t.ppm.toFixed(2)}</td><td class="form">${last5(t.c)}</td><td class="pj div">${t.proj.toFixed(0)}</td>${HASPOST?`<td class="pj">${pbar(t.pcl)}</td>${OTHERT.length?`<td class="pj">${pbar(t.pany)}</td>`:""}`:`<td class="pj">${pbar(t.p4)}</td>`}<td class="pj">${pbar(t.p1)}</td></tr>`).join("")+"</tbody>";
+ $("cutKey").innerHTML=HASPOST?postText(B)+(Object.keys(GROUPS).length?"":`<span><b>Lines</b> solid = last ${tierName("cl")} spot today, dashed = last spot of the other postseason events.</span>`):`<span><b>Top 4</b> isn't an official playoff line.</span>`;
  document.querySelectorAll("#standings th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK===k)sortDir*=-1;else{sortK=k;sortDir=["rk","l"].includes(k)?1:-1}drawStand()});}
 
 // H2H matrix
@@ -671,6 +729,7 @@ function downloadIcs(c){const tx=t=>String(t).replace(/[\\,;]/g,m=>"\\"+m),stamp
 function histLines(c){const H=(DATA.hist||{})[c]||[];if(!H.length)return"";
  return`<div class="hist"><div class="lab">Same players, earlier seasons</div>`+H.map(([se,a,cf,rk,n,w,d,l,gf,ga])=>
   `<div><a href="season-${se}.html?age=${a}&conf=${slugC(cf)}&team=${slugT(nm(c))}">${se.replace("-","–")} · ${a}</a><span>${ordn(rk)} of ${n} in ${esc(baseConf(cf))} · ${w}-${d}-${l} · goals ${gf}–${ga}</span></div>`).join("")+"</div>"}
+const todayWords=x=>!x?"No postseason spot":x.wc?(x.ahead?"Wildcard (ahead)":"Wildcard (behind)"):esc(tierName(x.tier));
 // "My team" summary card for the followed team
 function drawMy(){const el=$("myCard");if(!myTeam){el.style.display="none";el.innerHTML="";return}
  const c=myTeam,t=srows.find(r=>r.c===c),allFut=future.concat(flexAll.filter(g=>g.hs===null)).filter(g=>involves(g,c)).sort((x,y)=>x.dt<y.dt?-1:1),nx=allFut[0],left=allFut.length,pr=power.findIndex(p=>p.c===c)+1;
@@ -686,26 +745,35 @@ function drawMy(){const el=$("myCard");if(!myTeam){el.style.display="none";el.in
   `<div><div class="lab">Season so far</div><div class="big"><div><b>${t.pts}</b>points</div><div><b>${t.w}-${t.d}-${t.l}</b>league W-D-L</div><div><b>${t.gd>0?"+":""}${t.gd}</b>goal diff.</div></div>${flexRec?`<div class="flexl"><span class="ftag" style="margin:0 6px 0 0">Flex</span>${flexRec} W-D-L in MLS NEXT Flex (not in the league table)</div>`:""}<div class="form" style="margin-top:10px">${last5(c)||'<span class="mut" style="background:none;color:var(--mut);width:auto">No games yet</span>'}</div>`+
   (fresh.length?`<div class="newl"><span class="new" style="margin:0 6px 0 0">New</span>${fresh.join(" · ")}</div>`:"")+`</div>`+
   `<div><div class="lab">Next game</div>${next}</div>`+
-  `<div class="out"><div class="lab">Outlook</div><div><span>Projected points</span><b>${t.proj.toFixed(0)}</b></div>${CUT?`<div><span title="Estimate based on last season">MLS NEXT Cup (est.)</span>${pbar(t.pc)}</div><div><span title="Estimate based on last season">Championship (est.)</span>${pbar(t.p4)}</div>`:`<div><span title="Not an official playoff line">Top 4</span>${pbar(t.p4)}</div>`}<div><span>Finish 1st</span>${pbar(t.p1)}</div><div><span>Power ranking</span><b>${ordn(pr)} of ${N}</b></div></div></div>`+
+  `<div class="out"><div class="lab">Outlook</div><div><span>Projected points</span><b>${t.proj.toFixed(0)}</b></div>${HASPOST?`<div><span>${tierName("cl")}</span>${pbar(t.pcl)}</div>${OTHERT.length?`<div><span title="${POSTT.map(tierName).join(", ")}">Any postseason</span>${pbar(t.pany)}</div>`:""}<div><span>If it ended today</span><b>${todayWords(t.today)}</b></div>`:`<div><span title="Not an official playoff line">Top 4</span>${pbar(t.p4)}</div>`}<div><span>Finish 1st</span>${pbar(t.p1)}</div><div><span>Power ranking</span><b>${ordn(pr)} of ${N}</b></div></div></div>`+
   histLines(c)+`<div class="my-b">${left?`<button class="btn" id="myCal" type="button">Add ${left} game${left>1?"s":""} to calendar</button>`:""}<a class="btn" href="${showUrl(B,c)}" style="text-decoration:none">Team details →</a><button class="btn" id="myShare" type="button">Share link</button><a class="btn" href="?club=${clubSlug(B,c)}" style="text-decoration:none">All ${esc(short(c))} teams →</a></div>`;
  if(left)$("myCal").onclick=()=>downloadIcs(c);$("myShare").onclick=()=>$("share").click();}
-// Model and table for any bracket, computed once and reused (national and club views)
-const BM=new Map();
+// Model and table for any bracket, computed once and reused (national and club views, wildcard partners)
 function bracketInfo(b){if(BM.has(b))return BM.get(b);
  const ids=Object.keys(b.teams),IX=Object.fromEntries(ids.map((c,i)=>[c,i])),gs=parseGames(b),pl=gs.filter(g=>g.hs!==null),fuAll=gs.filter(g=>g.hs===null),fu=fuAll.filter(g=>g.dt.slice(0,10)>=SNAP),fxAll=parseFlex(b),fx=ratable(fxAll,b.teams);
  const o={b,ids,IX,gs,pl,fu,fuAll,fx,fxAll,m:fit(pl.concat(fx),IX,ids.length,priorArr(b,ids)),tb:table(pl,ids)};BM.set(b,o);return o}
 const netOf=(o,c)=>{const i=o.IX[c];return Math.exp(o.m.mu+o.m.att[i])-Math.exp(o.m.mu-o.m.def[i])};
 // quick season simulation for one bracket (same rules as the main one, fewer runs)
-function simulate(o,S=2000){const{ids,fuAll:fu,m,tb,b}=o,cut=PAST?null:(CUP_EST[b.age]||{})[b.conf]||null,ch=cut?cut[0]:4,cup=cut?cut[0]+cut[1]:4;
+// simRaw: postseason tiers without the wildcard, plus each run's wildcard team; simulate adds the wildcard
+function simRaw(o,S=2000){if(o.raw)return o.raw;const{ids,fuAll:fu,m,tb,b}=o,steps=PAST?[]:b.post||[];
  const base=Object.fromEntries(tb.map(t=>[t.c,t])),fin=Object.fromEntries(ids.map(c=>[c,o.gs.filter(g=>g.h===c||g.a===c).length||1]));
  const fl=fu.map(g=>{const[lh,la]=lamM(m,g.h,g.a),cum=new Float64Array(121);let t=0;for(let k=0;k<121;k++){t+=pxy(k/11|0,k%11,lh,la,m.rho);cum[k]=t}return[g.h,g.a,cum]});
- const res=Object.fromEntries(ids.map(c=>[c,{p1:0,pch:0,pcup:0,pts:0}]));let sd=777;const rn=()=>{sd=(sd*1664525+1013904223)>>>0;return sd/4294967296};
+ const res=Object.fromEntries(ids.map(c=>[c,{p1:0,pts:0,t:{}}])),wcS=[];let sd=777;const rn=()=>{sd=(sd*1664525+1013904223)>>>0;return sd/4294967296};
  const smp=cum=>{const u=rn()*cum[120];let lo=0,hi=120;while(lo<hi){const md=lo+hi>>1;if(cum[md]<u)lo=md+1;else hi=md}return lo};
  for(let s=0;s<S;s++){const P={},GD={},GF={};for(const c of ids){P[c]=base[c].pts;GD[c]=base[c].gd;GF[c]=base[c].gf}
   for(const[h,a,cum]of fl){const k=smp(cum),x=k/11|0,y=k%11;GD[h]+=x-y;GD[a]+=y-x;GF[h]+=x;GF[a]+=y;if(x>y)P[h]+=3;else if(y>x)P[a]+=3;else{P[h]++;P[a]++}}
-  ids.slice().sort((p,q)=>P[q]/fin[q]-P[p]/fin[p]||GD[q]/fin[q]-GD[p]/fin[p]||GF[q]/fin[q]-GF[p]/fin[p]||rn()-.5).forEach((c,i)=>{const r=res[c];if(!i)r.p1++;if(i<ch)r.pch++;if(i<cup)r.pcup++});
+  const ord=ids.slice().sort((p,q)=>P[q]/fin[q]-P[p]/fin[p]||GD[q]/fin[q]-GD[p]/fin[p]||GF[q]/fin[q]-GF[p]/fin[p]||rn()-.5);res[ord[0]].p1++;
+  if(steps.length){const{t,wc}=postAssign(steps,ord,b.groups||{});for(const c in t)res[c].t[t[c]]=(res[c].t[t[c]]||0)+1;if(wc)wcS.push([wc,P[wc]/fin[wc],GD[wc]/fin[wc],GF[wc]/fin[wc]])}
   for(const c of ids)res[c].pts+=P[c]}
- for(const c of ids){const r=res[c];r.p1/=S;r.pch/=S;r.pcup/=S;r.proj=r.pts/S}return{res,cut,ch,cup}}
+ return o.raw={res,wcS,S}}
+function simulate(o){if(o.sim)return o.sim;const{res,wcS,S}=simRaw(o),st=(PAST?[]:o.b.post||[]).find(s=>s[2]==="wc"),out={};
+ const extra={};if(st){const pb=partnerB(o.b,st[3]),ps=pb?simRaw(bracketInfo(pb)).wcS:[];let sd=99;
+  wcS.forEach((x,i)=>{const y=ps.length?ps[i%ps.length]:null,d=y?cmpS(x.slice(1),y.slice(1)):1;sd=(sd*1664525+1013904223)>>>0;if(d>0||(d===0&&sd/4294967296<.5))extra[x[0]]=(extra[x[0]]||0)+1})}
+ for(const c of o.ids){const r=res[c],cl=(r.t.cl||0)+(extra[c]||0),any=Object.values(r.t).reduce((a,x)=>a+x,0)+(extra[c]||0);
+  out[c]={p1:r.p1/S,pcl:cl/S,pany:any/S,proj:r.pts/S}}
+ return o.sim={res:out,post:(PAST?[]:o.b.post||[]).length>0,other:(PAST?[]:o.b.post||[]).some(s=>s[0]!=="cl")}}
+// today's postseason tags for any bracket, cached
+const todayOf=o=>o.today||(o.today=postToday(o.b,o.tb));
 
 // Team page (?show=): one team in its bracket - summary, form, stats, full schedule, opponents, history
 function drawTeam(c){const b=B,t=srows.find(r=>r.c===c),pr=power.findIndex(p=>p.c===c)+1,pw=power.find(p=>p.c===c),inv=g=>involves(g,c);
@@ -723,7 +791,8 @@ function drawTeam(c){const b=B,t=srows.find(r=>r.c===c),pr=power.findIndex(p=>p.
   (F.n?k("MLS NEXT Flex",wdl(F),`${F.n} game${F.n>1?"s":""} · goals ${F.gf}–${F.ga} (not in the table)`):"")+
   k("Power ranking",`${ordn(pr)} of ${N}`,`model: scores ${pw.gf.toFixed(1)}, concedes ${pw.ga.toFixed(1)} per game`)+
   (nat?k("National",`${ordn(nat)} of ${natList.length}`,ppp?"among Pro Player Pathway teams":"within-conference rating, all conferences"):"")+
-  (PAST||!t?"":k("Projected finish",`${t.proj.toFixed(0)} pts`,CUT?`Cup (est.) ${pct(t.pc)} · 1st ${pct(t.p1)}`:`Top 4 ${pct(t.p4)} · 1st ${pct(t.p1)}`));
+  (PAST||!t?"":k("Projected finish",`${t.proj.toFixed(0)} pts`,`1st ${pct(t.p1)}`))+
+  (PAST||!t||!HASPOST?"":k("Postseason",`${pct(t.pcl)} <span style="font-size:13px;font-weight:600">${esc(tierShort("cl"))}</span>`,`chance of a ${tierName("cl")} spot${OTHERT.length?` · any postseason ${pct(t.pany)}`:""} · today: ${todayWords(t.today)}`));
  const following=myTeam===c;
  const btns=`<div class="tbtns"><button class="btn${following?" on":""}" id="tFollow" type="button">${following?"Following ✓":"Follow this team"}</button>`+
   (fu.length?`<button class="btn" id="tCal" type="button">Add ${fu.length} game${fu.length>1?"s":""} to calendar</button>`:"")+
@@ -775,29 +844,28 @@ function drawClub(){const teams=DATA.brackets.flatMap(b=>Object.entries(b.teams)
  const opp=(r,g)=>esc(shortName(ALLN[g.h===r.id?g.a:g.h]||"?")),fx3=f=>`${f.w}-${f.d}-${f.l}`;
  // KPIs
  const sum=k=>rows.reduce((a,r)=>a+r.tb[k],0),mp=sum("mp"),pts=sum("pts"),best=rows.filter(r=>r.nat&&!r.ppp).sort((x,y)=>x.nat/x.natN-y.nat/y.natN)[0]||rows.filter(r=>r.nat)[0];
- const inSpot=rows.filter(r=>r.tb.mp&&r.crk<=r.sim.ch).length,allNext=rows.filter(r=>r.nx).map(r=>({r,g:r.nx})).sort((x,y)=>x.g.dt<y.g.dt?-1:1)[0];
+ const inSpot=rows.filter(r=>todayOf(r.o)[r.id]&&(todayOf(r.o)[r.id].tier)).length,inCl=rows.filter(r=>(todayOf(r.o)[r.id]||{}).tier==="cl").length,allNext=rows.filter(r=>r.nx).map(r=>({r,g:r.nx})).sort((x,y)=>x.g.dt<y.g.dt?-1:1)[0];
  const k=(l,v,s2)=>`<div class="kpi"><div class="l">${l}</div><div class="v">${v}</div><div class="s">${s2}</div></div>`;
  const fsum=k=>rows.reduce((a,r)=>a+r.flex[k],0);
  $("clubKpis").innerHTML=k("Teams",rows.length,[...new Set(rows.map(r=>r.b.age))].join(" · "))+k("Combined record",`${sum("w")+fsum("w")}-${sum("d")+fsum("d")}-${sum("l")+fsum("l")}`,`League ${sum("w")}-${sum("d")}-${sum("l")} (${mp?(pts/mp).toFixed(2):"–"} pts/game)${fsum("n")?` · Flex ${fsum("w")}-${fsum("d")}-${fsum("l")}`:""}`)+
   k("Goals",`${sum("gf")}–${sum("ga")}`,`goal difference ${sum("gd")>0?"+":""}${sum("gd")}`)+(best?k("Strongest team",`${best.b.age}`,`${ordn(best.nat)} of ${best.natN} nationally`):"")+
-  k("In a top spot",`${inSpot} of ${rows.length}`,"teams currently inside their conference's top line")+(allNext?k("Next game",fmtDay(allNext.g.dt),`${allNext.r.b.age} ${allNext.g.h===allNext.r.id?"vs":"at"} ${opp(allNext.r,allNext.g)}${allNext.g.flex?" (Flex)":""}`):"");
+  k("Postseason today",`${inSpot} of ${rows.length}`,`teams in a postseason spot if the season ended today (${inCl} in the ${tierName("cl")})`)+(allNext?k("Next game",fmtDay(allNext.g.dt),`${allNext.r.b.age} ${allNext.g.h===allNext.r.id?"vs":"at"} ${opp(allNext.r,allNext.g)}${allNext.g.flex?" (Flex)":""}`):"");
  // teams table
- const anyCut=rows.some(r=>r.sim.cut);
- $("clubTable").innerHTML=`<thead><tr><th class="t team">Team</th><th class="t xs-hide">Conference</th><th title="Games played">MP</th><th class="xs-hide" title="League record">W-D-L</th><th>Pts/G</th><th class="xs-hide">GD</th><th class="xs-hide">Last 5</th><th title="National rank by rating (Pro Player Pathway ranked separately)">National</th><th title="Model rating rank inside the conference">Power</th><th class="lscol" title="Where the same players finished last season (one age group younger)">Last season</th><th class="pj div" title="Chance of finishing inside the conference's top line (Top 4, or the estimated Championship cut for U13/U14)">Top line</th><th class="pj">1st</th><th class="t nxcol">Next game</th></tr></thead><tbody>`+
-  rows.map(r=>`<tr${followed.has(r.id)?' class="me"':""}><td class="t team"><a href="${showUrl(r.b,r.id)}"><span class="agetag">${r.b.age}</span>${esc(shortName(r.n))}</a><small class="xs-only">${esc(baseConf(r.b.conf))} · ${ordn(r.crk)} of ${r.cn}</small></td>`+
+ $("clubTable").innerHTML=`<thead><tr><th class="t team">Team</th><th class="t xs-hide">Conference</th><th title="Games played">MP</th><th class="xs-hide" title="League record">W-D-L</th><th>Pts/G</th><th class="xs-hide">GD</th><th class="xs-hide">Last 5</th><th title="National rank by rating (Pro Player Pathway ranked separately)">National</th><th title="Model rating rank inside the conference">Power</th><th class="lscol" title="Where the same players finished last season (one age group younger)">Last season</th><th class="pj div" title="Chance of a ${esc(tierName("cl"))} spot (ECNL National Playoffs) under ECNL's 2026-27 rules">Champ. League</th><th class="pj">1st</th><th class="t nxcol">Next game</th></tr></thead><tbody>`+
+  rows.map(r=>`<tr${followed.has(r.id)?' class="me"':""}><td class="t team"><a href="${showUrl(r.b,r.id)}"><span class="agetag">${r.b.age}</span>${esc(shortName(r.n))}</a>${tierChip(todayOf(r.o)[r.id])}<small class="xs-only">${esc(baseConf(r.b.conf))} · ${ordn(r.crk)} of ${r.cn}</small></td>`+
    `<td class="t cf xs-hide">${esc(r.b.conf.replace(" (Pro Player Pathway)"," (PPP)"))} <span class="mut">· ${ordn(r.crk)} of ${r.cn}</span></td><td>${r.tb.mp}${r.flex.n?` <span class="mut" title="plus ${r.flex.n} MLS NEXT Flex games (${fx3(r.flex)})">+${r.flex.n}</span>`:""}</td><td class="xs-hide">${r.tb.w}-${r.tb.d}-${r.tb.l}</td><td>${r.tb.mp?r.tb.ppm.toFixed(2):"–"}</td>`+
    `<td class="xs-hide ${r.tb.gd>0?"pos":r.tb.gd<0?"neg":""}">${r.tb.gd>0?"+":""}${r.tb.gd}</td><td class="form xs-hide">${r.form||'<span class="mut" style="background:none;color:var(--mut);width:auto">–</span>'}</td>`+
-   `<td>${r.nat?`${ordn(r.nat)}<span class="mut"> /${r.natN}</span>`:"–"}</td><td>${ordn(r.pr)}</td><td class="lscol">${(h=>h?`${ordn(h[3])}<span class="mut">/${h[4]} ${h[1]}</span>`:'<span class="mut">–</span>')(((DATA.hist||{})[r.id]||[])[0])}</td><td class="pj div">${pbar(r.sim.cut?r.sim.res[r.id].pch:r.sim.res[r.id].pch)}</td><td class="pj">${pbar(r.sim.res[r.id].p1)}</td>`+
+   `<td>${r.nat?`${ordn(r.nat)}<span class="mut"> /${r.natN}</span>`:"–"}</td><td>${ordn(r.pr)}</td><td class="lscol">${(h=>h?`${ordn(h[3])}<span class="mut">/${h[4]} ${h[1]}</span>`:'<span class="mut">–</span>')(((DATA.hist||{})[r.id]||[])[0])}</td><td class="pj div">${pbar(r.sim.res[r.id].pcl)}</td><td class="pj">${pbar(r.sim.res[r.id].p1)}</td>`+
    `<td class="t nx nxcol">${r.nx?`${fmtDay(r.nx.dt)} · ${r.nx.h===r.id?"vs":"at"} ${opp(r,r.nx)}${flexTag(r.nx)}`:'<span class="mut">Season over</span>'}</td></tr>`).join("")+"</tbody>";
  // phones: one tappable card per team instead of the wide table
  $("clubCards").innerHTML=rows.map(r=>{const h=((DATA.hist||{})[r.id]||[])[0],st=(l,v)=>`<div><b>${v}</b>${l}</div>`;
-  return`<a class="ccard${followed.has(r.id)?" me":""}" href="${showUrl(r.b,r.id)}"><div class="ch"><span class="agetag">${r.b.age}</span><b>${esc(shortName(r.n))}</b><span>${esc(baseConf(r.b.conf))} · ${ordn(r.crk)} of ${r.cn}</span></div>`+
+  return`<a class="ccard${followed.has(r.id)?" me":""}" href="${showUrl(r.b,r.id)}"><div class="ch"><span class="agetag">${r.b.age}</span><b>${esc(shortName(r.n))}</b>${tierChip(todayOf(r.o)[r.id])}<span>${esc(baseConf(r.b.conf))} · ${ordn(r.crk)} of ${r.cn}</span></div>`+
    `<div class="cs">${st("league W-D-L",`${r.tb.w}-${r.tb.d}-${r.tb.l}`)}${st("points / game",r.tb.mp?r.tb.ppm.toFixed(2):"–")}${st("goal diff.",(r.tb.gd>0?"+":"")+r.tb.gd)}`+
    `${st("national",r.nat?`${ordn(r.nat)}<span class="mut" style="font-size:12px;font-weight:400">/${r.natN}</span>`:"–")}${st("power in conf.",ordn(r.pr))}${PAST?"":st("last season",h?`${ordn(h[3])}<span class="mut" style="font-size:12px;font-weight:400">/${h[4]}</span>`:"–")}</div>`+
-   `<div class="cf2"><span class="form">${r.form||'<span class="mut" style="background:none;color:var(--mut);width:auto">No games yet</span>'}</span><span class="pj">Top line ${pbar(r.sim.res[r.id].pch)}</span></div>`+
+   `<div class="cf2"><span class="form">${r.form||'<span class="mut" style="background:none;color:var(--mut);width:auto">No games yet</span>'}</span><span class="pj">${esc(tierShort("cl"))} ${pbar(r.sim.res[r.id].pcl)}</span></div>`+
    (r.flex.n?`<div class="cn"><span class="ftag" style="margin:0 6px 0 0">Flex</span>${fx3(r.flex)} W-D-L in ${r.flex.n} MLS NEXT Flex game${r.flex.n>1?"s":""}</div>`:"")+
    `<div class="cn nxcol">${r.nx?`Next: <b>${fmtDay(r.nx.dt)}</b> · ${r.nx.h===r.id?"vs":"at"} ${opp(r,r.nx)}${flexTag(r.nx)}`:'<span class="mut">Season over</span>'}</div></a>`}).join("");
- $("clubKey").innerHTML=`<span><b>Top line</b> ${anyCut?"U13/U14: estimated Championship-bracket cut from last season; U15–U19: top 4 (not an official playoff line)":"top 4 in the conference (not an official playoff line)"}</span><span><b>Power</b> model rating rank inside the conference</span>`;
+ $("clubKey").innerHTML=`<span><b>Champ. League</b> chance of an ECNL National Playoffs (${esc(tierName("cl"))}) spot under each conference's 2026-27 rules. The tag next to a team is where it would go if the season ended today.</span><span><b>Power</b> model rating rank inside the conference</span>`;
  // upcoming: next two weekends across all teams
  const fut=rows.flatMap(r=>r.o.fu.filter(g=>g.h===r.id||g.a===r.id).concat(r.fxT.filter(g=>g.hs===null)).map(g=>({r,g}))).sort((x,y)=>x.g.dt<y.g.dt?-1:1),wk=byWeek(fut.map(x=>x.g)).slice(0,2),inWk=new Set(wk.flat());
  const seg=(cls,x)=>`<div class="${cls}" style="width:${x*100}%">${x>=.15?pct(x):""}</div>`;
@@ -825,11 +893,12 @@ function drawNational(){const age=B.age,rows=natRows(age),reg=rows.filter(r=>r.b
  const tableHtml=(list,rk)=>{const mx=Math.max(...list.map(x=>Math.abs(x.net)),.01);
   const sorted=list.slice().sort((p,q)=>(q.rated-p.rated)||(natK==="conf"?p.b.conf.localeCompare(q.b.conf)||p.crk-q.crk:(q[natK]-p[natK])*-natDir));
   return`<thead><tr>${cols.map(([k,l,c,tip])=>`<th class="${c}${k&&k===natK?" sorted":""}"${k?` data-k="${k}"`:""}${tip?` title="${tip}"`:""}>${l}${k&&k===natK?(natDir<0?" ▼":" ▲"):""}</th>`).join("")}</tr></thead><tbody>`+
-  sorted.map(x=>{const w=Math.abs(x.net)/mx*100;return`<tr${followed.has(x.c)?' class="me"':""}><td class="t team"><span class="rk">${x.rated?rk.get(x.c):"–"}</span><a href="${showUrl(x.b,x.c)}"><span class="full">${esc(x.n)}</span><span class="short">${esc(shortName(x.n))}</span></a><small class="xs-only">${esc(baseConf(x.b.conf))} · ${ordn(x.crk)} of ${x.cn}</small></td>`+
+  sorted.map(x=>{const w=Math.abs(x.net)/mx*100;return`<tr${followed.has(x.c)?' class="me"':""}><td class="t team${zt(todayOf(bracketInfo(x.b))[x.c])}"><span class="rk">${x.rated?rk.get(x.c):"–"}</span><a href="${showUrl(x.b,x.c)}"><span class="full">${esc(x.n)}</span><span class="short">${esc(shortName(x.n))}</span></a>${tierChip(todayOf(bracketInfo(x.b))[x.c])}<small class="xs-only">${esc(baseConf(x.b.conf))} · ${ordn(x.crk)} of ${x.cn}</small></td>`+
    `<td class="t cf xs-hide">${esc(baseConf(x.b.conf))} <span>· ${ordn(x.crk)} of ${x.cn}</span></td><td>${x.mp}${x.nf?` <span class="mut" title="plus ${x.nf} Flex games">+${x.nf}</span>`:""}</td><td class="xs-hide">${x.w}-${x.d}-${x.l}</td><td class="xxs-hide">${x.mp?x.ppm.toFixed(2):"–"}</td><td class="xs-hide ${x.gdpg>0?"pos":x.gdpg<0?"neg":""}">${x.mp?(x.gdpg>0?"+":"")+x.gdpg.toFixed(1):"–"}</td>`+
    `<td class="t">${x.rated?`<span class="dv"><i class="n"><b style="width:${x.net<0?w:0}%"></b></i><i class="p"><b style="width:${x.net>0?w:0}%"></b></i></span><span class="net ${x.net>=0?"pos":"neg"}">${x.net>0?"+":""}${x.net.toFixed(2)}</span>`:'<span class="mut">No games yet</span>'}</td></tr>`}).join("")+"</tbody>"};
  const fc=$("natConf").value,shown=fc?reg.filter(x=>slugC(x.b.conf)===fc):reg;
  $("natTitle").textContent=`${age} national rankings`;
+ $("natTiers").textContent=Object.keys(TIERS).filter(k=>k!=="cl").map(k=>`, ${tierShort(k)} = ${tierName(k)}`).join("");
  $("natFlex").textContent=reg.some(x=>x.nf)?", including MLS NEXT Flex games":"";
  $("natCount").textContent=`${shown.length} teams${fc?"":` in ${new Set(reg.map(x=>x.b.conf)).size} conferences`}`;
  $("natTable").innerHTML=tableHtml(shown,rankOf(reg));
