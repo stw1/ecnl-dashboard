@@ -3,8 +3,9 @@
 Personal project (Stephen). Public site: https://stw1.github.io/ecnl-dashboard/ (Boys) and `girls.html` (Girls).
 The repo is stw1/ecnl-dashboard, served by GitHub Pages from the `main` branch root. Each page holds every conference
 and age group (U13 to U18/19) and shows one at a time: standings, postseason chances, who beat who, power rankings,
-results, predictions, national rankings, club and team pages, plus past seasons back to 2020-21. First-time visitors
-land on U14 Northwest. It's adapted from the MLS NEXT dashboard (stw1/mlsnext-dashboard) and shares its model and
+results, predictions, national rankings, Insights, club and team pages (with each team's previous seasons and national-event
+games), plus past seasons back to 2020-21 and a subscribable calendar per team. Tables match ECNL's official standings.
+First-time visitors land on U14 Northwest. It's adapted from the MLS NEXT dashboard (stw1/mlsnext-dashboard) and shares its model and
 template. That template's Flex and MLS Cup code paths are unused here.
 
 **Never edit the built `.html` pages by hand.** Edit `template/dashboard_template.html` or the scripts, then rebuild.
@@ -20,14 +21,14 @@ scripts/national.py                cross-conference games from national events a
 scripts/confstrength.py            conference strength for the national rankings (+ --evaluate backtest)
 scripts/ratings.py                 Python copy of the goals model (fit, probs, fit_conf)
 scripts/priors.py                  backtest that chose the last-season prior setting
+scripts/checkstandings.py          compare our tables with ECNL's official standings (the workflow runs it)
 data/{boys,girls}_games.csv        this season's games (blank scores = not played); *_brackets.json teams, clubs, groups
 data/cross.csv                     this season's cross-conference games; data/national_events.json their event ids
 data/meta.json                     snapshot date and season
 data/history/                      past seasons' games and brackets, cross.csv, confadj_<gender>.json (cache)
 data/national_games.csv            this season's national-event games (played and upcoming) for team pages
 cal/<team id>.ics                  one subscribable calendar per team (this season), rebuilt by refresh.py
-analytics/                         fa.js + config.json, copied from the MLS NEXT repo's analytics kit (see its README)
-scripts/checkstandings.py          compare our tables with ECNL's official standings
+analytics/                         fa.js + config.json (no API key), copied from the MLS NEXT repo's analytics kit
 index.html, girls.html             this season (Boys, Girls)
 season-<season>.html, girls-season-<season>.html   finished seasons (same template, DATA.past set)
 .github/workflows/refresh.yml      weekend auto-refresh
@@ -39,14 +40,16 @@ manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from 
   cross-conference games and rebuilds all 14 pages, in about 6 minutes.
 - **Rebuild without network** (for example, after editing the template): `python3 scripts/refresh.py --offline` (about 8 s).
 - **Auto-refresh:** `.github/workflows/refresh.yml` runs refresh.py on Sat & Sun (~1, 5, 9 pm Pacific) and Mon & Tue
-  (~9 am). It commits and pushes only when the games or cross-conference files change. Run it by hand with
+  (~9 am). It commits and pushes only when the games, cross-conference or national-event game files change, then runs
+  `checkstandings.py`, which fails the run (GitHub emails) if any table stops matching ECNL's. Run it by hand with
   `gh workflow run refresh.yml -R stw1/ecnl-dashboard`. GitHub pauses scheduled workflows after 60 days with no commits.
 - **Publish by hand:** `git pull` first (the bot commits too), then commit and push. Pages redeploys in about a minute.
 - **Links:** `?age=U15&conf=southwest` (conference lowercased, spaces become dashes), `&team=seattle-united`
-  highlights a team, `&show=<team id>` opens a team page, `?age=U14&conf=national` shows national rankings, and
-  `?club=<club-name>` shows a club page.
+  highlights a team, `&show=<team id>` opens a team page, `?age=U14&conf=national` shows national rankings,
+  `?age=U14&conf=insights` shows Insights, and `?club=<club-name>` shows a club page.
 - **Testing:** the preview server reads a copy outside iCloud (`.claude/launch.json` "ecnl-dashboard", port 8792). Copy
-  the built pages to it and load every bracket in iframes, checking for console errors.
+  the built pages and `cal/` to it and load every bracket in iframes, checking for console errors. After changing
+  table logic, run `python3 scripts/checkstandings.py` (needs fresh data: run refresh.py first).
 
 ## Every August (new season)
 1. Scan TGS event ids (get-event-details-by-eventID) for "ECNL Boys|Girls <conference> <season>". Put them in
@@ -162,6 +165,14 @@ predictions?" is a walk-forward backtest of the current model.
 - **Home:** the site title links home, and club, national and team pages get a "‹ Home" button.
 - **Official check in the workflow:** runs after publishing and fails (GitHub emails a warning) on any record or order
   difference. Teams with a game in the last 48 hours are reported, not flagged.
+
+## Security
+- No API keys or other secrets in the repo or the pages. GitHub secret scanning and push protection are on. In October 2026 a
+  Firebase web key was committed for analytics. It was deleted in Google Cloud (requests now fail with "API key expired")
+  and the alert was closed as revoked. Analytics now works without a key, and the report's restricted key lives only
+  in the deployed report (MLS NEXT repo, `analytics/deploy_report.sh`).
+- The only outside writes are anonymous analytics events, which the Firestore rules limit to create-only, schema-checked
+  events for listed sites. The Google Cloud project has no billing enabled.
 
 ## Conventions
 - Each page is a single self-contained HTML file with all data embedded and no external scripts.
