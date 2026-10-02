@@ -48,62 +48,90 @@ def get(url, tries=4):
             print(f"  retry {url} ({err})", flush=True)
             time.sleep(3 * (k + 1))
 
-def age_of(division):  # "BU13" -> "U13", "GU18/19" -> "U18/19"
-    return re.sub(r"^[BG]", "", division.strip())
+def age_of(division, season=SEASON):
+    """TGS division name -> age group, or None for ones we skip (U11/U12, composite squads).
+    'BU13' -> 'U13', 'GU18/U19' -> 'U18/19', 'B2010' in 2022-23 -> 'U13' (birth years), 'U16 Boys' -> 'U16'."""
+    d = division.strip()
+    if re.search(r"composite", d, re.I):
+        return None
+    end = int(season[:4]) + 1
+    if m := re.match(r"^[BG]U(\d\d)(?:/U?(\d\d))?$", d) or re.match(r"^U(\d\d)(?:/(\d\d))? (?:Boys|Girls)$", d):
+        age, two = int(m[1]), bool(m[2])
+    elif m := re.match(r"^[BG](\d{4})(?:/(\d{4}))?$", d):
+        age, two = end - max(int(m[1]), int(m[2] or 0)), bool(m[2])
+    else:
+        return None
+    if age < 13:
+        return None
+    return "U18/19" if two or age >= 18 else f"U{age}"
 
 def age_num(age):
     return int(re.sub(r"\D.*", "", age.lstrip("U")) or 0)
 
-def fetch(gender):
-    lg = LEAGUES[gender]
-    brackets, games = [], []
-    for ev in lg["events"]:
-        name = get(f"{API}/get-event-details-by-eventID/{ev}")["name"]          # "ECNL Boys Northwest 2026-27"
-        conf = re.sub(r"^ECNL (Boys|Girls)\s+|\s+\d{4}-\d{2}$", "", name).strip()
+def conf_of(name):
+    """'ECNL Boys Northwest 2026-27' / 'ECNL Boys Heartland Confrence 2021-22' -> 'Northwest' / 'Heartland'."""
+    c = re.sub(r"^ECNL (Boys|Girls)\s+|\s+\d{4}-\d{2}\s*$", "", name.strip())
+    c = re.sub(r"\s+Conf[a-z]*$", "", c, flags=re.I).strip()
+    return {"Norcal": "Northern Cal"}.get(c, c)
+
+def fetch_events(label, events, season=SEASON):
+    """Every conference game of these TGS events: (brackets, games). Games of one age group are merged across the
+    event's divisions and flights; flights that play each other stay one bracket, with each team's flight as its group,
+    and flights that never meet become separate brackets ('Southwest North')."""
+    by = {}  # (age, conf) -> {"rows": {match id: game}, "flight": {team: Counter of flights}}
+    for ev in events:
+        conf = conf_of(get(f"{API}/get-event-details-by-eventID/{ev}")["name"])
         divs = get(f"{API}/get-event-schedule-or-standings/{ev}")
-        divs = divs.get("boysDivAndFlightList" if gender == "boys" else "girlsDivAndFlightList") or []
-        for dv in divs:
-            age = age_of(dv["divisionName"])
-            # a few conferences split an age group into flights (East/West, North/South, Blue/White) that still play
-            # each other, with each game listed under one flight: merge the flights into one bracket per conference
-            teams, clubs, groups, seen = {}, {}, {}, set()
-            multi = len(dv["flightList"]) > 1
+        for dv in (divs.get("boysDivAndFlightList") or []) + (divs.get("girlsDivAndFlightList") or []):
+            age = age_of(dv["divisionName"], season)
+            if not age:
+                continue
+            B = by.setdefault((age, conf), {"rows": {}, "flight": {}})
             for fl in dv["flightList"]:
-                rows = get(f"{API}/get-schedules-by-flight/{ev}/{fl['flightID']}/0") or []
-                for g in rows:
-                    if g["matchID"] in seen:
-                        continue
-                    seen.add(g["matchID"])
+                for g in get(f"{API}/get-schedules-by-flight/{ev}/{fl['flightID']}/0") or []:
                     if g.get("friendly") or not g.get("hometeamID") or not g.get("awayteamID"):
                         continue  # friendlies, and fixtures with an opponent still "TBD"
-                    for s, sid in (("home", "hometeamID"), ("away", "awayteamID")):
-                        teams[str(g[sid])] = g[f"{s}Team"].strip()
-                        clubs[str(g[sid])] = [str(g.get(f"{s}TeamClubID") or ""), (g.get(f"{s}TeamClub") or "").strip()]
-                    done = g.get("hometeamscore") is not None and g.get("awayteamscore") is not None
-                    when = (g.get("gameDate") or "")[:16].replace("T", " ")
-                    if not when[:4].isdigit() or when[:4] < "2000":
-                        continue  # placeholder fixture with no real date yet (TGS uses 0001-01-01)
-                    if when.endswith(" 00:00"):
-                        when = when[:10]  # midnight = kickoff time not set yet; the page shows "time TBD"
-                    venue = " - ".join(x for x in ((g.get("complex") or "").strip(), (g.get("venue") or "").strip()) if x and x.upper() != "TBD")
-                    games.append({"age": age, "conference": conf, "match_id": g["matchID"], "start": when,
-                                  "home_id": str(g["hometeamID"]), "away_id": str(g["awayteamID"]),
-                                  "home_team": g["homeTeam"].strip(), "away_team": g["awayTeam"].strip(),
-                                  "home_score": g["hometeamscore"] if done else "", "away_score": g["awayteamscore"] if done else "",
-                                  "venue": venue, "home_club_id": clubs[str(g["hometeamID"])][0], "away_club_id": clubs[str(g["awayteamID"])][0],
-                                  "home_club": clubs[str(g["hometeamID"])][1], "away_club": clubs[str(g["awayteamID"])][1]})
-                if multi:  # a team's group = the flight whose schedule lists most of its games
-                    for g in rows:
-                        for sid in ("hometeamID", "awayteamID"):
-                            groups.setdefault(str(g[sid]), {}).setdefault(fl["flightName"].title(), 0)
-                            groups[str(g[sid])][fl["flightName"].title()] += 1
+                    B["rows"].setdefault(g["matchID"], g)
+                    for sid in ("hometeamID", "awayteamID"):
+                        f = B["flight"].setdefault(str(g[sid]), {})
+                        f[fl["flightName"].title()] = f.get(fl["flightName"].title(), 0) + 1
+    brackets, games = [], []
+    for (age, conf), B in by.items():
+        grp = {t: max(c, key=c.get) for t, c in B["flight"].items()}
+        names = sorted(set(grp.values()))
+        rows = list(B["rows"].values())
+        cross = sum(1 for g in rows if grp[str(g["hometeamID"])] != grp[str(g["awayteamID"])])
+        parts = [(conf, rows, grp if len(names) > 1 else {})] if len(names) == 1 or cross else \
+                [(f"{conf} {n}", [g for g in rows if grp[str(g["hometeamID"])] == n], {}) for n in names]
+        for cname, rs, groups in parts:
+            teams, clubs = {}, {}
+            for g in rs:
+                when = (g.get("gameDate") or "")[:16].replace("T", " ")
+                if not when[:4].isdigit() or when[:4] < "2000":
+                    continue  # placeholder fixture with no real date yet (TGS uses 0001-01-01)
+                if when.endswith(" 00:00"):
+                    when = when[:10]  # midnight = kickoff time not set yet; the page shows "time TBD"
+                for s, sid in (("home", "hometeamID"), ("away", "awayteamID")):
+                    teams[str(g[sid])] = g[f"{s}Team"].strip()
+                    clubs[str(g[sid])] = [str(g.get(f"{s}TeamClubID") or ""), (g.get(f"{s}TeamClub") or "").strip()]
+                done = g.get("hometeamscore") is not None and g.get("awayteamscore") is not None
+                venue = " - ".join(x for x in ((g.get("complex") or "").strip(), (g.get("venue") or "").strip()) if x and x.upper() != "TBD")
+                h, a = str(g["hometeamID"]), str(g["awayteamID"])
+                games.append({"age": age, "conference": cname, "match_id": g["matchID"], "start": when, "home_id": h, "away_id": a,
+                              "home_team": g["homeTeam"].strip(), "away_team": g["awayTeam"].strip(),
+                              "home_score": g["hometeamscore"] if done else "", "away_score": g["awayteamscore"] if done else "",
+                              "venue": venue, "home_club_id": clubs[h][0], "away_club_id": clubs[a][0],
+                              "home_club": clubs[h][1], "away_club": clubs[a][1]})
             if teams:
-                brackets.append({"age": age, "conf": conf, "teams": teams, "clubs": clubs,
-                                 "groups": {t: max(c, key=c.get) for t, c in groups.items()} if multi else {}})
-            print(f"{lg['label']} {conf} {age}: {len(teams)} teams{' in ' + str(len(dv['flightList'])) + ' groups' if multi else ''}", flush=True)
+                brackets.append({"age": age, "conf": cname, "teams": teams, "clubs": clubs, "groups": {t: groups[t] for t in teams if t in groups}})
+                print(f"{label} {cname} {age}: {len(teams)} teams{' in groups ' + '/'.join(names) if groups else ''}", flush=True)
     brackets.sort(key=lambda b: (age_num(b["age"]), b["conf"]))
     games.sort(key=lambda g: (age_num(g["age"]), g["conference"], g["start"], str(g["match_id"])))
     return brackets, games
+
+def fetch(gender):
+    lg = LEAGUES[gender]
+    return fetch_events(lg["label"], lg["events"])
 
 def save(gender, brackets, games, meta):
     os.makedirs(f"{ROOT}/data", exist_ok=True)
@@ -120,13 +148,25 @@ def load(gender):
 
 def team_label(name):
     """'Seattle United ECNL B2013/14' -> 'Seattle United'; 'XF ECNL B2013/14 2' -> 'XF 2';
-    'El Paso Locomotive ECNL B13/14' -> 'El Paso Locomotive'; 'OK Energy FC Academy B2013/14' -> 'OK Energy FC Academy'."""
-    s = re.sub(r"\s*(\bECNL\b\s*)?\b([BG] ?)?(\d{4}|\d{2})/\d{2,4}\b|\s*\bECNL\b\s*([BG] ?)?\d{4}\b", " ", name)
+    'El Paso Locomotive ECNL B13/14' -> 'El Paso Locomotive'; 'OK Energy FC Academy B2013/14' -> 'OK Energy FC Academy';
+    past seasons: 'Alabama FC ECNL B06' -> 'Alabama FC', 'Sting ECNL G2010 Black' -> 'Sting Black'."""
+    s = re.sub(r"\s*\bECNL\b\s*(?:[BG] ?)?(?:\d{4}|\d{2})(?:/\d{2,4})?\b", " ", name)
+    s = re.sub(r"\s*\b(?:[BG] ?)?(?:\d{4}|\d{2})/\d{2,4}\b|\s*\b[BG](?:20)?\d\d\b", " ", s)
+    s = re.sub(r"\s*\bECNL\b", " ", s)
+    s = re.sub(r"\s*\b[BG]U\d\d(?:/U?\d\d)?\b", " ", s)  # 'Boston Bolts ECNL BU18/19' -> 'Boston Bolts'  # 'XF ECNL Academy B11' -> 'XF Academy'
     return re.sub(r"\s+", " ", s).strip() or name
 
-def build(gender, brackets, games, meta):
+# Starting ratings from the season before (scripts/priors.py chose these). 0 = start everyone at average.
+PRIOR_WEIGHT, PRIOR_MODE = 0.75, "avg"
+
+def page_file(gender, season=SEASON):
+    """index.html / girls.html for this season; season-2025-26.html / girls-season-2025-26.html for past ones."""
+    if season == SEASON:
+        return LEAGUES[gender]["file"]
+    return f"{'girls-' if gender == 'girls' else ''}season-{season}.html"
+
+def page_data(gender, brackets, games, snap, season=SEASON):
     lg = LEAGUES[gender]
-    tpl = open(f"{ROOT}/template/dashboard_template.html").read()
     venues, vix, league = [], {}, {}
     for g in games:
         v = g.get("venue") or ""
@@ -140,20 +180,54 @@ def build(gender, brackets, games, meta):
             if cid:
                 clubs[cid] = cname
     dage, dconf = lg["default"].split(":", 1)
-    data = {"default": {"age": dage, "conf": dconf}, "snap": meta["snapshot"], "venues": venues, "brand": lg["label"],
-            "leagues": [{"key": "Boys" if k == "boys" else "Girls", "file": v["file"], "on": k == gender} for k, v in LEAGUES.items()],
-            "clubs": clubs, "localTimes": True,
+    if not any(b["age"] == dage and b["conf"] == dconf for b in brackets):  # past seasons may lack the default conference
+        dage, dconf = next(((b["age"], b["conf"]) for b in brackets if b["age"] == dage), (brackets[0]["age"], brackets[0]["conf"]))
+    return {"default": {"age": dage, "conf": dconf}, "snap": snap, "venues": venues, "brand": lg["label"],
+            "leagues": [{"key": "Boys" if k == "boys" else "Girls", "file": page_file(k, season), "on": k == gender} for k in LEAGUES],
+            "clubs": clubs, "localTimes": True, "histPre": "girls-season-" if gender == "girls" else "season-",
             "tiers": postseason.TIERS[gender], "postNotes": postseason.NOTES[gender],
             "brackets": [{"age": b["age"], "conf": b["conf"], "teams": {k: team_label(n) for k, n in b["teams"].items()},
                           "club": {k: v[0] for k, v in b["clubs"].items() if v[0]}, "groups": b.get("groups") or {},
-                          "post": postseason.RULES[gender].get(b["conf"], {}).get(b["age"], []),
+                          "post": postseason.RULES[gender].get(b["conf"], {}).get(b["age"], []) if season == SEASON else [],
                           "raw": ";".join(league.get((b["age"], b["conf"]), [])), "flex": ""} for b in brackets]}
+
+def write_page(gender, data, season):
+    lg = LEAGUES[gender]
+    tpl = open(f"{ROOT}/template/dashboard_template.html").read()
+    text = f"{season.replace('-', '–')} season" + ("" if season == SEASON else " · final")
     html = (tpl.replace("/*__DATA__*/{}", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
-               .replace("__TITLE__", f"{lg['label']} standings and predictions").replace("__SEASON__", f"{SEASON.replace('-', '–')} season"))
-    open(f"{ROOT}/{lg['file']}", "w").write(html)
+               .replace("__TITLE__", f"{lg['label']} standings and predictions").replace("__SEASON__", text))
+    open(f"{ROOT}/{page_file(gender, season)}", "w").write(html)
+    return len(html)
+
+def add_priors(gender, data, brackets, before):
+    import pastseasons
+    if not before or not PRIOR_WEIGHT:
+        return
+    pri = pastseasons.priors(gender, brackets, before, PRIOR_WEIGHT, PRIOR_MODE)
+    for d, b in zip(data["brackets"], brackets):
+        d["prior"] = {k: pri[k] for k in b["teams"] if k in pri}
+
+def build(gender, brackets, games, meta):
+    import pastseasons
+    past = pastseasons.seasons(gender)
+    seasons = [{"key": SEASON.replace("-", "–"), "file": page_file(gender)}] + \
+              [{"key": pastseasons.label(s), "file": page_file(gender, s), "past": True} for s in past]
+    data = page_data(gender, brackets, games, meta["snapshot"])
+    data["seasons"] = seasons
+    data["hist"] = pastseasons.team_history(gender, brackets) if past else {}
+    add_priors(gender, data, brackets, past[0] if past else None)
+    size = write_page(gender, data, SEASON)
     played = sum(1 for g in games if str(g["home_score"]) != "")
-    print(f"Built {lg['file']} ({len(html)//1024} KB): {len(brackets)} brackets, {sum(len(b['teams']) for b in brackets)} teams, "
-          f"{played}/{len(games)} games played")
+    print(f"Built {page_file(gender)} ({size//1024} KB): {len(brackets)} brackets, {sum(len(b['teams']) for b in brackets)} teams, "
+          f"{played}/{len(games)} games played, history for {len(data['hist'])} teams")
+    for i, s in enumerate(past):  # finished seasons: same template with DATA.past set
+        pb, pg = pastseasons.load(gender, s)
+        d = page_data(gender, pb, pg, max(g["start"][:10] for g in pg), s)
+        d.update(seasons=seasons, past=pastseasons.label(s), hist=pastseasons.team_history(gender, pb, before=s))
+        add_priors(gender, d, pb, past[i + 1] if i + 1 < len(past) else None)  # the replayed accuracy starts from the season before
+        size = write_page(gender, d, s)
+        print(f"Built {page_file(gender, s)} ({size//1024} KB): {len(pb)} brackets")
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()

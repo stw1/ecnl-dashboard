@@ -1,0 +1,5292 @@
+[
+ {
+  "age": "U13",
+  "conf": "Florida",
+  "teams": {
+   "59550": "FC Prime ECNL B11",
+   "69990": "Palm Beach Gardens ECNL B11",
+   "44610": "Space Coast United ECNL B11",
+   "34965": "Florida Kraze ECNL B11",
+   "69336": "Florida Elite ECNL B11",
+   "69299": "FL Premier FC ECNL B11",
+   "68723": "Florida West FC ECNL B11",
+   "82934": "Supreme FC  ECNL B11",
+   "48694": "Parkland SC ECNL B11"
+  },
+  "clubs": {
+   "59550": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "69990": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44610": [
+    "1919",
+    "Space Coast United"
+   ],
+   "34965": [
+    "379",
+    "Florida Kraze Krush"
+   ],
+   "69336": [
+    "1353",
+    "Sporting SA"
+   ],
+   "69299": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "68723": [
+    "3384",
+    "AC Florida West"
+   ],
+   "82934": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "48694": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Heartland",
+  "teams": {
+   "81209": "VSA Rush ECNL B11",
+   "82055": "Gretna Elite Academy ECNL B11",
+   "82029": "Sporting Iowa ECNL B11",
+   "81306": "Sporting Nebraska FC ECNL B11",
+   "81717": "Kansas City Athletics ECNL B11",
+   "80997": "SLSG MO ECNL B11",
+   "81424": "KC Scott Gallagher ECNL B11",
+   "80998": "SLSG Illinois ECNL B11",
+   "81875": "Sporting Springfield - ECNL B11",
+   "83107": "FC Wichita ECNL B11"
+  },
+  "clubs": {
+   "81209": [
+    "3723",
+    "VSA Rush"
+   ],
+   "82055": [
+    "7",
+    "No Club Selection"
+   ],
+   "82029": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "81306": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "81717": [
+    "2330",
+    "KC Athletics"
+   ],
+   "80997": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "81424": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "80998": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "81875": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "83107": [
+    "3486",
+    "FC Wichita"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "82097": "Charlotte SA ECNL B11",
+   "82004": "Charlotte Independence ECNL B11",
+   "82092": "Charlotte SA Academy ECNL B11",
+   "81527": "Charlotte Independence Academy ECNL B11",
+   "81267": "VDA ECNL B11",
+   "82046": "Fairfax BRAVE SC ECNL B11",
+   "81414": "Wilmington Hammerheads ECNL B11",
+   "82317": "NCFC Youth Academy ECNL B11",
+   "67555": "VA Union ECNL B11",
+   "82210": "Arlington Soccer ECNL B11",
+   "82062": "Skyline Elite ECNL B11",
+   "77810": "NVA ECNL B11",
+   "81273": "NCFC Youth ECNL B11",
+   "82109": "NC Fusion ECNL B11",
+   "67861": "Beach FC (VA) ECNL B11",
+   "83055": "Richmond United ECNL B11"
+  },
+  "clubs": {
+   "82097": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "82004": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "82092": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "81527": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "81267": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "82046": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "81414": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "82317": [
+    "22",
+    "NCFC Youth"
+   ],
+   "67555": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "82210": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "82062": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "77810": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "81273": [
+    "22",
+    "NCFC Youth"
+   ],
+   "82109": [
+    "71",
+    "NC Fusion"
+   ],
+   "67861": [
+    "7",
+    "No Club Selection"
+   ],
+   "83055": [
+    "417",
+    "Richmond United"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Midwest",
+  "teams": {
+   "80551": "Indiana Elite FC ECNL B11",
+   "54744": "FC Pride Elite ECNL B11",
+   "82927": "Minnesota Thunder ECNL B11",
+   "81660": "St Croix ECNL B11",
+   "81136": "Eclipse Select SC ECNL B11",
+   "70426": "FC Wisconsin ECNL B11",
+   "81259": "Chicago Magic ECNL B11",
+   "81222": "Rockford Raptors FC ECNL B11"
+  },
+  "clubs": {
+   "80551": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "54744": [
+    "1501",
+    "FC Pride"
+   ],
+   "82927": [
+    "67",
+    "Minnesota Thunder Academy"
+   ],
+   "81660": [
+    "893",
+    "St. Croix"
+   ],
+   "81136": [
+    "7",
+    "No Club Selection"
+   ],
+   "70426": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "81259": [
+    "2106",
+    "Chicago Magic Soccer Club"
+   ],
+   "81222": [
+    "2017",
+    "Rockford Raptors FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Mountain",
+  "teams": {
+   "68738": "La Roca FC ECNL B 11",
+   "69912": "Utah Avalanche ECNL B11",
+   "81124": "Phoenix Rising ECNL B11",
+   "82250": "FC Tucson ECNL B11",
+   "78631": "Pride SC ECNL B11",
+   "81432": "Real Colorado Academy ECNL B11",
+   "81111": "Colorado Rapids ECNL B11",
+   "82780": "B-Elite DEN ECNL B11",
+   "80714": "Arizona Arsenal ECNL B11",
+   "81622": "FC Arizona ECNL B2011",
+   "81384": "Rio Rapids ECNL B11",
+   "81416": "New Mexico Rush ECNL B11"
+  },
+  "clubs": {
+   "68738": [
+    "1760",
+    "La Roca FC"
+   ],
+   "69912": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "81124": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "82250": [
+    "1498",
+    "FC Tucson Youth SC"
+   ],
+   "78631": [
+    "2335",
+    "Pride SC"
+   ],
+   "81432": [
+    "81",
+    "Real Colorado"
+   ],
+   "81111": [
+    "29",
+    "Colorado Storm"
+   ],
+   "82780": [
+    "28",
+    "Colorado Rush"
+   ],
+   "80714": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "81622": [
+    "3998",
+    "FC Arizona"
+   ],
+   "81384": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "81416": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "68738": "North",
+   "69912": "North",
+   "81124": "South",
+   "82250": "South",
+   "78631": "North",
+   "81432": "North",
+   "81111": "North",
+   "82780": "North",
+   "80714": "South",
+   "81622": "South",
+   "81384": "South",
+   "81416": "South"
+  }
+ },
+ {
+  "age": "U13",
+  "conf": "Northeast North",
+  "teams": {
+   "40955": "East Meadow SC ECNL B11",
+   "82496": "SUSA FC ECNL B11",
+   "69751": "Connecticut FC ECNL B11",
+   "70075": "Manhattan SC ECNL B11",
+   "69505": "FSA FC ECNL B11",
+   "68989": "FC Stars ECNL B2011",
+   "83146": "STA  ECNL B11",
+   "82167": "World Class FC ECNL B11"
+  },
+  "clubs": {
+   "40955": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "82496": [
+    "9",
+    "SUSA FC"
+   ],
+   "69751": [
+    "31",
+    "Connecticut FC"
+   ],
+   "70075": [
+    "518",
+    "Manhattan SC"
+   ],
+   "69505": [
+    "431",
+    "FSA FC"
+   ],
+   "68989": [
+    "52",
+    "FC Stars"
+   ],
+   "83146": [
+    "428",
+    "STA"
+   ],
+   "82167": [
+    "116",
+    "World Class FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Northeast South",
+  "teams": {
+   "66811": "Pipeline SC ECNL B11",
+   "80782": "Baltimore Celtic ECNL B11",
+   "81284": "Potomac Soccer ECNL B11",
+   "81398": "Maryland United FC ECNL B11",
+   "66524": "LVU RUSH ECNL B11",
+   "52824": "Match Fit Academy ECNL B11",
+   "81423": "HEX FC Dominion FC B11",
+   "81242": "Penn Fusion SA ECNL B11"
+  },
+  "clubs": {
+   "66811": [
+    "3405",
+    "Pipeline SC"
+   ],
+   "80782": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "81284": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "81398": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "66524": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "52824": [
+    "64",
+    "Match Fit Surf"
+   ],
+   "81423": [
+    "46",
+    "HEX FC"
+   ],
+   "81242": [
+    "79",
+    "Penn Fusion Soccer Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Northern Cal",
+  "teams": {
+   "79980": "El Camino Futbol Club Salinas ECNL B11",
+   "80637": "Association FC ECNL B11",
+   "71821": "Marin FC - ECNL B11",
+   "71814": "MVLA ECNL B11",
+   "82111": "San Juan SC - ECNL B11",
+   "81188": "Davis Legacy ECNL B11",
+   "71804": "Santa Rosa United ECNL B11",
+   "81051": "1974 Newark FC ECNL B11",
+   "71880": "Placer United 11B ECNL",
+   "80573": "San Francisco Elite Academy ECNL B11",
+   "39821": "COSC ECNL B11",
+   "81001": "River Island Surf ECNL B11",
+   "81675": "Santa Clara Sporting ECNL B11",
+   "81714": "Mustang SC ECNL B11"
+  },
+  "clubs": {
+   "79980": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "80637": [
+    "3065",
+    "Association Football Club"
+   ],
+   "71821": [
+    "1585",
+    "Marin FC"
+   ],
+   "71814": [
+    "294",
+    "MVLA"
+   ],
+   "82111": [
+    "88",
+    "San Juan Soccer Club"
+   ],
+   "81188": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "71804": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "81051": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "71880": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80573": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "39821": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "81001": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "81675": [
+    "2548",
+    "Santa Clara Sporting"
+   ],
+   "81714": [
+    "69",
+    "Mustang Soccer"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Northwest",
+  "teams": {
+   "81121": "United PDX ECNL B11",
+   "81137": "PacNW SC ECNL B11",
+   "71813": "Seattle United  ECNL B11",
+   "81102": "Washington Premier ECNL B11",
+   "82130": "XF Academy ECNL B11",
+   "82135": "XF ECNL B11",
+   "71905": "Eastside FC ECNL B11",
+   "71809": "Snohomish United ECNL B11",
+   "71873": "Columbia Premier SC ECNL B11"
+  },
+  "clubs": {
+   "81121": [
+    "2536",
+    "United PDX"
+   ],
+   "81137": [
+    "2331",
+    "PacNW"
+   ],
+   "71813": [
+    "1643",
+    "Seattle United"
+   ],
+   "81102": [
+    "112",
+    "Washington Premier FC"
+   ],
+   "82130": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "82135": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "71905": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "71809": [
+    "2522",
+    "Snohomish United"
+   ],
+   "71873": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Ohio Valley",
+  "teams": {
+   "82281": "Pittsburgh Riverhounds - ECNL B11",
+   "71731": "Kings Hammer SC ECNL B11",
+   "69464": "Ohio Elite Soccer Academy ECNL B11",
+   "82740": "Nationals Soccer Club ECNL B11",
+   "36939": "WNY Flash ECNL B11",
+   "60643": "Louisville City Academy ECNL B11",
+   "71993": "Ohio Premier ECNL B11",
+   "59143": "Cleveland Force SC ECNL B11"
+  },
+  "clubs": {
+   "82281": [
+    "7",
+    "No Club Selection"
+   ],
+   "71731": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "69464": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "82740": [
+    "1713",
+    "Nationals"
+   ],
+   "36939": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "60643": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ],
+   "71993": [
+    "437",
+    "Ohio Premier"
+   ],
+   "59143": [
+    "3478",
+    "Cleveland Force SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Southeast",
+  "teams": {
+   "71649": "United Futbol Academy ECNL B11",
+   "82583": "Chattanooga Red Wolves SC ECNL B11",
+   "82200": "South Carolina United ECNL B11",
+   "71637": "NTH-NASA ECNL B11",
+   "81241": "SC Surf ECNL B11",
+   "81342": "Concorde Fire Premier ECNL B11",
+   "81338": "Concorde Fire Platinum ECNL B11",
+   "81751": "Alabama FC ECNL B11",
+   "35109": "FC Alliance ECNL B11",
+   "82572": "Tennessee SC ECNL B11",
+   "79892": "Atlanta Fire United ECNL B11",
+   "82133": "CESA Triumph ECNL B11",
+   "81335": "GSA ECNL B11"
+  },
+  "clubs": {
+   "71649": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "82583": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "82200": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "71637": [
+    "329",
+    "NASA Tophat"
+   ],
+   "81241": [
+    "3644",
+    "South Carolina Surf SC"
+   ],
+   "81342": [
+    "30",
+    "Concorde Fire"
+   ],
+   "81338": [
+    "30",
+    "Concorde Fire"
+   ],
+   "81751": [
+    "18",
+    "Alabama FC"
+   ],
+   "35109": [
+    "1693",
+    "FC Alliance TN"
+   ],
+   "82572": [
+    "1354",
+    "Tennessee SC"
+   ],
+   "79892": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "82133": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "81335": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Southwest",
+  "teams": {
+   "69950": "Del Mar Sharks ECNL B11",
+   "81456": "San Diego Surf ECNL B11",
+   "59706": "West Coast FC ECNL B2011",
+   "48236": "Heat FC ECNL B11",
+   "82178": "LA Breakers FC ECNL B11",
+   "71807": "LAFC So Cal ECNL B11",
+   "81813": "Slammers FC ECNL B11",
+   "59684": "Legends FC ECNL B11",
+   "60062": "Beach FC ECNL B11",
+   "59605": "SDSC Surf ECNL B11",
+   "81154": "Pateadores ECNL B11",
+   "82448": "Sporting California USA - ECNL B11"
+  },
+  "clubs": {
+   "69950": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "81456": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ],
+   "59706": [
+    "113",
+    "West Coast F.C."
+   ],
+   "48236": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "82178": [
+    "2289",
+    "LA Breakers FC"
+   ],
+   "71807": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "81813": [
+    "96",
+    "Slammers FC"
+   ],
+   "59684": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "60062": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "59605": [
+    "86",
+    "SDSC Surf"
+   ],
+   "81154": [
+    "186",
+    "Pateadores Soccer Club"
+   ],
+   "82448": [
+    "13",
+    "Sporting California USA"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U13",
+  "conf": "Texas",
+  "teams": {
+   "69605": "FC Dallas ECNL Red B11",
+   "69608": "FC Dallas ECNL White B11",
+   "81585": "Lonestar SC Red ECNL B11",
+   "81589": "Lonestar SC Black ECNL B11",
+   "62085": "Dallas Texans Academy ECNL B11",
+   "81240": "Dallas Texans - ECNL B11",
+   "80547": "HTX ECNL B11",
+   "81510": "SAFC ECNL B11",
+   "43036": "Tulsa SC ECNL B11",
+   "81106": "DKSC ECNL B11",
+   "80772": "OK Energy FC ECNL B11",
+   "67947": "BVBIA ECNL B11",
+   "80357": "RISE SC ECNL B11",
+   "79171": "Classics Elite ECNL B11",
+   "82495": "San Antonio City SC ECNL B11",
+   "81909": "Albion Hurricanes ECNL B11",
+   "69285": "Solar SC ECNL B11",
+   "82752": "Solar SC Academy ECNL B11"
+  },
+  "clubs": {
+   "69605": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "69608": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "81585": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "81589": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "62085": [
+    "37",
+    "Dallas Texans"
+   ],
+   "81240": [
+    "37",
+    "Dallas Texans"
+   ],
+   "80547": [
+    "2258",
+    "HTX"
+   ],
+   "81510": [
+    "4304",
+    "San Antonio FC"
+   ],
+   "43036": [
+    "106",
+    "Tulsa Soccer Club"
+   ],
+   "81106": [
+    "35",
+    "DKSC"
+   ],
+   "80772": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "67947": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "80357": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "79171": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "82495": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "81909": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "69285": [
+    "101",
+    "Solar SC"
+   ],
+   "82752": [
+    "101",
+    "Solar SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Florida",
+  "teams": {
+   "61825": "FC Prime ECNL B10",
+   "46850": "Palm Beach Gardens ECNL B10",
+   "44616": "Space Coast United ECNL B10",
+   "34968": "Florida Kraze ECNL B10",
+   "68961": "Florida Elite ECNL B10",
+   "69297": "FL Premier FC ECNL B10",
+   "68715": "Florida West FC ECNL B10",
+   "44806": "Supreme FC ECNL B10",
+   "67272": "Parkland SC ECNL B10"
+  },
+  "clubs": {
+   "61825": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "46850": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44616": [
+    "1919",
+    "Space Coast United"
+   ],
+   "34968": [
+    "379",
+    "Florida Kraze Krush"
+   ],
+   "68961": [
+    "1353",
+    "Sporting SA"
+   ],
+   "69297": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "68715": [
+    "3384",
+    "AC Florida West"
+   ],
+   "44806": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "67272": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Heartland",
+  "teams": {
+   "69155": "VSA Rush ECNL B10",
+   "69281": "Gretna Elite Academy ECNL B10",
+   "69764": "Sporting Iowa ECNL B10",
+   "68677": "Sporting Nebraska FC ECNL B10",
+   "67848": "Kansas City Athletics ECNL B10",
+   "69309": "SLSG MO ECNL B10",
+   "69097": "KC Scott Gallagher ECNL B10",
+   "69252": "SLSG Illinois ECNL B10",
+   "70320": "Sporting Springfield - ECNL B10",
+   "71653": "FC Wichita ECNL B10"
+  },
+  "clubs": {
+   "69155": [
+    "3723",
+    "VSA Rush"
+   ],
+   "69281": [
+    "7",
+    "No Club Selection"
+   ],
+   "69764": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "68677": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "67848": [
+    "2330",
+    "KC Athletics"
+   ],
+   "69309": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "69097": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "69252": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "70320": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "71653": [
+    "3486",
+    "FC Wichita"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "69031": "Charlotte SA ECNL B10",
+   "68983": "Charlotte Independence ECNL B10",
+   "69029": "Charlotte SA Academy ECNL B10",
+   "68947": "Charlotte Independence Academy ECNL B10",
+   "45987": "VDA ECNL B10",
+   "68364": "Fairfax BRAVE SC ECNL B10",
+   "69448": "Wilmington Hammerheads ECNL B10",
+   "70859": "NCFC Youth Academy ECNL B10",
+   "69870": "VA Union ECNL B10",
+   "82208": "Arlington Soccer ECNL B10",
+   "60154": "Skyline Elite ECNL B10",
+   "69368": "NVA ECNL B10",
+   "67857": "Beach FC (VA) ECNL B10",
+   "69431": "NCFC Youth ECNL B10",
+   "62866": "NC Fusion ECNL B10",
+   "69349": "Richmond United ECNL B10"
+  },
+  "clubs": {
+   "69031": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "68983": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "69029": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "68947": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "45987": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "68364": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "69448": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "70859": [
+    "22",
+    "NCFC Youth"
+   ],
+   "69870": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "82208": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "60154": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "69368": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "67857": [
+    "7",
+    "No Club Selection"
+   ],
+   "69431": [
+    "22",
+    "NCFC Youth"
+   ],
+   "62866": [
+    "71",
+    "NC Fusion"
+   ],
+   "69349": [
+    "417",
+    "Richmond United"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Midwest",
+  "teams": {
+   "25231": "Indiana Elite FC ECNL B10",
+   "54745": "FC Pride Elite ECNL B10",
+   "69525": "Minnesota Thunder ECNL B10",
+   "69124": "St Croix ECNL B10",
+   "70285": "Eclipse Select SC ECNL B10",
+   "69153": "FC Wisconsin ECNL B10",
+   "70231": "Chicago Magic ECNL B10",
+   "68283": "Rockford Raptors FC ECNL B10"
+  },
+  "clubs": {
+   "25231": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "54745": [
+    "1501",
+    "FC Pride"
+   ],
+   "69525": [
+    "67",
+    "Minnesota Thunder Academy"
+   ],
+   "69124": [
+    "893",
+    "St. Croix"
+   ],
+   "70285": [
+    "7",
+    "No Club Selection"
+   ],
+   "69153": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "70231": [
+    "2106",
+    "Chicago Magic Soccer Club"
+   ],
+   "68283": [
+    "2017",
+    "Rockford Raptors FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Mountain",
+  "teams": {
+   "69013": "La Roca FC ECNL B10",
+   "59827": "Utah Avalanche ECNL B10",
+   "68887": "Phoenix Rising ECNL B10",
+   "68990": "FC Tucson ECNL B10",
+   "59884": "Pride SC ECNL B10",
+   "62984": "Real Colorado National ECNL B10",
+   "69487": "Colorado Rapids ECNL B10",
+   "66827": "B-Elite DEN ECNL B10",
+   "67878": "FC Arizona ECNL B2010",
+   "68338": "Arizona Arsenal ECNL B10",
+   "69123": "Rio Rapids ECNL B10",
+   "70296": "New Mexico Rush ECNL B10"
+  },
+  "clubs": {
+   "69013": [
+    "1760",
+    "La Roca FC"
+   ],
+   "59827": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "68887": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "68990": [
+    "1498",
+    "FC Tucson Youth SC"
+   ],
+   "59884": [
+    "2335",
+    "Pride SC"
+   ],
+   "62984": [
+    "81",
+    "Real Colorado"
+   ],
+   "69487": [
+    "29",
+    "Colorado Storm"
+   ],
+   "66827": [
+    "28",
+    "Colorado Rush"
+   ],
+   "67878": [
+    "3998",
+    "FC Arizona"
+   ],
+   "68338": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "69123": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "70296": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "69013": "North",
+   "59827": "North",
+   "68887": "South",
+   "68990": "South",
+   "59884": "North",
+   "62984": "North",
+   "69487": "North",
+   "66827": "North",
+   "67878": "South",
+   "68338": "South",
+   "69123": "South",
+   "70296": "South"
+  }
+ },
+ {
+  "age": "U14",
+  "conf": "Northeast North",
+  "teams": {
+   "58274": "Connecticut FC ECNL B10",
+   "70073": "Manhattan SC ECNL B10",
+   "60356": "East Meadow SC ECNL B10",
+   "60702": "SUSA FC ECNL B10",
+   "60787": "FSA FC ECNL B10",
+   "68685": "FC Stars ECNL B10",
+   "70162": "STA ECNL B10",
+   "69508": "World Class FC ECNL B10"
+  },
+  "clubs": {
+   "58274": [
+    "31",
+    "Connecticut FC"
+   ],
+   "70073": [
+    "518",
+    "Manhattan SC"
+   ],
+   "60356": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "60702": [
+    "9",
+    "SUSA FC"
+   ],
+   "60787": [
+    "431",
+    "FSA FC"
+   ],
+   "68685": [
+    "52",
+    "FC Stars"
+   ],
+   "70162": [
+    "428",
+    "STA"
+   ],
+   "69508": [
+    "116",
+    "World Class FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Northeast South",
+  "teams": {
+   "55378": "Pipeline SC ECNL B10",
+   "68756": "Baltimore Celtic ECNL B10",
+   "81286": "Potomac Soccer ECNL B10",
+   "69709": "Maryland United FC ECNL B10",
+   "66526": "LVU Rush ECNL B10",
+   "35918": "Match Fit Academy ECNL B10",
+   "68823": "Penn Fusion SA ECNL B10",
+   "67812": "HEX FC Dominion ECNL B10"
+  },
+  "clubs": {
+   "55378": [
+    "3405",
+    "Pipeline SC"
+   ],
+   "68756": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "81286": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "69709": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "66526": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "35918": [
+    "64",
+    "Match Fit Surf"
+   ],
+   "68823": [
+    "79",
+    "Penn Fusion Soccer Academy"
+   ],
+   "67812": [
+    "46",
+    "HEX FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Northern Cal",
+  "teams": {
+   "70362": "El Camino Futbol Club Salinas ECNL B10",
+   "80634": "Association FC ECNL B10",
+   "62040": "Marin FC - ECNL B10",
+   "24504": "MVLA ECNL B10",
+   "69483": "San Juan SC - ECNL B10",
+   "69627": "Davis Legacy ECNL B10",
+   "33942": "COSC ECNL B10",
+   "71303": "River Island Surf ECNL B10",
+   "69415": "Santa Rosa United ECNL B10",
+   "81050": "1974 Newark FC ECNL B10",
+   "68833": "Placer United 10B ECNL",
+   "80574": "San Francisco Elite Academy ECNL B10",
+   "64799": "Santa Clara Sporting ECNL B10",
+   "32428": "Mustang SC ECNL B10"
+  },
+  "clubs": {
+   "70362": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "80634": [
+    "3065",
+    "Association Football Club"
+   ],
+   "62040": [
+    "1585",
+    "Marin FC"
+   ],
+   "24504": [
+    "294",
+    "MVLA"
+   ],
+   "69483": [
+    "88",
+    "San Juan Soccer Club"
+   ],
+   "69627": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "33942": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "71303": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "69415": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "81050": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "68833": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80574": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "64799": [
+    "2548",
+    "Santa Clara Sporting"
+   ],
+   "32428": [
+    "69",
+    "Mustang Soccer"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Northwest",
+  "teams": {
+   "69116": "United PDX ECNL B10",
+   "68796": "PacNW SC ECNL B10",
+   "62227": "Seattle United ECNL B10",
+   "69052": "Washington Premier ECNL B10",
+   "69452": "Eastside FC ECNL B10",
+   "69707": "Snohomish United ECNL B10",
+   "62278": "XF ECNL B10",
+   "69797": "Columbia Premier SC ECNL B10",
+   "62277": "XF Academy ECNL B10"
+  },
+  "clubs": {
+   "69116": [
+    "2536",
+    "United PDX"
+   ],
+   "68796": [
+    "2331",
+    "PacNW"
+   ],
+   "62227": [
+    "1643",
+    "Seattle United"
+   ],
+   "69052": [
+    "112",
+    "Washington Premier FC"
+   ],
+   "69452": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "69707": [
+    "2522",
+    "Snohomish United"
+   ],
+   "62278": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "69797": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ],
+   "62277": [
+    "3476",
+    "Crossfire Premier"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Ohio Valley",
+  "teams": {
+   "60739": "Pittsburgh Riverhounds - ECNL B10",
+   "69190": "Kings Hammer SC ECNL B10",
+   "69455": "Ohio Elite Soccer Academy ECNL B10",
+   "70531": "Nationals Soccer Club ECNL B10",
+   "68979": "Ohio Premier ECNL B10",
+   "59141": "Cleveland Force SC ECNL B10",
+   "36928": "WNY Flash ECNL B10",
+   "60644": "Louisville City Academy ECNL B10"
+  },
+  "clubs": {
+   "60739": [
+    "538",
+    "Pittsburgh Riverhounds"
+   ],
+   "69190": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "69455": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "70531": [
+    "1713",
+    "Nationals"
+   ],
+   "68979": [
+    "437",
+    "Ohio Premier"
+   ],
+   "59141": [
+    "3478",
+    "Cleveland Force SC"
+   ],
+   "36928": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "60644": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Southeast",
+  "teams": {
+   "68839": "United Futbol Academy ECNL B10",
+   "82582": "Chattanooga Red Wolves SC ECNL B10",
+   "69847": "South Carolina United ECNL B10",
+   "69399": "NTH-NASA ECNL B10",
+   "69221": "SC Surf ECNL B10",
+   "68799": "Concorde Fire Premier ECNL B10",
+   "68801": "Concorde Fire Platinum ECNL B10",
+   "69019": "Alabama FC ECNL B10",
+   "69118": "FC Alliance ECNL B10",
+   "69454": "Tennessee SC ECNL B10",
+   "67126": "Atlanta Fire United ECNL B10",
+   "69002": "CESA Triumph ECNL B10",
+   "68778": "GSA ECNL B10"
+  },
+  "clubs": {
+   "68839": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "82582": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "69847": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "69399": [
+    "329",
+    "NASA Tophat"
+   ],
+   "69221": [
+    "3644",
+    "South Carolina Surf SC"
+   ],
+   "68799": [
+    "30",
+    "Concorde Fire"
+   ],
+   "68801": [
+    "30",
+    "Concorde Fire"
+   ],
+   "69019": [
+    "18",
+    "Alabama FC"
+   ],
+   "69118": [
+    "1693",
+    "FC Alliance TN"
+   ],
+   "69454": [
+    "1354",
+    "Tennessee SC"
+   ],
+   "67126": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "69002": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "68778": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Southwest",
+  "teams": {
+   "60838": "LA Breakers FC ECNL B10",
+   "60730": "LAFC So Cal ECNL B10",
+   "66723": "Slammers FC ECNL B10",
+   "50007": "Legends FC ECNL B10",
+   "60063": "Beach FC ECNL B10",
+   "37666": "SDSC Surf ECNL B10",
+   "48879": "West Coast FC ECNL B2010",
+   "48237": "Heat FC ECNL B10",
+   "69041": "Del Mar Sharks ECNL B10",
+   "69722": "Sporting California USA  ECNL B10",
+   "68944": "Pateadores ECNL B10",
+   "48132": "San Diego Surf ECNL B10"
+  },
+  "clubs": {
+   "60838": [
+    "2289",
+    "LA Breakers FC"
+   ],
+   "60730": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "66723": [
+    "96",
+    "Slammers FC"
+   ],
+   "50007": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "60063": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "37666": [
+    "86",
+    "SDSC Surf"
+   ],
+   "48879": [
+    "113",
+    "West Coast F.C."
+   ],
+   "48237": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "69041": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "69722": [
+    "13",
+    "Sporting California USA"
+   ],
+   "68944": [
+    "186",
+    "Pateadores Soccer Club"
+   ],
+   "48132": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U14",
+  "conf": "Texas",
+  "teams": {
+   "69576": "FC Dallas ECNL Red B10",
+   "69544": "FC Dallas ECNL White B10",
+   "69671": "Lonestar SC Red ECNL B10",
+   "69672": "Lonestar SC Black ECNL B10",
+   "68820": "HTX ECNL B10",
+   "81511": "SAFC ECNL B10",
+   "62051": "Dallas Texans Academy ECNL B10",
+   "69514": "Dallas Texans - ECNL B10",
+   "62605": "OK Energy FC ECNL B10",
+   "66858": "BVBIA ECNL B10",
+   "66280": "Tulsa SC ECNL B10",
+   "68922": "DKSC ECNL B10",
+   "80367": "RISE SC ECNL B10",
+   "66459": "Classics Elite ECNL B10",
+   "69976": "San Antonio City SC ECNL B10",
+   "48117": "Albion Hurricanes ECNL B10",
+   "59418": "Solar SC ECNL B10",
+   "82751": "Solar SC Academy ECNL B10"
+  },
+  "clubs": {
+   "69576": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "69544": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "69671": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "69672": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "68820": [
+    "2258",
+    "HTX"
+   ],
+   "81511": [
+    "4304",
+    "San Antonio FC"
+   ],
+   "62051": [
+    "37",
+    "Dallas Texans"
+   ],
+   "69514": [
+    "37",
+    "Dallas Texans"
+   ],
+   "62605": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "66858": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "66280": [
+    "106",
+    "Tulsa Soccer Club"
+   ],
+   "68922": [
+    "35",
+    "DKSC"
+   ],
+   "80367": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "66459": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "69976": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "48117": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "59418": [
+    "101",
+    "Solar SC"
+   ],
+   "82751": [
+    "101",
+    "Solar SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Florida",
+  "teams": {
+   "46711": "FC Prime ECNL B09",
+   "80993": "Palm Beach Gardens ECNL B09",
+   "44617": "Space Coast United ECNL B09",
+   "34971": "Florida Kraze ECNL B09",
+   "45071": "Florida Elite ECNL B09",
+   "47874": "FL Premier FC ECNL B09",
+   "45631": "Florida West FC ECNL B09",
+   "35790": "Supreme FC ECNL B09",
+   "48695": "Parkland SC ECNL B09"
+  },
+  "clubs": {
+   "46711": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "80993": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44617": [
+    "1919",
+    "Space Coast United"
+   ],
+   "34971": [
+    "379",
+    "Florida Kraze Krush"
+   ],
+   "45071": [
+    "1353",
+    "Sporting SA"
+   ],
+   "47874": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "45631": [
+    "3384",
+    "AC Florida West"
+   ],
+   "35790": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "48695": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Heartland",
+  "teams": {
+   "60229": "VSA Rush ECNL B09",
+   "58760": "Gretna Elite Academy ECNL B09",
+   "59757": "Sporting Iowa ECNL B09",
+   "58826": "Sporting Nebraska FC ECNL B09",
+   "70321": "Sporting Springfield - ECNL B09",
+   "60487": "FC Wichita ECNL B09",
+   "60042": "SLSG MO ECNL B09",
+   "59538": "KC Scott Gallagher ECNL B09",
+   "59928": "SLSG Illinois ECNL B09",
+   "67849": "Kansas City Athletics ECNL B09"
+  },
+  "clubs": {
+   "60229": [
+    "3723",
+    "VSA Rush"
+   ],
+   "58760": [
+    "7",
+    "No Club Selection"
+   ],
+   "59757": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "58826": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "70321": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "60487": [
+    "3486",
+    "FC Wichita"
+   ],
+   "60042": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "59538": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "59928": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "67849": [
+    "2330",
+    "KC Athletics"
+   ]
+  },
+  "groups": {
+   "60229": "North",
+   "58760": "North",
+   "59757": "North",
+   "58826": "North",
+   "70321": "South",
+   "60487": "South",
+   "60042": "South",
+   "59538": "South",
+   "59928": "South",
+   "67849": "South"
+  }
+ },
+ {
+  "age": "U15",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "60072": "Skyline Elite ECNL B09",
+   "54843": "NVA ECNL B09",
+   "82207": "Arlington Soccer ECNL B09",
+   "59621": "Richmond United ECNL B09",
+   "55937": "Fairfax BRAVE SC ECNL B09",
+   "60091": "VA Union ECNL B09",
+   "59473": "VDA ECNL B09",
+   "67854": "Beach FC (VA) ECNL B09",
+   "60363": "NCFC Youth Academy ECNL B09",
+   "37377": "NC Fusion ECNL B09",
+   "52304": "Charlotte Independence ECNL B09",
+   "60093": "Charlotte SA Academy  ECNL B09",
+   "52309": "Charlotte Independence Academy ECNL B09",
+   "60100": "Charlotte SA ECNL B09",
+   "50683": "Wilmington Hammerheads ECNL B09",
+   "60275": "NCFC Youth ECNL B09"
+  },
+  "clubs": {
+   "60072": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "54843": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "82207": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "59621": [
+    "417",
+    "Richmond United"
+   ],
+   "55937": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "60091": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "59473": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "67854": [
+    "7",
+    "No Club Selection"
+   ],
+   "60363": [
+    "22",
+    "NCFC Youth"
+   ],
+   "37377": [
+    "71",
+    "NC Fusion"
+   ],
+   "52304": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "60093": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "52309": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "60100": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "50683": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "60275": [
+    "22",
+    "NCFC Youth"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Midwest",
+  "teams": {
+   "54725": "Minnesota Thunder ECNL B09",
+   "59991": "FC Pride Elite ECNL B09",
+   "60124": "St. Croix ECNL B09",
+   "25230": "Indiana Elite FC ECNL B09",
+   "60088": "FC Wisconsin ECNL B09",
+   "68208": "Chicago Magic ECNL B09",
+   "47259": "Rockford Raptors FC ECNL B09",
+   "60271": "Eclipse Select SC ECNL B09"
+  },
+  "clubs": {
+   "54725": [
+    "67",
+    "Minnesota Thunder Academy"
+   ],
+   "59991": [
+    "1501",
+    "FC Pride"
+   ],
+   "60124": [
+    "893",
+    "St. Croix"
+   ],
+   "25230": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "60088": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "68208": [
+    "2106",
+    "Chicago Magic Soccer Club"
+   ],
+   "47259": [
+    "2017",
+    "Rockford Raptors FC"
+   ],
+   "60271": [
+    "7",
+    "No Club Selection"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Mountain",
+  "teams": {
+   "46118": "La Roca FC ECNL B09",
+   "71128": "Utah Avalanche ECNL B09",
+   "59625": "FC Tucson ECNL B09",
+   "59770": "Phoenix Rising ECNL B09",
+   "46852": "Pride SC ECNL B09",
+   "59927": "Real Colorado National ECNL B09",
+   "66828": "B-Elite DEN ECNL B09",
+   "59851": "Colorado Rapids ECNL B09",
+   "58583": "Arizona Arsenal ECNL B09",
+   "67879": "FC Arizona ECNL B2009",
+   "59620": "Rio Rapids ECNL B09",
+   "50545": "New Mexico Rush ECNL B09"
+  },
+  "clubs": {
+   "46118": [
+    "1760",
+    "La Roca FC"
+   ],
+   "71128": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "59625": [
+    "7",
+    "No Club Selection"
+   ],
+   "59770": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "46852": [
+    "2335",
+    "Pride SC"
+   ],
+   "59927": [
+    "81",
+    "Real Colorado"
+   ],
+   "66828": [
+    "28",
+    "Colorado Rush"
+   ],
+   "59851": [
+    "29",
+    "Colorado Storm"
+   ],
+   "58583": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "67879": [
+    "3998",
+    "FC Arizona"
+   ],
+   "59620": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "50545": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "46118": "North",
+   "71128": "North",
+   "59625": "South",
+   "59770": "South",
+   "46852": "North",
+   "59927": "North",
+   "66828": "North",
+   "59851": "North",
+   "58583": "South",
+   "67879": "South",
+   "59620": "South",
+   "50545": "South"
+  }
+ },
+ {
+  "age": "U15",
+  "conf": "Northeast North",
+  "teams": {
+   "31326": "Connecticut FC ECNL B09",
+   "59748": "Manhattan SC ECNL B09",
+   "60237": "East Meadow SC ECNL B09",
+   "71673": "SUSA FC ECNL B09",
+   "60303": "STA ECNL B09",
+   "40389": "World Class FC ECNL B09",
+   "60107": "FSA FC ECNL B09",
+   "46889": "FC Stars ECNL B09"
+  },
+  "clubs": {
+   "31326": [
+    "31",
+    "Connecticut FC"
+   ],
+   "59748": [
+    "518",
+    "Manhattan SC"
+   ],
+   "60237": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "71673": [
+    "9",
+    "SUSA FC"
+   ],
+   "60303": [
+    "428",
+    "STA"
+   ],
+   "40389": [
+    "116",
+    "World Class FC"
+   ],
+   "60107": [
+    "431",
+    "FSA FC"
+   ],
+   "46889": [
+    "52",
+    "FC Stars"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Northeast South",
+  "teams": {
+   "66528": "LVU Rush ECNL B09",
+   "52825": "Match Fit Academy ECNL B09",
+   "81297": "Potomac Soccer ECNL B09",
+   "59788": "Maryland United FC  ECNL B09",
+   "55382": "Pipeline SC ECNL B09",
+   "59254": "Baltimore Celtic ECNL B09",
+   "46860": "HEX FC Dominion ECNL B09",
+   "48606": "Penn Fusion SA ECNL B09"
+  },
+  "clubs": {
+   "66528": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "52825": [
+    "64",
+    "Match Fit Surf"
+   ],
+   "81297": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "59788": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "55382": [
+    "3405",
+    "Pipeline SC"
+   ],
+   "59254": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "46860": [
+    "46",
+    "HEX FC"
+   ],
+   "48606": [
+    "79",
+    "Penn Fusion Soccer Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Northern Cal",
+  "teams": {
+   "47721": "Marin FC - ECNL B09",
+   "35860": "MVLA ECNL B09",
+   "59933": "Placer United 09B ECNL",
+   "80575": "San Francisco Elite Academy ECNL B09",
+   "69843": "COSC ECNL B09",
+   "71302": "River Island Surf ECNL B09",
+   "56319": "Santa Clara Sporting ECNL B09",
+   "60302": "Davis Legacy ECNL B09",
+   "34009": "Mustang SC ECNL B09",
+   "80633": "Association FC ECNL B09",
+   "60194": "Santa Rosa United ECNL B09",
+   "70357": "El Camino Futbol Club Salinas ECNL B09",
+   "80778": "1974 Newark FC ECNL B09",
+   "60204": "San Juan SC ECNL B09"
+  },
+  "clubs": {
+   "47721": [
+    "1585",
+    "Marin FC"
+   ],
+   "35860": [
+    "294",
+    "MVLA"
+   ],
+   "59933": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80575": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "69843": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "71302": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "56319": [
+    "2548",
+    "Santa Clara Sporting"
+   ],
+   "60302": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "34009": [
+    "69",
+    "Mustang Soccer"
+   ],
+   "80633": [
+    "3065",
+    "Association Football Club"
+   ],
+   "60194": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "70357": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "80778": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "60204": [
+    "88",
+    "San Juan Soccer Club"
+   ]
+  },
+  "groups": {
+   "47721": "Ecnl Blue",
+   "35860": "Ecnl Blue",
+   "59933": "Ecnl Blue",
+   "80575": "Ecnl Blue",
+   "69843": "Ecnl Blue",
+   "71302": "Ecnl Blue",
+   "56319": "Ecnl Blue",
+   "60302": "Ecnl Yellow",
+   "34009": "Ecnl Yellow",
+   "80633": "Ecnl Yellow",
+   "60194": "Ecnl Yellow",
+   "70357": "Ecnl Yellow",
+   "80778": "Ecnl Yellow",
+   "60204": "Ecnl Yellow"
+  }
+ },
+ {
+  "age": "U15",
+  "conf": "Northwest",
+  "teams": {
+   "67188": "United PDX ECNL B09",
+   "46839": "PacNW SC ECNL B09",
+   "59999": "Seattle United ECNL B09",
+   "59878": "Washington Premier ECNL B09",
+   "59853": "Eastside FC ECNL B09",
+   "57083": "Snohomish United ECNL B09",
+   "60439": "XF ECNL B09",
+   "60435": "XF Academy ECNL B09",
+   "60032": "Columbia Premier SC ECNL B09"
+  },
+  "clubs": {
+   "67188": [
+    "2536",
+    "United PDX"
+   ],
+   "46839": [
+    "2331",
+    "PacNW"
+   ],
+   "59999": [
+    "1643",
+    "Seattle United"
+   ],
+   "59878": [
+    "112",
+    "Washington Premier FC"
+   ],
+   "59853": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "57083": [
+    "2522",
+    "Snohomish United"
+   ],
+   "60439": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "60435": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "60032": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Ohio Valley",
+  "teams": {
+   "69507": "Kings Hammer SC ECNL B09",
+   "52301": "Louisville City Academy ECNL B09",
+   "60138": "Ohio Premier ECNL B09",
+   "60424": "Ohio Elite Soccer Academy ECNL B09",
+   "60176": "Nationals Soccer Club ECNL B09",
+   "4271": "Pittsburgh Riverhounds ECNL B09",
+   "12949": "WNY Flash ECNL B09",
+   "56272": "Cleveland Force SC ECNL B09"
+  },
+  "clubs": {
+   "69507": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "52301": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ],
+   "60138": [
+    "437",
+    "Ohio Premier"
+   ],
+   "60424": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "60176": [
+    "1713",
+    "Nationals"
+   ],
+   "4271": [
+    "538",
+    "Pittsburgh Riverhounds"
+   ],
+   "12949": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "56272": [
+    "3478",
+    "Cleveland Force SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Southeast",
+  "teams": {
+   "52307": "SC Surf ECNL B09",
+   "59237": "Concorde Fire Premier ECNL B09",
+   "52497": "South Carolina United ECNL B09",
+   "52302": "NTH-NASA ECNL B09",
+   "60031": "Atlanta Fire United ECNL B09",
+   "46819": "CESA Triumph ECNL B09",
+   "59529": "United Futbol Academy ECNL B09",
+   "52310": "GSA ECNL B09",
+   "82581": "Chattanooga Red Wolves SC ECNL B09",
+   "59253": "Concorde Fire Platinum ECNL B09",
+   "58878": "Alabama FC ECNL B09",
+   "58716": "FC Alliance ECNL B09",
+   "60106": "Tennessee SC ECNL B09"
+  },
+  "clubs": {
+   "52307": [
+    "3644",
+    "South Carolina Surf SC"
+   ],
+   "59237": [
+    "30",
+    "Concorde Fire"
+   ],
+   "52497": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "52302": [
+    "329",
+    "NASA Tophat"
+   ],
+   "60031": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "46819": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "59529": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "52310": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ],
+   "82581": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "59253": [
+    "30",
+    "Concorde Fire"
+   ],
+   "58878": [
+    "18",
+    "Alabama FC"
+   ],
+   "58716": [
+    "1693",
+    "FC Alliance TN"
+   ],
+   "60106": [
+    "1354",
+    "Tennessee SC"
+   ]
+  },
+  "groups": {
+   "52307": "East",
+   "59237": "East",
+   "52497": "East",
+   "52302": "East",
+   "60031": "East",
+   "46819": "East",
+   "59529": "West",
+   "52310": "West",
+   "82581": "West",
+   "59253": "West",
+   "58878": "West",
+   "58716": "West",
+   "60106": "West"
+  }
+ },
+ {
+  "age": "U15",
+  "conf": "Southwest",
+  "teams": {
+   "58844": "LA Breakers FC ECNL B09",
+   "48374": "LAFC So Cal ECNL B09",
+   "53808": "Del Mar Sharks  ECNL B09",
+   "61188": "San Diego Surf ECNL B09",
+   "48849": "West Coast FC ECNL B09",
+   "59247": "Heat FC ECNL B09",
+   "60024": "Slammers FC ECNL B09",
+   "49747": "Legends FC ECNL B09",
+   "60060": "Beach FC ECNL B09",
+   "28807": "SDSC Surf ECNL B09",
+   "59949": "Pateadores ECNL B09",
+   "59931": "Sporting California USA - ECNL B09"
+  },
+  "clubs": {
+   "58844": [
+    "2289",
+    "LA Breakers FC"
+   ],
+   "48374": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "53808": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "61188": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ],
+   "48849": [
+    "113",
+    "West Coast F.C."
+   ],
+   "59247": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "60024": [
+    "96",
+    "Slammers FC"
+   ],
+   "49747": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "60060": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "28807": [
+    "86",
+    "SDSC Surf"
+   ],
+   "59949": [
+    "186",
+    "Pateadores Soccer Club"
+   ],
+   "59931": [
+    "13",
+    "Sporting California USA"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U15",
+  "conf": "Texas",
+  "teams": {
+   "59581": "FC Dallas ECNL Red B09",
+   "48488": "FC Dallas ECNL White B09",
+   "50648": "Dallas Texans Academy  ECNL B09",
+   "59908": "Dallas Texans ECNL B09",
+   "59604": "OK Energy FC ECNL B09",
+   "56481": "BVBIA ECNL B09",
+   "58597": "HTX ECNL B09",
+   "81512": "SAFC ECNL B09",
+   "30648": "Tulsa SC ECNL B09",
+   "58707": "DKSC ECNL B09",
+   "60097": "Lonestar SC Red ECNL B09",
+   "60104": "Lonestar SC Black ECNL B09",
+   "59860": "San Antonio City SC ECNL B09",
+   "48116": "Albion Hurricanes ECNL B09",
+   "80423": "RISE SC ECNL B09",
+   "40414": "Classics Elite ECNL B09",
+   "60172": "Solar SC ECNL B09",
+   "60698": "Solar SC Academy ECNL B09"
+  },
+  "clubs": {
+   "59581": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "48488": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "50648": [
+    "37",
+    "Dallas Texans"
+   ],
+   "59908": [
+    "37",
+    "Dallas Texans"
+   ],
+   "59604": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "56481": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "58597": [
+    "2258",
+    "HTX"
+   ],
+   "81512": [
+    "4304",
+    "San Antonio FC"
+   ],
+   "30648": [
+    "106",
+    "Tulsa Soccer Club"
+   ],
+   "58707": [
+    "35",
+    "DKSC"
+   ],
+   "60097": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "60104": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "59860": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "48116": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "80423": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "40414": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "60172": [
+    "7",
+    "No Club Selection"
+   ],
+   "60698": [
+    "101",
+    "Solar SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Florida",
+  "teams": {
+   "68942": "FC Prime ECNL B08",
+   "34895": "Palm Beach Gardens ECNL B08",
+   "44614": "Space Coast United ECNL B08",
+   "34974": "Florida Kraze ECNL B08",
+   "46908": "Florida Elite ECNL B08",
+   "46057": "FL Premier FC ECNL B08",
+   "46058": "Florida West FC ECNL B08",
+   "20915": "Supreme FC ECNL B08",
+   "67202": "Parkland SC ECNL B08"
+  },
+  "clubs": {
+   "68942": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "34895": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44614": [
+    "1919",
+    "Space Coast United"
+   ],
+   "34974": [
+    "379",
+    "Florida Kraze Krush"
+   ],
+   "46908": [
+    "1353",
+    "Sporting SA"
+   ],
+   "46057": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "46058": [
+    "3384",
+    "AC Florida West"
+   ],
+   "20915": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "67202": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Heartland",
+  "teams": {
+   "60358": "VSA Rush ECNL B08",
+   "48042": "Gretna Elite Academy ECNL B08",
+   "60486": "Sporting Iowa ECNL B08",
+   "58827": "Sporting Nebraska FC ECNL B08",
+   "60488": "FC Wichita ECNL B08",
+   "70322": "Sporting Springfield - ECNL B08",
+   "60041": "SLSG MO ECNL B08",
+   "67850": "Kansas City Athletics ECNL B08",
+   "59537": "KC Scott Gallagher ECNL B08",
+   "46872": "SLSG Illinois ECNL B08"
+  },
+  "clubs": {
+   "60358": [
+    "3723",
+    "VSA Rush"
+   ],
+   "48042": [
+    "373",
+    "Gretna Elite Academy"
+   ],
+   "60486": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "58827": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "60488": [
+    "3486",
+    "FC Wichita"
+   ],
+   "70322": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "60041": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "67850": [
+    "2330",
+    "KC Athletics"
+   ],
+   "59537": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "46872": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ]
+  },
+  "groups": {
+   "60358": "North",
+   "48042": "North",
+   "60486": "North",
+   "58827": "North",
+   "60488": "South",
+   "70322": "South",
+   "60041": "South",
+   "67850": "South",
+   "59537": "South",
+   "46872": "South"
+  }
+ },
+ {
+  "age": "U16",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "46828": "VA Union ECNL B08",
+   "82205": "Arlington Soccer ECNL B08",
+   "45983": "VDA ECNL B08",
+   "46853": "Fairfax BRAVE SC ECNL B08",
+   "60073": "Skyline Elite ECNL B08",
+   "46825": "NVA ECNL B08",
+   "45977": "Richmond United ECNL B08",
+   "67844": "Beach FC (VA) ECNL B08",
+   "48648": "NC Fusion ECNL B08",
+   "46000": "NCFC Youth Academy ECNL B08",
+   "46849": "Charlotte Independence ECNL B08",
+   "45991": "Charlotte SA Academy ECNL B08",
+   "46893": "Charlotte Independence Academy ECNL B08",
+   "46894": "Charlotte SA ECNL B08",
+   "46816": "Wilmington Hammerheads ECNL B08",
+   "45792": "NCFC Youth ECNL B08"
+  },
+  "clubs": {
+   "46828": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "82205": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "45983": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "46853": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "60073": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "46825": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "45977": [
+    "417",
+    "Richmond United"
+   ],
+   "67844": [
+    "7",
+    "No Club Selection"
+   ],
+   "48648": [
+    "71",
+    "NC Fusion"
+   ],
+   "46000": [
+    "22",
+    "NCFC Youth"
+   ],
+   "46849": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "45991": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "46893": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "46894": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "46816": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "45792": [
+    "22",
+    "NCFC Youth"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Midwest",
+  "teams": {
+   "46775": "Minnesota Thunder ECNL B08",
+   "46795": "FC Pride Elite ECNL B08",
+   "60125": "St. Croix ECNL B08",
+   "26502": "Indiana Elite FC ECNL B08",
+   "46875": "FC Wisconsin ECNL B08",
+   "68209": "Chicago Magic ECNL B08",
+   "39095": "Rockford Raptors FC ECNL B08",
+   "46871": "Eclipse Select SC ECNL B08"
+  },
+  "clubs": {
+   "46775": [
+    "67",
+    "Minnesota Thunder Academy"
+   ],
+   "46795": [
+    "7",
+    "No Club Selection"
+   ],
+   "60125": [
+    "893",
+    "St. Croix"
+   ],
+   "26502": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "46875": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "68209": [
+    "2106",
+    "Chicago Magic Soccer Club"
+   ],
+   "39095": [
+    "2017",
+    "Rockford Raptors FC"
+   ],
+   "46871": [
+    "43",
+    "Eclipse Select Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Mountain",
+  "teams": {
+   "46119": "La Roca FC ECNL B08",
+   "46125": "Utah Avalanche ECNL B08",
+   "46886": "FC Tucson ECNL B08",
+   "46880": "Phoenix Rising ECNL B08",
+   "35736": "Pride SC ECNL B08",
+   "46854": "Real Colorado National ECNL B08",
+   "66829": "B-Elite DEN ECNL B08",
+   "50072": "Colorado Rapids ECNL B08",
+   "46878": "Arizona Arsenal ECNL B08",
+   "67880": "FC Arizona ECNL B2008",
+   "45741": "Rio Rapids ECNL B08",
+   "46856": "New Mexico Rush ECNL B08"
+  },
+  "clubs": {
+   "46119": [
+    "1760",
+    "La Roca FC"
+   ],
+   "46125": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "46886": [
+    "1498",
+    "FC Tucson Youth SC"
+   ],
+   "46880": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "35736": [
+    "2335",
+    "Pride SC"
+   ],
+   "46854": [
+    "81",
+    "Real Colorado"
+   ],
+   "66829": [
+    "28",
+    "Colorado Rush"
+   ],
+   "50072": [
+    "29",
+    "Colorado Storm"
+   ],
+   "46878": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "67880": [
+    "3998",
+    "FC Arizona"
+   ],
+   "45741": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "46856": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "46119": "North",
+   "46125": "North",
+   "46886": "South",
+   "46880": "South",
+   "35736": "North",
+   "46854": "North",
+   "66829": "North",
+   "50072": "North",
+   "46878": "South",
+   "67880": "South",
+   "45741": "South",
+   "46856": "South"
+  }
+ },
+ {
+  "age": "U16",
+  "conf": "Northeast North",
+  "teams": {
+   "46830": "Connecticut FC ECNL B08",
+   "48494": "Manhattan SC ECNL B08",
+   "46867": "FSA FC ECNL B08",
+   "35819": "FC Stars ECNL B08",
+   "14319": "East Meadow SC ECNL B08",
+   "35816": "SUSA FC ECNL B08",
+   "46892": "STA ECNL B08",
+   "46888": "World Class FC ECNL B08"
+  },
+  "clubs": {
+   "46830": [
+    "31",
+    "Connecticut FC"
+   ],
+   "48494": [
+    "518",
+    "Manhattan SC"
+   ],
+   "46867": [
+    "431",
+    "FSA FC"
+   ],
+   "35819": [
+    "52",
+    "FC Stars"
+   ],
+   "14319": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "35816": [
+    "7",
+    "No Club Selection"
+   ],
+   "46892": [
+    "428",
+    "STA"
+   ],
+   "46888": [
+    "116",
+    "World Class FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Northeast South",
+  "teams": {
+   "66531": "LVU Rush ECNL B08",
+   "24886": "Match Fit Academy ECNL B08",
+   "81300": "Potomac Soccer ECNL B08",
+   "46873": "Maryland United FC ECNL B08",
+   "46026": "Pipeline SC ECNL B08",
+   "46890": "Baltimore Celtic ECNL B08",
+   "33880": "HEX FC Dominion ECNL B08",
+   "46887": "Penn Fusion SA ECNL B08"
+  },
+  "clubs": {
+   "66531": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "24886": [
+    "64",
+    "Match Fit Surf"
+   ],
+   "81300": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "46873": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "46026": [
+    "3405",
+    "Pipeline SC"
+   ],
+   "46890": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "33880": [
+    "46",
+    "HEX FC"
+   ],
+   "46887": [
+    "79",
+    "Penn Fusion Soccer Academy"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Northern Cal",
+  "teams": {
+   "46148": "Marin FC ECNL B08",
+   "46154": "MVLA ECNL B08",
+   "26268": "COSC ECNL B08",
+   "71301": "River Island Surf ECNL B08",
+   "46160": "Placer United 08B ECNL",
+   "80576": "San Francisco Elite Academy ECNL B08",
+   "46172": "Santa Clara Sporting ECNL B08",
+   "81052": "1974 Newark FC ECNL B08",
+   "33663": "Mustang SC ECNL B08",
+   "80635": "Association FC ECNL B08",
+   "46178": "Santa Rosa United ECNL B08",
+   "70363": "El Camino Futbol Club Salinas ECNL B08",
+   "46130": "Davis Legacy ECNL B08",
+   "46166": "San Juan SC - ECNL B08"
+  },
+  "clubs": {
+   "46148": [
+    "1585",
+    "Marin FC"
+   ],
+   "46154": [
+    "294",
+    "MVLA"
+   ],
+   "26268": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "71301": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "46160": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80576": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "46172": [
+    "7",
+    "No Club Selection"
+   ],
+   "81052": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "33663": [
+    "69",
+    "Mustang Soccer"
+   ],
+   "80635": [
+    "3065",
+    "Association Football Club"
+   ],
+   "46178": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "70363": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "46130": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "46166": [
+    "7",
+    "No Club Selection"
+   ]
+  },
+  "groups": {
+   "46148": "Ecnl Blue",
+   "46154": "Ecnl Blue",
+   "26268": "Ecnl Blue",
+   "71301": "Ecnl Blue",
+   "46160": "Ecnl Blue",
+   "80576": "Ecnl Blue",
+   "46172": "Ecnl Blue",
+   "81052": "Ecnl Yellow",
+   "33663": "Ecnl Yellow",
+   "80635": "Ecnl Yellow",
+   "46178": "Ecnl Yellow",
+   "70363": "Ecnl Yellow",
+   "46130": "Ecnl Yellow",
+   "46166": "Ecnl Yellow"
+  }
+ },
+ {
+  "age": "U16",
+  "conf": "Northwest",
+  "teams": {
+   "67187": "United PDX ECNL B08",
+   "26470": "PacNW SC ECNL B08",
+   "46841": "Seattle United ECNL B08",
+   "46842": "Washington Premier ECNL B08",
+   "48210": "XF Academy ECNL B08",
+   "60438": "XF ECNL B08",
+   "46838": "Eastside FC ECNL B08",
+   "46847": "Snohomish United ECNL B08",
+   "46845": "Columbia Premier SC ECNL B08"
+  },
+  "clubs": {
+   "67187": [
+    "2536",
+    "United PDX"
+   ],
+   "26470": [
+    "2331",
+    "PacNW"
+   ],
+   "46841": [
+    "1643",
+    "Seattle United"
+   ],
+   "46842": [
+    "112",
+    "Washington Premier FC"
+   ],
+   "48210": [
+    "7",
+    "No Club Selection"
+   ],
+   "60438": [
+    "7",
+    "No Club Selection"
+   ],
+   "46838": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "46847": [
+    "2522",
+    "Snohomish United"
+   ],
+   "46845": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Ohio Valley",
+  "teams": {
+   "46801": "Ohio Premier ECNL B08",
+   "46799": "Ohio Elite Soccer Academy ECNL B08",
+   "69515": "Kings Hammer SC ECNL B08",
+   "46067": "Louisville City Academy ECNL B08",
+   "60177": "Nationals Soccer Club ECNL B08",
+   "46803": "Pittsburgh Riverhounds ECNL B08",
+   "46858": "WNY Flash ECNL B08",
+   "56923": "Cleveland Force SC ECNL B08"
+  },
+  "clubs": {
+   "46801": [
+    "437",
+    "Ohio Premier"
+   ],
+   "46799": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "69515": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "46067": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ],
+   "60177": [
+    "1713",
+    "Nationals"
+   ],
+   "46803": [
+    "538",
+    "Pittsburgh Riverhounds"
+   ],
+   "46858": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "56923": [
+    "3478",
+    "Cleveland Force SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Southeast",
+  "teams": {
+   "52308": "SC Surf ECNL B08",
+   "46811": "Concorde Fire Premier ECNL B08",
+   "39024": "South Carolina United ECNL B08",
+   "46836": "NTH-NASA ECNL B08",
+   "44968": "Atlanta Fire United ECNL B08",
+   "35806": "CESA Triumph ECNL B08",
+   "46038": "United Futbol Academy ECNL B08",
+   "46813": "GSA ECNL B08",
+   "82580": "Chattanooga Red Wolves SC ECNL B08",
+   "46808": "Alabama FC ECNL B08",
+   "46050": "Concorde Fire Platinum ECNL B08",
+   "46805": "Tennessee SC ECNL B08",
+   "46833": "FC Alliance ECNL B08"
+  },
+  "clubs": {
+   "52308": [
+    "3644",
+    "South Carolina Surf SC"
+   ],
+   "46811": [
+    "30",
+    "Concorde Fire"
+   ],
+   "39024": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "46836": [
+    "329",
+    "NASA Tophat"
+   ],
+   "44968": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "35806": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "46038": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "46813": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ],
+   "82580": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "46808": [
+    "18",
+    "Alabama FC"
+   ],
+   "46050": [
+    "30",
+    "Concorde Fire"
+   ],
+   "46805": [
+    "1354",
+    "Tennessee SC"
+   ],
+   "46833": [
+    "1693",
+    "FC Alliance TN"
+   ]
+  },
+  "groups": {
+   "52308": "East",
+   "46811": "East",
+   "39024": "East",
+   "46836": "East",
+   "44968": "East",
+   "35806": "East",
+   "46038": "West",
+   "46813": "West",
+   "82580": "West",
+   "46808": "West",
+   "46050": "West",
+   "46805": "West",
+   "46833": "West"
+  }
+ },
+ {
+  "age": "U16",
+  "conf": "Southwest",
+  "teams": {
+   "2338": "Slammers FC ECNL B08",
+   "10340": "Legends FC ECNL B08",
+   "46834": "Del Mar Sharks ECNL B08",
+   "45964": "San Diego Surf ECNL B08",
+   "46826": "LA Breakers FC ECNL B08",
+   "45946": "LAFC So Cal ECNL B08",
+   "46881": "West Coast FC ECNL B08",
+   "46746": "Heat FC ECNL B08",
+   "46882": "Beach FC ECNL B08",
+   "45958": "SDSC Surf ECNL B08",
+   "46848": "Sporting California USA ECNL B08",
+   "45941": "Pateadores ECNL B08"
+  },
+  "clubs": {
+   "2338": [
+    "96",
+    "Slammers FC"
+   ],
+   "10340": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "46834": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "45964": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ],
+   "46826": [
+    "7",
+    "No Club Selection"
+   ],
+   "45946": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "46881": [
+    "113",
+    "West Coast F.C."
+   ],
+   "46746": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "46882": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "45958": [
+    "86",
+    "SDSC Surf"
+   ],
+   "46848": [
+    "13",
+    "Sporting California USA"
+   ],
+   "45941": [
+    "186",
+    "Pateadores Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U16",
+  "conf": "Texas",
+  "teams": {
+   "46077": "FC Dallas ECNL Red B08",
+   "69582": "FC Dallas ECNL White B08",
+   "46089": "HTX ECNL B08",
+   "81513": "SAFC ECNL B08",
+   "46083": "Dallas Texans Academy ECNL B08",
+   "46857": "Dallas Texans ECNL B08",
+   "44082": "Tulsa SC ECNL B08",
+   "58708": "DKSC ECNL B08",
+   "46107": "OK Energy FC ECNL B08",
+   "44976": "BVBIA ECNL B08",
+   "46861": "Lonestar SC Red ECNL B08",
+   "46096": "Lonestar SC Black ECNL B08",
+   "80425": "RISE SC ECNL B08",
+   "29182": "Classics Elite ECNL B08",
+   "46102": "San Antonio City SC ECNL B08",
+   "46865": "Albion Hurricanes ECNL B08",
+   "46793": "Solar SC ECNL B08",
+   "61625": "Solar SC Academy ECNL B08"
+  },
+  "clubs": {
+   "46077": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "69582": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "46089": [
+    "2258",
+    "HTX"
+   ],
+   "81513": [
+    "7",
+    "No Club Selection"
+   ],
+   "46083": [
+    "37",
+    "Dallas Texans"
+   ],
+   "46857": [
+    "37",
+    "Dallas Texans"
+   ],
+   "44082": [
+    "106",
+    "Tulsa Soccer Club"
+   ],
+   "58708": [
+    "7",
+    "No Club Selection"
+   ],
+   "46107": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "44976": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "46861": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "46096": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "80425": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "29182": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "46102": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "46865": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "46793": [
+    "101",
+    "Solar SC"
+   ],
+   "61625": [
+    "7",
+    "No Club Selection"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Florida",
+  "teams": {
+   "68941": "FC Prime ECNL B07",
+   "34896": "Palm Beach Gardens ECNL B07",
+   "44618": "Space Coast United ECNL B07",
+   "35110": "Florida Kraze ECNL B07",
+   "35113": "Florida Elite ECNL B07",
+   "45815": "FL Premier FC ECNL B07",
+   "46059": "Florida West FC ECNL B07",
+   "20916": "Supreme FC ECNL B07",
+   "48689": "Parkland SC ECNL B07"
+  },
+  "clubs": {
+   "68941": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "34896": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44618": [
+    "1919",
+    "Space Coast United"
+   ],
+   "35110": [
+    "7",
+    "No Club Selection"
+   ],
+   "35113": [
+    "1353",
+    "Sporting SA"
+   ],
+   "45815": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "46059": [
+    "7",
+    "No Club Selection"
+   ],
+   "20916": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "48689": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Heartland",
+  "teams": {
+   "60359": "VSA Rush ECNL B07",
+   "48121": "Gretna Elite Academy ECNL B07",
+   "59759": "Sporting Iowa ECNL B07",
+   "58828": "Sporting Nebraska FC ECNL B07",
+   "70323": "Sporting Springfield - ECNL B07",
+   "60489": "FC Wichita ECNL B07",
+   "60040": "SLSG MO ECNL B07",
+   "59535": "KC Scott Gallagher ECNL B07",
+   "67851": "Kansas City Athletics ECNL B07",
+   "35768": "SLSG Illinois ECNL B07"
+  },
+  "clubs": {
+   "60359": [
+    "3723",
+    "VSA Rush"
+   ],
+   "48121": [
+    "7",
+    "No Club Selection"
+   ],
+   "59759": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "58828": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "70323": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "60489": [
+    "7",
+    "No Club Selection"
+   ],
+   "60040": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "59535": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "67851": [
+    "2330",
+    "KC Athletics"
+   ],
+   "35768": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ]
+  },
+  "groups": {
+   "60359": "North",
+   "48121": "North",
+   "59759": "North",
+   "58828": "North",
+   "70323": "South",
+   "60489": "South",
+   "60040": "South",
+   "59535": "South",
+   "67851": "South",
+   "35768": "South"
+  }
+ },
+ {
+  "age": "U17",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "45984": "VDA ECNL B07",
+   "35807": "Fairfax BRAVE SC ECNL B07",
+   "21563": "VA Union ECNL B07",
+   "82204": "Arlington Soccer ECNL B07",
+   "60074": "Skyline Elite ECNL B07",
+   "35100": "NVA ECNL B07",
+   "45978": "Richmond United ECNL B07",
+   "67773": "Beach FC (VA) ECNL B07",
+   "46001": "NCFC Youth Academy ECNL B07",
+   "35808": "NC Fusion ECNL B07",
+   "35115": "Charlotte Independence ECNL B07",
+   "45992": "Charlotte SA Academy ECNL B07",
+   "35803": "Charlotte Independence Academy ECNL B07",
+   "35032": "Charlotte SA ECNL B07",
+   "35811": "Wilmington Hammerheads ECNL B07",
+   "35809": "NCFC Youth ECNL B07"
+  },
+  "clubs": {
+   "45984": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "35807": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "21563": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "82204": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "60074": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "35100": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "45978": [
+    "417",
+    "Richmond United"
+   ],
+   "67773": [
+    "628",
+    "Beach FC"
+   ],
+   "46001": [
+    "22",
+    "NCFC Youth"
+   ],
+   "35808": [
+    "71",
+    "NC Fusion"
+   ],
+   "35115": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "45992": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "35803": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "35032": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "35811": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "35809": [
+    "22",
+    "NCFC Youth"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Midwest",
+  "teams": {
+   "60126": "St. Croix ECNL B07",
+   "60277": "Indiana Elite FC ECNL B07",
+   "35074": "Minnesota Thunder ECNL B07",
+   "19736": "FC Pride Elite ECNL B07",
+   "35121": "Rockford Raptors FC ECNL B07",
+   "34739": "FC Wisconsin ECNL B07",
+   "68210": "Chicago Magic ECNL B07",
+   "35750": "Eclipse Select SC ECNL B07"
+  },
+  "clubs": {
+   "60126": [
+    "893",
+    "St. Croix"
+   ],
+   "60277": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "35074": [
+    "7",
+    "No Club Selection"
+   ],
+   "19736": [
+    "7",
+    "No Club Selection"
+   ],
+   "35121": [
+    "2017",
+    "Rockford Raptors FC"
+   ],
+   "34739": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "68210": [
+    "7",
+    "No Club Selection"
+   ],
+   "35750": [
+    "43",
+    "Eclipse Select Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Mountain",
+  "teams": {
+   "46120": "La Roca FC ECNL B07",
+   "69974": "Utah Avalanche ECNL B07",
+   "35640": "FC Tucson ECNL B07",
+   "35648": "Phoenix Rising ECNL B07",
+   "35735": "Pride SC ECNL B07",
+   "35739": "Real Colorado National ECNL B07",
+   "66830": "B-Elite DEN ECNL B07",
+   "35732": "Colorado Rapids ECNL B07",
+   "34087": "Arizona Arsenal ECNL B07",
+   "67881": "FC Arizona ECNL B2007",
+   "35737": "Rio Rapids ECNL B07",
+   "35729": "New Mexico Rush ECNL B07"
+  },
+  "clubs": {
+   "46120": [
+    "1760",
+    "La Roca FC"
+   ],
+   "69974": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "35640": [
+    "7",
+    "No Club Selection"
+   ],
+   "35648": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "35735": [
+    "7",
+    "No Club Selection"
+   ],
+   "35739": [
+    "81",
+    "Real Colorado"
+   ],
+   "66830": [
+    "28",
+    "Colorado Rush"
+   ],
+   "35732": [
+    "29",
+    "Colorado Storm"
+   ],
+   "34087": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "67881": [
+    "3998",
+    "FC Arizona"
+   ],
+   "35737": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "35729": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "46120": "North",
+   "69974": "North",
+   "35640": "South",
+   "35648": "South",
+   "35735": "North",
+   "35739": "North",
+   "66830": "North",
+   "35732": "North",
+   "34087": "South",
+   "67881": "South",
+   "35737": "South",
+   "35729": "South"
+  }
+ },
+ {
+  "age": "U17",
+  "conf": "Northeast North",
+  "teams": {
+   "35087": "STA ECNL B07",
+   "35823": "World Class ECNL B07",
+   "35818": "FSA FC ECNL B07",
+   "15144": "FC Stars ECNL B07",
+   "22034": "Connecticut FC ECNL B07",
+   "35022": "Manhattan SC ECNL B07",
+   "35817": "East Meadow SC ECNL B07",
+   "17888": "SUSA FC ECNL B07"
+  },
+  "clubs": {
+   "35087": [
+    "7",
+    "No Club Selection"
+   ],
+   "35823": [
+    "116",
+    "World Class FC"
+   ],
+   "35818": [
+    "431",
+    "FSA FC"
+   ],
+   "15144": [
+    "52",
+    "FC Stars"
+   ],
+   "22034": [
+    "31",
+    "Connecticut FC"
+   ],
+   "35022": [
+    "518",
+    "Manhattan SC"
+   ],
+   "35817": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "17888": [
+    "9",
+    "SUSA FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Northeast South",
+  "teams": {
+   "81302": "Potomac Soccer ECNL B07",
+   "35820": "Maryland United FC ECNL B07",
+   "66533": "LVU Rush ECNL B07",
+   "11885": "Match Fit Academy ECNL B07",
+   "46027": "Pipeline SC ECNL B07",
+   "22488": "Baltimore Celtic ECNL B07",
+   "20893": "HEX FC Dominion ECNL B07",
+   "13681": "Penn Fusion SA ECNL B07"
+  },
+  "clubs": {
+   "81302": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "35820": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "66533": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "11885": [
+    "64",
+    "Match Fit Surf"
+   ],
+   "46027": [
+    "7",
+    "No Club Selection"
+   ],
+   "22488": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "20893": [
+    "46",
+    "HEX FC"
+   ],
+   "13681": [
+    "7",
+    "No Club Selection"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Northern Cal",
+  "teams": {
+   "46149": "Marin FC ECNL B07",
+   "46155": "MVLA ECNL B07",
+   "33964": "COSC ECNL B07",
+   "71300": "River Island Surf ECNL B07",
+   "46161": "Placer United 07B ECNL",
+   "80577": "San Francisco Elite Academy ECNL B07",
+   "39642": "Santa Clara Sporting ECNL B07",
+   "18734": "Mustang SC ECNL B07",
+   "70364": "El Camino Futbol Club Salinas ECNL B07",
+   "81049": "1974 Newark FC ECNL B07",
+   "80636": "Association FC ECNL B07",
+   "46131": "Davis Legacy ECNL B07",
+   "46179": "Santa Rosa United ECNL B07",
+   "46167": "San Juan SC ECNL B07"
+  },
+  "clubs": {
+   "46149": [
+    "1585",
+    "Marin FC"
+   ],
+   "46155": [
+    "294",
+    "MVLA"
+   ],
+   "33964": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "71300": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "46161": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80577": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "39642": [
+    "2548",
+    "Santa Clara Sporting"
+   ],
+   "18734": [
+    "69",
+    "Mustang Soccer"
+   ],
+   "70364": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "81049": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "80636": [
+    "3065",
+    "Association Football Club"
+   ],
+   "46131": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "46179": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "46167": [
+    "88",
+    "San Juan Soccer Club"
+   ]
+  },
+  "groups": {
+   "46149": "Ecnl Blue",
+   "46155": "Ecnl Blue",
+   "33964": "Ecnl Blue",
+   "71300": "Ecnl Blue",
+   "46161": "Ecnl Blue",
+   "80577": "Ecnl Blue",
+   "39642": "Ecnl Blue",
+   "18734": "Ecnl Yellow",
+   "70364": "Ecnl Yellow",
+   "81049": "Ecnl Yellow",
+   "80636": "Ecnl Yellow",
+   "46131": "Ecnl Yellow",
+   "46179": "Ecnl Yellow",
+   "46167": "Ecnl Yellow"
+  }
+ },
+ {
+  "age": "U17",
+  "conf": "Northwest",
+  "teams": {
+   "67186": "United PDX ECNL B07",
+   "29249": "PacNW SC ECNL B07",
+   "35053": "Seattle United ECNL B07",
+   "32753": "Washington Premier ECNL B07",
+   "35079": "XF Academy ECNL B07",
+   "46114": "XF ECNL B07",
+   "35068": "Eastside FC ECNL B07",
+   "35058": "Snohomish United ECNL B07",
+   "35042": "Columbia Premier SC ECNL B07"
+  },
+  "clubs": {
+   "67186": [
+    "2536",
+    "United PDX"
+   ],
+   "29249": [
+    "2331",
+    "PacNW"
+   ],
+   "35053": [
+    "1643",
+    "Seattle United"
+   ],
+   "32753": [
+    "7",
+    "No Club Selection"
+   ],
+   "35079": [
+    "7",
+    "No Club Selection"
+   ],
+   "46114": [
+    "7",
+    "No Club Selection"
+   ],
+   "35068": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "35058": [
+    "2522",
+    "Snohomish United"
+   ],
+   "35042": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Ohio Valley",
+  "teams": {
+   "35763": "Ohio Premier ECNL B07",
+   "35753": "Ohio Elite Soccer Academy ECNL B07",
+   "69519": "Kings Hammer SC ECNL B07",
+   "46068": "Louisville City Academy ECNL B07",
+   "60178": "Nationals Soccer Club ECNL B07",
+   "35765": "Pittsburgh Riverhounds ECNL B07",
+   "35772": "WNY Flash ECNL B07",
+   "56924": "Cleveland Force SC ECNL B07"
+  },
+  "clubs": {
+   "35763": [
+    "437",
+    "Ohio Premier"
+   ],
+   "35753": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "69519": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "46068": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ],
+   "60178": [
+    "1713",
+    "Nationals"
+   ],
+   "35765": [
+    "538",
+    "Pittsburgh Riverhounds"
+   ],
+   "35772": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "56924": [
+    "3478",
+    "Cleveland Force SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Southeast",
+  "teams": {
+   "59812": "SC Surf ECNL B07",
+   "35798": "Concorde Fire Premier ECNL B07",
+   "35810": "South Carolina United ECNL B07",
+   "35800": "NTH-NASA ECNL B07",
+   "34663": "Atlanta Fire United ECNL B07",
+   "21110": "CESA Triumph ECNL B07",
+   "46039": "United Futbol Academy ECNL B07",
+   "35786": "GSA ECNL B07",
+   "82579": "Chattanooga Red Wolves SC ECNL B07",
+   "46051": "Concorde Fire Platinum ECNL B07",
+   "35799": "Alabama FC ECNL B07",
+   "34278": "Tennessee SC ECNL B07",
+   "35107": "FC Alliance ECNL B07"
+  },
+  "clubs": {
+   "59812": [
+    "7",
+    "No Club Selection"
+   ],
+   "35798": [
+    "30",
+    "Concorde Fire"
+   ],
+   "35810": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "35800": [
+    "329",
+    "NASA Tophat"
+   ],
+   "34663": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "21110": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "46039": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "35786": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ],
+   "82579": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "46051": [
+    "30",
+    "Concorde Fire"
+   ],
+   "35799": [
+    "18",
+    "Alabama FC"
+   ],
+   "34278": [
+    "1354",
+    "Tennessee SC"
+   ],
+   "35107": [
+    "1693",
+    "FC Alliance TN"
+   ]
+  },
+  "groups": {
+   "59812": "East",
+   "35798": "East",
+   "35810": "East",
+   "35800": "East",
+   "34663": "East",
+   "21110": "East",
+   "46039": "West",
+   "35786": "West",
+   "82579": "West",
+   "46051": "West",
+   "35799": "West",
+   "34278": "West",
+   "35107": "West"
+  }
+ },
+ {
+  "age": "U17",
+  "conf": "Southwest",
+  "teams": {
+   "27986": "West Coast FC ECNL B07",
+   "35646": "Heat FC ECNL B07",
+   "10501": "Slammers FC ECNL B07",
+   "29426": "Legends FC ECNL B07",
+   "30063": "LA Breakers FC ECNL B07",
+   "45947": "LAFC So Cal ECNL B07",
+   "35636": "Del Mar Sharks ECNL B07",
+   "45965": "San Diego Surf ECNL B07",
+   "28040": "Beach FC ECNL B07",
+   "45959": "SDSC Surf ECNL B07",
+   "45935": "Sporting California USA ECNL B07",
+   "45940": "Pateadores ECNL B07"
+  },
+  "clubs": {
+   "27986": [
+    "113",
+    "West Coast F.C."
+   ],
+   "35646": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "10501": [
+    "96",
+    "Slammers FC"
+   ],
+   "29426": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "30063": [
+    "2289",
+    "LA Breakers FC"
+   ],
+   "45947": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "35636": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "45965": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ],
+   "28040": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "45959": [
+    "86",
+    "SDSC Surf"
+   ],
+   "45935": [
+    "13",
+    "Sporting California USA"
+   ],
+   "45940": [
+    "186",
+    "Pateadores Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U17",
+  "conf": "Texas",
+  "teams": {
+   "46078": "FC Dallas ECNL Red B07",
+   "62351": "FC Dallas ECNL White B07",
+   "46084": "Dallas Texans Academy ECNL B07",
+   "35743": "Dallas Texans ECNL B07",
+   "46090": "HTX ECNL B07",
+   "81514": "SAFC ECNL B07",
+   "46108": "OK Energy FC ECNL B07",
+   "33343": "BVBIA ECNL B07",
+   "35747": "Tulsa SC ECNL B07",
+   "58709": "DKSC ECNL B07",
+   "80444": "RISE SC ECNL B07",
+   "29186": "Classics Elite ECNL B07",
+   "46103": "San Antonio City SC ECNL B07",
+   "37715": "Albion Hurricanes ECNL B07",
+   "35746": "Lonestar SC Red ECNL B07",
+   "46095": "Lonestar SC Black ECNL B07",
+   "73368": "Solar SC Academy ECNL B07",
+   "35745": "Solar SC ECNL B07"
+  },
+  "clubs": {
+   "46078": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "62351": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "46084": [
+    "37",
+    "Dallas Texans"
+   ],
+   "35743": [
+    "37",
+    "Dallas Texans"
+   ],
+   "46090": [
+    "2258",
+    "HTX"
+   ],
+   "81514": [
+    "4304",
+    "San Antonio FC"
+   ],
+   "46108": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "33343": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "35747": [
+    "7",
+    "No Club Selection"
+   ],
+   "58709": [
+    "7",
+    "No Club Selection"
+   ],
+   "80444": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "29186": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "46103": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "37715": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "35746": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "46095": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "73368": [
+    "101",
+    "Solar SC"
+   ],
+   "35745": [
+    "101",
+    "Solar SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Florida",
+  "teams": {
+   "59547": "FC Prime ECNL B06/05",
+   "34897": "Palm Beach Gardens ECNL B06/05",
+   "44623": "Space Coast United ECNL B06/05",
+   "20914": "Florida Kraze ECNL B06/05",
+   "20913": "Florida Elite ECNL B06/05",
+   "45808": "FL Premier FC ECNL B06/05",
+   "46060": "Florida West FC ECNL B06/05",
+   "78688": "Supreme FC ECNL B06/05",
+   "48690": "Parkland SC ECNL B06/05"
+  },
+  "clubs": {
+   "59547": [
+    "2329",
+    "Athletic Club Florida"
+   ],
+   "34897": [
+    "3109",
+    "Palm Beach United FC"
+   ],
+   "44623": [
+    "1919",
+    "Space Coast United"
+   ],
+   "20914": [
+    "7",
+    "No Club Selection"
+   ],
+   "20913": [
+    "1353",
+    "Sporting SA"
+   ],
+   "45808": [
+    "2731",
+    "Florida Premier FC"
+   ],
+   "46060": [
+    "3384",
+    "AC Florida West"
+   ],
+   "78688": [
+    "1925",
+    "Fort Lauderdale United FC"
+   ],
+   "48690": [
+    "3387",
+    "Parkland Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Heartland",
+  "teams": {
+   "59760": "Sporting Iowa ECNL B06/05",
+   "81313": "Sporting Nebraska FC ECNL B06/05",
+   "81210": "VSA Rush ECNL B06/05",
+   "48124": "Gretna Elite Academy ECNL B06/05",
+   "70324": "Sporting Springfield ECNL B06/05",
+   "60490": "FC Wichita ECNL B06/05",
+   "35767": "SLSG Illinois ECNL B06/05",
+   "67852": "Kansas City Athletics ECNL B06/05",
+   "60270": "KC Scott Gallagher ECNL B06/05",
+   "60039": "SLSG MO ECNL B06/05"
+  },
+  "clubs": {
+   "59760": [
+    "3483",
+    "Sporting Iowa Central"
+   ],
+   "81313": [
+    "1726",
+    "Sporting Nebraska FC"
+   ],
+   "81210": [
+    "3723",
+    "VSA Rush"
+   ],
+   "48124": [
+    "7",
+    "No Club Selection"
+   ],
+   "70324": [
+    "3584",
+    "Sporting Springfield"
+   ],
+   "60490": [
+    "3486",
+    "FC Wichita"
+   ],
+   "35767": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ],
+   "67852": [
+    "2330",
+    "KC Athletics"
+   ],
+   "60270": [
+    "3480",
+    "Union KC Soccer Club"
+   ],
+   "60039": [
+    "97",
+    "St. Louis Scott Gallagher"
+   ]
+  },
+  "groups": {
+   "59760": "North",
+   "81313": "North",
+   "81210": "North",
+   "48124": "North",
+   "70324": "South",
+   "60490": "South",
+   "35767": "South",
+   "67852": "South",
+   "60270": "South",
+   "60039": "South"
+  }
+ },
+ {
+  "age": "U18/19",
+  "conf": "Mid-Atlantic",
+  "teams": {
+   "60075": "Skyline Elite ECNL B06/05",
+   "35102": "NVA ECNL B06/05",
+   "67769": "Beach FC (VA) ECNL B06/05",
+   "21111": "VA Union ECNL B06/05",
+   "45985": "VDA ECNL B06/05",
+   "82203": "Arlington Soccer ECNL B06/05",
+   "45980": "Richmond United ECNL B06/05",
+   "11248": "Fairfax BRAVE SC ECNL B06/05",
+   "46002": "NCFC Youth Academy ECNL B06/05",
+   "21112": "NC Fusion ECNL B06/05",
+   "35116": "Charlotte Independence ECNL B06/05",
+   "35805": "Charlotte Independence Academy ECNL B06/05",
+   "82091": "Charlotte SA Academy ECNL B06/05",
+   "82096": "Charlotte SA ECNL B06/05",
+   "21114": "Wilmington Hammerheads ECNL B06/05",
+   "20979": "NCFC Youth ECNL B06/05"
+  },
+  "clubs": {
+   "60075": [
+    "3739",
+    "Skyline Elite"
+   ],
+   "35102": [
+    "4369",
+    "Northern Virginia Alliance"
+   ],
+   "67769": [
+    "628",
+    "Beach FC"
+   ],
+   "21111": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "45985": [
+    "1785",
+    "Virginia Development Academy"
+   ],
+   "82203": [
+    "525",
+    "Arlington Soccer Association"
+   ],
+   "45980": [
+    "417",
+    "Richmond United"
+   ],
+   "11248": [
+    "4603",
+    "Fairfax Virginia Union"
+   ],
+   "46002": [
+    "22",
+    "NCFC Youth"
+   ],
+   "21112": [
+    "71",
+    "NC Fusion"
+   ],
+   "35116": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "35805": [
+    "1010",
+    "Charlotte Independence SC"
+   ],
+   "82091": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "82096": [
+    "26",
+    "Charlotte Soccer Academy"
+   ],
+   "21114": [
+    "2181",
+    "Wilmington Hammerheads"
+   ],
+   "20979": [
+    "22",
+    "NCFC Youth"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Midwest",
+  "teams": {
+   "35075": "Minnesota Thunder ECNL B06/05",
+   "11112": "FC Pride Elite ECNL B06/05",
+   "60127": "St. Croix ECNL B06/05",
+   "60278": "Indiana Elite FC ECNL B06/05",
+   "35123": "Rockford Raptors FC ECNL B06/05",
+   "35752": "FC Wisconsin ECNL B06/05",
+   "68212": "Chicago Magic ECNL B06/05",
+   "35749": "Eclipse Select SC ECNL B06/05"
+  },
+  "clubs": {
+   "35075": [
+    "7",
+    "No Club Selection"
+   ],
+   "11112": [
+    "7",
+    "No Club Selection"
+   ],
+   "60127": [
+    "893",
+    "St. Croix"
+   ],
+   "60278": [
+    "2257",
+    "Indiana Elite F.C."
+   ],
+   "35123": [
+    "2017",
+    "Rockford Raptors FC"
+   ],
+   "35752": [
+    "1797",
+    "FC Wisconsin Boys"
+   ],
+   "68212": [
+    "7",
+    "No Club Selection"
+   ],
+   "35749": [
+    "43",
+    "Eclipse Select Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Mountain",
+  "teams": {
+   "46121": "La Roca FC ECNL B06/05",
+   "46126": "Utah Avalanche ECNL B06/05",
+   "35641": "FC Tucson ECNL B06/05",
+   "35649": "Phoenix Rising ECNL B06/05",
+   "35738": "Real Colorado National ECNL B06/05",
+   "19469": "Pride SC ECNL B06/05",
+   "66831": "B-Elite DEN ECNL B05/06",
+   "35731": "Colorado Rapids ECNL B06/05",
+   "34088": "Arizona Arsenal ECNL B06/05",
+   "67882": "FC Arizona ECNL B06/05",
+   "26998": "Rio Rapids ECNL B06/05",
+   "35728": "New Mexico Rush ECNL B06/05"
+  },
+  "clubs": {
+   "46121": [
+    "1760",
+    "La Roca FC"
+   ],
+   "46126": [
+    "107",
+    "Utah Avalanche"
+   ],
+   "35641": [
+    "7",
+    "No Club Selection"
+   ],
+   "35649": [
+    "1141",
+    "Phoenix Rising FC"
+   ],
+   "35738": [
+    "81",
+    "Real Colorado"
+   ],
+   "19469": [
+    "7",
+    "No Club Selection"
+   ],
+   "66831": [
+    "28",
+    "Colorado Rush"
+   ],
+   "35731": [
+    "29",
+    "Colorado Storm"
+   ],
+   "34088": [
+    "592",
+    "Arizona Arsenal Soccer Club"
+   ],
+   "67882": [
+    "3998",
+    "FC Arizona"
+   ],
+   "26998": [
+    "1560",
+    "NM Rapids SC"
+   ],
+   "35728": [
+    "2372",
+    "New Mexico Rush Soccer Club"
+   ]
+  },
+  "groups": {
+   "46121": "North",
+   "46126": "North",
+   "35641": "South",
+   "35649": "South",
+   "35738": "North",
+   "19469": "North",
+   "66831": "North",
+   "35731": "North",
+   "34088": "South",
+   "67882": "South",
+   "26998": "South",
+   "35728": "South"
+  }
+ },
+ {
+  "age": "U18/19",
+  "conf": "Northeast North",
+  "teams": {
+   "18537": "Connecticut FC ECNL B06/05",
+   "35024": "Manhattan SC ECNL B06/05",
+   "35088": "STA ECNL B06/05",
+   "21876": "World Class FC ECNL B06/05",
+   "20895": "FSA FC ECNL B06/05",
+   "14599": "FC Stars ECNL B06/05",
+   "20891": "East Meadow SC ECNL B06/05",
+   "11250": "SUSA FC ECNL B06/05"
+  },
+  "clubs": {
+   "18537": [
+    "31",
+    "Connecticut FC"
+   ],
+   "35024": [
+    "518",
+    "Manhattan SC"
+   ],
+   "35088": [
+    "428",
+    "STA"
+   ],
+   "21876": [
+    "116",
+    "World Class FC"
+   ],
+   "20895": [
+    "431",
+    "FSA FC"
+   ],
+   "14599": [
+    "52",
+    "FC Stars"
+   ],
+   "20891": [
+    "42",
+    "East Meadow Soccer Club"
+   ],
+   "11250": [
+    "9",
+    "SUSA FC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Northeast South",
+  "teams": {
+   "81304": "Potomac Soccer ECNL B06/05",
+   "20897": "Maryland United FC ECNL B06/05",
+   "46028": "Pipeline SC ECNL B06/05",
+   "20887": "Baltimore Celtic ECNL B06/05",
+   "12898": "HEX FC Dominion ECNL B06/05",
+   "12434": "Penn Fusion SA ECNL B06/05",
+   "66536": "LVU Rush ECNL B06/05",
+   "20898": "Match Fit Academy ECNL B06/05"
+  },
+  "clubs": {
+   "81304": [
+    "1940",
+    "Potomac Soccer Association"
+   ],
+   "20897": [
+    "419",
+    "Maryland United Football Club"
+   ],
+   "46028": [
+    "7",
+    "No Club Selection"
+   ],
+   "20887": [
+    "494",
+    "Baltimore Celtic Soccer Club"
+   ],
+   "12898": [
+    "46",
+    "HEX FC"
+   ],
+   "12434": [
+    "79",
+    "Penn Fusion Soccer Academy"
+   ],
+   "66536": [
+    "451",
+    "Lehigh Valley United"
+   ],
+   "20898": [
+    "64",
+    "Match Fit Surf"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Northern Cal",
+  "teams": {
+   "46150": "Marin FC ECNL B05/06",
+   "46156": "MVLA ECNL B06",
+   "33472": "COSC ECNL B05/06",
+   "71299": "River Island Surf ECNL B06/05",
+   "46162": "Placer United 05/06B ECNL",
+   "80578": "San Francisco Elite Academy ECNL B06/05",
+   "39552": "Santa Clara Sporting ECNL B06/05",
+   "46132": "Davis Legacy ECNL B06/05",
+   "81048": "1974 Newark FC ECNL B06/05",
+   "18739": "Mustang SC ECNL B06",
+   "80638": "Association FC ECNL B06/05",
+   "70365": "El Camino Futbol Club Salinas ECNL B06/05",
+   "46180": "Santa Rosa United ECNL B06/05",
+   "46168": "San Juan SC ECNL B06/05"
+  },
+  "clubs": {
+   "46150": [
+    "1585",
+    "Marin FC"
+   ],
+   "46156": [
+    "294",
+    "MVLA"
+   ],
+   "33472": [
+    "1470",
+    "California Odyssey Soccer Club"
+   ],
+   "71299": [
+    "3777",
+    "Valley Surf | America"
+   ],
+   "46162": [
+    "3054",
+    "Placer United Soccer Club"
+   ],
+   "80578": [
+    "1040",
+    "San Francisco Elite Academy"
+   ],
+   "39552": [
+    "2548",
+    "Santa Clara Sporting"
+   ],
+   "46132": [
+    "1425",
+    "Davis Legacy Soccer Club"
+   ],
+   "81048": [
+    "4342",
+    "1974 Newark FC"
+   ],
+   "18739": [
+    "69",
+    "Mustang Soccer"
+   ],
+   "80638": [
+    "3065",
+    "Association Football Club"
+   ],
+   "70365": [
+    "4063",
+    "El Camino FC Salinas"
+   ],
+   "46180": [
+    "91",
+    "Santa Rosa United Soccer"
+   ],
+   "46168": [
+    "88",
+    "San Juan Soccer Club"
+   ]
+  },
+  "groups": {
+   "46150": "Ecnl Blue",
+   "46156": "Ecnl Blue",
+   "33472": "Ecnl Blue",
+   "71299": "Ecnl Blue",
+   "46162": "Ecnl Blue",
+   "80578": "Ecnl Blue",
+   "39552": "Ecnl Blue",
+   "46132": "Ecnl Yellow",
+   "81048": "Ecnl Yellow",
+   "18739": "Ecnl Yellow",
+   "80638": "Ecnl Yellow",
+   "70365": "Ecnl Yellow",
+   "46180": "Ecnl Yellow",
+   "46168": "Ecnl Yellow"
+  }
+ },
+ {
+  "age": "U18/19",
+  "conf": "Northwest",
+  "teams": {
+   "67185": "United PDX ECNL B06/05",
+   "26469": "PacNW SC ECNL B06/05",
+   "35054": "Seattle United ECNL B06/05",
+   "32566": "Washington Premier ECNL B06/05",
+   "35080": "XF Academy ECNL B06/05",
+   "46115": "XF ECNL B06/05",
+   "35059": "Snohomish United ECNL B06/05",
+   "35069": "Eastside FC ECNL B06/05",
+   "35043": "Columbia Premier SC ECNL B06/05"
+  },
+  "clubs": {
+   "67185": [
+    "2536",
+    "United PDX"
+   ],
+   "26469": [
+    "2331",
+    "PacNW"
+   ],
+   "35054": [
+    "1643",
+    "Seattle United"
+   ],
+   "32566": [
+    "7",
+    "No Club Selection"
+   ],
+   "35080": [
+    "3476",
+    "Crossfire Premier"
+   ],
+   "46115": [
+    "7",
+    "No Club Selection"
+   ],
+   "35059": [
+    "2522",
+    "Snohomish United"
+   ],
+   "35069": [
+    "398",
+    "Eastside FC (WA)"
+   ],
+   "35043": [
+    "2322",
+    "Columbia Premier Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Ohio Valley",
+  "teams": {
+   "21431": "Ohio Premier ECNL B06/05",
+   "22463": "Ohio Elite Soccer Academy ECNL B06/05",
+   "69523": "Kings Hammer SC ECNL B06/05",
+   "46069": "Louisville City Academy ECNL B06/05",
+   "60179": "Nationals Soccer Club ECNL B06/05",
+   "35764": "Pittsburgh Riverhounds ECNL B06/05",
+   "35773": "WNY Flash ECNL B06/05",
+   "56925": "Cleveland Force SC ECNL B06/05"
+  },
+  "clubs": {
+   "21431": [
+    "437",
+    "Ohio Premier"
+   ],
+   "22463": [
+    "75",
+    "Ohio Elite Soccer Academy"
+   ],
+   "69523": [
+    "3491",
+    "Kings Hammer Columbus"
+   ],
+   "46069": [
+    "3475",
+    "LouCity / Racing Youth Academy"
+   ],
+   "60179": [
+    "1713",
+    "Nationals"
+   ],
+   "35764": [
+    "538",
+    "Pittsburgh Riverhounds"
+   ],
+   "35773": [
+    "343",
+    "WNY Flash Academy"
+   ],
+   "56925": [
+    "3478",
+    "Cleveland Force SC"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Southeast",
+  "teams": {
+   "59896": "SC Surf ECNL B06/05",
+   "20911": "Concorde Fire Premier ECNL B06/05",
+   "21113": "South Carolina United ECNL B06/05",
+   "20925": "NTH-NASA ECNL B06/05",
+   "20910": "Atlanta Fire United ECNL B06/05",
+   "11340": "CESA Triumph ECNL B06/05",
+   "46041": "United Futbol Academy ECNL B06/05",
+   "81337": "GSA  ECNL B06/05",
+   "82578": "Chattanooga Red Wolves SC ECNL B06/05",
+   "46052": "Concorde Fire Platinum ECNL B06/05",
+   "20864": "Alabama FC ECNL B05/06",
+   "20929": "Tennessee SC ECNL B06/05",
+   "35108": "FC Alliance ECNL B06/05"
+  },
+  "clubs": {
+   "59896": [
+    "7",
+    "No Club Selection"
+   ],
+   "20911": [
+    "30",
+    "Concorde Fire"
+   ],
+   "21113": [
+    "1689",
+    "South Carolina United FC"
+   ],
+   "20925": [
+    "329",
+    "NASA Tophat"
+   ],
+   "20910": [
+    "14",
+    "Atlanta Fire United"
+   ],
+   "11340": [
+    "380",
+    "Carolina Elite Soccer Academy"
+   ],
+   "46041": [
+    "3407",
+    "United Futbol Academy"
+   ],
+   "81337": [
+    "56",
+    "Gwinnett Soccer Academy"
+   ],
+   "82578": [
+    "3232",
+    "Chattanooga Red Wolves SC"
+   ],
+   "46052": [
+    "30",
+    "Concorde Fire"
+   ],
+   "20864": [
+    "18",
+    "Alabama FC"
+   ],
+   "20929": [
+    "1354",
+    "Tennessee SC"
+   ],
+   "35108": [
+    "1693",
+    "FC Alliance TN"
+   ]
+  },
+  "groups": {
+   "59896": "East",
+   "20911": "East",
+   "21113": "East",
+   "20925": "East",
+   "20910": "East",
+   "11340": "East",
+   "46041": "West",
+   "81337": "West",
+   "82578": "West",
+   "46052": "West",
+   "20864": "West",
+   "20929": "West",
+   "35108": "West"
+  }
+ },
+ {
+  "age": "U18/19",
+  "conf": "Southwest",
+  "teams": {
+   "35651": "Slammers FC ECNL B06/05",
+   "29427": "Legends FC ECNL B06",
+   "35637": "Beach FC ECNL B06/05",
+   "45960": "SDSC Surf ECNL B06/05",
+   "6739": "LA Breakers FC ECNL B06/05",
+   "45948": "LAFC So Cal ECNL B06/05",
+   "69040": "Del Mar Sharks ECNL B06/05",
+   "81455": "San Diego Surf ECNL B06/05",
+   "27123": "West Coast FC ECNL B05/06",
+   "35647": "Heat FC ECNL B06/05",
+   "45936": "Sporting California USA ECNL B06/05",
+   "45943": "Pateadores ECNL B06/05"
+  },
+  "clubs": {
+   "35651": [
+    "96",
+    "Slammers FC"
+   ],
+   "29427": [
+    "61",
+    "Legends FC (CA)"
+   ],
+   "35637": [
+    "16",
+    "Beach Futbol Club"
+   ],
+   "45960": [
+    "86",
+    "SDSC Surf"
+   ],
+   "6739": [
+    "2289",
+    "LA Breakers FC"
+   ],
+   "45948": [
+    "82",
+    "LAFC So Cal"
+   ],
+   "69040": [
+    "39",
+    "Legends FC - Del Mar"
+   ],
+   "81455": [
+    "87",
+    "San Diego Surf Soccer Club"
+   ],
+   "27123": [
+    "113",
+    "West Coast F.C."
+   ],
+   "35647": [
+    "57",
+    "LV Heat Surf SC"
+   ],
+   "45936": [
+    "13",
+    "Sporting California USA"
+   ],
+   "45943": [
+    "186",
+    "Pateadores Soccer Club"
+   ]
+  },
+  "groups": {}
+ },
+ {
+  "age": "U18/19",
+  "conf": "Texas",
+  "teams": {
+   "69581": "FC Dallas ECNL Red B06/05",
+   "46079": "FC Dallas ECNL White B06/05",
+   "46091": "HTX ECNL B06/05",
+   "81515": "SAFC ECNL B06/05",
+   "46085": "Dallas Texans Academy ECNL B06/05",
+   "20093": "Dallas Texans ECNL B06/05",
+   "46109": "OK Energy FC ECNL B06/05",
+   "20279": "BVBIA ECNL B06/05",
+   "20908": "Tulsa SC ECNL B06/05",
+   "58710": "DKSC ECNL B06/05",
+   "46104": "San Antonio City  SC ECNL B05/06",
+   "16383": "Albion Hurricanes ECNL B06/05",
+   "80447": "RISE SC ECNL B06/05",
+   "20902": "Classics Elite ECNL B06/05",
+   "20903": "Lonestar SC Red ECNL B06/05",
+   "46097": "Lonestar SC Black ECNL B06/05",
+   "73367": "Solar SC Academy ECNL B06/05",
+   "20904": "Solar SC ECNL B06/05"
+  },
+  "clubs": {
+   "69581": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "46079": [
+    "47",
+    "FC Dallas Youth"
+   ],
+   "46091": [
+    "2258",
+    "HTX"
+   ],
+   "81515": [
+    "7",
+    "No Club Selection"
+   ],
+   "46085": [
+    "37",
+    "Dallas Texans"
+   ],
+   "20093": [
+    "37",
+    "Dallas Texans"
+   ],
+   "46109": [
+    "2133",
+    "Oklahoma Energy FC"
+   ],
+   "20279": [
+    "1771",
+    "BVB International Academy Texas"
+   ],
+   "20908": [
+    "7",
+    "No Club Selection"
+   ],
+   "58710": [
+    "7",
+    "No Club Selection"
+   ],
+   "46104": [
+    "2519",
+    "San Antonio City SC"
+   ],
+   "16383": [
+    "10",
+    "Albion Hurricanes FC"
+   ],
+   "80447": [
+    "1772",
+    "RISE Soccer Club"
+   ],
+   "20902": [
+    "1375",
+    "Classics Elite Soccer Academy"
+   ],
+   "20903": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "46097": [
+    "62",
+    "Lonestar ATX"
+   ],
+   "73367": [
+    "101",
+    "Solar SC"
+   ],
+   "20904": [
+    "101",
+    "Solar SC"
+   ]
+  },
+  "groups": {}
+ }
+]

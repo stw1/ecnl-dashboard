@@ -300,7 +300,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div id="s-team" style="display:none"></div>
 <div class="card about" id="s-about"><h2>How the predictions work</h2>
 <div class="cols">
-<div><h3>Team ratings</h3><p>Each team gets an <b>attack</b> and a <b>defense</b> rating, fit to every completed game with a Poisson goals model, the standard approach for predicting soccer scores. Expected goals for the home side = league average × home edge × home attack × away defense weakness, and likewise for the away side. Home teams currently get <span id="hadv"></span> more goals in the model.</p></div>
+<div><h3>Team ratings</h3><p>Each team gets an <b>attack</b> and a <b>defense</b> rating, fit to every completed game with a Poisson goals model, the standard approach for predicting soccer scores. Expected goals for the home side = league average × home edge × home attack × away defense weakness, and likewise for the away side. Home teams currently get <span id="hadv"></span> more goals in the model.<span id="priorTxt"> Each team starts the season from last season's rating, at three-quarters strength: the average of the same players one age group younger and the club's team at this age. This season's results take over as games are played. Replaying this season so far, it lifts correct picks from 52% to 59% (boys) and 55% to 65% (girls).</span></p></div>
 <div><h3>From ratings to odds</h3><p>From the two expected-goal numbers the model works out the chance of every scoreline (0–0, 1–0, 2–1, …), which gives the win, draw and loss chances and the most likely score. A small Dixon-Coles adjustment makes 0–0 and 1–1 a bit more likely (and 1–0 and 0–1 a bit less), because plain Poisson models under-predict draws; its strength is estimated from the results so far (currently <span id="rho"></span>). The pick is the more likely winner, or "too close to call" when the two are within 5 points; the margin is the expected goal difference, rounded. The projected finish plays out every remaining game 10,000 times using those chances.</p></div>
 <div><h3>Postseason chances</h3><p>Each simulated season ends with ECNL's official 2026–27 qualification rules for that conference and age group: how many teams reach the Champions League (ECNL National Playoffs) and, for the girls, the North American Cup and Showcase Cups. That includes the top teams in each group, wildcards and play-ins. A wildcard spot goes to whichever of two conferences' teams has more points per game, so the two conferences' seasons are simulated side by side. League Cup winners can't be predicted from this data, so a spot that the League Cup winner can take is treated as going to the team in the table.</p></div>
 <div><h3>What it leaves out</h3><p>Not included: roster changes, injuries, travel, weather, out-of-conference events, and the fact that youth results are noisy. Treat these numbers as a guide, not a guarantee.</p></div>
@@ -310,7 +310,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <script>
 // every bracket (age group + conference); the page shows one: ?age=&conf=, else the last one viewed, else the default
 const DATA=/*__DATA__*/{};
-// a finished season's page (season-YYYY-YY.html) has DATA.past = "2025–26"
+// a finished season's page (season-YYYY-YY.html, girls-season-YYYY-YY.html) has DATA.past = "2025–26"
 const PAST=DATA.past||"";if(PAST)document.documentElement.classList.add("past");
 const qs=new URLSearchParams(location.search),slugC=c=>(c||"").toLowerCase().replace(/[()]/g,"").trim().replace(/\s+/g,"-");
 const findB=(a,c)=>a&&c?DATA.brackets.find(b=>b.age===a&&slugC(b.conf)===slugC(c)):undefined;
@@ -531,7 +531,7 @@ const showNote=(id,on)=>{const el=$(id);el.style.display=on?"block":"none";if(on
 // Header
 // season picker: same age group, conference / national / club view and team on the other season's page
 const SEASONS=DATA.seasons||[];
-if(SEASONS.length>1){$("seasonSel").innerHTML=SEASONS.map(x=>`<option value="${x.file}"${(PAST?x.key===PAST:x.file==="index.html")?" selected":""}>${x.key}</option>`).join("");
+if(SEASONS.length>1){$("seasonSel").innerHTML=SEASONS.map(x=>`<option value="${x.file}"${(PAST?x.key===PAST:!x.past)?" selected":""}>${x.key}</option>`).join("");
  $("seasonSel").onchange=e=>{const q=CLUBQ?`?club=${CLUBQ}`:NATIONAL?`?age=${B.age}&conf=national`:`?age=${B.age}&conf=${slugC(B.conf)}${myTeam?`&team=${slugT(nm(myTeam))}`:""}`;location.href=e.target.value+q}}
 else{$("seasonWrap").style.display="none";document.querySelector(".ctl").classList.add("noseason")}
 $("brandTxt").textContent=DATA.brand||"ECNL";
@@ -564,7 +564,7 @@ document.addEventListener("click",e=>{if(!e.target.closest(".find"))$("findR").s
 const nextG=future[0];
 if(NATIONAL){const ab=DATA.brackets.filter(b=>b.age===B.age),all=ab.flatMap(parseGames),pl=all.filter(g=>g.hs!==null).length,nx=all.filter(g=>g.hs===null).sort((x,y)=>x.dt<y.dt?-1:1)[0];
  $("meta").innerHTML=`<span>Updated ${fmtDay(SNAP)}</span><span class="prog"><i><b style="width:${pl/(all.length||1)*100}%"></b></i>${pl} of ${all.length} league games played in ${ab.length} conferences</span>`+(nx?`<span>Next games ${fmtDay(nx.dt)}</span>`:"")}
-else if(PAST)$("meta").innerHTML=`<span>Final results · ${played.length} league games</span><span>Results from Modular11, MLS NEXT's results platform before 2026–27</span>`;
+else if(PAST)$("meta").innerHTML=`<span>Final results · ${played.length} league games</span><span>Results from TotalGlobalSports, ECNL's results platform</span>`;
 else $("meta").innerHTML=`<span>Updated ${fmtDay(SNAP)}</span><span class="prog"><i><b style="width:${played.length/(games.length||1)*100}%"></b></i>${played.length} of ${games.length} games played</span>`+(nextG?`<span>Next games ${fmtDay(nextG.dt)}</span>`:"")+(newIds.size&&!NATIONAL?`<span><span class="new" style="margin:0 4px 0 0">${newIds.size} new</span>result${newIds.size>1?"s":""} since your last visit (${fmtDay(localDt(new Date(baseSeen.at).toISOString()))})</span>`:"");
 $("rho").textContent=`ρ = ${rho.toFixed(2)}`;$("hadv").textContent=`about ${((Math.exp(hadv)-1)*100).toFixed(0)}%`;
 $("foot").innerHTML=`Unofficial fan dashboard, not affiliated with ECNL. Built from the public schedule data behind theecnl.com (TotalGlobalSports). Data as of ${fmtDate(SNAP).split(" · ")[0]}.`;
@@ -729,8 +729,8 @@ function downloadIcs(c){const tx=t=>String(t).replace(/[\\,;]/g,m=>"\\"+m),stamp
  document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1000)}
 // the same players' finishes in earlier seasons (this season's U14 = last season's U13), linked to those pages
 function histLines(c){const H=(DATA.hist||{})[c]||[];if(!H.length)return"";
- return`<div class="hist"><div class="lab">Same players, earlier seasons</div>`+H.map(([se,a,cf,rk,n,w,d,l,gf,ga])=>
-  `<div><a href="season-${se}.html?age=${a}&conf=${slugC(cf)}&team=${slugT(nm(c))}">${se.replace("-","–")} · ${a}</a><span>${ordn(rk)} of ${n} in ${esc(baseConf(cf))} · ${w}-${d}-${l} · goals ${gf}–${ga}</span></div>`).join("")+"</div>"}
+ return`<div class="hist"><div class="lab">Same players, earlier seasons</div>`+H.map(([se,a,cf,rk,n,w,d,l,gf,ga,pn])=>
+  `<div><a href="${DATA.histPre||"season-"}${se}.html?age=${a}&conf=${slugC(cf)}&team=${slugT(pn||nm(c))}">${se.replace("-","–")} · ${a}</a><span>${ordn(rk)} of ${n} in ${esc(baseConf(cf))} · ${w}-${d}-${l} · goals ${gf}–${ga}</span></div>`).join("")+"</div>"}
 const todayWords=x=>!x?"No postseason spot":x.wc?(x.ahead?"Wildcard (ahead)":"Wildcard (behind)"):esc(tierName(x.tier));
 // "My team" summary card for the followed team
 function drawMy(){const el=$("myCard");if(!myTeam){el.style.display="none";el.innerHTML="";return}
@@ -833,7 +833,7 @@ function drawTeam(c){const b=B,t=srows.find(r=>r.c===c),pr=power.findIndex(p=>p.
 
 // Club view: every team of one club, across age groups
 function drawClub(){const teams=DATA.brackets.flatMap(b=>Object.entries(b.teams).filter(([id,n])=>clubSlug(b,id)===CLUBQ||slugT(n)===CLUBQ||slugT(shortName(n))===CLUBQ).map(([id,n])=>({id,n,b})));
- if(!teams.length){$("bracket").textContent="Club not found";$("clubKpis").innerHTML=`<div class="kpi" style="grid-column:1/-1"><div class="v">${PAST?`No ${PAST} league teams for “${esc(CLUBQ)}”`:`No club matches “${esc(CLUBQ)}”`}</div><div class="s">${PAST?"Some clubs (several MLS academies in 2025–26) played only Flex games that season, or joined later. Try another season with the picker above.":"Use “Find any team” above to search for it."}</div></div>`;["s-cteams","s-cnext","s-cres"].forEach(id=>$(id).style.display="none");return}
+ if(!teams.length){$("bracket").textContent="Club not found";$("clubKpis").innerHTML=`<div class="kpi" style="grid-column:1/-1"><div class="v">${PAST?`No ${PAST} league teams for “${esc(CLUBQ)}”`:`No club matches “${esc(CLUBQ)}”`}</div><div class="s">${PAST?"This club may not have had an ECNL team that season. Try another season with the picker above.":"Use “Find any team” above to search for it."}</div></div>`;["s-cteams","s-cnext","s-cres"].forEach(id=>$(id).style.display="none");return}
  const club=clubName(teams[0].b,teams[0].id),ageN=a=>parseInt(a.slice(1));teams.sort((x,y)=>ageN(x.b.age)-ageN(y.b.age)||x.b.conf.localeCompare(y.b.conf));
  document.title=`${TPRE}${club} · all teams`;$("bracket").textContent=club;
  const natCache={},natRank=(age,ppp)=>{const k=age+ppp;if(!natCache[k]){const rows=natRows(age).filter(r=>(r.b.conf!==baseConf(r.b.conf))===ppp&&r.rated).sort((p,q)=>q.net-p.net);natCache[k]={map:new Map(rows.map((r,i)=>[r.c,i+1])),n:rows.length}}return natCache[k]};
@@ -913,10 +913,11 @@ $("myTeam").onchange=e=>{myTeam=e.target.value;pin=null;try{localStorage.setItem
 $("share").onclick=async()=>{const url=location.href,btn=$("share"),title=myTeam?`${nm(myTeam)} · ${B.age} ${B.conf}`:`${B.age} ${B.conf} Conference`;
  if(navigator.share&&matchMedia("(pointer:coarse)").matches){try{await navigator.share({title,url});return}catch(err){if(err.name==="AbortError")return}}
  try{await navigator.clipboard.writeText(url);btn.textContent="Link copied ✓";setTimeout(()=>btn.textContent="Share link",2000)}catch(err){prompt("Copy this link:",url)}};
+if(!DATA.brackets.some(b=>b.prior&&Object.keys(b.prior).length))$("priorTxt").remove();else if(PAST)$("priorTxt").textContent=" Each team starts the season from the season before's rating, at three-quarters strength (the same players one age group younger, and the club's team at this age).";
 if(PAST){const up=document.querySelector('nav a[href="#s-upcoming"]');if(up)up.remove();
  document.querySelector("#s-table h2").textContent="Final standings";document.querySelector("#s-table .sub").textContent="The final league table for this season, ranked by points per game like ECNL does.";
  document.querySelector("#s-acc .sub").textContent="The model replayed over this whole season: each weekend predicted using only the games played before it, then checked against what happened.";
- $("foot").innerHTML=`Unofficial fan dashboard, not affiliated with MLS NEXT. ${PAST} results from Modular11, MLS NEXT's results platform before 2026–27.`}
+ $("foot").innerHTML=`Unofficial fan dashboard, not affiliated with ECNL. ${PAST} results from TotalGlobalSports, ECNL's results platform.`}
 if(SHOW){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s-upcoming","s-acc"])$(id).style.display="none";
  $("s-team").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-team">Overview</a><a href="#s-tsched">Schedule</a><a href="#s-topp">Opponents</a><a href="#s-about">How it works</a>';
  $("myTeam").closest(".follow").style.display="none";document.querySelector(".ctl").classList.add("nat");$("ppp").style.display="none";
