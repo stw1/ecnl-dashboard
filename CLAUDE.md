@@ -155,10 +155,10 @@ predictions?" is a walk-forward backtest of the current model.
   email link with the page address.
 - **Analytics:** `refresh.ANALYTICS_SITE = "ecnl"`. `analytics_tag()` inlines `analytics/fa.js` into every page
   (`<!--__ANALYTICS__-->` in the head), configured from `analytics/config.json`. This is the shared Firebase project
-  `spaikz-dashboards`, where the MLS NEXT repo owns the rules and report. The page calls `fa.view({view, league, season,
+  `spaikz-dashboards`, where the MLS NEXT repo owns the rules and report. No API key is published or committed:
+  the tracker writes to Firestore without one, and the security rules decide. The page calls `fa.view({view, league, season,
   age, conf, team, club, following, page})`, and the footer notes anonymous stats with an opt-out (`?fa=off`). There are
-  no cookies, and DNT/GPC are respected. Report: https://stw1.github.io/mlsnext-dashboard/analytics/report.html (pick
-  "ecnl"). To update the tracker, copy fa.js from the MLS repo.
+  no cookies, and DNT/GPC are respected. Report: https://spaikz-dashboards.web.app/ (pick "ecnl"). To update the tracker, copy fa.js from the MLS repo.
 - **Home:** the site title links home, and club, national and team pages get a "‹ Home" button.
 - **Official check in the workflow:** runs after publishing and fails (GitHub emails a warning) on any record or order
   difference. Teams with a game in the last 48 hours are reported, not flagged.
