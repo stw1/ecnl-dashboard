@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Alliance TN U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1059541-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Coastal Rush (L 0–3)
+LOCATION:Ashton Brosnaham - Field 6
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059557-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Alabama FC (L 1–8)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059577-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T100000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Chattanooga Red Wolves SC (L 1–6)
+LOCATION:Grace Baptist Academy - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059613-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Coastal Rush (L 1–3)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059629-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Alabama FC (D 1–1)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059657-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Louisiana Fire SC (L 1–6)
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059673-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Mississippi Rush United (W 2–1)
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059681-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Tennessee SC (L 0–3)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059689-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Tennessee United SC (D 1–1)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059697-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Chattanooga Red Wolves SC
+LOCATION:Mayor Bob Leonard Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059749-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Germantown Legends
+LOCATION:Mike Rose Soccer Complex - Field 16
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059761-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Lobos Rush
+LOCATION:Mike Rose Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059777-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Louisiana Fire SC
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059797-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Mississippi Rush United
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059805-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T190000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Tennessee United SC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059813-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059849-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Germantown Legends
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059865-134637@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Alliance TN vs Lobos Rush
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=134637
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=134637
+END:VEVENT
+END:VCALENDAR

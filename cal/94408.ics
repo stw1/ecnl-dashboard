@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC DELCO U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072192-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO vs PDA Blue (D 3–3)
+LOCATION:Proving Grounds - 7
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072198-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260919
+SUMMARY:U14 FC DELCO vs Pipeline SC (W 10–0)
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072182-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T164500
+DURATION:PT2H
+SUMMARY:U14 FC DELCO vs Bethesda SC (W 3–1)
+LOCATION:Proving Grounds - 7
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072214-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T093000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO vs Match Fit Surf (W 1–0)
+LOCATION:Proving Grounds - 7
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072224-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at Penn Fusion Soccer Academy
+LOCATION:USTC - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140088-n-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T120000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at Richmond United (national event)
+LOCATION:nCino Sports Park - Field #08
+DESCRIPTION:ECNL Girls · U14 North Atlantic · ECNL Girls North Carolina -
+  Fall\nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north
+ -atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072236-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at HEX FC Bucks
+LOCATION:Council Rock North High School - Turf Field
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072238-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T133000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at Maryland United FC
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072246-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T123000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO vs Philadelphia Ukranian Nationals
+LOCATION:Downingtown East High School - Lower Field
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072264-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at PDA White
+LOCATION:Monmouth Regional - Turf Complex - North
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072272-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 FC DELCO at Bethesda SC
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072278-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T103000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at Pipeline SC
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072284-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270327T090000
+DURATION:PT2H
+SUMMARY:U14 FC DELCO at PDA Blue
+LOCATION:PDA Main Complex - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072306-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 FC DELCO at Match Fit Surf
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072312-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 FC DELCO vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072322-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 FC DELCO vs HEX FC Bucks
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072336-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 FC DELCO at Philadelphia Ukranian Nationals
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072340-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 FC DELCO vs Maryland United FC
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072354-94408@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U14 FC DELCO vs PDA White
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=94408
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=94408
+END:VEVENT
+END:VCALENDAR

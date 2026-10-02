@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OK Energy FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057002-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs FC Wichita (W 2–1)
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057010-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Kansas Rush (W 1–0)
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057018-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T170000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at Gretna Elite Academy (W 3–2)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057028-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at Sporting Nebraska FC (D 0–0)
+LOCATION:CHI Nebraska MultiSport Complex - Field 11
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057040-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Union KC Soccer Club (D 1–1)
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057048-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Kansas City Athletics (W 2–0)
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1142272-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at Arkansas Comets FC
+LOCATION:Brunner & Lay Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057064-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057070-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T080000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at Sporting Iowa Central
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057110-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Missouri Rush
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057122-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs St. Louis Stars SC
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057142-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 OK Energy FC at Missouri Rush
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=9444
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057148-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057150-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 OK Energy FC at Kansas City Athletics
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=9444
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057156-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 OK Energy FC at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=9444
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057174-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Arkansas Comets FC
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057180-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T130000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Sporting Iowa Central
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057184-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs VSA Rush
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057196-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 OK Energy FC at Kansas Rush
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=9444
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057210-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 OK Energy FC at FC Wichita
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=9444
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057246-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Gretna Elite Academy
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057254-94446@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T110000
+DURATION:PT2H
+SUMMARY:U13 OK Energy FC vs Sporting Nebraska FC
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=94446
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=94446
+END:VEVENT
+END:VCALENDAR

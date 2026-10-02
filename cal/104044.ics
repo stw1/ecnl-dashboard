@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SUSA FC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068159-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T154500
+DURATION:PT2H
+SUMMARY:U13 SUSA FC at World Class FC (L 0–2)
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068183-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T083000
+DURATION:PT2H
+SUMMARY:U13 SUSA FC at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068185-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T104000
+DURATION:PT2H
+SUMMARY:U13 SUSA FC vs FC Stars Blue
+LOCATION:The SUSA Orlin & Cohen Sports Complex - field 2
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068193-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U13 SUSA FC vs FC Stars White
+LOCATION:The SUSA Orlin & Cohen Sports Complex - field 2
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068201-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T114500
+DURATION:PT2H
+SUMMARY:U13 SUSA FC at Select
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068203-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T163000
+DURATION:PT2H
+SUMMARY:U13 SUSA FC at Scorpions SC
+LOCATION:Taunton Forekicks - Field 12
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068211-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 SUSA FC vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068213-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U13 SUSA FC vs FSA FC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068221-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U13 SUSA FC vs East Meadow Soccer Club
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068241-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 SUSA FC at FC Stars Blue
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068251-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 SUSA FC at FC Stars White
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068259-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 SUSA FC at Connecticut FC United
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068271-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 SUSA FC vs Select
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068277-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 SUSA FC vs Scorpions SC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068283-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 SUSA FC vs World Class FC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068291-104044@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U13 SUSA FC at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=104044
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=104044
+END:VEVENT
+END:VCALENDAR

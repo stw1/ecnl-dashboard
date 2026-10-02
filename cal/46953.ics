@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSA FC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071792-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 FSA FC at FC Stars Blue
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071796-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U18/19 FSA FC at FC Stars White
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071798-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T171500
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs SUSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071800-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T143000
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs East Meadow Soccer Club
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071808-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T163000
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs Select
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071813-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U18/19 FSA FC at Select
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071814-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 FSA FC at World Class FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071819-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 FSA FC at Scorpions SC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071828-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T163000
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs FC Stars Blue
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071832-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T163000
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs Scorpions SC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071837-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 FSA FC at Connecticut FC United
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071838-46953@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T163000
+DURATION:PT2H
+SUMMARY:U18/19 FSA FC vs FC Stars White
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46953
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46953
+END:VEVENT
+END:VCALENDAR

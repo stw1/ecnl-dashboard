@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Rosa United U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094399-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T140000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs COSC (W 3–2)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094429-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T160000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at Placer United (L 0–4)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094441-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:U16 Santa Rosa United at Bay Area Surf - (L 0–5)
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094507-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at San Juan SC (L 0–2)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094537-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs Pleasanton RAGE (L 1–3)
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094561-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at Davis Legacy (L 1–5)
+LOCATION:Davis Legacy Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094609-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T154000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at MVLA (L 1–5)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094645-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs Mustang SC (L 1–10)
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094675-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at Marin FC
+LOCATION:Marin Academy - Field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094723-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs Force (CA)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094759-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs Stanislaus Surf -
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094765-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T140000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at COSC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094825-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United vs San Juan SC
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094867-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T190000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at Pleasanton RAGE
+LOCATION:Stanford Sports Complex - East
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094903-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Santa Rosa United vs Bay Area Surf -
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094939-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Santa Rosa United vs Placer United
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094975-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Santa Rosa United vs Davis Legacy
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095005-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Santa Rosa United at Mustang SC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095047-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Santa Rosa United vs MVLA
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095083-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Santa Rosa United vs Marin FC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095101-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Santa Rosa United at Force (CA)
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095161-132204@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T140000
+DURATION:PT2H
+SUMMARY:U16 Santa Rosa United at Stanislaus Surf -
+LOCATION:Mary Grogan Community Park - field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=132204
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=132204
+END:VEVENT
+END:VCALENDAR

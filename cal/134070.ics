@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting California USA U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085372-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA at So Cal Blues (L 0–2)
+LOCATION:OC Great Park - Field 22
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085420-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T171500
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA vs Slammers FC HB Koge (L 1–4)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085462-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T171500
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA vs San Diego Surf (L 0–6)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085480-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 19
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1142211-n-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T154000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA vs Pleasanton RAGE (national event)
+LOCATION:Surf Sports Park - Field #19
+DESCRIPTION:ECNL Girls · U13 Southwest · ECNL Girls San Diego\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085528-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 24
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085648-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA vs Phoenix Rising FC
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085672-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA at Pateadores Soccer Club
+LOCATION:Great Park - Field 8
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085738-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting California USA at LV Heat Surf
+LOCATION:Heritage Park Sports Complex - Field 10
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=134070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085804-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 Sporting California USA vs SLAMMERS FC
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085852-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Sporting California USA vs Utah Royals FC-AZ
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085942-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Sporting California USA at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085954-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Sporting California USA at LAFC So Cal
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086020-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Sporting California USA vs LA Breakers FC
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086068-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Sporting California USA vs Rebels SC
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086092-134070@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 Sporting California USA at Legends FC Del Mar
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=134
+ 070
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=134070
+END:VEVENT
+END:VCALENDAR

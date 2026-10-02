@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arlington Soccer Association U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122144-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association vs Beach FC (VA) (W 2–0)
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122154-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at VDA (D 0–0)
+LOCATION:Howison Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122158-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association vs South Carolina Surf (W 2–0)
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122170-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association vs Wilmington Hammerheads
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122178-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association vs NCFC Youth NC Courage
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122188-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T123000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association vs Richmond United
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122194-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122204-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at NC Fusion
+LOCATION:Truist Soccer Complex at Bryan Park - BP 02 Triton Management
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122230-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at Fairfax Virginia Union
+LOCATION:James W Robinson HS - Upper Turf
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122234-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T120000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at NCFC Youth
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122256-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U14 Arlington Soccer Association at South Carolina Surf
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122258-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U14 Arlington Soccer Association at Wilmington Hammerheads
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122304-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U14 Arlington Soccer Association vs Fairfax Virginia Union
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122308-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T123000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at Richmond United
+LOCATION:Striker Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122318-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T120000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at NCFC Youth NC Courage
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122324-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Arlington Soccer Association vs NCFC Youth
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122332-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Arlington Soccer Association vs NC Fusion
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122336-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Arlington Soccer Association vs Charlotte SA
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122346-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T140000
+DURATION:PT2H
+SUMMARY:U14 Arlington Soccer Association at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 15
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122360-134239@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U14 Arlington Soccer Association vs VDA
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=134239
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=134239
+END:VEVENT
+END:VCALENDAR

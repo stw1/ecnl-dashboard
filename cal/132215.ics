@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Carolina United U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069703-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs Athletic Club Florida (L 1–5)
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069719-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs Team Boca (D 2–2)
+LOCATION:Southeastern Freight Lines Complex - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069739-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs Seminole United (L 1–4)
+LOCATION:Southeastern Freight Lines Complex - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069755-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs Florida Kraze Krush (L 0–3)
+LOCATION:Southeastern Freight Lines Complex - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069765-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T083000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Jacksonville FC (W 2–0)
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069783-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Sporting SA JAX (L 2–4)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140075-n-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs NC Fusion (national event)
+LOCATION:nCino Sports Park - Field #05
+DESCRIPTION:ECNL Girls · U13 Southeast · ECNL Girls North Carolina - Fall
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast&
+ show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069805-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Tampa Bay United
+LOCATION:Ed Radice Sports Complex - Field 5
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069819-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T083000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 8
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069835-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T110000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at United Futbol Academy
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069853-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 South Carolina United at Atlanta Fire United
+DESCRIPTION:ECNL Girls · U13 Southeast · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast&show=132
+ 215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069867-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 South Carolina United at CESA Liberty
+DESCRIPTION:ECNL Girls · U13 Southeast · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast&show=132
+ 215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069891-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069909-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T100000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069923-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs Concorde Fire Platinum
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069931-132215@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina United vs GSA
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=132215
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=132215
+END:VEVENT
+END:VCALENDAR

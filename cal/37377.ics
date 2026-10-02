@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NC Fusion U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109675-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U17 NC Fusion vs Richmond United
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109683-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U17 NC Fusion vs Beach FC (VA)
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109763-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U17 NC Fusion vs Skyline Elite
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109775-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U17 NC Fusion vs VDA
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109791-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U17 NC Fusion vs NCFC Youth Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109803-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U17 NC Fusion vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109879-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U17 NC Fusion vs Charlotte SA
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109903-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 NC Fusion at NCFC Youth Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109923-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 NC Fusion at Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109931-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 NC Fusion at Highland FC
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109939-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U17 NC Fusion at Fairfax Virginia Union
+LOCATION:James W Robinson HS - Upper Turf
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109943-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U17 NC Fusion at Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109959-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 NC Fusion at NCFC Youth
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109975-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 NC Fusion vs Wilmington Hammerheads
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109983-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 NC Fusion at Charlotte SA
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110027-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 NC Fusion vs NCFC Youth
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110035-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T110000
+DURATION:PT2H
+SUMMARY:U17 NC Fusion at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110039-37377@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 NC Fusion vs Highland FC
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=37377
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=37377
+END:VEVENT
+END:VCALENDAR

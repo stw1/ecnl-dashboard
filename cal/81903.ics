@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Futbol Academy U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069945-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs Sporting SA JAX (W 1–0)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069973-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs Jacksonville FC (D 1–1)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070025-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs Tampa Bay United (L 0–1)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070053-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs Florida Premier FC (L 2–3)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070069-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Florida Kraze Krush (L 1–2)
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070105-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Seminole United (D 1–1)
+LOCATION:Seminole - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070161-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070197-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Team Boca
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field S1 #1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070209-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs CESA Liberty
+LOCATION:Fowler Park - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070225-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy vs South Carolina United
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070301-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Atlanta Fire United
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070233-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070253-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070273-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U15 United Futbol Academy at GSA
+LOCATION:GSA East - #1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=81903
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070289-81903@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:U15 United Futbol Academy vs Concorde Fire Platinum
+DESCRIPTION:ECNL Girls · U15 Southeast · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast&show=819
+ 03
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=81903
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida Premier FC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068347-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T130000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs AC Florida West (W 6–1)
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068491-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260921T193000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Florida Premier FC South (D 1–1)
+LOCATION:Lakewood Ranch Park - field 5
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068437-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Sporting SA JAX (D 1–1)
+LOCATION:Indian Trails Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068461-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Space Coast United (W 5–1)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068305-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Doral Soccer Club
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068515-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Florida Kraze Krush
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068539-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T160000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Parkland Soccer Club
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068563-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T103000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Athletic Club Florida
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068629-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Fort Lauderdale United FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068653-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U14 Florida Premier FC at Palm Beach United
+DESCRIPTION:ECNL Boys · U14 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068689-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T120000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Florida Premier FC South
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068785-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T120000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Fort Lauderdale United FC
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068797-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Palm Beach United
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068827-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at AC Florida West
+LOCATION:Bayshore Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068863-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T140000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068881-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Athletic Club Florida
+LOCATION:Mullins Park - Field 1 - Turf
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068905-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Florida Kraze Krush
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068929-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T160000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Sporting SA JAX
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068947-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC vs Space Coast United
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068761-112773@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U14 Florida Premier FC at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=112773
+END:VEVENT
+END:VCALENDAR

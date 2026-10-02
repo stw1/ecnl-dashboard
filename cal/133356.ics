@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Louisville City Academy U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064688-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T110000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs Pittsburgh Riverhounds
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064696-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T110000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs Nationals SC
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064856-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T130000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs Ohio Elite SA
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064780-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T130000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs Cleveland Force SC
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064792-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T130000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs Ohio Premier
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064808-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T143000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy at WNY Flash
+LOCATION:Flash Fields - Field B2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064828-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 Louisville City Academy at RNY FC Youth
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064832-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T163000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064756-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs WNY Flash
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064768-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs RNY FC Youth
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064864-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Louisville City Academy at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064884-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Louisville City Academy at Nationals SC
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064704-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy vs FC Pride Elite
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064920-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Louisville City Academy at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064928-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T100000
+DURATION:PT2H
+SUMMARY:U18/19 Louisville City Academy at Ohio Premier
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064952-133356@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U18/19 Louisville City Academy at FC Pride Elite
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=133356
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=133356
+END:VEVENT
+END:VCALENDAR

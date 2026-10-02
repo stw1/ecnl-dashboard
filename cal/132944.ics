@@ -1,0 +1,305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Legends FC (CA) U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1086506-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at San Diego Surf (W 1–0)
+LOCATION:Surf Sports Park - Field 4
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086538-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at SDSC Surf (W 3–0)
+LOCATION:Maranatha Christian School - Stadium (South)
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086542-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260929T180000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs Pateadores Soccer Club (W 4–1)
+LOCATION:La Verne Uni - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086554-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at LAFC So Cal
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086590-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T123000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at West Coast FC
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144254-n-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T131500
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs HTX (national event)
+LOCATION:Surf Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U15 Southwest · ECNL Boys San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086606-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T170000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs Rebels SC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086626-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T180000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at Pateadores Soccer Club
+LOCATION:Great Park - Field 19
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086634-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T150000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs SDSC Surf
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086662-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs San Diego Surf
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086706-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs West Coast FC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086730-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T110000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at Legends FC Del Mar
+LOCATION:San Dieguito Academy - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086770-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs LV Heat Surf SC
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086802-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Legends FC (CA) at Sporting California USA
+DESCRIPTION:ECNL Boys · U15 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest&show=1329
+ 44
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086822-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T150000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs Legends FC Del Mar
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086914-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs Beach Futbol Club (CA)
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086922-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Legends FC (CA) at CDA Slammers FC
+DESCRIPTION:ECNL Boys · U15 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest&show=1329
+ 44
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086946-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T140000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at Rebels SC
+LOCATION:Monte Vista High School - Stadium
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086954-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Legends FC (CA) at LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U15 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest&show=1329
+ 44
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086978-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Legends FC (CA) at LA Breakers FC
+DESCRIPTION:ECNL Boys · U15 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest&show=1329
+ 44
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086994-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs Sporting California USA
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087006-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs LAFC So Cal
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086862-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T130000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs LA Breakers FC
+LOCATION:Ontario Sports Empire - Field 1
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087030-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T110000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) at Beach Futbol Club (CA)
+LOCATION:El Camino College - Stadium
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087078-132944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270530T110000
+DURATION:PT2H
+SUMMARY:U15 Legends FC (CA) vs CDA Slammers FC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=southwest&show=132944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=southwest
+ &show=132944
+END:VEVENT
+END:VCALENDAR

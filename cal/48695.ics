@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Parkland Soccer Club U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068325-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Florida Kraze Krush (W 3–1)
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068373-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T190000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Fort Lauderdale United FC
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068409-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T120000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at AC Florida West (W 6–1)
+LOCATION:North Collier Regional Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068451-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T190000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Palm Beach United (W 9–0)
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068475-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T160000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068499-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068505-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T120000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Athletic Club Florida
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068535-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068565-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068619-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T170000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Sporting SA JAX
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068643-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Space Coast United
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068667-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T150000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Florida Kraze Krush
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068673-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T110000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Doral Soccer Club
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068697-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T130000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs AC Florida West
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068379-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T170000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Doral Soccer Club
+LOCATION:Divine Savior Academy - DSA 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068721-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T130000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Athletic Club Florida
+LOCATION:Mullins Park - Field 1 - Turf
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068835-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Parkland Soccer Club at Palm Beach United
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=48
+ 695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068859-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T140000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Florida Premier FC
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068883-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club vs Florida Premier FC South
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068913-48695@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U18/19 Parkland Soccer Club at Fort Lauderdale United FC
+LOCATION:Miami Dolphins Training Facility @ NOVA Southeaste - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=48695
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=48695
+END:VEVENT
+END:VCALENDAR

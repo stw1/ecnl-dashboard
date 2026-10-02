@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Premier U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064708-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T153000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064720-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs WNY Flash
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064732-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs RNY FC Youth
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064744-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs FC Pride Elite
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064748-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs Pittsburgh Riverhounds
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064764-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T140000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Indoor
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064784-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Ohio Premier at FC Pride Elite
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064792-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T130000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064800-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Ohio Premier at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064820-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 Ohio Premier at Nationals SC
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064872-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T133000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064892-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Ohio Premier at RNY FC Youth
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
+ &show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064916-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs Ohio Elite SA
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064928-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs Louisville City Academy
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064940-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs Cleveland Force SC
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064948-60138@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T100000
+DURATION:PT2H
+SUMMARY:U18/19 Ohio Premier vs Nationals SC
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60138
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
+ alley&show=60138
+END:VEVENT
+END:VCALENDAR

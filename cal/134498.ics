@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RNY FC Youth U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064545-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at WNY Flash (L 1–2)
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064557-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at Ohio Elite SA (W 2–1)
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064565-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T100000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at Ohio Premier (L 0–3)
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064573-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T133000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth vs Cleveland Force SC
+LOCATION:RNYFC Youth Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064581-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T100000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth vs Nationals SC
+LOCATION:RNYFC Youth Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140123-n-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at Scorpions SC (national event)
+LOCATION:nCino Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · ECNL Boys North Carolina - Fall
+ \nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valle
+ y&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064591-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U13 RNY FC Youth vs FC Pride Elite
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064599-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U13 RNY FC Youth vs Louisville City Academy
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064583-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T083000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064639-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth vs Pittsburgh Riverhounds
+LOCATION:Rochester Institute of Technology - Judson Stadium
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064621-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T090000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064627-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T090000
+DURATION:PT2H
+SUMMARY:U13 RNY FC Youth at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U13 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=ohio-valley&show=134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064657-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 RNY FC Youth at Nationals SC
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064659-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 RNY FC Youth at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064669-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 RNY FC Youth vs Ohio Elite SA
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064673-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U13 RNY FC Youth vs Ohio Premier
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064679-134498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 RNY FC Youth vs WNY Flash
+DESCRIPTION:ECNL Boys · U13 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-valley&show=
+ 134498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=ohio-vall
+ ey&show=134498
+END:VEVENT
+END:VCALENDAR

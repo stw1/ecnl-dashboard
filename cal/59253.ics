@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Concorde Fire Platinum U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064990-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at South Carolina Surf (W 2–1)
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064996-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs South Carolina United (D 2–2)
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065020-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs CESA Triumph (W 5–0)
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065060-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T173000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs Concorde Fire Premier (W 2–0)
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065102-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T170000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at Concorde Fire Premier (W 8–1)
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065116-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs United Futbol Academy
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065164-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at Atlanta Fire United
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065188-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at NTH NASA
+LOCATION:Franklin Gateway Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065212-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T120000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs South Carolina Surf
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065230-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs GSA
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065244-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at CESA Triumph
+LOCATION:Mesa Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065268-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Stadium A
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065272-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T150000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs NTH NASA
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065284-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T150000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum vs Atlanta Fire United
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065330-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270109T150000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at United Futbol Academy
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065334-59253@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270110T150000
+DURATION:PT2H
+SUMMARY:U18/19 Concorde Fire Platinum at GSA
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=southeast&show=59253
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe
+ ast&show=59253
+END:VEVENT
+END:VCALENDAR

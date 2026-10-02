@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eagles SC U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085339-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Legends FC (CA) (L 1–2)
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085381-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Pateadores Soccer Club (W 3–1)
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085435-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC at LAFC So Cal (D 1–1)
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085477-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Sporting California USA
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085519-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Legends FC Del Mar
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085561-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs San Diego Surf
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085651-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Phoenix Rising FC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085681-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T133000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC at Slammers FC HB Koge
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085741-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T133000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC at SLAMMERS FC
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085759-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Eagles SC at Beach Futbol Club (CA)
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=620
+ 45
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085807-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Eagles SC vs Arizona Arsenal
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=620
+ 45
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085861-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T110000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085915-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Eagles SC at LV Heat Surf
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=620
+ 45
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086035-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U16 Eagles SC vs Utah Royals FC-AZ
+LOCATION:Pleasant Valley Fields - Field 19
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=62045
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086095-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 Eagles SC at Rebels SC
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=620
+ 45
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086137-62045@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U16 Eagles SC at So Cal Blues
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=620
+ 45
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=62045
+END:VEVENT
+END:VCALENDAR

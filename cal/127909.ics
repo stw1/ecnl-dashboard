@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Inter U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067680-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs Missouri Rush (W 3–2)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067724-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Sporting Blue Valley (W 2–0)
+LOCATION:Pinnacle National Development Center - East
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067744-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Kansas City Athletics (W 2–1)
+LOCATION:KC Current Training Facility - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067776-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs Michigan Hawks (L 1–5)
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067804-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs Michigan Hawks Magic (D 2–2)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067828-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T123000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs Eclipse Select Soccer Club (W 2–0)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067856-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T104500
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs St. Louis Scott Gallagher Navy (W 3–2)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067876-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T151500
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs Rockford Raptors FC
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067900-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T114500
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs FC Wisconsin
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068000-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Sporting Iowa
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068008-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T120000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Gretna Elite Academy
+LOCATION:HyVee Multiplex - White 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068020-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T114500
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Nationals SC
+LOCATION:Oakland University Upper Fields - OU Bubble
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068040-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at Liverpool FC MI
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068064-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T113000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068105-127909@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chicago Inter vs MN Thunder Academy
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=127909
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=127909
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia Ukrainian Nationals U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072546-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T173000
+DURATION:PT2H
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals at Pipeline SC
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072598-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals at PDA White
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072606-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals vs Maryland United FC
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072626-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals vs Match Fit Surf
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072654-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals at Penn Fusion Soccer Acade
+ my
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072674-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals vs FC DELCO
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072678-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals at Bethesda SC
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072694-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals vs HEX FC Bucks
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072706-134963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U18/19 Philadelphia Ukrainian Nationals at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=134963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=134963
+END:VEVENT
+END:VCALENDAR

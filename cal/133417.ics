@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oregon Premier FC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075517-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs Boise Timbers
+LOCATION:TBA - Field
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075518-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs Idaho Rush
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075397-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U17 Oregon Premier FC at Capital FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075417-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U17 Oregon Premier FC at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075519-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs Capital FC
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075520-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs Eugene Metro FC
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075521-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs United PDX
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075522-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC vs FC Portland
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075467-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U17 Oregon Premier FC at FC Portland
+LOCATION:Liberty High School - Stadium Field
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075557-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Oregon Premier FC at United PDX
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075352-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Oregon Premier FC at Boise Timbers
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075486-133417@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 Oregon Premier FC at Idaho Rush
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=133417
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=133417
+END:VEVENT
+END:VCALENDAR

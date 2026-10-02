@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manhattan SC U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118069-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Manhattan SC at East Coast Surf SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118093-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U16 Manhattan SC vs Select
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118121-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:U16 Manhattan SC at AC Connecticut
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118137-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Manhattan SC vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118161-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 Manhattan SC vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118189-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U16 Manhattan SC vs FSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118213-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U16 Manhattan SC vs Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118229-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 Manhattan SC vs AC Connecticut
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118285-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Manhattan SC vs SUSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118293-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Manhattan SC vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118301-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T193000
+DURATION:PT2H
+SUMMARY:U16 Manhattan SC at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118321-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Manhattan SC at SUSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118337-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U16 Manhattan SC at East Meadow Soccer Club
+LOCATION:Point Lookout - Lido Blvd - Field 1
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118353-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Manhattan SC at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118397-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T104500
+DURATION:PT2H
+SUMMARY:U16 Manhattan SC at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118417-70075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U16 Manhattan SC at FC Stars
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 70075
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=70075
+END:VEVENT
+END:VCALENDAR

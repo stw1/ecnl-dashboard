@@ -22,6 +22,9 @@ import postseason
 API = "https://api.athleteone.com/api/Event"
 UA = {"User-Agent": "Mozilla/5.0 (personal ECNL fan dashboard; github.com/stw1/ecnl-dashboard)"}
 SEASON = "2026-27"
+SITE = "https://stw1.github.io/ecnl-dashboard/"
+FEEDBACK = "support@spaikz.com"   # footer "Report a problem or suggest an idea": an email address or a form URL ("" = off)
+ANALYTICS_SITE = "ecnl"           # site code in the shared analytics project (analytics/README.md); "" = off
 # One TotalGlobalSports "event" per conference. These are the lists the ECNL standings pages offer for 2026-27
 # (org 12 season 81 = Boys, org 9 season 80 = Girls). Update every August for the new season.
 LEAGUES = {
@@ -211,7 +214,7 @@ def page_data(gender, brackets, games, snap, season=SEASON, national=None):
         dage, dconf = next(((b["age"], b["conf"]) for b in brackets if b["age"] == dage), (brackets[0]["age"], brackets[0]["conf"]))
     return {"default": {"age": dage, "conf": dconf}, "snap": snap, "venues": venues, "brand": lg["label"],
             "leagues": [{"key": "Boys" if k == "boys" else "Girls", "file": page_file(k, season), "on": k == gender} for k in LEAGUES],
-            "clubs": clubs, "localTimes": True, "xnames": xnames, "flexName": "ECNL national events", "flexShort": "National",
+            "clubs": clubs, "localTimes": True, "xnames": xnames, "feedback": FEEDBACK, "flexName": "ECNL national events", "flexShort": "National",
             "histPre": "girls-season-" if gender == "girls" else "season-",
             "tiers": postseason.TIERS[gender], "postNotes": postseason.NOTES[gender],
             "brackets": [{"age": b["age"], "conf": b["conf"], "teams": {k: team_label(n) for k, n in b["teams"].items()},
@@ -220,9 +223,93 @@ def page_data(gender, brackets, games, snap, season=SEASON, national=None):
                           "raw": ";".join(league.get((b["age"], b["conf"]), [])),
                           "flex": ";".join(sorted(set(extra.get((b["age"], b["conf"]), []))))} for b in brackets]}
 
+def analytics_tag():
+    """analytics/fa.js inlined (the page stays one file), configured from analytics/config.json."""
+    if not ANALYTICS_SITE:
+        return ""
+    try:
+        cfg = json.load(open(f"{ROOT}/analytics/config.json"))
+        js = open(f"{ROOT}/analytics/fa.js").read().replace("</", "<\\/")  # a "</script>" in it would end the tag
+    except OSError:
+        return ""
+    conf = {"site": ANALYTICS_SITE, "projectId": cfg.get("projectId", ""), "apiKey": cfg.get("apiKey", ""),
+            "sections": '.card[id^="s-"]'}
+    return f"<script>window.FA_CONFIG={json.dumps(conf)};</script>\n<script>\n{js}</script>"
+
+def write_calendars(gender, brackets, games, national):
+    """cal/<team id>.ics for every team this season: its league and national-event games, with the result in the title
+    once played. Calendar apps subscribe to these (webcal://), so new kickoff times and results reach phones by
+    themselves. Times are local to the field (floating). Nothing time-dependent goes in (fixed DTSTAMP), so a file only
+    changes when its games do, and only changed files are rewritten (a synced folder like iCloud Drive leaves
+    "123 2.ics" duplicates when many files are deleted and recreated)."""
+    out = f"{ROOT}/cal"
+    os.makedirs(out, exist_ok=True)
+    where = {t: b for b in brackets for t in b["teams"]}
+    tx = lambda t: re.sub(r"([\\,;])", r"\\\1", str(t)).replace("\n", "\\n")
+    def fold(line):  # RFC 5545: at most 75 octets a line, continuation lines start with a space
+        b, parts = line.encode(), []
+        while len(b) > (75 if not parts else 74):
+            cut = 75 if not parts else 74
+            while (b[cut] & 0xC0) == 0x80:  # don't split a UTF-8 character
+                cut -= 1
+            parts.append(b[:cut]); b = b[cut:]
+        parts.append(b)
+        return "\r\n ".join(x.decode() for x in parts)
+    mine = {}
+    for g in games:
+        for side in ("home_id", "away_id"):
+            if g[side] in where:
+                mine.setdefault(g[side], {})[str(g["match_id"])] = dict(g, nat="")
+    for g in national:
+        if g.get("gender") != gender:
+            continue
+        for side in ("home_id", "away_id"):
+            if g[side] in where:
+                mine.setdefault(g[side], {})[str(g["match_id"]) + "n"] = dict(g, nat=g.get("event_name") or "national event")
+    lg = LEAGUES[gender]
+    for t, b in where.items():
+        name, age = team_label(b["teams"][t]), b["age"]
+        page = f"{SITE}{lg['file']}?age={age}&conf={re.sub(r'[^a-z0-9]+', '-', b['conf'].lower()).strip('-')}&show={t}"
+        ev = []
+        for g in sorted(mine.get(t, {}).values(), key=lambda g: g["start"]):
+            home = g["home_id"] == t
+            opp_id = g["away_id"] if home else g["home_id"]
+            ob = where.get(opp_id)
+            opp = team_label(ob["teams"][opp_id]) if ob else team_label(g["away_team"] if home else g["home_team"])
+            res = ""
+            if str(g["home_score"]) != "":
+                f, a = (int(g["home_score"]), int(g["away_score"])) if home else (int(g["away_score"]), int(g["home_score"]))
+                res = f" ({'W' if f > a else 'L' if f < a else 'D'} {f}–{a})"
+            start = g["start"]
+            when = ([f"DTSTART;VALUE=DATE:{start.replace('-', '')}"] if len(start) == 10 else
+                    [f"DTSTART:{start.replace('-', '').replace(':', '').replace(' ', 'T')}00", "DURATION:PT2H"])
+            title = f"{age} {name} {'vs' if home else 'at'} {opp}" + (" (national event)" if g["nat"] else "") + res
+            desc = f"{lg['label']} · {age} {b['conf']}" + (f" · {g['nat']}" if g["nat"] else "") + (" · kickoff time not set yet" if len(start) == 10 else "")
+            ev += ["BEGIN:VEVENT", f"UID:ecnl-{g['match_id']}{'-n' if g['nat'] else ''}-{t}@stw1.github.io", "DTSTAMP:20260801T000000Z", *when,
+                   f"SUMMARY:{tx(title)}", *([f"LOCATION:{tx(g['venue'])}"] if g.get("venue") else []),
+                   f"DESCRIPTION:{tx(desc)}\\n{tx(page)}", f"URL:{page}", "END:VEVENT"]
+        cal = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//ecnl-dashboard//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
+               "X-WR-CALNAME:" + tx(f"{name} {age} · {lg['label']}"),
+               "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H", *ev, "END:VCALENDAR"]
+        text, path = "\r\n".join(fold(l) for l in cal) + "\r\n", f"{out}/{t}.ics"
+        try:
+            same = open(path, newline="").read() == text
+        except OSError:
+            same = False
+        if not same:
+            with open(path, "w", newline="") as fh:
+                fh.write(text)
+    return {f"{t}.ics" for t in where}
+
+def prune_calendars(wanted):
+    """Remove calendars of teams no longer in any bracket, and sync-service duplicates."""
+    for f in os.listdir(f"{ROOT}/cal"):
+        if f not in wanted:
+            os.remove(f"{ROOT}/cal/{f}")
+
 def write_page(gender, data, season):
     lg = LEAGUES[gender]
-    tpl = open(f"{ROOT}/template/dashboard_template.html").read()
+    tpl = open(f"{ROOT}/template/dashboard_template.html").read().replace("<!--__ANALYTICS__-->", analytics_tag())
     text = f"{season.replace('-', '–')} season" + ("" if season == SEASON else " · final")
     html = (tpl.replace("/*__DATA__*/{}", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
                .replace("__TITLE__", f"{lg['label']} standings and predictions").replace("__SEASON__", text))
@@ -256,6 +343,7 @@ def build(gender, brackets, games, meta):
     data["confPrior"] = bool(past)
     data["crossN"] = dict(collections.Counter(r["age"] for r in cross if r["gender"] == gender))
     size = write_page(gender, data, SEASON)
+    cals = write_calendars(gender, brackets, games, nat)
     played = sum(1 for g in games if str(g["home_score"]) != "")
     print(f"Built {page_file(gender)} ({size//1024} KB): {len(brackets)} brackets, {sum(len(b['teams']) for b in brackets)} teams, "
           f"{played}/{len(games)} games played, history for {len(data['hist'])} teams")
@@ -270,6 +358,7 @@ def build(gender, brackets, games, meta):
         add_priors(gender, d, pb, past[i + 1] if i + 1 < len(past) else None)  # the replayed accuracy starts from the season before
         size = write_page(gender, d, s)
         print(f"Built {page_file(gender, s)} ({size//1024} KB): {len(pb)} brackets")
+    return cals
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
@@ -292,5 +381,7 @@ if __name__ == "__main__":
     if not a.offline:  # games between conferences at this season's national events (for the national rankings)
         import national
         national.current({g: v[0] for g, v in got.items()})
+    wanted = set()
     for gender, (brackets, games) in got.items():
-        build(gender, brackets, games, meta)
+        wanted |= build(gender, brackets, games, meta)
+    prune_calendars(wanted)

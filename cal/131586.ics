@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Blue Valley U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067724-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs Chicago Inter (L 0–2)
+LOCATION:Pinnacle National Development Center - East
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067748-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs Eclipse Select Soccer Club (L 1–6)
+LOCATION:Pinnacle National Development Center - East
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067764-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at St. Louis Scott Gallagher Navy (L 0
+ –3)
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067768-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T111500
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at Missouri Rush (L 0–1)
+LOCATION:SLSG World Wide Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067848-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T093000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at Michigan Hawks Magic (D 2–2)
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067864-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T073000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at Michigan Hawks (L 0–2)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067916-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs St. Louis Scott Gallagher Green
+LOCATION:Scheels Overland Park Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067940-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T140000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs Kansas City Athletics
+LOCATION:Scheels Overland Park Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067960-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs Liverpool FC MI
+LOCATION:Scheels Overland Park Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067980-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley vs Nationals SC
+LOCATION:Scheels Overland Park Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068028-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T140000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068044-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at FC Wisconsin
+LOCATION:Mercy Health Sportscore 2 - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068072-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T161500
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068097-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T153000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting Blue Valley at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=131586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068117-131586@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Sporting Blue Valley vs Sporting Iowa
+DESCRIPTION:ECNL Girls · U18/19 Midwest · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwest&show=1
+ 31586
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=131586
+END:VEVENT
+END:VCALENDAR

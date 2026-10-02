@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baltimore Celtic U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078985-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Baltimore Celtic vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079005-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U16 Baltimore Celtic vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079017-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U16 Baltimore Celtic at Match Fit Surf
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079033-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Baltimore Celtic vs Maryland United FC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079073-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 Baltimore Celtic at Pipeline SC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079101-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U16 Baltimore Celtic vs SJEBFC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079133-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Baltimore Celtic at PSA Monmouth
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079165-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Baltimore Celtic at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079185-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Baltimore Celtic at World Class FC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079193-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Baltimore Celtic vs STA
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079225-80782@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U16 Baltimore Celtic vs Delaware FC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=80782
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=80782
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GSA U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1065007-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U17 GSA vs Atlanta Fire United (D 1–1)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065031-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U17 GSA vs NTH NASA (L 0–2)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065077-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U17 GSA at South Carolina United (D 1–1)
+LOCATION:Southeastern Freight Lines Complex - Stadium A
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065083-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U17 GSA at CESA Triumph (L 2–3)
+LOCATION:Mesa Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065097-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U17 GSA at South Carolina Surf (L 0–4)
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065121-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U17 GSA at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065127-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U17 GSA vs CESA Triumph
+LOCATION:Rabbit Hill Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065145-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T110000
+DURATION:PT2H
+SUMMARY:U17 GSA vs South Carolina United
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065201-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U17 GSA at NTH NASA
+LOCATION:Lake Point Sporting Community - Field 3
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065205-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U17 GSA at Atlanta Fire United
+LOCATION:Notre Dame Academy - Turf
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065229-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U17 GSA at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065291-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U17 GSA vs South Carolina Surf
+LOCATION:Rabbit Hill Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065297-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U17 GSA vs United Futbol Academy
+LOCATION:Rabbit Hill Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065321-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T130000
+DURATION:PT2H
+SUMMARY:U17 GSA at United Futbol Academy
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065325-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270109T130000
+DURATION:PT2H
+SUMMARY:U17 GSA vs Concorde Fire Premier
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065333-131801@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270110T130000
+DURATION:PT2H
+SUMMARY:U17 GSA vs Concorde Fire Platinum
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Boys · U17 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southeast&show=131801
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southeast
+ &show=131801
+END:VEVENT
+END:VCALENDAR

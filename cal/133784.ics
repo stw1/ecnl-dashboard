@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manhattan SC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1117800-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at AC Connecticut (L 1–2)
+LOCATION:Mill Ridge Primary School - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117989-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T153000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at Select (L 0–3)
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117837-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T161500
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC vs SUSA FC ACADEMY
+LOCATION:College of Mt. St. Vincent - Marillac Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117844-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T140000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at East Coast Surf SC
+LOCATION:Mitchel Athletic Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117793-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117861-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T145000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC vs Scorpions SC
+LOCATION:Mal Simon Stadium - Lubetkin Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117871-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC vs FC Stars
+LOCATION:College of Mt. St. Vincent - Marillac Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117876-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at Connecticut FC United
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117881-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T100000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117902-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T140000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC vs East Meadow Soccer Club
+LOCATION:College of Mt. St. Vincent - Marillac Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117889-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T131500
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at SUSA FC
+LOCATION:The SUSA Orlin & Cohen Sports Complex - field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117926-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Manhattan SC vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117938-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Manhattan SC vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117949-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Manhattan SC vs FSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117964-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Manhattan SC vs Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117976-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Manhattan SC vs AC Connecticut
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117810-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC vs Select
+LOCATION:College of Mt. St. Vincent - Marillac Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118005-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T104500
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at Scorpions SC
+LOCATION:Taunton Forekicks - Field 14
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118012-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Manhattan SC at FC Stars
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118020-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Manhattan SC vs SUSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118030-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T111500
+DURATION:PT2H
+SUMMARY:U13 Manhattan SC at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - North Turf
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118045-133784@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Manhattan SC at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 133784
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=133784
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chattanooga Red Wolves SC U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1059537-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T110000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Alabama FC (L 0–3)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059561-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T130000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Coastal Rush (W 2–1)
+LOCATION:Ashton Brosnaham - Field 6
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059577-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T100000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs FC Alliance TN (W 6–1)
+LOCATION:Grace Baptist Academy - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059609-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Alabama FC (D 1–1)
+LOCATION:Grace Baptist Academy - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059633-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T133000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Coastal Rush (W 4–1)
+LOCATION:CSLA - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059649-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Mississippi Rush United (W 3–
+ 2)
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059665-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T080000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Louisiana Fire SC (W 2–1)
+LOCATION:Bayou Nation - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059677-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Tennessee United SC (W 4–0)
+LOCATION:Camp Jordan Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059685-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Tennessee SC (L 1–2)
+LOCATION:Camp Jordan Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059697-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at FC Alliance TN
+LOCATION:Mayor Bob Leonard Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059745-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Lobos Rush
+LOCATION:Mike Rose Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059757-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T123000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Germantown Legends
+LOCATION:Mike Rose Soccer Complex - Field 16
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059769-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Mississippi Rush United
+DESCRIPTION:ECNL Boys · U18/19 Mid-America · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-america
+ &show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059789-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T120000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Louisiana Fire SC
+LOCATION:University of Tennessee - Chattanooga - Lower Field
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059801-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Tennessee SC
+LOCATION:Richard Siegel Soccer Complex - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059809-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T150000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC at Tennessee United SC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059841-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T100000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Lobos Rush
+LOCATION:Soddy Daisy High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059857-135576@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T110000
+DURATION:PT2H
+SUMMARY:U18/19 Chattanooga Red Wolves SC vs Germantown Legends
+LOCATION:Soddy Daisy High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=135576
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=135576
+END:VEVENT
+END:VCALENDAR

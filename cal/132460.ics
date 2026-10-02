@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Diego Surf U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085363-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs Utah Royals FC-AZ (W 4–0)
+LOCATION:Surf Sports Park - Field 4
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085459-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T114500
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf at Sporting California USA (W 4–0)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085501-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T141500
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf at Slammers FC HB Koge
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086131-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf at Pateadores Soccer Club
+LOCATION:Orange Coast College - Soccer Field
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085537-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs So Cal Blues
+LOCATION:Surf Sports Park - Field 6
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085561-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085633-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs Rebels SC
+LOCATION:Surf Sports Park - Field 2
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085675-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs Legends FC Del Mar
+LOCATION:Surf Sports Park - Field 6
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085705-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U16 San Diego Surf at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=132
+ 460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085753-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:U16 San Diego Surf at Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=132
+ 460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085831-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs Beach Futbol Club (CA)
+LOCATION:Surf Sports Park - Field 2
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085879-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs Legends FC (CA)
+LOCATION:Surf Sports Park - Field 4
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085927-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs SLAMMERS FC
+LOCATION:Surf Sports Park - Field 4
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085975-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf vs LV Heat Surf
+LOCATION:Surf Sports Park - Field 6
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085993-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 San Diego Surf at LAFC So Cal
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=132
+ 460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086041-132460@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U16 San Diego Surf at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=132460
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=132460
+END:VEVENT
+END:VCALENDAR

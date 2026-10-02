@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Premier U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064705-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T100000
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064717-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs WNY Flash
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064729-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs RNY FC Youth
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064741-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs FC Pride Elite
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064745-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs Pittsburgh Riverhounds
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064761-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T083000
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Indoor
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064781-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Ohio Premier at FC Pride Elite
+DESCRIPTION:ECNL Boys · U15 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-valley&show=
+ 71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064789-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T110000
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064797-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Ohio Premier at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U15 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-valley&show=
+ 71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064817-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 Ohio Premier at Nationals SC
+DESCRIPTION:ECNL Boys · U15 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-valley&show=
+ 71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064869-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T080000
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064889-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Ohio Premier at RNY FC Youth
+DESCRIPTION:ECNL Boys · U15 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-valley&show=
+ 71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064913-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs Ohio Elite SA
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064925-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs Louisville City Academy
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064937-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs Cleveland Force SC
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064945-71994@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T154500
+DURATION:PT2H
+SUMMARY:U15 Ohio Premier vs Nationals SC
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=71994
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
+ ey&show=71994
+END:VEVENT
+END:VCALENDAR

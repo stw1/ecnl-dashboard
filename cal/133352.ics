@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Louisville City Academy U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064542-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Pittsburgh Riverhounds (W 4–0)
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139036-n-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at Eclipse Select Soccer Club (national
+  event) (L 1–2)
+LOCATION:Creve Coeur Park - Field #11
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=13335
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139043-n-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T094500
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at Colorado EDGE (national event) (W 4
+ –1)
+LOCATION:Creve Coeur Park - Field #05
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=13335
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139045-n-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T080000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Arkansas Comets FC (national event) 
+ (W 2–0)
+LOCATION:Creve Coeur Park - Field #05
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=13335
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064552-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Ohio Elite SA (W 2–1)
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064548-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Nationals SC (L 2–3)
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064590-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T103000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064600-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U14 Louisville City Academy at RNY FC Youth
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064664-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T150000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs FC Pride Elite
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064608-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Cleveland Force SC
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064612-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs Ohio Premier
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064616-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T190000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at Ohio Elite SA
+LOCATION:Seven Hills School - Upper Field
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064620-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs WNY Flash
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064628-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy vs RNY FC Youth
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064644-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Louisville City Academy at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064652-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 Louisville City Academy at Nationals SC
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064678-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Louisville City Academy at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064682-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T120000
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at Ohio Premier
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064602-133352@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T104500
+DURATION:PT2H
+SUMMARY:U14 Louisville City Academy at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=133352
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=133352
+END:VEVENT
+END:VCALENDAR

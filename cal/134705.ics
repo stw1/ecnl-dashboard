@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arkansas Comets FC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057272-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at OK Energy FC (D 1–1)
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057288-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at Sporting Nebraska FC (W 1–0)
+LOCATION:CHI Nebraska MultiSport Complex - Field 12
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057296-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at Gretna Elite Academy (D 2–2)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057312-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs OK Energy FC
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057324-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T160000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at Sporting Iowa Central
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057336-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057344-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Gretna Elite Academy
+LOCATION:NOKC Soccer Fields - Field 5
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057352-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Sporting Nebraska FC
+LOCATION:NOKC Soccer Fields - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057364-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs VSA Rush
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057376-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Sporting Iowa Central
+LOCATION:Brunner & Lay Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057420-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T090000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at Missouri Rush
+LOCATION:Missouri Rush Sports Park - Field 4
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057440-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057460-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T110000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs FC Wichita
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057476-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T110000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Kansas Rush
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057500-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T110000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Kansas City Athletics
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057508-134705@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T130000
+DURATION:PT2H
+SUMMARY:U15 Arkansas Comets FC vs Union KC Soccer Club
+LOCATION:Brunner & Lay Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=134705
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=134705
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colorado Storm U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106663-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Lonestar ATX Red (D 1–1)
+LOCATION:David A. Lorenz Regional Park - South Turf
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106711-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Lonestar ATX Royal (W 4–0)
+LOCATION:David A. Lorenz Regional Park - South Turf
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106753-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Albion Hurricanes FC (L 0–3)
+LOCATION:Campbell Road Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106807-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at RISE SC (L 0–1)
+LOCATION:South Campus - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106903-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at SOLAR SC (D 2–2)
+LOCATION:Beacon Park - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106939-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Solar SC Academy (D 3–3)
+LOCATION:Beacon Park - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107167-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs OK Energy FC Academy
+LOCATION:Aurora Sports Park - Field 44
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107221-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Tulsa SC
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107269-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107305-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107341-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T133000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs DKSC
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107371-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Sting
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107497-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T133000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Dallas Texans
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107527-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T133000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Dallas Texans Academy
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107557-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Colorado Storm at SAFC
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107023-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270115T133000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Real Colorado Academy
+LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107605-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 Colorado Storm at FC Westlake
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107593-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at HTX
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107575-81111@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T110000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at San Antonio City SC
+LOCATION:Specht Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=81111
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=81111
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida Kraze Krush - U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068330-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Parkland Soccer Club (W 6–1)
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140619-n-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Pipeline SC (national event) (L 1–4)
+LOCATION:Georgia Sports Park - Field #06
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140626-n-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Sporting SA JAX (national event) (D 0
+ –0)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140629-n-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T123000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs FC Stars (national event) (W 6–2)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068432-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Fort Lauderdale United FC (W 4–2)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068450-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Doral Soccer Club (L 1–4)
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068486-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Palm Beach United
+LOCATION:Gardens North County District Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068516-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Florida Premier FC
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068546-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Space Coast United
+LOCATION:Central Winds - Field A
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068552-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Doral Soccer Club
+LOCATION:Central Winds - Field A
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068612-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T170000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Florida Premier FC South
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068354-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T120000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Sporting SA JAX
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068672-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068744-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Florida Kraze Krush - vs Palm Beach United
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068756-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Athletic Club Florida
+LOCATION:Central Winds - Field A
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068774-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Florida Kraze Krush - vs Athletic Club Florida
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068810-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T140000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at AC Florida West
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068846-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T140000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068870-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T140000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068876-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs AC Florida West
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068906-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T150000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068942-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - vs Fort Lauderdale United FC
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068960-98666@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T100000
+DURATION:PT2H
+SUMMARY:U13 Florida Kraze Krush - at Sporting SA JAX
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=98666
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=98666
+END:VEVENT
+END:VCALENDAR

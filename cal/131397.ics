@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Snohomish United U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075585-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United at XF 1 (L 0–14)
+LOCATION:Marymoor Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075621-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T150000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United at PacNW SC (L 0–2)
+LOCATION:Starfire Sports - Field 3
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075645-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs Eastside FC (L 0–7)
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075675-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs 3RSC (L 0–1)
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075699-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs Washington Premier
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144315-n-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100500
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs South Valley United Soccer Club RL (nationa
+ l event)
+LOCATION:Surf Sports Park - Field #10
+DESCRIPTION:ECNL Boys · U15 Northwest · ECNL Boys San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075861-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs Seattle United
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075723-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T143000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075735-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U15 Snohomish United at XF 2
+DESCRIPTION:ECNL Boys · U15 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest&show=1313
+ 97
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075771-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs Columbia Premier SC
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075807-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T110000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs PacNW SC
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075831-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:U15 Snohomish United at 3RSC
+DESCRIPTION:ECNL Boys · U15 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest&show=1313
+ 97
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075903-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T110000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs XF 2
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075921-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T090000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United vs XF 1
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075957-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U15 Snohomish United at Washington Premier
+DESCRIPTION:ECNL Boys · U15 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest&show=1313
+ 97
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075975-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T090000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075987-131397@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U15 Snohomish United at Columbia Premier SC
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=northwest&show=131397
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northwest
+ &show=131397
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seattle United U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058636-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T143000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs La Roca FC
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058662-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T143000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Avalanche
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058712-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058732-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Boise Thorns
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058761-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T100000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Portland Thorns
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058786-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T093000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs XF
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058824-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs PacNW SC
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058898-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 Seattle United at XF
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=884
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058930-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Oregon Surf
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058978-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Seattle United at PacNW SC
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=884
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058997-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059011-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T133000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059038-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T133000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Avalanche
+LOCATION:St. Joseph Catholic High School - Turf Field
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059096-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Seattle United at Boise Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=884
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059126-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Seattle United at Oregon Surf
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=884
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059151-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Seattle United at Portland Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=884
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059178-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Washington Premier
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059206-88412@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Eastside FC
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=88412
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=88412
+END:VEVENT
+END:VCALENDAR

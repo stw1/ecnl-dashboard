@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Clara Sporting U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1099382-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T142000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs San Juan SC (W 5–0)
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099394-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T200000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs Placer United (D 2–2)
+LOCATION:Evergreen Valley College - Field 1
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099466-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at MVLA (W 3–0)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099508-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at Marin FC
+LOCATION:San Rafael High School - Stadium
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144268-n-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T113000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs Seattle United (national event)
+LOCATION:Surf Sports Park - Field #06
+DESCRIPTION:ECNL Boys · U15 Northern Cal · ECNL Boys San Diego\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&show=400
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099544-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T150000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at Folsom Lake Surf
+LOCATION:Livermore Community Park - Soccer Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099580-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T160000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at Association FC
+LOCATION:Alden E. Oliver Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099664-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs San Francisco Elite Academy
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099718-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T140000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at Santa Rosa United
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099754-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T110000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs River Islands Surf
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099772-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs 1974 Newark FC
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099778-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at Napa United
+LOCATION:Vintage High School - Football Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099850-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U15 Santa Clara Sporting at Mustang Soccer
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099910-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs Los Gatos United Soccer Club
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099952-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs El Camino FC Salinas
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099982-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T100000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting at COSC
+LOCATION:Clovis Community College Soccer Field - field 1
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100042-40071@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U15 Santa Clara Sporting vs Davis Legacy
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=40071
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=40071
+END:VEVENT
+END:VCALENDAR

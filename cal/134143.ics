@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Wisconsin U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071351-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T113000
+DURATION:PT2H
+SUMMARY:U15 FC Wisconsin at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Boys · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071363-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T123000
+DURATION:PT2H
+SUMMARY:U15 FC Wisconsin at St Croix
+LOCATION:St. Croix Valley Recreation Center - Field 1
+DESCRIPTION:ECNL Boys · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071391-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 FC Wisconsin at Chicago Inter
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071403-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 FC Wisconsin at Indiana Elite FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071411-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U15 FC Wisconsin at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Boys · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071415-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 FC Wisconsin at Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071427-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 FC Wisconsin vs Rockford Raptors FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071443-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 FC Wisconsin vs Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071471-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 FC Wisconsin at Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071499-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 FC Wisconsin vs Indiana Elite FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071507-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 FC Wisconsin vs Chicago Inter
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071531-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 FC Wisconsin vs St Croix
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071547-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 FC Wisconsin vs MN Thunder Academy
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071559-134143@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 FC Wisconsin vs Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=134143
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=134143
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maryland United FC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078994-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T153000
+DURATION:PT2H
+SUMMARY:U17 Maryland United FC vs PSA Monmouth
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Boys · U17 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U17&conf=north-atlantic&show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079034-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 Maryland United FC at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079082-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Maryland United FC at STA
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079086-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 Maryland United FC at Match Fit Surf
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079110-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U17 Maryland United FC vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079118-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T130000
+DURATION:PT2H
+SUMMARY:U17 Maryland United FC at Delaware FC
+LOCATION:Hudson Fields - Field 1 11v11 Grass
+DESCRIPTION:ECNL Boys · U17 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U17&conf=north-atlantic&show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079146-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Maryland United FC at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079154-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Maryland United FC vs World Class FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079174-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Maryland United FC vs Pipeline SC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079022-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Maryland United FC vs Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079210-69709@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Maryland United FC vs SJEBFC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=69709
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=69709
+END:VEVENT
+END:VCALENDAR

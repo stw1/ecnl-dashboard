@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eugene Metro FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075365-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at Boise Timbers (L 0–6)
+LOCATION:Boise Timbers|Thorns - Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075506-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at Idaho Rush (L 0–4)
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075433-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T140000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs Capital FC (L 0–2)
+LOCATION:Lane Community College - Soccer Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075434-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs FC Portland
+LOCATION:Bob Keefer - Field 1
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075384-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at Capital FC
+LOCATION:CFC Pioneer Sportspark - Ed Davison 1
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075471-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T150000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075545-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T113000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at Oregon Premier FC
+LOCATION:Lakeridge Middle School - Field 1
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075581-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T133000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at United PDX
+LOCATION:University of Oregon Portland - NE Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075435-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T100000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs Idaho Rush
+LOCATION:Civic Park - Civic Park
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075436-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T100000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs Boise Timbers
+LOCATION:Lane Community College - Soccer Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075437-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T100000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs United PDX
+LOCATION:Lane Community College - Soccer Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075438-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T120000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC vs Oregon Premier FC
+LOCATION:Lane Community College - Soccer Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089844-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U13 Eugene Metro FC vs Idaho Rush
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089858-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T150000
+DURATION:PT2H
+SUMMARY:U13 Eugene Metro FC at FC Portland
+LOCATION:Liberty High School - Stadium Field
+DESCRIPTION:ECNL Boys · U13 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089860-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U13 Eugene Metro FC vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089864-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U13 Eugene Metro FC vs Capital FC
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089874-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U13 Eugene Metro FC vs United PDX
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089882-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 Eugene Metro FC at Oregon Premier FC
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089890-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Eugene Metro FC at Idaho Rush
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089894-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Eugene Metro FC at Boise Timbers
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089906-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Eugene Metro FC at Capital FC
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089910-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Eugene Metro FC vs Boise Timbers
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089914-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Eugene Metro FC vs FC Portland
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089926-112351@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U13 Eugene Metro FC at United PDX
+DESCRIPTION:ECNL Boys · U13 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&show=112351
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=far-west&
+ show=112351
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:XF U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058643-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 XF vs Boise Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058667-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 XF vs Boise Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058697-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U15 XF vs Washington Premier
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058714-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270123
+SUMMARY:U15 XF at PacNW SC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058739-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U15 XF vs Oregon Surf
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058787-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T080000
+DURATION:PT2H
+SUMMARY:U15 XF at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=94927
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058811-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U15 XF vs Portland Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058829-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U15 XF vs Eastside FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058847-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T090000
+DURATION:PT2H
+SUMMARY:U15 XF at Washington Premier
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=94927
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058904-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 XF vs Seattle United
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058933-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T143000
+DURATION:PT2H
+SUMMARY:U15 XF at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=94927
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058961-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 XF at Avalanche
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058980-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U15 XF at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=94927
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059000-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 XF vs PacNW SC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059131-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 XF at Portland Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059154-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 XF at Oregon Surf
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059181-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 XF at Avalanche
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059209-94927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 XF at La Roca FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=949
+ 27
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=94927
+END:VEVENT
+END:VCALENDAR

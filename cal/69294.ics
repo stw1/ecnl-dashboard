@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida Premier FC U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069950-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Concorde Fire Platinum (L 1–2)
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069982-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at GSA (D 0–0)
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070022-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Atlanta Fire United (W 4–2)
+LOCATION:Scott Hudgens Park - Field 5
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070054-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at United Futbol Academy (W 4–0)
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070086-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs Alabama FC (W 1–0)
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070118-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T103000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs Concorde Fire Premier (L 0–2)
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070154-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs CESA Liberty
+LOCATION:Starkey Ranch District Park - Field 9
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070186-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T123000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs South Carolina United
+LOCATION:Starkey Ranch District Park - Field 9
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070338-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T103000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Jacksonville FC
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070358-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T110000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070314-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Team Boca
+LOCATION:Fau Glades - Fau Glades-South #2
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070326-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070362-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T120000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs Florida Kraze Krush
+LOCATION:Starkey Ranch District Park - Field 8
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070382-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T103000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC vs Seminole United
+LOCATION:Starkey Ranch District Park - Field 9
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070402-69294@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U16 Florida Premier FC at Tampa Bay United
+LOCATION:Ed Radice Sports Complex - Field 5
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=69294
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=69294
+END:VEVENT
+END:VCALENDAR

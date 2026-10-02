@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Colorado National U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091286-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Real Colorado National vs La Roca FC
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091306-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U18/19 Real Colorado National vs Avalanche
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091338-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T090000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National vs Pride SC
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091358-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T130000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at El Paso Locomotive
+LOCATION:Socorro Athletic Complex (SAC) - SAC 1
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091378-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T130000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at NM Rapids SC
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091394-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T133000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 8
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091398-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T140000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East A
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091406-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Real Colorado National at Arizona Arsenal
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091422-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T110000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at CCV STARS
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091442-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U18/19 Real Colorado National at Colorado Rush
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091462-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T090000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National vs El Paso Locomotive
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091478-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Real Colorado National vs NM Rapids SC
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091494-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Real Colorado National vs Colorado Rush
+DESCRIPTION:ECNL Boys · U18/19 Mountain · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mountain&show=
+ 59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091542-59927@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T133000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National at Pride SC
+LOCATION:Pride Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mountain\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=mountain&show=59927
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mounta
+ in&show=59927
+END:VEVENT
+END:VCALENDAR

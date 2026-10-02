@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HTX U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106681-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T150000
+DURATION:PT2H
+SUMMARY:U16 HTX vs San Antonio City SC (D 0–0)
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106729-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T120000
+DURATION:PT2H
+SUMMARY:U16 HTX vs SAFC (D 4–4)
+LOCATION:Bear Branch Sportsfields - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106867-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U16 HTX at OK Energy FC Academy (L 0–4)
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106897-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U16 HTX at Tulsa SC (W 3–2)
+LOCATION:Jenks Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106993-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U16 HTX vs FC Westlake
+LOCATION:Bear Branch Sportsfields - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107089-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U16 HTX at Sting
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107113-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U16 HTX at DKSC
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107197-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U16 HTX vs SOLAR SC
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107251-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T140000
+DURATION:PT2H
+SUMMARY:U16 HTX vs Solar SC Academy
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107263-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U16 HTX vs Albion Hurricanes FC
+LOCATION:Bear Branch Sportsfields - Field 7
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107413-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T100000
+DURATION:PT2H
+SUMMARY:U16 HTX at Dallas Texans
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107455-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U16 HTX at Dallas Texans Academy
+LOCATION:Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107509-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U16 HTX vs RISE SC
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107647-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U16 HTX at Lonestar ATX Red
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107683-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 HTX vs Lonestar ATX Royal
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107593-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U16 HTX vs Colorado Storm
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107611-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T120000
+DURATION:PT2H
+SUMMARY:U16 HTX vs Real Colorado Academy
+LOCATION:Bear Branch Sportsfields - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107785-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T150000
+DURATION:PT2H
+SUMMARY:U16 HTX at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107809-80547@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T110000
+DURATION:PT2H
+SUMMARY:U16 HTX at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=80547
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=80547
+END:VEVENT
+END:VCALENDAR

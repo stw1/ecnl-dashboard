@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DKSC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106670-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T150000
+DURATION:PT2H
+SUMMARY:U17 DKSC vs Tulsa SC (W 2–1)
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106718-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T130000
+DURATION:PT2H
+SUMMARY:U17 DKSC vs OK Energy FC Academy (W 3–1)
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106760-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U17 DKSC at Lonestar ATX Royal (W 2–0)
+LOCATION:Vista Ridge High School (Ranger Field) - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106814-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U17 DKSC at Lonestar ATX Red (W 1–0)
+LOCATION:Glenn High School - Stadium Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106880-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U17 DKSC vs Sting (L 1–2)
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106946-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U17 DKSC at Dallas Texans Academy (L 0–2)
+LOCATION:Wakeland High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106982-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U17 DKSC at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107030-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U17 DKSC at RISE SC
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107054-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261010
+SUMMARY:U17 DKSC vs FC Westlake
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107114-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T090000
+DURATION:PT2H
+SUMMARY:U17 DKSC vs HTX
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107174-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U17 DKSC vs FC Dallas Youth White
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107228-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U17 DKSC vs FC Dallas Youth Red
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107342-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U17 DKSC at Colorado Storm
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107378-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T111500
+DURATION:PT2H
+SUMMARY:U17 DKSC at Real Colorado Academy
+LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107402-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U17 DKSC at Solar SC Academy
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107450-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U17 DKSC at SOLAR SC
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107690-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 DKSC vs SAFC
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107702-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 DKSC vs San Antonio City SC
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107744-68922@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 DKSC vs Dallas Texans
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=68922
+END:VEVENT
+END:VCALENDAR

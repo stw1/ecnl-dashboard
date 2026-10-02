@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boise Timbers U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075571-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260912
+SUMMARY:U14 Boise Timbers at United PDX
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075359-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers vs Eugene Metro FC (L 2–5)
+LOCATION:Boise Timbers|Thorns - Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075361-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers vs FC Portland (L 0–3)
+LOCATION:Boise Timbers|Thorns - Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075362-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers vs United PDX
+LOCATION:Boise Timbers|Thorns - Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075497-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at Idaho Rush
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075360-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers vs Capital FC
+LOCATION:Boise Timbers|Thorns - Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075536-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261016T190000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at Oregon Premier FC
+LOCATION:Inza Wood Middle School - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075363-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U14 Boise Timbers vs Idaho Rush
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075454-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075364-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U14 Boise Timbers vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075381-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at Capital FC
+LOCATION:CFC Pioneer Sportspark - Ed Davison 2
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075430-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T120000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at Eugene Metro FC
+LOCATION:Lane Community College - Soccer Field
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089851-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U14 Boise Timbers at Oregon Premier FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089853-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U14 Boise Timbers at Capital FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089869-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U14 Boise Timbers at United PDX
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089871-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T170000
+DURATION:PT2H
+SUMMARY:U14 Boise Timbers at FC Portland
+LOCATION:Liberty High School - Stadium Field
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089879-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U14 Boise Timbers vs FC Portland
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089885-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U14 Boise Timbers vs United PDX
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089889-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 Boise Timbers vs Capital FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089895-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 Boise Timbers vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089905-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U14 Boise Timbers vs Idaho Rush
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089911-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U14 Boise Timbers at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089917-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Boise Timbers at Idaho Rush
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089921-115484@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Boise Timbers vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=115484
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=115484
+END:VEVENT
+END:VCALENDAR

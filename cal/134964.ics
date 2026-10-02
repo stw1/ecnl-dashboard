@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia Ukrainian Nationals U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072545-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T154500
+DURATION:PT2H
+SUMMARY:U17 Philadelphia Ukrainian Nationals at Pipeline SC
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U17 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U17&conf=north-atlantic&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072597-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Philadelphia Ukrainian Nationals at PDA White
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072605-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 Philadelphia Ukrainian Nationals vs Maryland United FC
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072625-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Philadelphia Ukrainian Nationals vs Match Fit Surf
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072653-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 Philadelphia Ukrainian Nationals at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072673-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Philadelphia Ukrainian Nationals vs FC DELCO
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072677-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 Philadelphia Ukrainian Nationals at Bethesda SC
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072693-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Philadelphia Ukrainian Nationals vs HEX FC Bucks
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072705-134964@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U17 Philadelphia Ukrainian Nationals at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U17 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U17&conf=north-atlantic&show=134964
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=134964
+END:VEVENT
+END:VCALENDAR

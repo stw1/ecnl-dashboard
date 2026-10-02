@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Pride Elite U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132871-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T140000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at Indy Eleven
+LOCATION:Grand Park - Field 6
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132880-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133141-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T100000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132919-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T141500
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite vs Indy Eleven
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132967-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 FC Pride Elite at Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132976-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 FC Pride Elite at GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132997-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T141500
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite vs FC Alliance TN
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133009-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T143000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite vs Tennessee SC
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133021-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T083000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133033-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T080000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at WNY Flash
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133042-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T143000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite vs Internationals SC
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133057-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 FC Pride Elite vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133084-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite at Ohio Elite SA
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133108-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 FC Pride Elite vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133120-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T143000
+DURATION:PT2H
+SUMMARY:U15 FC Pride Elite vs Ohio Elite SA
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133132-59612@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 FC Pride Elite at FC Alliance TN
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59612
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59612
+END:VEVENT
+END:VCALENDAR

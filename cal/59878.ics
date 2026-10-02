@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Premier U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083532-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier at 3RSC (W 4–0)
+LOCATION:Kamiakin High School - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075654-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs PacNW SC (W 5–4)
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075666-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs XF (W 3–1)
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075702-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier at Snohomish United
+LOCATION:Centennial Middle School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075708-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier at Columbia Premier SC
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075744-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T150000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs Eastside FC
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075762-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T060000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075792-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T150000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs Columbia Premier SC
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075822-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T130000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075600-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T130000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs XF 2
+LOCATION:WPFC Field Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075846-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Washington Premier at XF 2
+DESCRIPTION:ECNL Boys · U18/19 Northwest · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northwest&sho
+ w=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075882-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:U18/19 Washington Premier at PacNW SC
+DESCRIPTION:ECNL Boys · U18/19 Northwest · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northwest&sho
+ w=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075900-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U18/19 Washington Premier at XF
+DESCRIPTION:ECNL Boys · U18/19 Northwest · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northwest&sho
+ w=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075936-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T110000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs Seattle United
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075960-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U18/19 Washington Premier vs Snohomish United
+DESCRIPTION:ECNL Boys · U18/19 Northwest · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northwest&sho
+ w=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075984-59878@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T110000
+DURATION:PT2H
+SUMMARY:U18/19 Washington Premier vs 3RSC
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Northwest\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=northwest&show=59878
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northw
+ est&show=59878
+END:VEVENT
+END:VCALENDAR

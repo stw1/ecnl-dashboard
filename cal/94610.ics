@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Class FC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078739-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Delaware FC (W 2–0)
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078753-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U14 World Class FC at SJEB FC (W 7–0)
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078763-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T140000
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Penn Fusion Soccer Academy
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078773-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T163000
+DURATION:PT2H
+SUMMARY:U14 World Class FC at PSA Monmouth
+LOCATION:The Ranney School - Field 2 - Upper
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078789-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U14 World Class FC at Potomac Soccer Association
+LOCATION:Maryland Soccerplex - Field 17
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078783-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T150000
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Match Fit Surf
+LOCATION:Orangetown Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078807-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T144500
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Maryland United FC
+LOCATION:Orangetown Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078723-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T120000
+DURATION:PT2H
+SUMMARY:U14 World Class FC at Philadelphia Ukrainian Nationals
+LOCATION:Ukrainian AMerican Sports Center - Field 6
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078811-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U14 World Class FC at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078831-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T133000
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Pipeline SC
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078843-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U14 World Class FC at STA
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078861-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T130000
+DURATION:PT2H
+SUMMARY:U14 World Class FC vs Philadelphia Ukrainian Nationals
+LOCATION:Orangetown Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078867-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U14 World Class FC at Match Fit Surf
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078889-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 World Class FC vs SJEB FC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078895-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U14 World Class FC at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078911-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 World Class FC vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078931-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 World Class FC vs Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078937-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 World Class FC at Maryland United FC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078953-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 World Class FC vs Baltimore Celtic
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078959-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 World Class FC at Pipeline SC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078971-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U14 World Class FC vs STA
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078869-94610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T103000
+DURATION:PT2H
+SUMMARY:U14 World Class FC at Delaware FC
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=94610
+END:VEVENT
+END:VCALENDAR

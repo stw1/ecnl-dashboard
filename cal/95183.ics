@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Coast FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1086154-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC vs LV Heat Surf SC (W 5–1)
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086160-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T130000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at Sporting California USA (D 1–1)
+LOCATION:San Bernardino Valley College - Grass
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086172-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T134500
+DURATION:PT2H
+SUMMARY:U13 West Coast FC vs CDA Slammers FC (L 0–4)
+LOCATION:Westminister High School - field 1
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086180-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T181500
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at LAFC So Cal (L 1–4)
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086192-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144172-n-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T080000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at MVLA (national event)
+LOCATION:Surf Sports Park - Field #05
+DESCRIPTION:ECNL Boys · U13 Southwest · ECNL Boys San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086212-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T083000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC vs Legends FC (CA)
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086228-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U13 West Coast FC vs Sporting California USA
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086236-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 West Coast FC at LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086266-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U13 West Coast FC vs Beach Futbol Club (CA)
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086268-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086276-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U13 West Coast FC at CDA Slammers FC
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086298-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 West Coast FC vs SDSC Surf
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086310-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T080000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at Legends FC Del Mar
+LOCATION:San Dieguito Academy - Field 1
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086322-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T080000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at Beach Futbol Club (CA)
+LOCATION:El Camino College - Stadium
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086344-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 West Coast FC vs LAFC So Cal
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086356-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 West Coast FC vs San Diego Surf
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086370-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 West Coast FC at Pateadores Soccer Club
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086382-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T083000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at Rebels SC
+LOCATION:El Cajon Valley High School - Stadium
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086400-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 West Coast FC vs Legends FC Del Mar
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086412-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T090000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at SDSC Surf
+LOCATION:Maranatha Christian School - Soccer (North)
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086250-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T100000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC vs LA Breakers FC
+LOCATION:Saddleback College - Soccer Field
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086430-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 West Coast FC vs Pateadores Soccer Club
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086442-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 West Coast FC vs Rebels SC
+DESCRIPTION:ECNL Boys · U13 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest&show=9518
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086452-95183@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270529T110000
+DURATION:PT2H
+SUMMARY:U13 West Coast FC at San Diego Surf
+LOCATION:Surf Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southwest&show=95183
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southwest
+ &show=95183
+END:VEVENT
+END:VCALENDAR

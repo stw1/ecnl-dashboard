@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas City Athletics U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057412-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T150000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057432-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 Kansas City Athletics at Sporting Iowa Central
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057452-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T150000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics vs Sporting Nebraska FC
+LOCATION:Paragon Star Soccer Complex - Field 9
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057468-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T120000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics vs Gretna Elite Academy
+LOCATION:Paragon Star Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057500-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T110000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics at Arkansas Comets FC
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057504-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T110000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics at OK Energy FC
+LOCATION:Edmond Soccer Club - ESC 4
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057544-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Kansas City Athletics at Missouri Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057556-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U15 Kansas City Athletics at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=95651
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057572-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U15 Kansas City Athletics at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057588-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Kansas City Athletics at Kansas Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057596-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Kansas City Athletics at FC Wichita
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057604-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Kansas City Athletics vs Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057612-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Kansas City Athletics vs St. Louis Stars SC
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057624-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 Kansas City Athletics vs Missouri Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057636-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Kansas City Athletics vs FC Wichita
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057644-95651@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 Kansas City Athletics vs Kansas Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=9565
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=95651
+END:VEVENT
+END:VCALENDAR

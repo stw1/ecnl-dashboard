@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tampa Bay United U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1111199-n-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T133000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Penn Fusion Soccer Academy (national event)
+  (L 0–4)
+LOCATION:PDA Soccer Complex - Field #03
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111206-n-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T095000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs HEX FC Bucks (national event) (L 0–4)
+LOCATION:PDA Soccer Complex - Field #04
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111208-n-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Michigan Hawks Magic (national event) (W 2
+ –1)
+LOCATION:PDA Soccer Complex - Field #08
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069708-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at GSA (L 1–2)
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069722-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Concorde Fire Platinum (L 0–8)
+LOCATION:Georgia Sports Park - field 3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069734-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at United Futbol Academy (D 1–1)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069752-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Atlanta Fire United (D 0–0)
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069772-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs Concorde Fire Premier (L 1–6)
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069788-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs Alabama FC (W 1–0)
+LOCATION:Ed Radice Sports Complex - Field 7
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069806-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs South Carolina United
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069822-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs CESA Liberty
+LOCATION:Ed Radice Sports Complex - Field 5
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069834-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069848-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T103000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Jacksonville FC
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069860-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069874-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United at Team Boca
+LOCATION:Fau Glades - Fau Glades- North #1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069890-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs Seminole United
+LOCATION:Ed Radice Sports Complex - Field 5
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069906-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T090000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs Florida Kraze Krush
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069880-112271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U14 Tampa Bay United vs Florida Premier FC
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=112271
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=112271
+END:VEVENT
+END:VCALENDAR

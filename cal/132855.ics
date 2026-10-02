@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCV STARS U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091039-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T183000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at Arizona Arsenal (L 1–6)
+LOCATION:Arizona Athletic Grounds - Field 8
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091043-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T131500
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at La Roca FC (L 0–5)
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091049-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T133000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at Avalanche (L 2–3)
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091053-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs La Roca FC
+LOCATION:CCV Stars Peoria Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091057-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Avalanche
+LOCATION:Arizona Christian University - Field 2 (South)
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144197-n-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T164500
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at Mustang Soccer (national event)
+LOCATION:Surf Sports Park - Field #05
+DESCRIPTION:ECNL Boys · U13 Mountain · ECNL Boys San Diego\nhttps://stw1.
+ github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091059-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Arizona Arsenal
+LOCATION:CCV Stars Peoria Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091141-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T110000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Colorado Rush
+LOCATION:CCV Stars Peoria Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091145-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Real Colorado National
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091149-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Colorado Storm Central
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091153-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T130000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Colorado EDGE
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091161-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T133000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 10
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091167-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T100000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East A
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091175-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS vs Pride SC
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091193-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at NM Rapids SC
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 7
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091197-132855@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U13 CCV STARS at El Paso Locomotive
+LOCATION:Socorro Athletic Complex (SAC) - SAC 1
+DESCRIPTION:ECNL Boys · U13 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U13&conf=mountain&show=132855
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mountain&
+ show=132855
+END:VEVENT
+END:VCALENDAR

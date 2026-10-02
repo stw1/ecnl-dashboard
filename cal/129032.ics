@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Carolina Surf U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064985-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs Concorde Fire Platinum (L 0–1)
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065093-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs GSA (L 0–3)
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140126-n-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at NCFC Youth (national event)
+LOCATION:nCino Sports Park - Field #11
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Boys North Carolina - Fall\n
+ https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast&sh
+ ow=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065171-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065193-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065207-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T100000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065245-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs United Futbol Academy
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065343-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T120000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at CESA Triumph
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065147-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270124T130000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs Concorde Fire Premier
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065349-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T120000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs South Carolina United
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065353-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs NTH NASA
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065363-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs Atlanta Fire United
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065379-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at GSA
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065383-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at United Futbol Academy
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065389-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf vs CESA Triumph
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065393-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at NTH NASA
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065395-129032@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U13 South Carolina Surf at Atlanta Fire United
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=129032
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=129032
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Real Colorado National U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091283-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 Real Colorado National vs La Roca FC
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091303-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 Real Colorado National vs Avalanche
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091335-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T090000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National vs Pride SC
+LOCATION:Highland Heritage Regional Park - HHRP West
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091355-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T090000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at El Paso Locomotive
+LOCATION:Socorro Athletic Complex (SAC) - SAC 2
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091375-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T130000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at NM Rapids SC
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091391-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T111500
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 8
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091395-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T120000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East B
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091403-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Real Colorado National at Arizona Arsenal
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091419-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at CCV STARS
+LOCATION:West Valley Events Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091439-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U15 Real Colorado National at Colorado Rush
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091459-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T090000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National vs El Paso Locomotive
+LOCATION:Real Colorado Soccer Complex - RCSC 2
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091475-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U15 Real Colorado National vs NM Rapids SC
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091491-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Real Colorado National vs Colorado Rush
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091539-95150@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T133000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado National at Pride SC
+LOCATION:Pride Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=95150
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=95150
+END:VEVENT
+END:VCALENDAR

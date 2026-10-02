@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSA FC U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071578-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 FSA FC at FC Stars Blue
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071590-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 FSA FC at FC Stars White
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071596-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T101500
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs SUSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071602-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T083000
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs East Meadow Soccer Club
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071608-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T101500
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs World Class FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071617-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T160000
+DURATION:PT2H
+SUMMARY:U15 FSA FC at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071629-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 FSA FC at SUSA FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071638-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T160000
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs Select
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071665-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U15 FSA FC at Select
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071677-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 FSA FC at Scorpions SC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071710-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270421
+SUMMARY:U15 FSA FC vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071719-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T160000
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs FC Stars Blue
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071731-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T160000
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs Scorpions SC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071752-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 FSA FC at Connecticut FC United
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071755-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T100000
+DURATION:PT2H
+SUMMARY:U15 FSA FC vs FC Stars White
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071788-69502@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:U15 FSA FC at World Class FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =69502
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=69502
+END:VEVENT
+END:VCALENDAR

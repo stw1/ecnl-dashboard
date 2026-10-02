@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Iowa Central U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057267-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central vs Sporting Nebraska FC (W 1–0)
+LOCATION:Hy-Vee Multiplex - Green #2
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057275-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T100000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central vs Gretna Elite Academy (L 1–3)
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057291-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260925T193000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central vs VSA Rush (W 3–0)
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057303-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057319-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T080000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at Sporting Nebraska FC
+LOCATION:Bellevue University - Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057323-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T160000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central vs Arkansas Comets FC
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057331-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T120000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central vs OK Energy FC
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057359-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at OK Energy FC
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057375-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at Arkansas Comets FC
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057379-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T110000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057407-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Sporting Iowa Central vs Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U16 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland&show=1323
+ 91
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057431-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U16 Sporting Iowa Central vs Kansas City Athletics
+DESCRIPTION:ECNL Boys · U16 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland&show=1323
+ 91
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057479-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U16 Sporting Iowa Central vs Kansas Rush
+DESCRIPTION:ECNL Boys · U16 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland&show=1323
+ 91
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057487-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U16 Sporting Iowa Central vs FC Wichita
+DESCRIPTION:ECNL Boys · U16 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland&show=1323
+ 91
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057515-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T130000
+DURATION:PT2H
+SUMMARY:U16 Sporting Iowa Central at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U16 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=heartland&show=132391
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057519-132391@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U16 Sporting Iowa Central at Missouri Rush
+DESCRIPTION:ECNL Boys · U16 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland&show=1323
+ 91
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=heartland
+ &show=132391
+END:VEVENT
+END:VCALENDAR

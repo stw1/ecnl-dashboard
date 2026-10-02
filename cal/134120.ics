@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan Hawks Magic U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067700-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260828T193000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at Michigan Hawks (L 0–2)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067728-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at Liverpool FC MI (W 3–1)
+LOCATION:UWM Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067752-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T080000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Missouri Rush (L 1–2)
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067780-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T143000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at FC Wisconsin (W 2–0)
+LOCATION:FC Wisconsin Soccer Park - Field 1 - Val Olla Field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067804-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at Chicago Inter (D 2–2)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067848-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T093000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Sporting Blue Valley (D 2–2)
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067868-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T093000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Kansas City Athletics (D 1–1)
+LOCATION:Catholic Central High School - Football Field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067912-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Sporting Iowa
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067936-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T080000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Gretna Elite Academy
+LOCATION:Catholic Central High School - Football Field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067952-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067972-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at Eclipse Select Soccer Club
+LOCATION:Lewis University - field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068036-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T080000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at St. Louis Scott Gallagher Green
+LOCATION:SLSG Creve Coeur Facility - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068052-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T080000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic at St. Louis Scott Gallagher Navy
+LOCATION:SLSG Creve Coeur Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068113-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T080000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs MN Thunder Academy
+LOCATION:Legacy Center Sports Complex - Indoor
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068125-134120@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T100000
+DURATION:PT2H
+SUMMARY:U18/19 Michigan Hawks Magic vs Nationals SC
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=134120
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=134120
+END:VEVENT
+END:VCALENDAR

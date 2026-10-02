@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:River Islands Surf U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1099277-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T130000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs Davis Legacy (L 0–7)
+LOCATION:River Islands Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099301-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf at Association FC (D 1–1)
+LOCATION:Witter Sports Complex - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099373-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T130000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs San Francisco Elite Academy (L 1–2)
+LOCATION:River Islands Sports Park - Field 2 (11v11)
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099427-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T140000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf at Santa Rosa United (L 1–3)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099475-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:U18/19 River Islands Surf vs 1974 Newark FC (W 2–0)
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099487-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs Napa United
+LOCATION:River Islands Sports Park - FIeld 1 (11v11)
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099559-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U18/19 River Islands Surf at Mustang Soccer
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099619-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U18/19 River Islands Surf vs El Camino FC Salinas
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099655-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs COSC
+LOCATION:River Islands Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099751-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf at Santa Clara Sporting
+LOCATION:Santa Clara Youth Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099817-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 River Islands Surf at San Juan SC
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099853-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs Placer United
+LOCATION:River Islands Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099901-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 River Islands Surf at MVLA
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099943-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf vs Marin FC
+LOCATION:River Islands Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099997-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T151500
+DURATION:PT2H
+SUMMARY:U18/19 River Islands Surf at Folsom Lake Surf
+LOCATION:Econome Family Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100021-71301@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 River Islands Surf at Los Gatos United Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=71301
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=71301
+END:VEVENT
+END:VCALENDAR

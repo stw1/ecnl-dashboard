@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Select U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071576-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T151500
+DURATION:PT2H
+SUMMARY:U16 Select vs Scorpions SC
+LOCATION:Union Point Sports Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=new-england&show=134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071594-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T113000
+DURATION:PT2H
+SUMMARY:U16 Select at FC Stars White
+LOCATION:FC Stars Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U16 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=new-england&show=134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071615-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Select vs FC Stars White
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071624-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U16 Select vs FC Stars Blue
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071639-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T123000
+DURATION:PT2H
+SUMMARY:U16 Select at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U16 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=new-england&show=134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071651-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Select at World Class FC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071663-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Select at Connecticut FC United
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071666-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U16 Select vs FSA FC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071675-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 Select at FC Stars Blue
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071693-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Select at SUSA FC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071705-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T140000
+DURATION:PT2H
+SUMMARY:U16 Select at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U16 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=new-england&show=134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071708-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270421
+SUMMARY:U16 Select at Scorpions SC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071750-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Select vs SUSA FC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071762-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U16 Select vs East Meadow Soccer Club
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071774-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 Select vs World Class FC
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071786-134373@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U16 Select vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U16 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-england&show
+ =134373
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=new-engla
+ nd&show=134373
+END:VEVENT
+END:VCALENDAR

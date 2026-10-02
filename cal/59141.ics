@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cleveland Force SC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064711-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 Cleveland Force SC vs Nationals SC
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064735-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U17 Cleveland Force SC at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064779-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T130000
+DURATION:PT2H
+SUMMARY:U17 Cleveland Force SC at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064795-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 Cleveland Force SC at FC Pride Elite
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064799-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Cleveland Force SC vs Ohio Premier
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064815-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 Cleveland Force SC vs Ohio Elite SA
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064835-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 Cleveland Force SC at Nationals SC
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064843-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 Cleveland Force SC vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064863-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Cleveland Force SC vs Louisville City Academy
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064879-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Cleveland Force SC vs FC Pride Elite
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064903-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Cleveland Force SC at RNY FC Youth
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064907-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T113000
+DURATION:PT2H
+SUMMARY:U17 Cleveland Force SC at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064939-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T120000
+DURATION:PT2H
+SUMMARY:U17 Cleveland Force SC at Ohio Premier
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064943-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U17 Cleveland Force SC at Ohio Elite SA
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064955-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Cleveland Force SC vs WNY Flash
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064967-59141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 Cleveland Force SC vs RNY FC Youth
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 59141
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=59141
+END:VEVENT
+END:VCALENDAR

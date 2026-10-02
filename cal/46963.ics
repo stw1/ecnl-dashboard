@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SUSA FC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071798-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T171500
+DURATION:PT2H
+SUMMARY:U18/19 SUSA FC at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071801-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:U18/19 SUSA FC at World Class FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071804-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 SUSA FC vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071809-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 SUSA FC at FC Stars Blue
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071812-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 SUSA FC at FC Stars White
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071816-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 SUSA FC at Connecticut FC United
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071820-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 SUSA FC vs East Meadow Soccer Club
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071822-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 SUSA FC vs Select
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071823-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 SUSA FC vs Scorpions SC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071827-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 SUSA FC vs World Class FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071833-46963@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T180000
+DURATION:PT2H
+SUMMARY:U18/19 SUSA FC at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=46963
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=46963
+END:VEVENT
+END:VCALENDAR

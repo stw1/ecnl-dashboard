@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Utah Royals FC-AZ U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085366-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ at San Diego Surf (L 1–10)
+LOCATION:Surf Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085378-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T123000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ at SLAMMERS FC (L 0–2)
+LOCATION:Arroyo Park - Field 1
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085426-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ vs LV Heat Surf (L 0–1)
+LOCATION:Scottsdale Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085444-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T080000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ at Phoenix Rising FC
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085510-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ vs LAFC So Cal
+LOCATION:Bell Road Sports Complex - Field 16
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141560-n-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T135500
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ vs Davis Legacy (national event)
+LOCATION:Surf Sports Park - Field #17
+DESCRIPTION:ECNL Girls · U13 Southwest · ECNL Girls San Diego\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085606-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ vs Legends FC Del Mar
+LOCATION:Bell Road Sports Complex - Field 15
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085696-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ vs LA Breakers FC
+LOCATION:Bell Road Sports Complex - Field 16
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085750-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T100000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ at Arizona Arsenal
+LOCATION:Reach 11 Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085792-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 Utah Royals FC-AZ at Slammers FC HB Koge
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085852-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Utah Royals FC-AZ at Sporting California USA
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085888-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Utah Royals FC-AZ vs Pateadores Soccer Club
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085948-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Utah Royals FC-AZ vs So Cal Blues
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086026-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Utah Royals FC-AZ vs Rebels SC
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086038-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U13 Utah Royals FC-AZ at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=90259
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086080-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U13 Utah Royals FC-AZ at Beach Futbol Club (CA)
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086116-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Utah Royals FC-AZ vs Legends FC (CA)
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086146-90259@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 Utah Royals FC-AZ vs Beach Futbol Club (CA)
+DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=902
+ 59
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=90259
+END:VEVENT
+END:VCALENDAR

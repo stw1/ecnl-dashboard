@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Portland U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075457-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T150000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs United PDX
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075458-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T150000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs Eugene Metro FC
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075459-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T150000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs Idaho Rush
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075460-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T150000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs Boise Timbers
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075341-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U16 FC Portland at Boise Timbers
+DESCRIPTION:ECNL Boys · U16 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075500-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U16 FC Portland at Idaho Rush
+DESCRIPTION:ECNL Boys · U16 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075562-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 FC Portland at United PDX
+DESCRIPTION:ECNL Boys · U16 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075528-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T110000
+DURATION:PT2H
+SUMMARY:U16 FC Portland at Oregon Premier FC
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075461-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs Oregon Premier FC
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075462-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T190000
+DURATION:PT2H
+SUMMARY:U16 FC Portland vs Capital FC
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U16 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075416-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 FC Portland at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U16 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075394-116422@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U16 FC Portland at Capital FC
+DESCRIPTION:ECNL Boys · U16 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&show=116422
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=far-west&
+ show=116422
+END:VEVENT
+END:VCALENDAR

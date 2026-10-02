@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dallas Youth U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1136933-n-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Eclipse Select Soccer Club (national event) 
+ (L 3–4)
+LOCATION:SLYSA Complex - Field #03
+DESCRIPTION:ECNL Girls · U13 Texas · ECNL Girls St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136940-n-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T113000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Kansas City Athletics (national event) (W 6
+ –1)
+LOCATION:SLYSA Complex - Field #12
+DESCRIPTION:ECNL Girls · U13 Texas · ECNL Girls St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136942-n-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Indy Eleven (national event) (W 10–0)
+LOCATION:SLYSA Complex - Field #09
+DESCRIPTION:ECNL Girls · U13 Texas · ECNL Girls St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073618-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Colorado Storm (W 4–0)
+LOCATION:Toyota Soccer Center - Field 17
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073648-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Real Colorado National (W 2–0)
+LOCATION:Toyota Soccer Center - Field 16
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073546-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs OK Energy FC (W 4–0)
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073582-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs West Side Alliance (W 9–0)
+LOCATION:Toyota Soccer Center - Field 17
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073750-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Sting Royal
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073762-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Real Colorado Athletico
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073786-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U13 FC Dallas Youth at Colorado Rush
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073834-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Lonestar ATX Red
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073864-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at FC Westlake
+LOCATION:Hill Country Middle School - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073882-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Challenge SC
+LOCATION:Burroughs Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073894-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074008-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at Sting Black
+LOCATION:Sting National Training Center - Field A
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074032-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth at DKSC
+LOCATION:Clark East Field - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074038-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U13 FC Dallas Youth vs Dallas Texans
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074110-96490@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 FC Dallas Youth vs SOLAR SC
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=96490
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=96490
+END:VEVENT
+END:VCALENDAR

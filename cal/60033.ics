@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlanta Fire United U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069944-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs Jacksonville FC (W 3–2)
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069980-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs Sporting SA JAX (W 3–1)
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070024-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs Florida Premier FC (L 0–3)
+LOCATION:Scott Hudgens Park - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070060-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs Tampa Bay United (W 4–0)
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070076-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Seminole United (L 1–5)
+LOCATION:Seminole - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070104-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Florida Kraze Krush (D 3–3)
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070168-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Team Boca
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field S1 #1
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070196-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070216-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs South Carolina United
+LOCATION:Scott Hudgens Park - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070232-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs CESA Liberty
+LOCATION:Scott Hudgens Park - Field 6
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070304-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T150000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United vs United Futbol Academy
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070240-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070252-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T150000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070280-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070296-60033@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T110000
+DURATION:PT2H
+SUMMARY:U18/19 Atlanta Fire United at GSA
+LOCATION:GSA East - #1
+DESCRIPTION:ECNL Girls · U18/19 Southeast\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southeast&show=60033
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southe
+ ast&show=60033
+END:VEVENT
+END:VCALENDAR

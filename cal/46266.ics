@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dallas Youth U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073614-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs Colorado Storm (D 1–1)
+LOCATION:Toyota Soccer Center - Field 16
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073644-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs Real Colorado National (L 3–4)
+LOCATION:Toyota Soccer Center - Field 15
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073542-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs OK Energy FC (D 2–2)
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073578-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs West Side Alliance (W 4–0)
+LOCATION:Toyota Soccer Center - Field 9
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073746-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs Sting Royal
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073758-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at Real Colorado Athletico
+LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073782-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U17 FC Dallas Youth at Colorado Rush
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073830-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at Lonestar ATX Red
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073860-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at FC Westlake
+LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073878-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073890-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074004-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at Sting Black
+LOCATION:Sting National Training Center - Field B
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074028-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth at DKSC
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074034-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T130000
+DURATION:PT2H
+SUMMARY:U17 FC Dallas Youth vs Dallas Texans
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074106-46266@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 FC Dallas Youth vs SOLAR SC
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=46266
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=46266
+END:VEVENT
+END:VCALENDAR

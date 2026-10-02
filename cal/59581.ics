@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dallas Youth Red U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106767-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Dallas Texans Academy (W 4–3)
+LOCATION:Wakeland High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106827-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Dallas Texans (W 5–0)
+LOCATION:Frisco High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106911-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260930T193000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106989-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at OK Energy FC Academy
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107067-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Lonestar ATX Royal
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107127-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Lonestar ATX Red
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107187-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Sting
+LOCATION:Sting National Training Center - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107229-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U18/19 FC Dallas Youth Red at DKSC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107271-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs Colorado Storm
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107325-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs Real Colorado Academy
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107421-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at San Antonio City SC
+LOCATION:Specht Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107469-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U18/19 FC Dallas Youth Red at SAFC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107589-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red at Tulsa SC
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107619-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs Albion Hurricanes FC
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107673-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs RISE SC
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107721-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs SOLAR SC
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107757-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs Solar SC Academy
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107781-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs FC Westlake
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107811-59581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth Red vs HTX
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=59581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=59581
+END:VEVENT
+END:VCALENDAR

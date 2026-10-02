@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Idaho Rush U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075451-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T193000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at FC Portland (L 0–1)
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075535-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T160000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at Oregon Premier FC (L 0–3)
+LOCATION:Hazelia - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075572-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T113000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at United PDX (L 0–1)
+LOCATION:University of Oregon Portland - NE Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075494-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs Eugene Metro FC (W 4–1)
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075495-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs United PDX
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075496-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs FC Portland (D 1–1)
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075497-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs Boise Timbers
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075493-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs Capital FC
+LOCATION:Optimist Sports Complex - Field 14
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075363-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U14 Idaho Rush at Boise Timbers
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075498-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush vs Oregon Premier FC
+LOCATION:Optimist Sports Complex - field 16
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075429-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at Eugene Metro FC
+LOCATION:Civic Park - Civic Park
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075382-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at Capital FC
+LOCATION:CFC Pioneer Sportspark - Ed Davison 1
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089845-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U14 Idaho Rush at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089847-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U14 Idaho Rush at Capital FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089855-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U14 Idaho Rush at Oregon Premier FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089867-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T170000
+DURATION:PT2H
+SUMMARY:U14 Idaho Rush at FC Portland
+LOCATION:Liberty High School - Stadium Field
+DESCRIPTION:ECNL Boys · U14 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089873-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U14 Idaho Rush at United PDX
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089881-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U14 Idaho Rush vs United PDX
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089887-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U14 Idaho Rush vs FC Portland
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089891-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 Idaho Rush vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089897-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 Idaho Rush vs Capital FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089905-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U14 Idaho Rush at Boise Timbers
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089917-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Idaho Rush vs Boise Timbers
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1089925-97348@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Idaho Rush vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U14 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&show=97348
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=far-west&
+ show=97348
+END:VEVENT
+END:VCALENDAR

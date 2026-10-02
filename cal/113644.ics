@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting SA JAX U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068312-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Fort Lauderdale United FC (W 4–1)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068342-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Palm Beach United (W 7–1)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140618-n-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T094500
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Concorde Fire Platinum (national event) (L 1
+ –3)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140626-n-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Florida Kraze Krush - (national event) (D 0
+ –0)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140628-n-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs GSA (national event) (W 3–2)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068438-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T140000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Florida Premier FC (W 4–2)
+LOCATION:Indian Trails Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068468-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Florida Premier FC South (D 2–2)
+LOCATION:Indian Trails Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068474-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Athletic Club Florida
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068504-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Parkland Soccer Club
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068624-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068642-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068576-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068600-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at AC Florida West
+LOCATION:JetBlue Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068396-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Fort Lauderdale United FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068426-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T110000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Palm Beach United
+LOCATION:Gardens North County District Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068354-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Florida Kraze Krush -
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068708-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T140000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068720-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs AC Florida West
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068732-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Doral Soccer Club
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068822-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T100000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Space Coast United
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068930-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068954-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068960-113644@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T100000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Florida Kraze Krush -
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=113644
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=113644
+END:VEVENT
+END:VCALENDAR

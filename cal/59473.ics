@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VDA U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109588-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Arlington Soccer Association (W 4–2)
+LOCATION:Greenbrier (Yorktown HS) - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109612-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Richmond United (L 1–3)
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109620-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Beach FC (VA) (L 1–3)
+LOCATION:Hampton Roads Soccer Complex - Field 15
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109640-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Skyline Elite
+LOCATION:Catharpin Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109664-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Charlotte SA Academy
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109700-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Highland FC
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109712-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Fairfax Virginia Union
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109716-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs NCFC Youth Academy
+LOCATION:Long Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109728-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Richmond United
+LOCATION:Long Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109740-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Beach FC (VA)
+LOCATION:Howison Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109752-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270109T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Arlington Soccer Association
+LOCATION:Howison Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109760-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U18/19 VDA at Charlotte SA
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109776-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U18/19 VDA at NC Fusion
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109820-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U18/19 VDA at Skyline Elite
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109876-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U18/19 VDA at Fairfax Virginia Union
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109988-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T140000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs NCFC Youth
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110000-59473@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Wilmington Hammerheads
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=59473
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=59473
+END:VEVENT
+END:VCALENDAR

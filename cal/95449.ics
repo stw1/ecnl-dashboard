@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bay Area Surf - U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094418-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Marin FC (W 2–1)
+LOCATION:San Rafael High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094442-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:U15 Bay Area Surf - vs Santa Rosa United (W 7–1)
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094490-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Mustang SC (D 2–2)
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094532-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at San Juan SC (W 3–1)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094550-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T175500
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - vs Stanislaus Surf - (W 4–1)
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094622-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T141500
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - vs Placer United
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094664-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141632-n-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T115000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at San Diego Surf (national event)
+LOCATION:Surf Sports Park - Field #13
+DESCRIPTION:ECNL Girls · U15 Northern Cal · ECNL Girls San Diego\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&show=9
+ 5449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094694-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U15 Bay Area Surf - vs COSC
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094730-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T161000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - vs MVLA
+LOCATION:Willow Glen High School - Football Stadium
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094784-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Pleasanton RAGE
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094802-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U15 Bay Area Surf - vs Mustang SC
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094592-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U15 Bay Area Surf - at Force (CA)
+LOCATION:Kathleen MacDonald High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094838-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U15 Bay Area Surf - vs San Juan SC
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094874-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U15 Bay Area Surf - vs Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094904-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Bay Area Surf - at Santa Rosa United
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094916-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 Bay Area Surf - vs Marin FC
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094982-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T143500
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Stanislaus Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095018-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095024-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Bay Area Surf - vs Force (CA)
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095060-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Bay Area Surf - vs Davis Legacy
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095096-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T140000
+DURATION:PT2H
+SUMMARY:U15 Bay Area Surf - at COSC
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095138-95449@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Bay Area Surf - at MVLA
+DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
+ ow=95449
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
+ cal&show=95449
+END:VEVENT
+END:VCALENDAR

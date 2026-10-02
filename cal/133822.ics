@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Richmond United U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1121244-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T140000
+DURATION:PT2H
+SUMMARY:U15 Richmond United vs NCFC Youth (W 1–0)
+LOCATION:Striker Park - Field 4
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121252-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U15 Richmond United vs NC Fusion (W 4–0)
+LOCATION:Striker Park - Field 4
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121264-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U15 Richmond United at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 17
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121284-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U15 Richmond United vs Charlotte SA
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121296-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T163000
+DURATION:PT2H
+SUMMARY:U15 Richmond United at Arlington Soccer Association
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121320-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U15 Richmond United at NCFC Youth NC Courage
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121344-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U15 Richmond United at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121388-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U15 Richmond United at South Carolina Surf
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121408-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T143000
+DURATION:PT2H
+SUMMARY:U15 Richmond United vs VDA
+LOCATION:Striker Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121416-133822@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T143000
+DURATION:PT2H
+SUMMARY:U15 Richmond United vs Fairfax Virginia Union
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=133822
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=133822
+END:VEVENT
+END:VCALENDAR

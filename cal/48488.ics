@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Dallas Youth White U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106773-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at Dallas Texans (L 0–3)
+LOCATION:Lebanon Trail High School. - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106821-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at Dallas Texans Academy (L 0–2)
+LOCATION:Wakeland High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106911-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260930T193000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107175-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U18/19 FC Dallas Youth White at DKSC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107241-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at Sting
+LOCATION:Sting National Training Center - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107289-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs Real Colorado Academy
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107307-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs Colorado Storm
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107361-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs OK Energy FC Academy
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107427-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U18/19 FC Dallas Youth White at SAFC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107475-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at San Antonio City SC
+LOCATION:Specht Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107085-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at Lonestar ATX Red
+LOCATION:Frost Elementary School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107133-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White at Lonestar ATX Royal
+LOCATION:Wagner Middle School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107565-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs Tulsa SC
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107637-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs RISE SC
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107655-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs Albion Hurricanes FC
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107727-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs Solar SC Academy
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107763-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs SOLAR SC
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107787-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs HTX
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107817-48488@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T110000
+DURATION:PT2H
+SUMMARY:U18/19 FC Dallas Youth White vs FC Westlake
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=48488
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=48488
+END:VEVENT
+END:VCALENDAR

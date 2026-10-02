@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Palm Beach United U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068318-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Space Coast United (W 5–1)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068342-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Sporting SA JAX (L 1–7)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068372-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Athletic Club Florida (W 2–1)
+LOCATION:North Community Park - North
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068402-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United vs Space Coast United (W 4–0)
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068456-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Parkland Soccer Club (L 0–3)
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068486-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United vs Florida Kraze Krush -
+LOCATION:Gardens North County District Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068522-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261011
+SUMMARY:U13 Palm Beach United vs Doral Soccer Club
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068588-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Fort Lauderdale United FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068636-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U13 Palm Beach United vs Florida Premier FC South
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068654-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U13 Palm Beach United vs Florida Premier FC
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068666-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U13 Palm Beach United vs AC Florida West
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068426-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T110000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United vs Sporting SA JAX
+LOCATION:Gardens North County District Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068744-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Palm Beach United at Florida Kraze Krush -
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068792-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T140000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068798-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068816-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Palm Beach United vs Fort Lauderdale United FC
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068840-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Palm Beach United vs Parkland Soccer Club
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068852-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T130000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068900-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Palm Beach United vs Athletic Club Florida
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068924-111680@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U13 Palm Beach United at AC Florida West
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111680
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111680
+END:VEVENT
+END:VCALENDAR

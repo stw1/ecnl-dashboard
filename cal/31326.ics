@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connecticut FC United U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118059-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Connecticut FC United at FC Stars
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118083-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T141500
+DURATION:PT2H
+SUMMARY:U18/19 Connecticut FC United at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118107-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T143000
+DURATION:PT2H
+SUMMARY:U18/19 Connecticut FC United at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118163-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Connecticut FC United at Manhattan SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118183-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 Connecticut FC United at East Coast Surf SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118227-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 Connecticut FC United vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118247-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Connecticut FC United vs Select
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118263-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Connecticut FC United vs SUSA FC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118267-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Connecticut FC United vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118279-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T190000
+DURATION:PT2H
+SUMMARY:U18/19 Connecticut FC United at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118335-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 Connecticut FC United vs FSA FC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118351-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Connecticut FC United vs FC Stars
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118371-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U18/19 Connecticut FC United vs Scorpions SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118391-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U18/19 Connecticut FC United at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118407-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U18/19 Connecticut FC United at Select
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118423-31326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:U18/19 Connecticut FC United at AC Connecticut
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=31326
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=31326
+END:VEVENT
+END:VCALENDAR

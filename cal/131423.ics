@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Charlotte SA U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109658-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T100000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA vs Beach FC (VA)
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109690-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA vs Richmond United
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109734-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U16 Charlotte SA vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109742-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:U16 Charlotte SA vs Highland FC
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109758-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U16 Charlotte SA vs VDA
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109766-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U16 Charlotte SA vs Skyline Elite
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109782-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U16 Charlotte SA at Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109814-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U16 Charlotte SA vs NCFC Youth
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109842-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U16 Charlotte SA vs NCFC Youth Academy
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109878-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U16 Charlotte SA at NC Fusion
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109890-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U16 Charlotte SA vs Wilmington Hammerheads
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109914-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T120000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA at NCFC Youth
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109918-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 8
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109934-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U16 Charlotte SA at Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109946-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 Charlotte SA at Fairfax Virginia Union
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109982-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Charlotte SA vs NC Fusion
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlantic&sho
+ w=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110006-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T120000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA at NCFC Youth Academy
+LOCATION:WRAL - Field 21
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110022-131423@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T120000
+DURATION:PT2H
+SUMMARY:U16 Charlotte SA at Highland FC
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U16&conf=mid-atlantic&show=131423
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mid-atlan
+ tic&show=131423
+END:VEVENT
+END:VCALENDAR

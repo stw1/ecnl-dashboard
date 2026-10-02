@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South Carolina Surf U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122158-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Arlington Soccer Association (L 0–2)
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122168-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at VDA (L 0–7)
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 8
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122186-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf vs Charlotte SA
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122192-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 6
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122198-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf vs Fairfax Virginia Union
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122206-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf vs Beach FC (VA)
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122216-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf vs NC Fusion
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122232-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf vs Richmond United
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122250-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T130000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at NCFC Youth NC Courage
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122254-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270124T090000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at NCFC Youth
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122256-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U14 South Carolina Surf vs Arlington Soccer Association
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122266-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U14 South Carolina Surf vs Wilmington Hammerheads
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122284-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U14 South Carolina Surf vs VDA
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122286-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T140000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122306-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U14 South Carolina Surf vs NCFC Youth NC Courage
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122312-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T124500
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Fairfax Virginia Union
+LOCATION:James W Robinson HS - Stadium
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122320-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 15
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122344-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 South Carolina Surf at NC Fusion
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122350-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T120000
+DURATION:PT2H
+SUMMARY:U14 South Carolina Surf at Richmond United
+LOCATION:Striker Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122358-129049@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 South Carolina Surf vs NCFC Youth
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=129049
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=129049
+END:VEVENT
+END:VCALENDAR

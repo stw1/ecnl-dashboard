@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tampa Bay United U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069953-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at GSA (L 2–3)
+LOCATION:GSA East - #1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069985-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Concorde Fire Platinum (L 1–7)
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070025-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at United Futbol Academy (W 1–0)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070057-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Atlanta Fire United (W 3–1)
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070089-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs Concorde Fire Premier (L 0–6)
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070121-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs Alabama FC (D 2–2)
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070157-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs South Carolina United
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070189-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs CESA Liberty
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070341-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Sporting SA JAX
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070353-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T083000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Jacksonville FC
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070317-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070321-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United at Team Boca
+LOCATION:Fau Glades - Fau Glades-South #2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070365-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T090000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs Seminole United
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070377-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs Florida Kraze Krush
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070401-69068@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T130000
+DURATION:PT2H
+SUMMARY:U15 Tampa Bay United vs Florida Premier FC
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=69068
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=69068
+END:VEVENT
+END:VCALENDAR

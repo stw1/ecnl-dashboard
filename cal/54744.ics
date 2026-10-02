@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Pride Elite U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064690-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T110000
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite vs Nationals SC
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064698-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T101500
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite vs Pittsburgh Riverhounds
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064742-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T140000
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite at Ohio Premier
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064750-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T114500
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064774-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U16 FC Pride Elite at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064782-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 FC Pride Elite vs Ohio Premier
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064794-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U16 FC Pride Elite vs Cleveland Force SC
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064810-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 FC Pride Elite at RNY FC Youth
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064822-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T104500
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064758-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T090000
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite vs RNY FC Youth
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064770-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T090000
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite vs WNY Flash
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064866-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 FC Pride Elite at Nationals SC
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064878-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 FC Pride Elite at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064894-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 FC Pride Elite vs Ohio Elite SA
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064702-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U16 FC Pride Elite at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 4
+DESCRIPTION:ECNL Boys · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=ohio-valley&show=54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064950-54744@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 FC Pride Elite vs Louisville City Academy
+DESCRIPTION:ECNL Boys · U16 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-valley&show=
+ 54744
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=ohio-vall
+ ey&show=54744
+END:VEVENT
+END:VCALENDAR

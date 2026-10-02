@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WNY Flash U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064719-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T120000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash at Ohio Premier
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064727-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:U17 WNY Flash at Ohio Elite SA
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064787-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T123000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Pittsburgh Riverhounds
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064807-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T123000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Louisville City Academy
+LOCATION:Flash Fields - Field B2
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064823-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T123000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs FC Pride Elite
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064851-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T123000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs RNY FC Youth
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064755-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash at Louisville City Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064771-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T133000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064931-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064871-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T113000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Ohio Premier
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064887-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T113000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Ohio Elite SA
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064899-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T113000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Nationals SC
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064907-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T113000
+DURATION:PT2H
+SUMMARY:U17 WNY Flash vs Cleveland Force SC
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064923-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 WNY Flash at RNY FC Youth
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064955-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 WNY Flash at Cleveland Force SC
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064971-36928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 WNY Flash at Nationals SC
+DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
+ 36928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
+ ey&show=36928
+END:VEVENT
+END:VCALENDAR

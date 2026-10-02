@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Side Alliance U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073475-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs FC Westlake (L 0–1)
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073493-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs Lonestar ATX Red (W 3–2)
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073547-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at Sting Royal (L 0–2)
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073577-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at FC Dallas Youth (L 0–1)
+LOCATION:Toyota Soccer Center - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073685-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073721-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073775-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs DKSC
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073799-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T150000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs Sting Black
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073865-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T150000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 4
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073913-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at Dallas Texans
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073943-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T150000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs SOLAR SC
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073949-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs Colorado Storm
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073967-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T130000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance vs Real Colorado National
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073979-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T133000
+DURATION:PT2H
+SUMMARY:U18/19 West Side Alliance at Real Colorado Athletico
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=110465
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073985-110465@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U18/19 West Side Alliance at Colorado Rush
+DESCRIPTION:ECNL Girls · U18/19 Texas · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&show=11046
+ 5
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=110465
+END:VEVENT
+END:VCALENDAR

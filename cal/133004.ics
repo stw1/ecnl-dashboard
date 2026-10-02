@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Racing Louisville Academy U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132984-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T143000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132882-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs FC Pride Elite
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132888-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T130000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy at FC Alliance TN
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132891-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T110000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 2
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132918-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T090000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs FC Alliance TN
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132933-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs Tennessee SC
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132936-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs WNY Flash
+LOCATION:Thurman Hutchins - Field 7
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132948-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T120000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs Pittsburgh Riverhounds
+LOCATION:Thurman Hutchins - Field 7
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132870-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs Ohio Elite SA
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133014-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Racing Louisville Academy at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133032-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T123000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133053-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Racing Louisville Academy at GTFC Impact
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133074-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 Racing Louisville Academy at Ohio Premier
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133089-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U17 Racing Louisville Academy vs Indy Eleven
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133110-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Racing Louisville Academy at FC Pride Elite
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133119-133004@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U17 Racing Louisville Academy at Indy Eleven
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =133004
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=133004
+END:VEVENT
+END:VCALENDAR

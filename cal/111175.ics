@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Side Alliance U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073478-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs FC Westlake (L 0–5)
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073496-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs Lonestar ATX Red (L 1–4)
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073550-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at Sting Royal (L 0–3)
+LOCATION:Sting National Training Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073580-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at FC Dallas Youth (L 0–3)
+LOCATION:Toyota Soccer Center - Field 17
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073688-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073724-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073778-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs DKSC
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073802-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs Sting Black
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073868-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 3
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073916-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T130000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at Dallas Texans
+LOCATION:Heritage High School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073946-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs SOLAR SC
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073952-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs Colorado Storm
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073970-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T110000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance vs Real Colorado National
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073982-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T133000
+DURATION:PT2H
+SUMMARY:U15 West Side Alliance at Real Colorado Athletico
+LOCATION:Real Colorado Soccer Complex - RCSC 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073988-111175@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U15 West Side Alliance at Colorado Rush
+DESCRIPTION:ECNL Girls · U15 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&show=111175
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=111175
+END:VEVENT
+END:VCALENDAR

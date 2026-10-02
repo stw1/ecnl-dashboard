@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pateadores Soccer Club U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085344-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs Slammers FC HB Koge (L 1–2)
+LOCATION:Orange County Great Park - Field 9
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085380-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club at Eagles SC (L 0–4)
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085428-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club at LA Breakers FC (L 0–4)
+LOCATION:Bell Gardens Sports Complex - Field 3
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085494-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T094500
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs Rebels SC
+LOCATION:Great Park - Field 22
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086130-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs San Diego Surf
+LOCATION:Orange Coast College - Soccer Field
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085578-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs LV Heat Surf
+LOCATION:Orange County Great Park - Field 9
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085626-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs So Cal Blues
+LOCATION:Great Park - Field 9
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085668-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club vs Sporting California USA
+LOCATION:Great Park - Field 9
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085728-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T131500
+DURATION:PT2H
+SUMMARY:U17 Pateadores Soccer Club at Legends FC Del Mar
+LOCATION:Miramesa High School - Field 1 - Stadium
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=130975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085776-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 Pateadores Soccer Club at Legends FC (CA)
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085824-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 Pateadores Soccer Club vs Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085884-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Pateadores Soccer Club at Utah Royals FC-AZ
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085890-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 Pateadores Soccer Club at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085962-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Pateadores Soccer Club vs Beach Futbol Club (CA)
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086046-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Pateadores Soccer Club at LAFC So Cal
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086100-130975@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Pateadores Soccer Club at SLAMMERS FC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=130
+ 975
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=130975
+END:VEVENT
+END:VCALENDAR

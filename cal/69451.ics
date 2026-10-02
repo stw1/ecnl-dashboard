@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastside FC U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058649-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 Eastside FC at PacNW SC
+DESCRIPTION:ECNL Girls · U17 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest&show=694
+ 51
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058719-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Portland Thorns
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058745-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T130000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs La Roca FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058771-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Avalanche
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058799-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Boise Thorns
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058815-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Washington Premier
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058835-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U17 Eastside FC at XF
+DESCRIPTION:ECNL Girls · U17 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest&show=694
+ 51
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058852-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T130000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Oregon Surf
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058911-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 Eastside FC at Boise Thorns
+DESCRIPTION:ECNL Girls · U17 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest&show=694
+ 51
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058944-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Eastside FC at Portland Thorns
+DESCRIPTION:ECNL Girls · U17 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest&show=694
+ 51
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058966-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 Eastside FC at Oregon Surf
+DESCRIPTION:ECNL Girls · U17 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest&show=694
+ 51
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058988-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs XF
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059003-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs Seattle United
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059026-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC at Avalanche
+LOCATION:St. Joseph Catholic High School - Turf Field
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059047-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T131500
+DURATION:PT2H
+SUMMARY:U17 Eastside FC at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059084-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059192-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC vs PacNW SC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059218-69451@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U17 Eastside FC at Seattle United
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U17 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=northwest&show=69451
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northwest
+ &show=69451
+END:VEVENT
+END:VCALENDAR

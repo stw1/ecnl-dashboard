@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Premier U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073339-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Ohio Premier vs GTFC Impact
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073357-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Ohio Premier at FC Alliance TN
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073360-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 Ohio Premier at Tennessee SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073365-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Ohio Premier vs FC Pride Elite
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073369-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Ohio Premier vs Indy Eleven
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073371-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Ohio Premier vs Internationals SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073375-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Ohio Premier at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073389-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Ohio Premier vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073395-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Ohio Premier vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073399-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Ohio Premier at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073400-60137@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 Ohio Premier at WNY Flash
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=60137
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=60137
+END:VEVENT
+END:VCALENDAR

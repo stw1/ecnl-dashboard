@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lonestar ATX Red U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073418-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T100000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at Colorado Storm (W 2–1)
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073448-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T133000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at Real Colorado National (D 2–2)
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073472-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at OK Energy FC (W 2–1)
+LOCATION:Edmond Soccer Club - ESC 5
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073496-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at West Side Alliance (W 4–1)
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073520-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Colorado Rush
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073574-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Real Colorado Athletico
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141671-n-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T133500
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Stanislaus Surf - (national event)
+LOCATION:Surf Sports Park - Field #16
+DESCRIPTION:ECNL Girls · U15 Texas · ECNL Girls San Diego\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073694-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at Dallas Texans
+LOCATION:Beacon Park - field 4
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073742-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red at SOLAR SC
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073766-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs FC Westlake
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073832-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs FC Dallas Youth
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073856-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Sting Royal
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074018-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Albion Hurricanes FC
+LOCATION:St. Andrew's Episcopal School - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074120-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Challenge SC
+LOCATION:St. Andrew's Episcopal School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074066-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs Sting Black
+LOCATION:St. Andrew's Episcopal School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074084-132702@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T120000
+DURATION:PT2H
+SUMMARY:U15 Lonestar ATX Red vs DKSC
+LOCATION:St. Andrew's Episcopal School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=132702
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=132702
+END:VEVENT
+END:VCALENDAR

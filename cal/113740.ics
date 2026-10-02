@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida Premier FC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069705-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Concorde Fire Platinum (W 2–1)
+LOCATION:Georgia Sports Park - field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069723-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at GSA (D 3–3)
+LOCATION:GSA East - #1
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069735-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Atlanta Fire United (W 1–0)
+LOCATION:Scott Hudgens Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069749-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at United Futbol Academy (L 1–2)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069769-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs Alabama FC (W 3–1)
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069785-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T103000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs Concorde Fire Premier (W 2–1)
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069803-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs CESA Liberty
+LOCATION:Starkey Ranch District Park - Field 8
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069819-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T083000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs South Carolina United
+LOCATION:Starkey Ranch District Park - Field 8
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069831-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T083000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Jacksonville FC
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069849-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Sporting SA JAX
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069861-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Team Boca
+LOCATION:Fau Glades - Fau Glades-South #2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069871-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069887-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T133000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs Florida Kraze Krush
+LOCATION:Wiregrass Ranch Sports Campus - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069903-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T083000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC vs Seminole United
+LOCATION:Wiregrass Ranch Sports Campus - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069879-113740@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 Florida Premier FC at Tampa Bay United
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113740
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113740
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tulsa SC U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106671-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at DKSC (L 1–2)
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106749-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T110000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Sting (W 3–2)
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106839-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at OK Energy FC Academy (D 1–1)
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106863-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs FC Westlake (L 0–1)
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106899-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs HTX (W 1–0)
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106923-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Lonestar ATX Red (D 1–1)
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106959-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Lonestar ATX Royal (W 7–0)
+LOCATION:Round Rock MultiPurpose Complex - Field 5
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107103-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs SAFC
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107157-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs San Antonio City SC
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107205-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Real Colorado Academy
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107223-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Colorado Storm
+LOCATION:Stargate Charter School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107277-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs Dallas Texans Academy
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107319-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs Dallas Texans
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107397-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107481-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at RISE SC
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107523-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs Solar SC Academy
+LOCATION:Jenks Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107553-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs SOLAR SC
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107565-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107589-130567@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tulsa SC vs FC Dallas Youth Red
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=130567
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=130567
+END:VEVENT
+END:VCALENDAR

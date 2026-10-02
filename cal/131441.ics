@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Charlotte SA U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1121270-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T133000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA at VDA
+LOCATION:Long Park - Field 5
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121286-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA at Richmond United
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121294-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA at South Carolina Surf
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121310-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA vs Arlington Soccer Association
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121338-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA vs Fairfax Virginia Union
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121358-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA at NCFC Youth NC Courage
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121374-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T140000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA vs NCFC Youth
+LOCATION:Orthocarolina Complex - Field 3
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121386-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T100000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA vs Wilmington Hammerheads
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121398-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T100000
+DURATION:PT2H
+SUMMARY:U17 Charlotte SA vs Beach FC (VA)
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=mid-atlantic&show=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121414-131441@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U17 Charlotte SA at NC Fusion
+DESCRIPTION:ECNL Girls · U17 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlantic&sh
+ ow=131441
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=mid-atlan
+ tic&show=131441
+END:VEVENT
+END:VCALENDAR

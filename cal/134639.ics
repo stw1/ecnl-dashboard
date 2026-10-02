@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Alliance TN U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072788-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T104500
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Internationals SC (W 1–0)
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072798-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Cleveland Force SC (L 0–3)
+LOCATION:Victory Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072820-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs FC Pride Elite (L 1–3)
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072832-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Indy Eleven (L 0–2)
+LOCATION:Clinton High School - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072842-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T143000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Tennessee SC
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072852-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Ohio Premier
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072862-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at GTFC Impact
+LOCATION:Springfield High School - 11v11
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072880-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072890-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T113000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Ohio Elite SA
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072908-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Pittsburgh Riverhounds
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072916-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs WNY Flash
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072928-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 FC Alliance TN vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072936-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 FC Alliance TN vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072950-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 FC Alliance TN at Tennessee SC
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072970-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T104500
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at FC Pride Elite
+LOCATION:Lawrence Soccer Complex - Field #1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072980-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Indy Eleven
+LOCATION:Grand Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072986-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 FC Alliance TN vs Internationals SC
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072994-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 FC Alliance TN vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073006-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 FC Alliance TN at WNY Flash
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072998-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T103000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073022-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 FC Alliance TN vs Ohio Premier
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073028-134639@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 FC Alliance TN vs GTFC Impact
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =134639
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=134639
+END:VEVENT
+END:VCALENDAR

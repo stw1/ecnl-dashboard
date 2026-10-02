@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MN Thunder Academy U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083714-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T094500
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Missouri Rush (D 1–1)
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083728-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T094500
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Gretna Elite Academy (W 2–0)
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083744-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T094500
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Rockford Raptors FC
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083768-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083770-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T090000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Kansas City Athletics
+LOCATION:Paragon Star Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083810-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs FC Wisconsin
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083860-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Sporting Iowa
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083842-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Liverpool FC MI
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083844-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Nationals SC
+LOCATION:Michigan Stars Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083846-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U14 MN Thunder Academy at Eclipse Select Soccer Club
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083856-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Chicago Inter
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083864-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083870-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at St. Louis Scott Gallagher Navy
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083878-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T120000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083912-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T100000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Michigan Hawks
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083918-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T100000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Michigan Hawks Magic
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083932-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Kansas City Athletics
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083942-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T080000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs Sporting Blue Valley
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083952-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy at Sporting Iowa
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083962-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 MN Thunder Academy at Missouri Rush
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083974-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T113000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs St. Louis Scott Gallagher Navy
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083980-134411@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T113000
+DURATION:PT2H
+SUMMARY:U14 MN Thunder Academy vs St. Louis Scott Gallagher Green
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134411
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134411
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PacNW SC U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058634-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U14 PacNW SC vs Eastside FC
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058680-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U14 PacNW SC vs Portland Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058692-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U14 PacNW SC vs Oregon Surf
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058711-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270123
+SUMMARY:U14 PacNW SC vs XF
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058731-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U14 PacNW SC vs Avalanche
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058760-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U14 PacNW SC vs La Roca FC
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058794-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U14 PacNW SC vs Washington Premier
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058807-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U14 PacNW SC vs Boise Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058824-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T060000
+DURATION:PT2H
+SUMMARY:U14 PacNW SC at Seattle United
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=104642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058932-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U14 PacNW SC at Washington Premier
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=104642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058978-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 PacNW SC vs Seattle United
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058998-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 PacNW SC at XF
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059012-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 PacNW SC at Oregon Surf
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059037-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 PacNW SC at Portland Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059061-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 PacNW SC at Boise Thorns
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059128-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 PacNW SC at Avalanche
+DESCRIPTION:ECNL Girls · U14 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest&show=104
+ 642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059149-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U14 PacNW SC at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=104642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059177-104642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U14 PacNW SC at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U14 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=northwest&show=104642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northwest
+ &show=104642
+END:VEVENT
+END:VCALENDAR

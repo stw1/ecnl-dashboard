@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indy Eleven U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132873-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T120000
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven vs FC Pride Elite
+LOCATION:Grand Park - Field 6
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132879-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T133000
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132921-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T104500
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132966-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 Indy Eleven at GTFC Impact
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132981-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 Indy Eleven at Ohio Premier
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132996-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Indy Eleven vs Tennessee SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133008-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 Indy Eleven vs FC Alliance TN
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133020-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T113000
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven at WNY Flash
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133038-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T120000
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133041-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Indy Eleven vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133062-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 Indy Eleven vs Internationals SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133089-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U17 Indy Eleven at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Girls · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U17&conf=ohio-valley&show=46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133107-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Indy Eleven vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133119-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U17 Indy Eleven vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133131-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Indy Eleven at Tennessee SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133146-46996@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 Indy Eleven at FC Alliance TN
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =46996
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=46996
+END:VEVENT
+END:VCALENDAR

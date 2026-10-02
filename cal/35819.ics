@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Stars U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118059-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 FC Stars vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118091-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U18/19 FC Stars vs FSA FC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118111-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T141500
+DURATION:PT2H
+SUMMARY:U18/19 FC Stars at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118131-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T143000
+DURATION:PT2H
+SUMMARY:U18/19 FC Stars at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118167-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 FC Stars at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118187-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 FC Stars at Select
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118203-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 FC Stars vs Scorpions SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118211-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 FC Stars at SUSA FC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118235-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T160000
+DURATION:PT2H
+SUMMARY:U18/19 FC Stars at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Boys · U18/19 New England\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=new-england&show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118271-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 FC Stars at Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118319-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 FC Stars at AC Connecticut
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118351-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 FC Stars at Connecticut FC United
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118395-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U18/19 FC Stars vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118419-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U18/19 FC Stars vs Manhattan SC
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118431-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:U18/19 FC Stars vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118435-35819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270606
+SUMMARY:U18/19 FC Stars vs Select
+DESCRIPTION:ECNL Boys · U18/19 New England · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-england
+ &show=35819
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=new-en
+ gland&show=35819
+END:VEVENT
+END:VCALENDAR

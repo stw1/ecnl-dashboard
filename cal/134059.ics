@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mississippi Rush United U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1056587-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T130000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Germantown Legends (D 0–0)
+LOCATION:Mike Rose Soccer Complex - Field 16
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056599-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T090000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Lobos Rush (W 1–0)
+LOCATION:Mike Rose Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056605-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Coastal Rush (W 3–0)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056611-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Alabama FC (W 2–0)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056623-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Chattanooga Red Wolves SC (W 4–1)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056635-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs FC Alliance TN (W 2–0)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056653-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Lobos Rush
+LOCATION:Jackson Futbol Club - Field 5
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056659-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Germantown Legends
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056665-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Coastal Rush
+LOCATION:Ashton Brosnaham - Field 4
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056667-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056683-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U14 Mississippi Rush United at Chattanooga Red Wolves SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056697-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at FC Alliance TN
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056707-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Louisiana Fire SC
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056713-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Tennessee United SC
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056717-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Tennessee SC
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056759-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T150000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Louisiana Fire SC
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056765-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U14 Mississippi Rush United at Tennessee United SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056769-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U14 Mississippi Rush United at Tennessee SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056773-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T150000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Coastal Rush
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056779-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Alabama FC
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056787-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United at Louisiana Fire SC
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056799-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Mississippi Rush United at Chattanooga Red Wolves SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056811-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 Mississippi Rush United at FC Alliance TN
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056819-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Mississippi Rush United at Lobos Rush
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056825-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Mississippi Rush United at Germantown Legends
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056835-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T150000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Tennessee United SC
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056843-134059@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U14 Mississippi Rush United vs Tennessee SC
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134059
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134059
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Internationals SC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073337-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T153000
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC vs Cleveland Force SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073347-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U18/19 Internationals SC at FC Alliance TN
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073348-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U18/19 Internationals SC at Tennessee SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073363-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T143000
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC vs Pittsburgh Riverhounds
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073367-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T143000
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC vs WNY Flash
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073371-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Internationals SC at Ohio Premier
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073374-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Internationals SC vs GTFC Impact
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073379-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T143000
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC vs Ohio Elite SA
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073383-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T143000
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC vs Racing Louisville Academy
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073391-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T084500
+DURATION:PT2H
+SUMMARY:U18/19 Internationals SC at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073396-47003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Internationals SC at Indy Eleven
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47003
+END:VEVENT
+END:VCALENDAR

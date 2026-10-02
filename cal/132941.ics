@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Legends FC (CA) U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1086505-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at San Diego Surf (L 1–2)
+LOCATION:Surf Sports Park - Field 5
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086537-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at SDSC Surf (L 1–4)
+LOCATION:Maranatha Christian School - Stadium (South)
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086541-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260929T194500
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs Pateadores Soccer Club (L 1–3)
+LOCATION:La Verne Uni - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086553-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T144500
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at LAFC So Cal
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086589-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T143000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at West Coast FC
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086605-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T190000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs Rebels SC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086625-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T194500
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at Pateadores Soccer Club
+LOCATION:Great Park - Field 19
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086633-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T170000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs SDSC Surf
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086661-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs San Diego Surf
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086705-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs West Coast FC
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086729-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T123000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at Legends FC Del Mar
+LOCATION:San Dieguito Academy - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086769-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T110000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs LV Heat Surf SC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086801-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Legends FC (CA) at Sporting California USA
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=1329
+ 41
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086821-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T170000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs Legends FC Del Mar
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086913-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs Beach Futbol Club (CA)
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086921-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Legends FC (CA) at CDA Slammers FC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=1329
+ 41
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086945-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T104500
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at Rebels SC
+LOCATION:Monte Vista High School - Stadium
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086953-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Legends FC (CA) at LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=1329
+ 41
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086977-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Legends FC (CA) at LA Breakers FC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=1329
+ 41
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086993-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T090000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs Sporting California USA
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087005-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T090000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs LAFC So Cal
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086861-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T130000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs LA Breakers FC
+LOCATION:Ontario Sports Empire - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087029-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T130000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) at Beach Futbol Club (CA)
+LOCATION:El Camino College - Athletic Field
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087077-132941@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270530T090000
+DURATION:PT2H
+SUMMARY:U16 Legends FC (CA) vs CDA Slammers FC
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=132941
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=132941
+END:VEVENT
+END:VCALENDAR

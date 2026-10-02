@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Penn Fusion Soccer Academy U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122389-n-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T095000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at East Coast Surf SC (national even
+ t) (D 3–3)
+LOCATION:Morningside Farm - Field #14
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122392-n-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T114000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs WNY Flash (national event) (W 2
+ –0)
+LOCATION:Morningside Farm - Field #14
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122393-n-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at STA (national event) (L 0–5)
+LOCATION:PDA Soccer Complex - Field #03
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078742-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T103000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at Delaware FC (W 3–1)
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078762-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T123000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at World Class FC
+LOCATION:Orangetown Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078778-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs Maryland United FC
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078766-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T134500
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at Match Fit Surf
+LOCATION:Toms River East High School - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078786-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T153000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at Pipeline SC
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078838-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T103000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at Potomac Soccer Association
+LOCATION:Maryland Soccerplex - Field 15
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078802-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T104500
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at Philadelphia Ukrainian Nationals
+LOCATION:Ukrainian AMerican Sports Center - Field 6
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078720-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs Baltimore Celtic
+LOCATION:USTC - Field 3
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078814-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs SJEB FC
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078826-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs PSA Monmouth
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078730-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs STA
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078850-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 Penn Fusion Soccer Academy at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078876-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 Penn Fusion Soccer Academy at STA
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078880-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Penn Fusion Soccer Academy vs Delaware FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078890-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T100000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy at SJEB FC
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078894-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Penn Fusion Soccer Academy vs World Class FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078916-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Penn Fusion Soccer Academy at Maryland United FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078924-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Penn Fusion Soccer Academy vs Pipeline SC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078938-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Penn Fusion Soccer Academy vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078960-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Penn Fusion Soccer Academy at PSA Monmouth
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078976-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Penn Fusion Soccer Academy vs Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078978-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 Penn Fusion Soccer Academy vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+END:VCALENDAR

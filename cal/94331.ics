@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nationals SC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067692-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs St. Louis Scott Gallagher Navy (W 5–2)
+LOCATION:Royal Oak High School - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067712-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T121500
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs St. Louis Scott Gallagher Green (W 4–1)
+LOCATION:Total Soccer Wixom - Old Trafford
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067788-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs Gretna Elite Academy (W 2–1)
+LOCATION:Hy-Vee Multiplex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067816-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Sporting Iowa (W 6–1)
+LOCATION:Hy-Vee Multiplex - Green #2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067840-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs Liverpool FC MI (W 6–0)
+LOCATION:Oakland University Upper Fields - North field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067896-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T103000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Eclipse Select Soccer Club
+LOCATION:Redmond Recreational Complex - Turf Field - Turf
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067928-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T080000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs Missouri Rush
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067956-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Kansas City Athletics
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067980-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068004-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at FC Wisconsin
+LOCATION:University School Milwaukee - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068020-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T114500
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs Chicago Inter
+LOCATION:Oakland University Upper Fields - OU Bubble
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068068-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs Rockford Raptors FC
+LOCATION:Oakland University Upper Fields - North field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068084-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T113000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC vs MN Thunder Academy
+LOCATION:Evolution Sportsplex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068093-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261124T190000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Michigan Hawks
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068125-94331@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T100000
+DURATION:PT2H
+SUMMARY:U18/19 Nationals SC at Michigan Hawks Magic
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=94331
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=94331
+END:VEVENT
+END:VCALENDAR

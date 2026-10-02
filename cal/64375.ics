@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COSC U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094398-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T120000
+DURATION:PT2H
+SUMMARY:U17 COSC at Santa Rosa United (W 5–2)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094404-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Stanislaus Surf - (W 7–3)
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094458-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U17 COSC at Marin FC (W 5–2)
+LOCATION:Marin Academy - Field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094476-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T100000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Force (CA) (L 1–7)
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094512-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U17 COSC at Davis Legacy (L 0–1)
+LOCATION:Davis Legacy Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094554-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U17 COSC vs MVLA (L 0–9)
+LOCATION:Clovis South High School - Field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094584-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U17 COSC vs San Juan SC (D 2–2)
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094632-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T170000
+DURATION:PT2H
+SUMMARY:U17 COSC at Pleasanton RAGE (L 1–3)
+LOCATION:Val Vista - Field 3
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094656-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Placer United
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094692-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U17 COSC at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U17 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-cal&sh
+ ow=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094752-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U17 COSC at Mustang SC
+LOCATION:Provident Field @ MSC - Upper
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094764-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T100000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Santa Rosa United
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094806-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U17 COSC at Force (CA)
+LOCATION:Kathleen MacDonald High School - soccer field
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094842-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Davis Legacy
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094878-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T120000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Marin FC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094944-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U17 COSC at Stanislaus Surf -
+LOCATION:Mary Grogan Community Park - field 2
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094968-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 COSC at MVLA
+DESCRIPTION:ECNL Girls · U17 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-cal&sh
+ ow=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094986-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Pleasanton RAGE
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095040-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 COSC at San Juan SC
+DESCRIPTION:ECNL Girls · U17 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-cal&sh
+ ow=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095064-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U17 COSC at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095094-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T120000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Bay Area Surf -
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095130-64375@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U17 COSC vs Mustang SC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=64375
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
+ cal&show=64375
+END:VEVENT
+END:VCALENDAR

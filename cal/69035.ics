@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bay Area Surf - U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094415-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T150000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Marin FC (W 4–2)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094439-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:U18/19 Bay Area Surf - vs Santa Rosa United (W 3–0)
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094487-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Mustang SC (W 2–0)
+LOCATION:Provident Field @ MSC - Upper
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094529-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at San Juan SC (W 2–1)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094547-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T141500
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - vs Stanislaus Surf - (D 1–1)
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094619-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T174500
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - vs Placer United
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094661-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094691-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U18/19 Bay Area Surf - vs COSC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094727-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - vs MVLA
+LOCATION:Willow Glen High School - Football Stadium
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094781-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Pleasanton RAGE
+LOCATION:Val Vista - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094799-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U18/19 Bay Area Surf - vs Mustang SC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094589-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U18/19 Bay Area Surf - at Force (CA)
+LOCATION:Kathleen MacDonald High School - soccer field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094835-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U18/19 Bay Area Surf - vs San Juan SC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094871-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U18/19 Bay Area Surf - vs Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094901-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Bay Area Surf - at Santa Rosa United
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094913-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Bay Area Surf - vs Marin FC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094979-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Stanislaus Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095015-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095021-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Bay Area Surf - vs Force (CA)
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095057-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Bay Area Surf - vs Davis Legacy
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095093-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T140000
+DURATION:PT2H
+SUMMARY:U18/19 Bay Area Surf - at COSC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095135-69035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Bay Area Surf - at MVLA
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=69035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=69035
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Coast FC U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1086473-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T160000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC vs LV Heat Surf SC (D 2–2)
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086485-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at Sporting California USA (D 2–2)
+LOCATION:San Bernardino Valley College - Grass
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086509-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T151500
+DURATION:PT2H
+SUMMARY:U16 West Coast FC vs CDA Slammers FC (L 0–2)
+LOCATION:Westminister High School - field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086521-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T144500
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at LAFC So Cal (L 0–6)
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086549-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086589-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T143000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC vs Legends FC (CA)
+LOCATION:Orange County Great Park - Field 4
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086621-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U16 West Coast FC vs Sporting California USA
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086641-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U16 West Coast FC at LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086701-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U16 West Coast FC vs Beach Futbol Club (CA)
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086705-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086721-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U16 West Coast FC at CDA Slammers FC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086761-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 West Coast FC vs SDSC Surf
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086785-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T123000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at Legends FC Del Mar
+LOCATION:San Dieguito Academy - Field 1
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086809-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at Beach Futbol Club (CA)
+LOCATION:El Camino College - Athletic Field
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086853-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 West Coast FC vs LAFC So Cal
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086877-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 West Coast FC vs San Diego Surf
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086905-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 West Coast FC at Pateadores Soccer Club
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086929-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T100000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at Rebels SC
+LOCATION:El Cajon Valley High School - Stadium
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086965-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 West Coast FC vs Legends FC Del Mar
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086989-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at SDSC Surf
+LOCATION:Maranatha Christian School - Stadium (South)
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086669-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T120000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC vs LA Breakers FC
+LOCATION:Saddleback College - Soccer Field
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087025-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U16 West Coast FC vs Pateadores Soccer Club
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087049-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U16 West Coast FC vs Rebels SC
+DESCRIPTION:ECNL Boys · U16 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest&show=5970
+ 6
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087069-59706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270529T130000
+DURATION:PT2H
+SUMMARY:U16 West Coast FC at San Diego Surf
+LOCATION:Surf Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U16 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southwest&show=59706
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southwest
+ &show=59706
+END:VEVENT
+END:VCALENDAR

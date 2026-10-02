@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting California USA U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085369-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA at So Cal Blues (L 0–7)
+LOCATION:OC Great Park - Field 19
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085417-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA vs Slammers FC HB Koge (L 2–4)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085459-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T114500
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA vs San Diego Surf (L 0–4)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085477-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085525-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 24
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085645-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA vs Phoenix Rising FC
+LOCATION:San Bernardino Soccer Complex - Field 2
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085669-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA at Pateadores Soccer Club
+LOCATION:Great Park - Field 9
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085735-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T140000
+DURATION:PT2H
+SUMMARY:U16 Sporting California USA at LV Heat Surf
+LOCATION:Heritage Park Sports Complex - Field 11
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=134089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085801-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Sporting California USA vs SLAMMERS FC
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085849-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Sporting California USA vs Utah Royals FC-AZ
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085939-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Sporting California USA at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085951-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Sporting California USA at LAFC So Cal
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086017-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Sporting California USA vs LA Breakers FC
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086065-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Sporting California USA vs Rebels SC
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086089-134089@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 Sporting California USA at Legends FC Del Mar
+DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=134
+ 089
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=134089
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Elite SA U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132982-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs Racing Louisville Academy
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132892-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T090000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA at FC Alliance TN
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132883-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132877-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T100000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs Indy Eleven
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132913-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T100000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs Tennessee SC
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132928-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T100000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs FC Alliance TN
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132937-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs Pittsburgh Riverhounds
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132949-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs WNY Flash
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132868-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133015-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133027-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Ohio Elite SA at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133054-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Ohio Elite SA at Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133069-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 Ohio Elite SA at GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133084-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA vs FC Pride Elite
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133105-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Ohio Elite SA at Indy Eleven
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133120-59470@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T143000
+DURATION:PT2H
+SUMMARY:U15 Ohio Elite SA at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=59470
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=59470
+END:VEVENT
+END:VCALENDAR

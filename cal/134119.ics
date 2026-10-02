@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dallas Texans U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106772-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs FC Dallas Youth White (L 1–4)
+LOCATION:Lebanon Trail High School. - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106826-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs FC Dallas Youth Red (L 1–3)
+LOCATION:Lebanon Trail High School. - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106952-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at Sting (L 1–4)
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107036-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at SOLAR SC
+LOCATION:Beacon Park & Z - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107060-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs Dallas Texans Academy
+LOCATION:Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107180-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at RISE SC
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107216-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at Albion Hurricanes FC
+LOCATION:New Territory Sports Complex - Field 5
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107282-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at OK Energy FC Academy
+LOCATION:North Oklahoma City FC - NOKC Red 3
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107318-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at Tulsa SC
+LOCATION:Jenks Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107354-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T100000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs Lonestar ATX Red
+LOCATION:Beacon Park - field 5
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107390-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs Lonestar ATX Royal
+LOCATION:Beacon Park - field 5
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107414-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs HTX
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107462-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs FC Westlake
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107498-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T090000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at Colorado Storm
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107534-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T111500
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans at Real Colorado Academy
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107630-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs San Antonio City SC
+LOCATION:Heritage High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107666-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs SAFC
+LOCATION:Heritage High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107744-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 Dallas Texans at DKSC
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107804-134119@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T120000
+DURATION:PT2H
+SUMMARY:U17 Dallas Texans vs Solar SC Academy
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=134119
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=134119
+END:VEVENT
+END:VCALENDAR

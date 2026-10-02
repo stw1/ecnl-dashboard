@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WNY Flash U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1111186-n-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T095000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Philadelphia Ukranian Nationals (national event) (
+ L 1–5)
+LOCATION:PDA Soccer Complex - Field #02
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · ECNL Girls New Jersey\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show=71
+ 192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111193-n-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T080000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at East Meadow Soccer Club (national event) (W 2–1)
+LOCATION:PDA Soccer Complex - Field #03
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · ECNL Girls New Jersey\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show=71
+ 192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111195-n-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T123000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Match Fit Surf (national event) (L 0–2)
+LOCATION:PDA Soccer Complex - Field #02
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · ECNL Girls New Jersey\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show=71
+ 192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072790-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T103000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Ohio Elite SA (L 2–4)
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072802-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T103000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Racing Louisville Academy (D 1–1)
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073034-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Cleveland Force SC (L 0–3)
+LOCATION:Victory Park - Field 4
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073044-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T104500
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Internationals SC (L 0–3)
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072836-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T103000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072854-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Indy Eleven
+LOCATION:Grand Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072868-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T104500
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072874-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T104500
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs GTFC Impact
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072886-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T104500
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Ohio Premier
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072906-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072916-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at FC Alliance TN
+LOCATION:Hardin Valley Academy Stadium - Field 1
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072918-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T103000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Pittsburgh Riverhounds
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072942-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 WNY Flash at GTFC Impact
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072954-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 WNY Flash at Ohio Premier
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072964-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T113000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash at Ohio Elite SA
+LOCATION:Ohio Elite Training Center - Field 10
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072978-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 WNY Flash at Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072996-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 WNY Flash vs Tennessee SC
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073006-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 WNY Flash vs FC Alliance TN
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073016-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T094500
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Indy Eleven
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073024-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 WNY Flash vs FC Pride Elite
+DESCRIPTION:ECNL Girls · U14 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-valley&show
+ =71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072810-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T093000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Cleveland Force SC
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072822-71192@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T093000
+DURATION:PT2H
+SUMMARY:U14 WNY Flash vs Internationals SC
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U14&conf=ohio-valley&show=71192
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=ohio-vall
+ ey&show=71192
+END:VEVENT
+END:VCALENDAR

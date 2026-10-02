@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arlington Soccer Association U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109273-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association vs VDA (D 1–1)
+LOCATION:Williamsburg Middle School - WMS #1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109283-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T170000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association vs Skyline Elite (W 10–0)
+LOCATION:Williamsburg Middle School - WMS #1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109297-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at Fairfax Virginia Union (W 2–0
+ )
+LOCATION:James W Robinson HS - Stadium
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109303-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at NCFC Youth Academy (W 2–1)
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109319-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 14
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109329-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at Richmond United
+LOCATION:Striker Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109333-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109345-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at NCFC Youth
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109383-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T120000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association vs Fairfax Virginia Union
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109409-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270109T140000
+DURATION:PT2H
+SUMMARY:U13 Arlington Soccer Association at VDA
+LOCATION:Howison Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109423-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U13 Arlington Soccer Association at Skyline Elite
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109435-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U13 Arlington Soccer Association vs Richmond United
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109445-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U13 Arlington Soccer Association vs Beach FC (VA)
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109451-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U13 Arlington Soccer Association at Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109461-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U13 Arlington Soccer Association at Highland FC
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109469-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U13 Arlington Soccer Association vs NCFC Youth
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109481-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U13 Arlington Soccer Association vs Wilmington Hammerheads
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109507-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Arlington Soccer Association vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109515-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Arlington Soccer Association vs Highland FC
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109527-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Arlington Soccer Association vs Charlotte SA
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109531-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Arlington Soccer Association vs NC Fusion
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109549-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Arlington Soccer Association vs NCFC Youth Academy
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109573-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Arlington Soccer Association at Charlotte SA
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109579-134210@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U13 Arlington Soccer Association at NC Fusion
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=134210
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=134210
+END:VEVENT
+END:VCALENDAR

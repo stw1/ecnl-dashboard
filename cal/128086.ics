@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PDA Blue U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072690-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270309T184500
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs PDA White
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072554-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 PDA Blue at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072574-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270327T120000
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs FC DELCO
+LOCATION:PDA Main Complex - Field 3
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072590-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 PDA Blue at Maryland United FC
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072622-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T170000
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs Pipeline SC
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072642-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T150000
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs Bethesda SC
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072670-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 PDA Blue at HEX FC Bucks
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic · kickoff time not set yet
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-a
+ tlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072706-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs Philadelphia Ukrainian Nationals
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072586-128086@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T130000
+DURATION:PT2H
+SUMMARY:U18/19 PDA Blue vs Match Fit Surf
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 North Atlantic\nhttps://stw1.github.io/ecn
+ l-dashboard/girls.html?age=U18/19&conf=north-atlantic&show=128086
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=north-
+ atlantic&show=128086
+END:VEVENT
+END:VCALENDAR

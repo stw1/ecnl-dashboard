@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SAFC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106674-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T110000
+DURATION:PT2H
+SUMMARY:U15 SAFC at FC Westlake (L 2–3)
+LOCATION:Bee Creek Sports Complex - FIELD 4
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106728-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T100000
+DURATION:PT2H
+SUMMARY:U15 SAFC at HTX (L 1–2)
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106788-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U15 SAFC vs Solar SC Academy (L 0–1)
+LOCATION:STAR Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106842-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T100000
+DURATION:PT2H
+SUMMARY:U15 SAFC vs SOLAR SC (W 2–1)
+LOCATION:STAR Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106932-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U15 SAFC at Albion Hurricanes FC (W 2–1)
+LOCATION:Campbell Road Sports Park - Field 5
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106998-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U15 SAFC vs Lonestar ATX Royal
+LOCATION:STAR Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107046-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U15 SAFC vs Lonestar ATX Red
+LOCATION:STAR Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107100-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U15 SAFC at Tulsa SC
+LOCATION:Jenks Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107148-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T090000
+DURATION:PT2H
+SUMMARY:U15 SAFC at OK Energy FC Academy
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107208-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U15 SAFC vs San Antonio City SC
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107424-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U15 SAFC vs FC Dallas Youth White
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107466-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U15 SAFC vs FC Dallas Youth Red
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107556-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 SAFC vs Colorado Storm
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107580-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 SAFC vs Real Colorado Academy
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107622-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T140000
+DURATION:PT2H
+SUMMARY:U15 SAFC at Dallas Texans Academy
+LOCATION:Centennial HS - Form 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107664-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U15 SAFC at Dallas Texans
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107688-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 SAFC at DKSC
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107706-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U15 SAFC at Sting
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107790-81510@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U15 SAFC at RISE SC
+LOCATION:South Campus - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=81510
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=81510
+END:VEVENT
+END:VCALENDAR

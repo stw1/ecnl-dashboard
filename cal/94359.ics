@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Space Coast United U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068317-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Palm Beach United (W 2–0)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068335-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Fort Lauderdale United FC (L 0–3)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068401-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Palm Beach United (W 2–1)
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068419-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Fort Lauderdale United FC (L 2–4)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068443-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Florida Premier FC South (W 4–0)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068461-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Florida Premier FC (L 1–5)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068479-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Parkland Soccer Club
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068497-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Athletic Club Florida
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068545-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Florida Kraze Krush
+LOCATION:Central Winds - Field A
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068581-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at AC Florida West
+LOCATION:JetBlue Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068593-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068617-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T100000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068647-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068707-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Sporting SA JAX
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068713-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T140000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Doral Soccer Club
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068737-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs AC Florida West
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068821-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T140000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068869-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United vs Florida Kraze Krush
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068935-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068947-94359@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U14 Space Coast United at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=94359
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=94359
+END:VEVENT
+END:VCALENDAR

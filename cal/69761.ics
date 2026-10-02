@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pittsburgh Riverhounds U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1133066-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T120000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds vs Tennessee SC
+LOCATION:Montour Junction Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133048-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T083000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds vs FC Alliance TN
+LOCATION:Highmark Stadium - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132862-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T103000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds vs WNY Flash
+LOCATION:Highmark Stadium - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132910-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Pittsburgh Riverhounds at GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132922-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 Pittsburgh Riverhounds at Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132937-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132946-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T083000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds at Racing Louisville Academy
+LOCATION:Thurman Hutchins - Field 7
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132961-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132970-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 Pittsburgh Riverhounds at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132991-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T100000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds at WNY Flash
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133021-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T083000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds vs FC Pride Elite
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133036-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T083000
+DURATION:PT2H
+SUMMARY:U15 Pittsburgh Riverhounds vs Indy Eleven
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133081-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Pittsburgh Riverhounds vs Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133096-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 Pittsburgh Riverhounds vs GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133102-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Pittsburgh Riverhounds vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133114-69761@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 Pittsburgh Riverhounds vs Internationals SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =69761
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=69761
+END:VEVENT
+END:VCALENDAR

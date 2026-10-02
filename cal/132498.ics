@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United PDX U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075439-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T190000
+DURATION:PT2H
+SUMMARY:U18/19 United PDX at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U18/19 Far West\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=far-west&show=132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075547-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U18/19 United PDX vs Capital FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075548-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U18/19 United PDX vs Boise Timbers
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075549-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U18/19 United PDX vs Idaho Rush
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075424-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U18/19 United PDX at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075487-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U18/19 United PDX at Idaho Rush
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075354-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U18/19 United PDX at Boise Timbers
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075550-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 United PDX vs FC Portland
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075515-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T150000
+DURATION:PT2H
+SUMMARY:U18/19 United PDX at Oregon Premier FC
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Far West\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=far-west&show=132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075404-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 United PDX at Capital FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075551-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 United PDX vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075552-132498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 United PDX vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 132498
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=132498
+END:VEVENT
+END:VCALENDAR

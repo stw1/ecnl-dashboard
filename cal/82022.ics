@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas Rush U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057402-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T130000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush vs Sporting Nebraska FC
+LOCATION:Compass Minerals National Performance Center - WEST
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057426-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush vs Gretna Elite Academy
+LOCATION:Compass Minerals National Performance Center - WEST
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057454-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057474-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush at Arkansas Comets FC
+LOCATION:Brunner & Lay Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057478-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U17 Kansas Rush at Sporting Iowa Central
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057490-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush at VSA Rush
+LOCATION:MidAmerican Energy Company RecPlex - Fieldhouse - Indoor
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057530-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas Rush at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=82022
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057534-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 Kansas Rush at Missouri Rush
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057558-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 Kansas Rush vs FC Wichita
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057562-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U17 Kansas Rush vs Missouri Rush
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057578-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U17 Kansas Rush vs St. Louis Stars SC
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057586-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Kansas Rush vs Kansas City Athletics
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057590-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Kansas Rush vs Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057614-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Kansas Rush at FC Wichita
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057630-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Kansas Rush at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057642-82022@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U17 Kansas Rush at Kansas City Athletics
+DESCRIPTION:ECNL Boys · U17 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland&show=8202
+ 2
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=82022
+END:VEVENT
+END:VCALENDAR

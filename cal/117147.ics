@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSA FC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068161-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T113000
+DURATION:PT2H
+SUMMARY:U13 FSA FC at FC Stars Blue (L 1–5)
+LOCATION:FC Stars Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068169-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T113000
+DURATION:PT2H
+SUMMARY:U13 FSA FC at FC Stars White (L 1–2)
+LOCATION:FC Stars Soccer Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068183-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs SUSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068199-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T154500
+DURATION:PT2H
+SUMMARY:U13 FSA FC at World Class FC
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068209-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U13 FSA FC at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068213-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U13 FSA FC at SUSA FC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068219-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T080000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs Connecticut FC United
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068177-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T123000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs East Meadow Soccer Club
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068239-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs Select
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068257-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U13 FSA FC at Select
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068263-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U13 FSA FC at Scorpions SC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068285-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs FC Stars Blue
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068289-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs Scorpions SC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068295-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs World Class FC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068297-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T083000
+DURATION:PT2H
+SUMMARY:U13 FSA FC vs FC Stars White
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U13&conf=new-england&show=117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068299-117147@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 FSA FC at Connecticut FC United
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =117147
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=117147
+END:VEVENT
+END:VCALENDAR

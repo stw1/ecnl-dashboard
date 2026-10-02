@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Union KC Soccer Club U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1139060-n-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T131500
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs FC Pride Elite (national event) (W 3–
+ 2)
+LOCATION:Creve Coeur Park - Field #13
+DESCRIPTION:ECNL Boys · U14 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139063-n-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T080000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at Chicago Inter (national event) (W 4–2
+ )
+LOCATION:Creve Coeur Park - Field #10
+DESCRIPTION:ECNL Boys · U14 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139065-n-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T123000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Capital FC (national event) (W 2–1)
+LOCATION:Creve Coeur Park - Field #08
+DESCRIPTION:ECNL Boys · U14 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057021-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Kansas Rush (D 1–1)
+LOCATION:Paragon Star - Field 2
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057029-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T120000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs FC Wichita (L 0–7)
+LOCATION:Paragon Star - Field 6
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057039-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at OK Energy FC (W 5–1)
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057049-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at Arkansas Comets FC (W 3–0)
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057015-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261006T180000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Kansas City Athletics
+LOCATION:Paragon Star - Field 4
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057081-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T160000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Sporting Iowa Central
+LOCATION:Lee's Summit High School - Stadium Field
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057089-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs VSA Rush
+LOCATION:Lee's Summit High School - Stadium Field
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057095-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057097-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T104500
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at Missouri Rush
+LOCATION:Missouri Rush Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057101-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T150000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Gretna Elite Academy
+LOCATION:Paragon Star - Field 2
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057113-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club vs Sporting Nebraska FC
+LOCATION:Paragon Star - Field 2
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057139-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 Union KC Soccer Club at FC Wichita
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057151-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Union KC Soccer Club vs Arkansas Comets FC
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057155-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 Union KC Soccer Club vs OK Energy FC
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057167-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U14 Union KC Soccer Club vs Kansas City Athletics
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057189-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Union KC Soccer Club at Sporting Nebraska FC
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057199-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Union KC Soccer Club at Gretna Elite Academy
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057211-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Union KC Soccer Club at Kansas Rush
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057219-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Union KC Soccer Club vs Missouri Rush
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057231-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 Union KC Soccer Club vs St. Louis Stars SC
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057251-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T170000
+DURATION:PT2H
+SUMMARY:U14 Union KC Soccer Club at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057257-136336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U14 Union KC Soccer Club at Sporting Iowa Central
+DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1363
+ 36
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
+ &show=136336
+END:VEVENT
+END:VCALENDAR

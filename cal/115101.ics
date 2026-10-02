@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nationals SC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1139012-n-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Sporting Iowa Central (national event) (W 6–0
+ )
+LOCATION:Creve Coeur Park - Field #07
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=11510
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139015-n-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T113000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at St Croix (national event) (W 3–0)
+LOCATION:SLYSA Complex - Field #18
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=11510
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139017-n-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC vs FC Wichita (national event) (W 4–0)
+LOCATION:Creve Coeur Park - Field #07
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=11510
+ 1
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064554-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T141500
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Cleveland Force SC (W 3–0)
+LOCATION:Victory Park - Field 4
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064544-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T114500
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at FC Pride Elite (D 1–1)
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064548-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Louisville City Academy (W 3–2)
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064572-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T103000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at WNY Flash
+LOCATION:Flash Fields - Field B
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064582-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at RNY FC Youth
+LOCATION:RNYFC Youth Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064588-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T103000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC vs Ohio Elite SA
+LOCATION:Evolution Sportsplex - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064596-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T100000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC vs Ohio Premier
+LOCATION:Evolution Sportsplex - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064606-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064624-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T113000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064634-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T120000
+DURATION:PT2H
+SUMMARY:U14 Nationals SC at Ohio Premier
+LOCATION:OP Training Facility - Field 2
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064638-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Nationals SC vs Cleveland Force SC
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064646-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Nationals SC vs FC Pride Elite
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064652-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 Nationals SC vs Louisville City Academy
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064658-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Nationals SC vs RNY FC Youth
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064662-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Nationals SC vs WNY Flash
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064666-115101@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Nationals SC vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 115101
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=115101
+END:VEVENT
+END:VCALENDAR

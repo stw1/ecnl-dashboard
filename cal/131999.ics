@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Boca U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1111197-n-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T133000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at FC Stars Blue (national event) (L 0–2)
+LOCATION:PDA Soccer Complex - Field #01
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111205-n-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T095000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Michigan Hawks Magic (national event) (W 3–1)
+LOCATION:PDA Soccer Complex - Field #03
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111207-n-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs HEX FC Bucks (national event) (D 0–0)
+LOCATION:PDA Soccer Complex - Field #07
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069702-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at CESA Liberty (L 1–4)
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069720-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at South Carolina United (L 2–3)
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069730-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Alabama FC (D 3–3)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 2
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069748-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Concorde Fire Premier (L 0–3)
+LOCATION:Georgia Sports Park - field 5
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069776-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs GSA (L 1–2)
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field N2 #3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069792-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Concorde Fire Platinum (L 0–1)
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field N2 #3
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140099-n-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Scorpions SC (national event)
+LOCATION:nCino Sports Park - Field #07
+DESCRIPTION:ECNL Girls · U14 Southeast · ECNL Girls North Carolina - Fall
+ \nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast&
+ show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069810-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Atlanta Fire United
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field S2 #2
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069826-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs United Futbol Academy
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field S2 #2
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069828-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Florida Kraze Krush
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069846-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Seminole United
+LOCATION:Seminole - Field 5
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069862-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Florida Premier FC
+LOCATION:Fau Glades - Fau Glades- North #1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069874-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca vs Tampa Bay United
+LOCATION:Fau Glades - Fau Glades- North #1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069900-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T123000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Jacksonville FC
+LOCATION:Patton Park - Stadium
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069886-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T130000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069882-131999@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U14 Team Boca at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U14 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southeast&show=131999
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southeast
+ &show=131999
+END:VEVENT
+END:VCALENDAR

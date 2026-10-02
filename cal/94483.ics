@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liverpool FC MI U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067693-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs St. Louis Scott Gallagher Green (D 3–3)
+LOCATION:Avondale High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067713-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs St. Louis Scott Gallagher Navy (L 0–1)
+LOCATION:Oakland University Upper Fields - North
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067725-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Michigan Hawks Magic (D 2–2)
+LOCATION:UWM Sports Complex - Field 3
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067753-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI at Rockford Raptors FC (L 0–4)
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067789-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI at Sporting Iowa (D 1–1)
+LOCATION:Hy-Vee Multiplex - Green #2
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067817-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T080000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Gretna Elite Academy (L 1–4)
+LOCATION:HyVee Multiplex - Field 2
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067837-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI at Nationals SC (D 0–0)
+LOCATION:Oakland University Upper Fields - South Field
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067901-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T150000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Missouri Rush
+LOCATION:Chicago Inter Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067921-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261011
+SUMMARY:U15 Liverpool FC MI at FC Wisconsin
+DESCRIPTION:ECNL Girls · U15 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067957-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067981-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI at Kansas City Athletics
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068013-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Eclipse Select Soccer Club
+LOCATION:Avondale High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068037-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Chicago Inter
+LOCATION:Avondale High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068077-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T110000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs MN Thunder Academy
+LOCATION:Avondale High School - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068126-94483@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T150000
+DURATION:PT2H
+SUMMARY:U15 Liverpool FC MI vs Michigan Hawks
+LOCATION:UWM Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94483
+END:VEVENT
+END:VCALENDAR

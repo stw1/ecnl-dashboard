@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:La Roca FC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091213-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC at Avalanche (L 1–3)
+LOCATION:Salt Lake Regional Athletic Complex - Field 12
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091217-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T131500
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs CCV STARS (L 2–4)
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091225-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs Arizona Arsenal (L 0–4)
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091237-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC at CCV STARS
+LOCATION:CCV Stars Peoria Sports Complex - field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091241-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC at Arizona Arsenal
+LOCATION:Copper Sky Recreation Complex - field 3
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091253-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T093000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs Avalanche
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091257-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T141500
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs NM Rapids SC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091265-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T100000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs El Paso Locomotive
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091285-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 La Roca FC at Real Colorado National
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133255-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U17 La Roca FC at Pride SC
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091309-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T100000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs Colorado EDGE
+LOCATION:Spence Eccles Ogden Community Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091317-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T100000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC vs Colorado Rush
+LOCATION:Spence Eccles Ogden Community Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091325-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U17 La Roca FC vs Colorado Storm Central
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133261-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T140000
+DURATION:PT2H
+SUMMARY:U17 La Roca FC at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East A
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091369-133172@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T111500
+DURATION:PT2H
+SUMMARY:U17 La Roca FC at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 10
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=133172
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=133172
+END:VEVENT
+END:VCALENDAR

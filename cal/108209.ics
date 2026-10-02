@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GTFC Impact U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132867-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 GTFC Impact at Ohio Premier
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132912-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 GTFC Impact vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132927-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 GTFC Impact vs WNY Flash
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132942-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 GTFC Impact at Tennessee SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132957-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 GTFC Impact at FC Alliance TN
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132966-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 GTFC Impact vs Indy Eleven
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132978-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 GTFC Impact vs FC Pride Elite
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132987-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 GTFC Impact vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133005-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 GTFC Impact at Internationals SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133026-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 GTFC Impact vs Ohio Premier
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133053-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 GTFC Impact vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133071-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 GTFC Impact vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133080-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 GTFC Impact at WNY Flash
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133098-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 GTFC Impact at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133125-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 GTFC Impact at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133140-108209@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 GTFC Impact vs Internationals SC
+DESCRIPTION:ECNL Girls · U17 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-valley&show
+ =108209
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=ohio-vall
+ ey&show=108209
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LA Breakers FC U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085491-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T083000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC at LV Heat Surf (L 0–1)
+LOCATION:Heritage Park Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085389-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Beach Futbol Club (CA) (L 1–3)
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085431-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Pateadores Soccer Club (W 3–1)
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141599-n-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T084000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Oregon Surf (national event)
+LOCATION:Surf Sports Park - Field #20
+DESCRIPTION:ECNL Girls · U14 Southwest · ECNL Girls San Diego\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085551-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC at Slammers FC HB Koge
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085569-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs LAFC So Cal
+LOCATION:Bell Gardens Sports Complex - Field 3
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085617-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs SLAMMERS FC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085695-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC at Utah Royals FC-AZ
+LOCATION:Bell Road Sports Complex - Field 15
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085701-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T100000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC at Arizona Arsenal
+LOCATION:Arizona Athletic Grounds - Field 6
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085725-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085767-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Legends FC Del Mar
+LOCATION:Silverlakes - Field 1
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085845-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 LA Breakers FC at So Cal Blues
+DESCRIPTION:ECNL Girls · U14 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest&show=790
+ 75
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085863-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Eagles SC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085923-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 LA Breakers FC at Rebels SC
+DESCRIPTION:ECNL Girls · U14 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest&show=790
+ 75
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085983-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs Phoenix Rising FC
+LOCATION:Bell Gardens Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086019-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 LA Breakers FC at Sporting California USA
+DESCRIPTION:ECNL Girls · U14 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest&show=790
+ 75
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086043-79075@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T090000
+DURATION:PT2H
+SUMMARY:U14 LA Breakers FC vs San Diego Surf
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U14&conf=southwest&show=79075
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=southwest
+ &show=79075
+END:VEVENT
+END:VCALENDAR

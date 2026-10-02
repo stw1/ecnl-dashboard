@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stanislaus Surf - U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094390-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T090000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at MVLA (L 1–6)
+LOCATION:Graham Middle School - Turf
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094408-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at COSC (L 0–3)
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094474-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at San Juan SC (L 0–5)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094504-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Pleasanton RAGE (L 1–4)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094546-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T175500
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Placer United (L 0–1)
+LOCATION:Modesto Junior College - MJC West
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094552-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Bay Area Surf - (L 0–3)
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094606-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Mustang SC (L 0–4)
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094654-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T115000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Marin FC (L 0–4)
+LOCATION:Mary Grogan Community Park - field 4
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094672-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Force (CA)
+LOCATION:De Anza College - Stadium Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094702-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094762-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Santa Rosa United
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094798-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T113000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs MVLA
+LOCATION:Mary Grogan Community Park - field 4
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094834-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T180000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Pleasanton RAGE
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094864-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T140000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094912-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T180000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs San Juan SC
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094948-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T124000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs COSC
+LOCATION:Mary Grogan Community Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094984-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T180000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Bay Area Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095002-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Stanislaus Surf - at Marin FC
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095056-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T124000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Mustang SC
+LOCATION:Mary Grogan Community Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095092-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T180000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Force (CA)
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095128-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T180000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Davis Legacy
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095164-82861@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T134000
+DURATION:PT2H
+SUMMARY:U13 Stanislaus Surf - vs Santa Rosa United
+LOCATION:Mary Grogan Community Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=82861
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=82861
+END:VEVENT
+END:VCALENDAR

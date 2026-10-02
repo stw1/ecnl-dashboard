@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pipeline SC U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072544-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T140000
+DURATION:PT2H
+SUMMARY:U16 Pipeline SC vs Philadelphia Ukrainian Nationals
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072564-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T140000
+DURATION:PT2H
+SUMMARY:U16 Pipeline SC vs FC DELCO
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072568-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U16 Pipeline SC at Maryland United FC
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072592-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Pipeline SC at Bethesda SC
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072620-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U16 Pipeline SC at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072636-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Pipeline SC at PDA White
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072660-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T140000
+DURATION:PT2H
+SUMMARY:U16 Pipeline SC vs Match Fit Surf
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072684-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T140000
+DURATION:PT2H
+SUMMARY:U16 Pipeline SC vs Penn Fusion Soccer Academy
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072716-53320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U16 Pipeline SC at HEX FC Bucks
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=53320
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=53320
+END:VEVENT
+END:VCALENDAR

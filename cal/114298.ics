@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marin FC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094384-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T160000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at Force (CA) (D 1–1)
+LOCATION:John Mise Field - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094420-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Bay Area Surf - (L 1–3)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094462-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T104500
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs COSC (W 2–0)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094498-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T104000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at MVLA (L 1–2)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094528-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T114500
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Mustang SC (W 2–1)
+LOCATION:Terra Linda High School - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094576-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at Pleasanton RAGE (D 1–1)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094600-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Davis Legacy (L 0–2)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094654-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T115000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at Stanislaus Surf - (W 4–0)
+LOCATION:Mary Grogan Community Park - field 4
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094678-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Santa Rosa United
+LOCATION:Marin Academy - Field 1
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094720-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at San Juan SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094750-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Placer United
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094774-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs Force (CA)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094816-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T144000
+DURATION:PT2H
+SUMMARY:U13 Marin FC vs MVLA
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094852-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U13 Marin FC at Mustang SC
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094882-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T100000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at COSC
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094918-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Marin FC at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094960-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Marin FC vs Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095002-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Marin FC vs Stanislaus Surf -
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095032-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T140000
+DURATION:PT2H
+SUMMARY:U13 Marin FC at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095086-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Marin FC at Santa Rosa United
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095110-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Marin FC vs San Juan SC
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095146-114298@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Marin FC at Placer United
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=114298
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=114298
+END:VEVENT
+END:VCALENDAR

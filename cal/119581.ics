@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlanta Fire United U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1065003-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at GSA (W 3–0)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065033-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at United Futbol Academy (W 3–0)
+LOCATION:Fowler Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140632-n-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T131500
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at SAFC (national event) (W 6–1)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140635-n-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T131500
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs FC Westlake (national event) (D 0–0)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140636-n-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T093000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at Colorado Storm (national event) (W 2–1
+ )
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140112-n-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T120000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at NC Fusion (national event)
+LOCATION:nCino Sports Park - Field #05
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Boys North Carolina - Fall\n
+ https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast&sh
+ ow=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065159-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs Concorde Fire Platinum
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065177-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs Concorde Fire Premier
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065129-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T150000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at NTH NASA
+LOCATION:Lake Point Sporting Community - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065039-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs South Carolina United
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065051-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs CESA Triumph
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064973-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs NTH NASA
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065263-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T110000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065363-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at South Carolina Surf
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065365-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 Atlanta Fire United vs United Futbol Academy
+DESCRIPTION:ECNL Boys · U13 Southeast · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=1195
+ 81
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065373-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Atlanta Fire United vs GSA
+DESCRIPTION:ECNL Boys · U13 Southeast · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=1195
+ 81
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065239-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at CESA Triumph
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065385-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T100000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065395-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United vs South Carolina Surf
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065403-119581@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U13 Atlanta Fire United at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119581
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119581
+END:VEVENT
+END:VCALENDAR

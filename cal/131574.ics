@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting Blue Valley U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083697-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley vs Chicago Inter (L 1–2)
+LOCATION:Pinnacle National Development Center - West
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083709-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley vs Eclipse Select Soccer Club (L 0–5)
+LOCATION:Pinnacle National Development Center - West
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136947-n-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Cleveland Force SC (national event) (L 
+ 3–5)
+LOCATION:SLYSA Complex - Field #09
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136953-n-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T131500
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Chicago Inter (national event) (W 3–2
+ )
+LOCATION:SLYSA Complex - Field #16
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136954-n-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T080000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at St. Louis Scott Gallagher Green (nation
+ al event) (W 2–1)
+LOCATION:SLYSA Complex - Field #04
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083725-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T180000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Michigan Hawks Magic (D 2–2)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083735-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T122000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Michigan Hawks (L 1–6)
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083749-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T134500
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083767-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley vs MN Thunder Academy
+LOCATION:Scheels Overland Park Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083779-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley vs Liverpool FC MI
+LOCATION:Scheels Overland Park Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083789-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley vs Nationals SC
+LOCATION:Scheels Overland Park Soccer Complex - Field 4
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083803-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T141500
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at St. Louis Scott Gallagher Navy
+LOCATION:WWT Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083811-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Missouri Rush
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083819-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U13 Sporting Blue Valley at Rockford Raptors FC
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083823-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at FC Wisconsin
+LOCATION:Mercy Health Sportscore 2 - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083851-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083857-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 Sporting Blue Valley vs Sporting Iowa
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083881-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Sporting Blue Valley vs Kansas City Athletics
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083941-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T094500
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at MN Thunder Academy
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083953-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Sporting Blue Valley at Kansas City Athletics
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083969-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Sporting Blue Valley vs Gretna Elite Academy
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083981-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U13 Sporting Blue Valley vs Missouri Rush
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083989-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T120000
+DURATION:PT2H
+SUMMARY:U13 Sporting Blue Valley at Sporting Iowa
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084007-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 Sporting Blue Valley vs St. Louis Scott Gallagher Navy
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084019-131574@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Sporting Blue Valley vs St. Louis Scott Gallagher Green
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=131574
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=131574
+END:VEVENT
+END:VCALENDAR

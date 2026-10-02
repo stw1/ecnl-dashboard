@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portland Thorns U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058655-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Portland Thorns vs Oregon Surf
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058688-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U18/19 Portland Thorns at PacNW SC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058705-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U18/19 Portland Thorns vs Boise Thorns
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058722-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T150000
+DURATION:PT2H
+SUMMARY:U18/19 Portland Thorns at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Northwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=northwest&show=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058753-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U18/19 Portland Thorns at Washington Premier
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058777-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T060000
+DURATION:PT2H
+SUMMARY:U18/19 Portland Thorns at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U18/19 Northwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=northwest&show=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058784-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U18/19 Portland Thorns at Oregon Surf
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058820-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U18/19 Portland Thorns at XF
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058854-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U18/19 Portland Thorns at Boise Thorns
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058885-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Portland Thorns vs La Roca FC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058886-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Portland Thorns vs Avalanche
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058920-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Portland Thorns vs La Roca FC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058921-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Portland Thorns vs Avalanche
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058949-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Portland Thorns vs Eastside FC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059029-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Portland Thorns vs Washington Premier
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059053-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Portland Thorns vs PacNW SC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059089-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U18/19 Portland Thorns at Avalanche
+LOCATION:St. Joseph Catholic High School - Turf Field
+DESCRIPTION:ECNL Girls · U18/19 Northwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=northwest&show=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059087-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T111500
+DURATION:PT2H
+SUMMARY:U18/19 Portland Thorns at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Northwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=northwest&show=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059118-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Portland Thorns at La Roca FC
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059120-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Portland Thorns at Avalanche
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059143-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Portland Thorns vs XF
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059167-129742@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Portland Thorns vs Seattle United
+DESCRIPTION:ECNL Girls · U18/19 Northwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northwest&sh
+ ow=129742
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northw
+ est&show=129742
+END:VEVENT
+END:VCALENDAR

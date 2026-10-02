@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Westlake U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106675-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T150000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs SAFC (L 1–2)
+LOCATION:Bee Creek Sports Complex - FIELD 4
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106723-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs San Antonio City SC (W 3–0)
+LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106861-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at Tulsa SC (D 0–0)
+LOCATION:Jenks Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106891-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at OK Energy FC Academy (D 1–1)
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106993-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at HTX
+LOCATION:Bear Branch Sportsfields - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107053-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261010
+SUMMARY:U16 FC Westlake at DKSC
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107143-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261011
+SUMMARY:U16 FC Westlake at Sting
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107191-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs Solar SC Academy
+LOCATION:Onion Creek Soccer Complex - Field 7
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107245-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs SOLAR SC
+LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107407-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at Dallas Texans Academy
+LOCATION:Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107461-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at Dallas Texans
+LOCATION:Heritage High School - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107491-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs Albion Hurricanes FC
+LOCATION:Onion Creek Soccer Complex - Field 7
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107539-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake vs RISE SC
+LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107599-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 FC Westlake vs Real Colorado Academy
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107605-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 FC Westlake vs Colorado Storm
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107641-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 FC Westlake vs Lonestar ATX Royal
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107677-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 FC Westlake vs Lonestar ATX Red
+DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107779-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107815-131248@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T130000
+DURATION:PT2H
+SUMMARY:U16 FC Westlake at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131248
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
+ w=131248
+END:VEVENT
+END:VCALENDAR

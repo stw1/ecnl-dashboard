@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pleasanton RAGE U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094435-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs San Juan SC (W 3–2)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094447-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T120000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at Davis Legacy (W 3–2)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094501-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs Stanislaus Surf - (W 1–0)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094537-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at Santa Rosa United (W 3–1)
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094573-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs Marin FC (W 2–0)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094615-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at Placer United (D 0–0)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094633-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs COSC (W 4–0)
+LOCATION:Val Vista - Field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094687-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at MVLA
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094711-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs Mustang SC
+LOCATION:Val Vista - Field 3
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094783-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs Bay Area Surf -
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094831-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T125000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at Stanislaus Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094867-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T190000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE vs Santa Rosa United
+LOCATION:Stanford Sports Complex - East
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094873-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U16 Pleasanton RAGE at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094897-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Pleasanton RAGE vs Davis Legacy
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094933-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Pleasanton RAGE at San Juan SC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094957-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Pleasanton RAGE at Marin FC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094987-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T140000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at COSC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095035-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Pleasanton RAGE vs Placer United
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095071-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Pleasanton RAGE vs MVLA
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095113-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Pleasanton RAGE at Mustang SC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095149-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Pleasanton RAGE vs Force (CA)
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094741-44313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T060000
+DURATION:PT2H
+SUMMARY:U16 Pleasanton RAGE at Force (CA)
+LOCATION:De Anza College - Soccer Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=44313
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=44313
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NC Fusion U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109294-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260919
+SUMMARY:U14 NC Fusion vs Wilmington Hammerheads (L 0–1)
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109280-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion vs Highland FC (D 4–4)
+LOCATION:Truist Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109308-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at Charlotte SA Academy (L 0–5)
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109326-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at NCFC Youth Academy
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140149-n-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion vs Potomac Soccer Association (national event)
+LOCATION:nCino Sports Park - Field #08
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · ECNL Boys North Carolina - Fal
+ l\nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109344-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U14 NC Fusion vs Richmond United
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109348-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U14 NC Fusion vs Beach FC (VA)
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109362-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U14 NC Fusion vs Charlotte SA
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109390-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U14 NC Fusion vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109394-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U14 NC Fusion at NCFC Youth
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109398-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T110000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 11
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109414-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U14 NC Fusion vs Skyline Elite
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109420-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U14 NC Fusion vs VDA
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109430-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U14 NC Fusion vs NCFC Youth Academy
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109472-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T130000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 15
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109492-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T090000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at Richmond United
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109500-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T120000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at VDA
+LOCATION:Howison Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109506-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 NC Fusion at Skyline Elite
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109526-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 NC Fusion at Highland FC
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109530-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U14 NC Fusion at Fairfax Virginia Union
+LOCATION:James W Robinson HS - Stadium
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U14&conf=mid-atlantic&show=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109532-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U14 NC Fusion at Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109552-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 NC Fusion at Charlotte SA
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109578-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 NC Fusion vs Fairfax Virginia Union
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109580-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 NC Fusion vs Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109584-95057@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 NC Fusion vs NCFC Youth
+DESCRIPTION:ECNL Boys · U14 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlantic&sho
+ w=95057
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-atlan
+ tic&show=95057
+END:VEVENT
+END:VCALENDAR

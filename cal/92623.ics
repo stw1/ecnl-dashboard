@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:XF 2 U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075613-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T100000
+DURATION:PT2H
+SUMMARY:U13 XF 2 vs Eastside FC
+LOCATION:60 Acres Park - Field 22
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075637-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260919
+SUMMARY:U13 XF 2 vs XF 1 (L 0–4)
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075667-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U13 XF 2 vs Seattle United (L 0–8)
+LOCATION:Marymoor Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075679-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Columbia Premier SC
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144196-n-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T164500
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Legends FC Del Mar (national event)
+LOCATION:Surf Sports Park - Field #06
+DESCRIPTION:ECNL Boys · U13 Northwest · ECNL Boys San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075733-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 XF 2 vs Snohomish United
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075751-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U13 XF 2 at 3RSC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075775-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U13 XF 2 vs PacNW SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075799-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T073000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075811-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:U13 XF 2 vs XF 1
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075595-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T090000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Washington Premier
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075841-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 XF 2 vs Washington Premier
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075865-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:U13 XF 2 vs Columbia Premier SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075901-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T130000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Snohomish United
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075925-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U13 XF 2 at PacNW SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075949-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T090000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075998-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U13 XF 2 vs 3RSC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076013-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 XF 2 at PacNW SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076019-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 XF 2 vs XF 1
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076029-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 XF 2 at Snohomish United
+LOCATION:Snohomish High School - Stadium
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=92623
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076035-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 XF 2 vs Eastside FC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076047-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 XF 2 vs 3RSC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140422-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 XF 2 at Washington Premier
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076059-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 XF 2 vs Columbia Premier SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076077-92623@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 XF 2 vs Seattle United
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9262
+ 3
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=92623
+END:VEVENT
+END:VCALENDAR

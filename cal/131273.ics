@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Westlake U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073424-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T133000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at Real Colorado National (D 2–2)
+LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073442-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T111500
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at Colorado Storm (W 2–1)
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073478-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at West Side Alliance (W 5–0)
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073502-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at OK Energy FC (W 3–2)
+LOCATION:Edmond Soccer Club - ESC 5
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073526-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Real Colorado Athletico
+LOCATION:Ann Richards School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073568-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Colorado Rush
+LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073700-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at SOLAR SC
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073736-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at Dallas Texans
+LOCATION:Beacon Park - field 4
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073766-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at Lonestar ATX Red
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073838-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Sting Royal
+LOCATION:Onion Creek Soccer Complex - Field 7
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073862-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs FC Dallas Youth
+LOCATION:Hill Country Middle School - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074024-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Challenge SC
+LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074048-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs DKSC
+LOCATION:Onion Creek Soccer Complex - Field 8
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074090-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Sting Black
+LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074096-131273@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake vs Albion Hurricanes FC
+LOCATION:Onion Creek Soccer Complex - Field 7
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=131273
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=131273
+END:VEVENT
+END:VCALENDAR

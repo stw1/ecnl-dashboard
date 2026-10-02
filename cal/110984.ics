@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Davis Legacy U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094377-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Mustang SC (L 1–3)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094413-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs MVLA (L 0–3)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094449-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Pleasanton RAGE (W 3–0)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094485-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Placer United (L 0–1)
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094515-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs COSC (W 4–1)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094563-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Santa Rosa United (L 1–2)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094599-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Marin FC (L 2–3)
+LOCATION:Marin Catholic High School - Stadium
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094629-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Force (CA)
+LOCATION:Kathleen MacDonald High School - Stadium
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094665-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Bay Area Surf -
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1142199-n-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T102500
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Pateadores Soccer Club (national event)
+LOCATION:Surf Sports Park - Field #17
+DESCRIPTION:ECNL Girls · U14 Northern Cal · ECNL Girls San Diego\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&show=1
+ 10984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094701-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Stanislaus Surf -
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094737-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs San Juan SC
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094779-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Mustang SC
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094821-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Placer United
+LOCATION:Whitney High School - Stadium
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094845-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at COSC
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094899-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Davis Legacy at Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094929-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 Davis Legacy at MVLA
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094977-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Davis Legacy at Santa Rosa United
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094995-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Force (CA)
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095031-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T140000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy vs Marin FC
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095061-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Davis Legacy at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095127-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T162000
+DURATION:PT2H
+SUMMARY:U14 Davis Legacy at Stanislaus Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095157-110984@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 Davis Legacy at San Juan SC
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=110984
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=110984
+END:VEVENT
+END:VCALENDAR

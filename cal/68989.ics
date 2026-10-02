@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Stars U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118056-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 FC Stars vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118088-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 FC Stars vs FSA FC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118108-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T090000
+DURATION:PT2H
+SUMMARY:U15 FC Stars at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118128-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T083000
+DURATION:PT2H
+SUMMARY:U15 FC Stars at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118164-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 FC Stars at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118184-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 FC Stars at Select
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118200-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 FC Stars vs Scorpions SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118208-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U15 FC Stars at SUSA FC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118232-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T180000
+DURATION:PT2H
+SUMMARY:U15 FC Stars at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118268-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 FC Stars at Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118316-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 FC Stars at AC Connecticut
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118348-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 FC Stars at Connecticut FC United
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118392-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U15 FC Stars vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118416-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U15 FC Stars vs Manhattan SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118428-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:U15 FC Stars vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118432-68989@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270606
+SUMMARY:U15 FC Stars vs Select
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 68989
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=68989
+END:VEVENT
+END:VCALENDAR

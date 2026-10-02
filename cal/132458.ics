@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Diego Surf U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085361-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs Utah Royals FC AZ (W 5–3)
+LOCATION:Surf Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085457-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T080000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at Sporting California USA (W 8–1)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085499-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T083000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at Slammers FC HB Koge
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086129-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261006T190000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at Pateadores Soccer Club
+LOCATION:Great Park - Field 8
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085991-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T144500
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at LAFC So Cal
+LOCATION:Alemany High School - Stadium - Turf
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085535-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs So Cal Blues
+LOCATION:Surf Sports Park - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085559-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085631-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs Rebels SC
+LOCATION:Surf Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085673-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs Legends FC Del Mar
+LOCATION:Surf Sports Park - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085703-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U18/19 San Diego Surf at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085751-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:U18/19 San Diego Surf at Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085829-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs Beach Futbol Club (CA)
+LOCATION:Surf Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085877-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs Legends FC (CA)
+LOCATION:Surf Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085925-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs SLAMMERS FC
+LOCATION:Surf Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085973-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf vs LV Heat Surf
+LOCATION:Surf Sports Park - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086039-132458@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U18/19 San Diego Surf at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=132458
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=132458
+END:VEVENT
+END:VCALENDAR

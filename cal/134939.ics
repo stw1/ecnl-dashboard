@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Match Fit Surf U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1079010-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U17 Match Fit Surf vs World Class FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079018-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U17 Match Fit Surf vs Baltimore Celtic
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079050-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 Match Fit Surf at STA
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079062-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Match Fit Surf vs Delaware FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079086-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 Match Fit Surf vs Maryland United FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079122-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Match Fit Surf at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079162-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Match Fit Surf at Pipeline SC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079190-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 Match Fit Surf vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079206-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T120000
+DURATION:PT2H
+SUMMARY:U17 Match Fit Surf at SJEBFC
+LOCATION:Tuckahoe Farm - Field 3
+DESCRIPTION:ECNL Boys · U17 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U17&conf=north-atlantic&show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079230-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 Match Fit Surf vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079238-134939@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U17 Match Fit Surf at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134939
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134939
+END:VEVENT
+END:VCALENDAR

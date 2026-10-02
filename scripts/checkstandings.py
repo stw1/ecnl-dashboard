@@ -11,6 +11,7 @@ difference and total goals scored (worked out from the official order: it matche
 Teams level on all of those are treated as tied.
 """
 import collections, os, sys
+from datetime import date, timedelta
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import refresh
 
@@ -55,7 +56,10 @@ def check(gender):
     off = official(lg["events"])
     st, key = ours(brackets, games)
     names = {t: n for b in brackets for t, n in b["teams"].items()}
-    rec_bad, order_bad, missing, flights = [], [], [], collections.defaultdict(list)
+    rec_bad, order_bad, missing, flights, pending = [], [], [], collections.defaultdict(list), []
+    # a team with a game in the last 48 hours may not be counted officially yet: report it, but don't fail
+    recent = {t for g in games if str(g["home_score"]) != "" and g["start"][:10] >= str(date.today() - timedelta(days=2))
+              for t in (g["home_id"], g["away_id"])}
     for t, n in names.items():
         if t not in off:
             missing.append(n); continue
@@ -64,7 +68,7 @@ def check(gender):
         mine = (s["mp"], s["w"], s["d"], s["l"], s["gf"], s["ga"])
         theirs = (r["gp"], r["wins"], r["draws"], r["losses"], r["goalsfor"], r["goalsagainst"])
         if mine != theirs:
-            rec_bad.append(f"{n}: ours {mine} vs official {theirs} (GP W D L GF GA)")
+            (pending if t in recent else rec_bad).append(f"{n}: ours {mine} vs official {theirs} (GP W D L GF GA)")
         flights[(ev, fl)].append((pos, t))
     for (ev, fl), rows in flights.items():
         rows.sort(); ids = [t for _, t in rows]
@@ -82,6 +86,9 @@ def check(gender):
     for x in rec_bad[:15]: print("   ", x)
     print(f"  order disagreements: {len(order_bad)}")
     for x in order_bad[:15]: print("   ", x)
+    if pending:
+        print(f"  differ, but with a game in the last 48 hours (not counted officially yet?): {len(pending)}")
+        for x in pending[:10]: print("   ", x)
     if missing: print(f"  not in the official standings: {len(missing)} e.g. {missing[:5]}")
     return len(rec_bad) + len(order_bad)
 

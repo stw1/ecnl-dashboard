@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Rosa United U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094397-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T100000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs COSC (L 2–3)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094427-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T100000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at Placer United (L 0–1)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094439-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:U18/19 Santa Rosa United at Bay Area Surf - (L 0–3)
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094505-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at San Juan SC (L 1–11)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094535-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs Pleasanton RAGE (D 1–1)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094559-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at Davis Legacy (L 0–9)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094607-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at MVLA (L 0–5)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094643-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs Mustang SC (L 1–7)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094673-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at Marin FC
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094721-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs Force (CA)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094757-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs Stanislaus Surf -
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094763-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T120000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at COSC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094823-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United vs San Juan SC
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094865-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T190000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at Pleasanton RAGE
+LOCATION:Stanford Sports Complex - West
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094901-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Santa Rosa United vs Bay Area Surf -
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094937-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Santa Rosa United vs Placer United
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094973-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Santa Rosa United vs Davis Legacy
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095003-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Santa Rosa United at Mustang SC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095045-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Santa Rosa United vs MVLA
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095081-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Santa Rosa United vs Marin FC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095099-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Santa Rosa United at Force (CA)
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095159-132206@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U18/19 Santa Rosa United at Stanislaus Surf -
+LOCATION:Mary Grogan Community Park - field 2
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=132206
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=132206
+END:VEVENT
+END:VCALENDAR

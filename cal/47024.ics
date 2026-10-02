@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connecticut FC United U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071794-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Connecticut FC United vs World Class FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071804-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Connecticut FC United at SUSA FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071815-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T180000
+DURATION:PT2H
+SUMMARY:U18/19 Connecticut FC United at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - North Turf
+DESCRIPTION:ECNL Girls · U18/19 New England\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=new-england&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071816-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Connecticut FC United vs SUSA FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071826-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Connecticut FC United vs East Meadow Soccer Club
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071829-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Connecticut FC United at World Class FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071831-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Connecticut FC United vs FC Stars White
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071834-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 Connecticut FC United vs FC Stars Blue
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071837-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Connecticut FC United vs FSA FC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071839-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U18/19 Connecticut FC United at Scorpions SC
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071842-47024@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U18/19 Connecticut FC United at Select
+DESCRIPTION:ECNL Girls · U18/19 New England · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-englan
+ d&show=47024
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=new-en
+ gland&show=47024
+END:VEVENT
+END:VCALENDAR

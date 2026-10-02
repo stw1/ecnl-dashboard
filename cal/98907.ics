@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCFC Youth U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122146-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at Wilmington Hammerheads (D 1–1)
+LOCATION:NCINO Sports Park - Field 10
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122152-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs NC Fusion (W 3–1)
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122156-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at Beach FC (VA) (D 0–0)
+LOCATION:Hampton Roads Soccer Complex - Field 14
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122162-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at Richmond United (L 0–7)
+LOCATION:Striker Park - Field 4
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122164-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T101500
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at Fairfax Virginia Union (L 0–2)
+LOCATION:WT Woodson High School - Aux Turf
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140098-n-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at United Futbol Academy (national event)
+LOCATION:nCino Sports Park - Field #06
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · ECNL Girls North Carolina - F
+ all\nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atl
+ antic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122190-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at NCFC Youth NC Courage
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122226-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T160000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 4
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122234-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T120000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Arlington Soccer Association
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122248-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T110000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs VDA
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122252-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T140000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Wilmington Hammerheads
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122254-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270124T090000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs South Carolina Surf
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122260-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T150000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Fairfax Virginia Union
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122270-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U14 NCFC Youth at NC Fusion
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122282-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T140000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Richmond United
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122314-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T110000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs NCFC Youth NC Courage
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122322-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T120000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Charlotte SA
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122324-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 NCFC Youth at Arlington Soccer Association
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122334-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth at VDA
+LOCATION:Howison Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122358-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 NCFC Youth at South Carolina Surf
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlantic&sh
+ ow=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122362-98907@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T140000
+DURATION:PT2H
+SUMMARY:U14 NCFC Youth vs Beach FC (VA)
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U14 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=mid-atlantic&show=98907
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=mid-atlan
+ tic&show=98907
+END:VEVENT
+END:VCALENDAR

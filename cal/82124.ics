@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boise Timbers U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075511-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T150000
+DURATION:PT2H
+SUMMARY:U18/19 Boise Timbers at Oregon Premier FC
+LOCATION:TBA - Field
+DESCRIPTION:ECNL Boys · U18/19 Far West\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=far-west&show=82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075402-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U18/19 Boise Timbers at Capital FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075548-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U18/19 Boise Timbers at United PDX
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075442-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T190000
+DURATION:PT2H
+SUMMARY:U18/19 Boise Timbers at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U18/19 Far West\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U18/19&conf=far-west&show=82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075353-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U18/19 Boise Timbers vs FC Portland
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075354-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U18/19 Boise Timbers vs United PDX
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075355-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Boise Timbers vs Capital FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075356-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Boise Timbers vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075357-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U18/19 Boise Timbers vs Idaho Rush
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075425-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Boise Timbers at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075491-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Boise Timbers at Idaho Rush
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075358-82124@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Boise Timbers vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U18/19 Far West · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-west&show=
+ 82124
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=far-we
+ st&show=82124
+END:VEVENT
+END:VCALENDAR

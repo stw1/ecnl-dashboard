@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nationals SC U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067689-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T145000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs St. Louis Scott Gallagher Navy (W 2–0)
+LOCATION:Royal Oak High School - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067709-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T121500
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs St. Louis Scott Gallagher Green (W 3–0)
+LOCATION:Total Soccer Wixom - Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067785-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs Gretna Elite Academy (W 2–0)
+LOCATION:Hy-Vee Multiplex - Field 2
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067813-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T080000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Sporting Iowa (W 3–1)
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067837-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs Liverpool FC MI (D 0–0)
+LOCATION:Oakland University Upper Fields - South Field
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067893-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T120000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Eclipse Select Soccer Club
+LOCATION:Oak Brook Park District - Turf
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067925-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T140000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs Missouri Rush
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067953-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Kansas City Athletics
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067977-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068001-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T160000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at FC Wisconsin
+LOCATION:University School Milwaukee - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068017-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T094500
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs Chicago Inter
+LOCATION:Evolution Sportsplex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068065-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs Rockford Raptors FC
+LOCATION:Oakland University Upper Fields - South Field
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068081-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T094500
+DURATION:PT2H
+SUMMARY:U15 Nationals SC vs MN Thunder Academy
+LOCATION:Michigan Stars Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068122-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T160000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Michigan Hawks Magic
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068149-94349@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T140000
+DURATION:PT2H
+SUMMARY:U15 Nationals SC at Michigan Hawks
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94349
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=94349
+END:VEVENT
+END:VCALENDAR

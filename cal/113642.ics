@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting SA JAX U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069697-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at United Futbol Academy (L 0–2)
+LOCATION:Fowler Park - Field 5
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069715-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Atlanta Fire United (L 0–1)
+LOCATION:Pinecrest Academy - Grass
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069725-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Seminole United (D 1–1)
+LOCATION:Seminole - Field 6
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069741-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Concorde Fire Platinum (L 0–2)
+LOCATION:Georgia Sports Park - field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069759-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at GSA (L 1–2)
+LOCATION:Rabbit Hill Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069767-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs CESA Liberty (L 0–1)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069783-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs South Carolina United (W 4–2)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069801-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Concorde Fire Premier
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069817-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Alabama FC
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069833-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Tampa Bay United
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069849-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Florida Premier FC
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069901-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Athletic Club Florida
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069885-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX vs Team Boca
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069877-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T123000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Jacksonville FC
+LOCATION:Patton Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069915-113642@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U13 Sporting SA JAX at Florida Kraze Krush
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U13 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southeast&show=113642
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southeast
+ &show=113642
+END:VEVENT
+END:VCALENDAR

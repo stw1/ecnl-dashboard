@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Wisconsin U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071354-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T170000
+DURATION:PT2H
+SUMMARY:U18/19 FC Wisconsin at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Boys · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=midwest&show=134155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071366-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T174500
+DURATION:PT2H
+SUMMARY:U18/19 FC Wisconsin at St Croix
+LOCATION:St. Croix Valley Recreation Center - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=midwest&show=134155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071394-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 FC Wisconsin at Chicago Inter
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071406-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 FC Wisconsin at Indiana Elite FC
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071414-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T150000
+DURATION:PT2H
+SUMMARY:U18/19 FC Wisconsin at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Boys · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=midwest&show=134155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071418-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U18/19 FC Wisconsin at Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071430-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 FC Wisconsin vs Rockford Raptors FC
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071446-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 FC Wisconsin vs Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071474-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 FC Wisconsin at Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071502-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 FC Wisconsin vs Indiana Elite FC
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071510-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 FC Wisconsin vs Chicago Inter
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071534-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 FC Wisconsin vs St Croix
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071550-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U18/19 FC Wisconsin vs MN Thunder Academy
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071562-134155@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U18/19 FC Wisconsin vs Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Midwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwest&show=13
+ 4155
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=midwes
+ t&show=134155
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Delaware FC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078988-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 Delaware FC vs STA
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079036-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Delaware FC at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079060-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Delaware FC at Match Fit Surf
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079116-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U15 Delaware FC vs Maryland United FC
+LOCATION:Hudson Fields - Field 2 11v11 Grass
+DESCRIPTION:ECNL Boys · U15 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U15&conf=north-atlantic&show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079104-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U15 Delaware FC vs Pipeline SC
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U15 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U15&conf=north-atlantic&show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079124-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Delaware FC vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079180-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Delaware FC at PSA Monmouth
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079216-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 Delaware FC at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079224-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U15 Delaware FC at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U15 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atlantic
+ &show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079012-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T121500
+DURATION:PT2H
+SUMMARY:U15 Delaware FC vs World Class FC
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U15 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U15&conf=north-atlantic&show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079244-134191@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270523T120000
+DURATION:PT2H
+SUMMARY:U15 Delaware FC at SJEBFC
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U15 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U15&conf=north-atlantic&show=134191
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=north-atl
+ antic&show=134191
+END:VEVENT
+END:VCALENDAR

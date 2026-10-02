@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:So Cal Blues U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085368-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T090000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues vs Sporting California USA (W 2–1)
+LOCATION:OC Great Park - Field 22
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085398-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T114500
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues at Legends FC (CA) (L 0–2)
+LOCATION:Silverlakes Complex - Field 16
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085482-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T103000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues at Legends FC Del Mar
+LOCATION:Canyon Crest Academy - Stadium
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085536-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues at San Diego Surf
+LOCATION:Surf Sports Park - Field 6
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085596-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues vs LV Heat Surf
+LOCATION:OC Great Park - Field 22
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085626-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues at Pateadores Soccer Club
+LOCATION:Great Park - Field 9
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085686-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T160000
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues vs Beach Futbol Club (CA)
+LOCATION:OC Great Park - Field 19
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085716-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T124500
+DURATION:PT2H
+SUMMARY:U17 So Cal Blues at LAFC So Cal
+LOCATION:Oak Park High School - Stadium
+DESCRIPTION:ECNL Girls · U17 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U17&conf=southwest&show=135896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085794-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 So Cal Blues vs Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085842-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U17 So Cal Blues vs LA Breakers FC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085872-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 So Cal Blues at Rebels SC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085902-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 So Cal Blues at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085944-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 So Cal Blues at Utah Royals FC-AZ
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086010-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 So Cal Blues vs SLAMMERS FC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086106-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 So Cal Blues vs Slammers FC HB Koge
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086136-135896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U17 So Cal Blues vs Eagles SC
+DESCRIPTION:ECNL Girls · U17 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest&show=135
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=southwest
+ &show=135896
+END:VEVENT
+END:VCALENDAR

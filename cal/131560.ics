@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Louisiana Fire SC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1059552-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T110000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Lobos Rush (L 0–3)
+LOCATION:Mike Rose Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059568-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T104500
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Germantown Legends (W 1–0)
+LOCATION:Mike Rose Soccer Complex - Field 14
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059576-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Alabama FC (L 2–4)
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059624-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Tennessee SC (L 0–3)
+LOCATION:Richard Siegel Soccer Complex - Field 6
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059640-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Tennessee United SC (D 0–0)
+LOCATION:Drakes Creek Park (DCP) - Field 9
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059660-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T080000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs FC Alliance TN (L 1–4)
+LOCATION:Ben Franklin High School - Turf Field
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059668-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T120000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Chattanooga Red Wolves SC (W 1–0)
+LOCATION:Bayou Nation - Field 2
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059732-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field #1
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059780-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at FC Alliance TN
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059792-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T083000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Chattanooga Red Wolves SC
+LOCATION:Soddy Daisy High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059708-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Germantown Legends
+LOCATION:Lafreniere Park Turf Field Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059728-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Lobos Rush
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059824-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Tennessee SC
+LOCATION:Lafreniere Park Turf Field Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059832-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Tennessee United SC
+LOCATION:Lafreniere Park Turf Field Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059892-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T130000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Mississippi Rush United
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059600-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T110000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Coastal Rush
+LOCATION:Lafreniere Park Turf Field Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059896-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T150000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC vs Mississippi Rush United
+LOCATION:Lafreniere Park Turf Field Complex - Field 7
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059744-131560@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U15 Louisiana Fire SC at Coastal Rush
+LOCATION:Ashton Brosnaham - Field 6
+DESCRIPTION:ECNL Boys · U15 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=mid-america&show=131560
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mid-ameri
+ ca&show=131560
+END:VEVENT
+END:VCALENDAR

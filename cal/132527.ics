@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Highland FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1140609-n-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Concorde Fire Premier (national event) (L 0–3)
+LOCATION:Georgia Sports Park - Field #05
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · ECNL Atlanta\nhttps://stw1.git
+ hub.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140615-n-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T164500
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Tennessee United SC (national event) (D 0–0)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · ECNL Atlanta\nhttps://stw1.git
+ hub.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140617-n-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Coastal Rush (national event) (D 2–2)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · ECNL Atlanta\nhttps://stw1.git
+ hub.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109291-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Charlotte SA (W 2–1)
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109279-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at NC Fusion (L 3–4)
+LOCATION:Truist Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109321-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109341-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T100000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Skyline Elite
+LOCATION:Buncombe County Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109355-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs VDA
+LOCATION:Buncombe County Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109359-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 Highland FC at Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109371-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at NCFC Youth
+LOCATION:WRAL - Field 22
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109377-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109407-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Wilmington Hammerheads
+LOCATION:Buncombe County Sports Park - Field 8
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109457-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U13 Highland FC vs Fairfax Virginia Union
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109461-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U13 Highland FC vs Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109479-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T100000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at VDA
+LOCATION:Long Park - Field 5
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109489-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U13 Highland FC at Skyline Elite
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109493-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T120000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at NCFC Youth Academy
+LOCATION:WRAL - Field 21
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109403-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T120000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs NCFC Youth
+LOCATION:Buncombe County Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109511-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Fairfax Virginia Union
+LOCATION:WT Woodson High School - Aux Turf
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109515-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Highland FC at Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109525-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Highland FC vs NC Fusion
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109533-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Charlotte SA Academy
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109541-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T140000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Richmond United
+LOCATION:Striker Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109545-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 Highland FC at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 6
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109523-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs NCFC Youth Academy
+LOCATION:Buncombe County Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109563-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T100000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Beach FC (VA)
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109571-132527@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T110000
+DURATION:PT2H
+SUMMARY:U13 Highland FC vs Richmond United
+LOCATION:Buncombe County Sports Park - Field 8
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132527
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132527
+END:VEVENT
+END:VCALENDAR

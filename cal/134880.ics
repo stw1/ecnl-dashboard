@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Select U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118077-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Select vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118093-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U16 Select at Manhattan SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118113-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261219
+SUMMARY:U16 Select vs SUSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118145-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Select at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118173-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 Select vs Scorpions SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118185-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U16 Select vs FC Stars
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118221-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U16 Select at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118245-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 Select at Connecticut FC United
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118341-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U16 Select vs Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118345-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 Select vs AC Connecticut
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118365-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U16 Select vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118385-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T080000
+DURATION:PT2H
+SUMMARY:U16 Select at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118401-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T103000
+DURATION:PT2H
+SUMMARY:U16 Select at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118405-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U16 Select vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118425-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270605T104500
+DURATION:PT2H
+SUMMARY:U16 Select at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118433-134880@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270606
+SUMMARY:U16 Select at FC Stars
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 134880
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=134880
+END:VEVENT
+END:VCALENDAR

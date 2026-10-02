@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mustang SC U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094377-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T140000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Davis Legacy (W 3–1)
+LOCATION:Davis Legacy Soccer Complex - Field 12
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094425-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs Force (CA) (W 3–0)
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094467-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs MVLA (W 2–1)
+LOCATION:Sycamore Park Soccer - Field 2
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094491-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T170000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs Bay Area Surf - (D 2–2)
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094527-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Marin FC (W 4–0)
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094569-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T140000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Placer United (W 3–2)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094605-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs Stanislaus Surf - (W 6–0)
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094647-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Santa Rosa United (L 0–1)
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094683-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261003
+SUMMARY:U14 Mustang SC vs San Juan SC
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095079-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at San Juan SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141596-n-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T084000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at So Cal Blues (national event)
+LOCATION:Surf Sports Park - Field #17
+DESCRIPTION:ECNL Girls · U14 Northern Cal · ECNL Girls San Diego\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&show=1
+ 04961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094713-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Pleasanton RAGE
+LOCATION:Val Vista - Field 3
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094755-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs COSC
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094779-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC vs Davis Legacy
+LOCATION:Provident Field @ MSC - Lower
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094803-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U14 Mustang SC at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094851-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U14 Mustang SC vs Marin FC
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094923-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 Mustang SC at Force (CA)
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094965-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Mustang SC vs Placer United
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095007-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Mustang SC vs Santa Rosa United
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095055-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T105000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at Stanislaus Surf -
+LOCATION:Mary Grogan Community Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095115-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Mustang SC vs Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U14 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-cal&sh
+ ow=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095133-104961@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T120000
+DURATION:PT2H
+SUMMARY:U14 Mustang SC at COSC
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U14 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U14&conf=northern-cal&show=104961
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=northern-
+ cal&show=104961
+END:VEVENT
+END:VCALENDAR

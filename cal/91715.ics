@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pipeline SC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078725-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at SJEB FC (W 6–0)
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078735-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at PSA Monmouth (W 5–0)
+LOCATION:The Ranney School - Field 1 - Stadium
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140642-n-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs NTH NASA (national event) (D 1–1)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U14 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140650-n-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T080000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Sporting SA JAX (national event) (W 3–2)
+LOCATION:Georgia Sports Park - Field #02
+DESCRIPTION:ECNL Boys · U14 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140652-n-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Florida Kraze Krush (national event) (W 4–3)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U14 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078751-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T134500
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at Potomac Soccer Association (D 2–2)
+LOCATION:Maryland Soccerplex - Field 15
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078755-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T103000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at Baltimore Celtic (W 5–0)
+LOCATION:Boys Latin School of Maryland - LeBrun
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078771-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T180000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs STA (L 1–3)
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078781-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T140000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Delaware FC
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078787-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T170000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Penn Fusion Soccer Academy
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078801-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at Match Fit Surf
+LOCATION:Monmouth Regional High School - North
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078817-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Maryland United FC
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078831-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T133000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at World Class FC
+LOCATION:Orangetown Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078837-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T120000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC vs Philadelphia Ukrainian Nationals
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078857-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U14 Pipeline SC vs SJEB FC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078875-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U14 Pipeline SC vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078883-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 Pipeline SC vs Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078899-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U14 Pipeline SC vs Baltimore Celtic
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078909-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Pipeline SC at STA
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078915-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T123000
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at Delaware FC
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078925-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Pipeline SC at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078941-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Pipeline SC vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078947-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Pipeline SC at Maryland United FC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078959-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 Pipeline SC vs World Class FC
+DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
+ &show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078967-91715@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T121500
+DURATION:PT2H
+SUMMARY:U14 Pipeline SC at Philadelphia Ukrainian Nationals
+LOCATION:Ukrainian AMerican Sports Center - Field 3
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=91715
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=91715
+END:VEVENT
+END:VCALENDAR

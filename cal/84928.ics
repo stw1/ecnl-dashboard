@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seattle United U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075626-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at 3RSC (W 2–0)
+LOCATION:Hanford High School - Stadium
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075668-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at XF 2 (L 2–5)
+LOCATION:Marymoor Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075686-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261004
+SUMMARY:U14 Seattle United at XF 1
+DESCRIPTION:ECNL Boys · U14 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest&show=8492
+ 8
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075602-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs PacNW SC
+LOCATION:Shoreline A/B fields - Field B
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075860-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Snohomish United
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075722-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T160000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Snohomish United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075728-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Columbia Premier SC
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083520-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T073000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Washington Premier
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075782-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075800-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs XF 2
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075884-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270109T100000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs 3RSC
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075824-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T060100
+DURATION:PT2H
+SUMMARY:U14 Seattle United at PacNW SC
+LOCATION:TBD PacNW Fields - TBD - Field
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075932-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Washington Premier
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075938-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T130000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Columbia Premier SC
+LOCATION:Harmony Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075968-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T093000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs XF 1
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076006-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Eastside FC
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076016-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T110000
+DURATION:PT2H
+SUMMARY:U14 Seattle United at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076022-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs PacNW SC
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076026-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U14 Seattle United at Columbia Premier SC
+DESCRIPTION:ECNL Boys · U14 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest&show=8492
+ 8
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076040-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Snohomish United
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076058-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Seattle United at 3RSC
+DESCRIPTION:ECNL Boys · U14 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest&show=8492
+ 8
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076066-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs Washington Premier
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076070-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T060000
+DURATION:PT2H
+SUMMARY:U14 Seattle United vs XF 1
+LOCATION:Field 2
+DESCRIPTION:ECNL Boys · U14 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=northwest&show=84928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076078-84928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Seattle United at XF 2
+DESCRIPTION:ECNL Boys · U14 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest&show=8492
+ 8
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=northwest
+ &show=84928
+END:VEVENT
+END:VCALENDAR

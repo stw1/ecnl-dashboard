@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:El Camino FC Salinas U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1099253-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T160000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Placer United (L 0–5)
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099325-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at MVLA (L 0–1)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099355-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Marin FC (W 2–1)
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099403-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T151500
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at Folsom Lake Surf (D 2–2)
+LOCATION:Folsom Lake College - Falcon Soccer Stadium
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099445-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T140000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Davis Legacy (L 1–4)
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099493-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at Association FC
+LOCATION:Witter Sports Complex - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099571-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T160000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at San Francisco Elite Academy
+LOCATION:University of San Francisco - Negoesco Stadium
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099619-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U18/19 El Camino FC Salinas at River Islands Surf
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099625-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T160000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Napa United
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099691-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T140000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Mustang Soccer
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099727-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T100000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas vs Los Gatos United Soccer Club
+LOCATION:Salinas Regional Soccer Complex - Turf #1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099787-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 El Camino FC Salinas vs 1974 Newark FC
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099829-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T120000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at COSC
+LOCATION:Clovis Community College Soccer Field - field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099949-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at Santa Clara Sporting
+LOCATION:Santa Clara Youth Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099991-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 El Camino FC Salinas vs San Juan SC
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
+ al&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100057-70357@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T160000
+DURATION:PT2H
+SUMMARY:U18/19 El Camino FC Salinas at Santa Rosa United
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=70357
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
+ rn-cal&show=70357
+END:VEVENT
+END:VCALENDAR

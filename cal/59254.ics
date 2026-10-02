@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baltimore Celtic U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078987-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U18/19 Baltimore Celtic vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079007-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U18/19 Baltimore Celtic vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079019-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U18/19 Baltimore Celtic at Match Fit Surf
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079035-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Baltimore Celtic vs Maryland United FC
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079075-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U18/19 Baltimore Celtic at Pipeline SC
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079103-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 Baltimore Celtic vs SJEB FC
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079135-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Baltimore Celtic at PSA Monmouth
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079167-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Baltimore Celtic at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079187-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Baltimore Celtic at World Class FC
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079195-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Baltimore Celtic vs STA
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079227-59254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U18/19 Baltimore Celtic vs Delaware FC
+DESCRIPTION:ECNL Boys · U18/19 North Atlantic · kickoff time not set yet\
+ nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-at
+ lantic&show=59254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=north-
+ atlantic&show=59254
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Solar SC Academy U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106701-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T130000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy vs RISE SC (W 4–2)
+LOCATION:Reedy high School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106707-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T100000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy vs Albion Hurricanes FC (L 1–2)
+LOCATION:Reedy high School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106791-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at SAFC (L 1–3)
+LOCATION:STAR Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106851-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at San Antonio City SC (W 5–0)
+LOCATION:Specht Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106887-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at Dallas Texans Academy (W 6–1)
+LOCATION:Wakeland High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106929-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy vs Real Colorado Academy (W 2–1)
+LOCATION:Beacon Park & Z - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106941-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy vs Colorado Storm (W 3–0)
+LOCATION:Beacon Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107109-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261010
+SUMMARY:U18/19 Solar SC Academy vs SOLAR SC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107193-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at FC Westlake
+LOCATION:Onion Creek Soccer Complex - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107253-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T100000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at HTX
+LOCATION:Bear Branch Sportsfields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107301-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U18/19 Solar SC Academy vs Lonestar ATX Red
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107331-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U18/19 Solar SC Academy vs Lonestar ATX Royal
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107403-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U18/19 Solar SC Academy vs DKSC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107487-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U18/19 Solar SC Academy vs Sting
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107523-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T150000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at Tulsa SC
+LOCATION:Jenks Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107547-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T130000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at OK Energy FC Academy
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107727-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107757-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107805-60698@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T140000
+DURATION:PT2H
+SUMMARY:U18/19 Solar SC Academy at Dallas Texans
+LOCATION:Heritage High School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=60698
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=60698
+END:VEVENT
+END:VCALENDAR

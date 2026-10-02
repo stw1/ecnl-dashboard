@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cleveland Force SC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073337-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T153000
+DURATION:PT2H
+SUMMARY:U18/19 Cleveland Force SC at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073346-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U18/19 Cleveland Force SC at Tennessee SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073349-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U18/19 Cleveland Force SC at FC Alliance TN
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073362-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Cleveland Force SC vs WNY Flash
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073366-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Cleveland Force SC vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073370-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Cleveland Force SC at GTFC Impact
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073375-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Cleveland Force SC vs Ohio Premier
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073378-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Cleveland Force SC vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073382-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Cleveland Force SC vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073390-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Cleveland Force SC at Indy Eleven
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073397-46987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U18/19 Cleveland Force SC at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=46987
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=46987
+END:VEVENT
+END:VCALENDAR

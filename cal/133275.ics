@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lonestar ATX Red U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106665-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at Colorado Storm (W 1–0)
+LOCATION:David A. Lorenz Regional Park - Middle Turf
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106737-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T090000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at Real Colorado Academy (W 2–0)
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106779-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs Sting (W 3–1)
+LOCATION:Glenn High School - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106815-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T120000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs DKSC (W 3–0)
+LOCATION:Glenn High School - Stadium Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106923-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs Tulsa SC (D 1–1)
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106965-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs OK Energy FC Academy (L 1–3)
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107007-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at San Antonio City SC
+LOCATION:Specht Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107049-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at SAFC
+LOCATION:STAR Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107127-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs FC Dallas Youth Red
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106875-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261015T193000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs Lonestar ATX Royal
+LOCATION:Round Rock MultiPurpose Complex - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107301-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U18/19 Lonestar ATX Red at Solar SC Academy
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107337-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U18/19 Lonestar ATX Red at SOLAR SC
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107355-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T140000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at Dallas Texans
+LOCATION:Beacon Park - field 5
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107385-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red at Dallas Texans Academy
+LOCATION:Beacon Park - field 7
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107085-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs FC Dallas Youth White
+LOCATION:Frost Elementary School - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107649-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T150000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs HTX
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107679-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Lonestar ATX Red at FC Westlake
+DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107715-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T150000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs Albion Hurricanes FC
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107769-133275@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T110000
+DURATION:PT2H
+SUMMARY:U18/19 Lonestar ATX Red vs RISE SC
+LOCATION:Round Rock MultiPurpose Complex - Field 10
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=133275
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=133275
+END:VEVENT
+END:VCALENDAR

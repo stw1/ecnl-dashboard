@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Avalanche U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091213-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs La Roca FC (W 3–1)
+LOCATION:Salt Lake Regional Athletic Complex - Field 12
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091221-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T111500
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs Arizona Arsenal (W 11–1)
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091229-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T133000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs CCV STARS (W 6–2)
+LOCATION:St. Joseph Catholic High School - Turf Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091233-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U17 Avalanche at Arizona Arsenal
+LOCATION:Santos Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091245-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U17 Avalanche at CCV STARS
+LOCATION:Arizona Christian University - Field 1 (North)
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091253-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T093000
+DURATION:PT2H
+SUMMARY:U17 Avalanche at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091261-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T133000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs El Paso Locomotive
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091269-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T111500
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs NM Rapids SC
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091281-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 Avalanche at Pride SC
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091305-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U17 Avalanche at Real Colorado National
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091313-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T133000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs Colorado EDGE
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091321-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T133000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs Colorado Storm Central
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091329-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T133000
+DURATION:PT2H
+SUMMARY:U17 Avalanche vs Colorado Rush
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091353-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T090000
+DURATION:PT2H
+SUMMARY:U17 Avalanche at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 10
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091365-59827@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T140000
+DURATION:PT2H
+SUMMARY:U17 Avalanche at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East A
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59827
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59827
+END:VEVENT
+END:VCALENDAR

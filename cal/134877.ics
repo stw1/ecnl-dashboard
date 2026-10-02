@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Select U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1117794-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U13 Select vs FSA FC (W 3–0)
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117802-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T120000
+DURATION:PT2H
+SUMMARY:U13 Select vs Connecticut FC United (W 6–0)
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117989-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T153000
+DURATION:PT2H
+SUMMARY:U13 Select vs Manhattan SC (W 3–0)
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117823-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T104500
+DURATION:PT2H
+SUMMARY:U13 Select at Scorpions SC
+LOCATION:Taunton Forekicks - Field 14
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117830-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T094500
+DURATION:PT2H
+SUMMARY:U13 Select at FC Stars
+LOCATION:FC Stars Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117834-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U13 Select at East Coast Surf SC
+LOCATION:Holy Trinity high school - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117848-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Select at AC Connecticut
+LOCATION:Mill Ridge Primary School - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117862-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 Select vs SUSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117888-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U13 Select at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117904-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U13 Select vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117912-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:U13 Select vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117928-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Select at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117934-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Select at SUSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117940-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Select vs Scorpions SC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117950-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Select vs FC Stars
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117963-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T100000
+DURATION:PT2H
+SUMMARY:U13 Select at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117972-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Select at Connecticut FC United
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117810-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U13 Select at Manhattan SC
+LOCATION:College of Mt. St. Vincent - Marillac Field
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118022-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Select vs AC Connecticut
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118033-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U13 Select vs Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118044-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U13 Select vs East Coast Surf SC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118051-134877@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T111500
+DURATION:PT2H
+SUMMARY:U13 Select at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - North Turf
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=134877
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=134877
+END:VEVENT
+END:VCALENDAR

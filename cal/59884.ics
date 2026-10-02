@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pride SC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091281-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 Pride SC vs Avalanche
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133255-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U17 Pride SC vs La Roca FC
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091337-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T111500
+DURATION:PT2H
+SUMMARY:U17 Pride SC at Real Colorado National
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091361-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T130000
+DURATION:PT2H
+SUMMARY:U17 Pride SC at NM Rapids SC
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 7
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091373-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T130000
+DURATION:PT2H
+SUMMARY:U17 Pride SC at El Paso Locomotive
+LOCATION:Socorro Athletic Complex (SAC) - SAC 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091389-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T140000
+DURATION:PT2H
+SUMMARY:U17 Pride SC at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East B
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091401-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T133000
+DURATION:PT2H
+SUMMARY:U17 Pride SC at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 8
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091457-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U17 Pride SC vs NM Rapids SC
+LOCATION:Pride Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091473-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U17 Pride SC vs El Paso Locomotive
+LOCATION:Pride Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091481-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U17 Pride SC at CCV STARS
+LOCATION:West Valley Events Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091497-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Pride SC at Arizona Arsenal
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091509-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Pride SC at Colorado Rush
+DESCRIPTION:ECNL Boys · U17 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091521-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U17 Pride SC vs Colorado Rush
+LOCATION:Pride Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091541-59884@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U17 Pride SC vs Real Colorado National
+LOCATION:Pride Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=mountain&show=59884
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mountain&
+ show=59884
+END:VEVENT
+END:VCALENDAR

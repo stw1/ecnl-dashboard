@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Phoenix Rising FC U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085409-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC vs LV Heat Surf (L 0–1)
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085439-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC vs Utah Royals FC AZ
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085511-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC vs LAFC So Cal
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085349-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261007T194500
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC at Arizona Arsenal
+LOCATION:Arizona Athletic Grounds - Field 8
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085583-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U18/19 Phoenix Rising FC vs Legends FC Del Mar
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085643-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC at Sporting California USA
+LOCATION:San Bernardino Soccer Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085649-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085751-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:U18/19 Phoenix Rising FC vs San Diego Surf
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085793-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Phoenix Rising FC at So Cal Blues
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085823-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Phoenix Rising FC at Pateadores Soccer Club
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085853-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Phoenix Rising FC at Beach Futbol Club (CA)
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085895-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U18/19 Phoenix Rising FC at SLAMMERS FC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085955-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Phoenix Rising FC at Legends FC (CA)
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085979-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086027-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T120000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC vs Rebels SC
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086051-59771@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U18/19 Phoenix Rising FC vs Slammers FC HB Koge
+LOCATION:PRFC Youth Soccer Facility - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=59771
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=59771
+END:VEVENT
+END:VCALENDAR

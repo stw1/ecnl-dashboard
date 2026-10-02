@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCFC Youth U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109667-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Fairfax Virginia Union
+LOCATION:WRAL - Field 21
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109679-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T130000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Arlington Soccer Association
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109787-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270124T120000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth at NCFC Youth Academy
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109795-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T100000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109815-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U17 NCFC Youth at Charlotte SA
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109831-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T150000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs NCFC Youth Academy
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109839-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T140000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Beach FC (VA)
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109867-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T110000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Richmond United
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109887-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T140000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Wilmington Hammerheads
+LOCATION:WRAL - Field 13
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109899-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T140000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth at Highland FC
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109907-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 NCFC Youth at Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109915-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T140000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth vs Charlotte SA
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109959-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 NCFC Youth vs NC Fusion
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109987-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T100000
+DURATION:PT2H
+SUMMARY:U17 NCFC Youth at VDA
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 8
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=mid-atlantic&show=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109995-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 NCFC Youth at Skyline Elite
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110011-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 NCFC Youth vs Highland FC
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110015-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U17 NCFC Youth vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110027-69431@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 NCFC Youth at NC Fusion
+DESCRIPTION:ECNL Boys · U17 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlantic&sho
+ w=69431
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=mid-atlan
+ tic&show=69431
+END:VEVENT
+END:VCALENDAR

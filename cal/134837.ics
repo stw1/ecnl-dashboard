@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Louis Scott Gallagher Green U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083684-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Liverpool FC MI (D 1–1)
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083692-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T101500
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Nationals SC (D 0–0)
+LOCATION:Total Soccer Wixom - Dome
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083706-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T094500
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs St. Louis Scott Gallagher Na
+ vy (D 1–1)
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139133-n-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Cleveland Force SC (national
+  event) (L 2–4)
+LOCATION:SLYSA Complex - Field #18
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139140-n-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Liverpool FC MI (national ev
+ ent) (L 0–2)
+LOCATION:SLYSA Complex - Field #09
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139142-n-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Sporting Blue Valley (nation
+ al event) (D 0–0)
+LOCATION:SLYSA Complex - Field #01
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083720-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Rockford Raptors FC (D 1–1
+ )
+LOCATION:Mercyhealth Sportscore Two - Field TBA (11v11)
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083734-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T104500
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at FC Wisconsin (W 2–0)
+LOCATION:FC Wisconsin Soccer Park - Field 2 - Hegarty Field
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083750-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Sporting Blue Valley
+LOCATION:WWT Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083784-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T154500
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Sporting Iowa
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083794-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T120000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083802-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Missouri Rush
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083830-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Chicago Inter
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083836-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Eclipse Select Soccer Club
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083864-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs MN Thunder Academy
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083880-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at St. Louis Scott Gallagher Na
+ vy
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083892-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Gretna Elite Academy
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083902-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Kansas City Athletics
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083930-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Michigan Hawks Magic
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083940-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T080000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green vs Michigan Hawks
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083972-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 St. Louis Scott Gallagher Green at Sporting Iowa
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083980-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T113000
+DURATION:PT2H
+SUMMARY:U14 St. Louis Scott Gallagher Green at MN Thunder Academy
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084006-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U14 St. Louis Scott Gallagher Green at Kansas City Athletics
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084020-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U14 St. Louis Scott Gallagher Green at Sporting Blue Valley
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084026-134837@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U14 St. Louis Scott Gallagher Green at Missouri Rush
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134837
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=134837
+END:VEVENT
+END:VCALENDAR

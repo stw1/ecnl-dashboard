@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Placer United U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094391-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T100000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs San Juan SC (L 1–2)
+LOCATION:Placer Valley Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094427-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T100000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Santa Rosa United (W 1–0)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094451-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at Force (CA) (L 0–3)
+LOCATION:De Anza College - Soccer Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094481-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at Davis Legacy (D 1–1)
+LOCATION:Davis Legacy Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094541-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at Stanislaus Surf - (L 1–3)
+LOCATION:Modesto Junior College - MJC West
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094565-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Mustang SC (W 3–1)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094613-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Pleasanton RAGE (L 0–1)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094619-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T174500
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at Bay Area Surf -
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094655-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at COSC
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094703-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs MVLA
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094745-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at Marin FC
+LOCATION:Terra Linda High School - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094787-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United at San Juan SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094817-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T100000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Davis Legacy
+LOCATION:Mahany Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094859-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T140000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Stanislaus Surf -
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094889-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T173000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Force (CA)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094937-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Placer United at Santa Rosa United
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094961-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Placer United at Mustang SC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095015-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs Bay Area Surf -
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095033-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Placer United at Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095063-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T160000
+DURATION:PT2H
+SUMMARY:U18/19 Placer United vs COSC
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095117-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Placer United at MVLA
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095141-68831@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Placer United vs Marin FC
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
+ https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
+ cal&show=68831
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
+ rn-cal&show=68831
+END:VEVENT
+END:VCALENDAR

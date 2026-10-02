@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beach Futbol Club (CA) U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085331-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T170000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) vs LAFC So Cal (W 2–1)
+LOCATION:Long Beach City College - Liberal Arts Campus - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085385-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) at LA Breakers FC (W 3–0)
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085463-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Arizona Arsenal (W 1–0)
+LOCATION:El Camino College - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085469-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Legends FC (CA)
+LOCATION:El Camino College - Stadium
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085541-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T080000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) at SLAMMERS FC
+LOCATION:Silver Lakes Sports Complex (Norco) - Field 22
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085607-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Legends FC Del Mar
+LOCATION:El Camino College - Athletic Field
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085685-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T180000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) at So Cal Blues
+LOCATION:OC Great Park - Field 19
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085709-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Rebels SC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085757-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Eagles SC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085829-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U18/19 Beach Futbol Club (CA) at San Diego Surf
+LOCATION:Surf Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085853-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085931-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Beach Futbol Club (CA) at Slammers FC HB Koge
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085961-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Beach Futbol Club (CA) at Pateadores Soccer Club
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086003-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Beach Futbol Club (CA) at LV Heat Surf
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086075-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U18/19 Beach Futbol Club (CA) vs Utah Royals FC AZ
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086141-131920@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U18/19 Beach Futbol Club (CA) at Utah Royals FC AZ
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=131920
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131920
+END:VEVENT
+END:VCALENDAR

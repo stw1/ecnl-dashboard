@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:STA U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078990-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 STA at Delaware FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079030-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U17 STA vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079050-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 STA vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079082-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 STA vs Maryland United FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079094-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 STA vs Pipeline SC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079114-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U17 STA at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079138-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U17 STA at SJEBFC
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U17 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U17&conf=north-atlantic&show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079170-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 STA vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079178-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 STA at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079194-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 STA at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079222-133140@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 STA at World Class FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=133140
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=133140
+END:VEVENT
+END:VCALENDAR

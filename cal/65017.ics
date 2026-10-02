@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Premier U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132866-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Ohio Premier vs GTFC Impact
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132908-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Ohio Premier vs WNY Flash
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132923-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U16 Ohio Premier vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132944-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 Ohio Premier at FC Alliance TN
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132953-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U16 Ohio Premier at Tennessee SC
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132968-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Ohio Premier vs FC Pride Elite
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132980-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 Ohio Premier vs Indy Eleven
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132989-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Ohio Premier vs Internationals SC
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133001-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 Ohio Premier at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133025-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Ohio Premier at GTFC Impact
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133055-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U16 Ohio Premier vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133073-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U16 Ohio Premier vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133082-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Ohio Premier at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133094-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U16 Ohio Premier at WNY Flash
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133127-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T124500
+DURATION:PT2H
+SUMMARY:U16 Ohio Premier at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=ohio-valley&show=65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133136-65017@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U16 Ohio Premier vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
+ =65017
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
+ ey&show=65017
+END:VEVENT
+END:VCALENDAR

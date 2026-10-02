@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gretna Elite Academy U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083678-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T095000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs FC Wisconsin (W 2–0)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083690-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T100000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Rockford Raptors FC (L 1–6)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083704-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T114000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Sporting Iowa (W 1–0)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083728-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T094500
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at MN Thunder Academy (L 0–2)
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083746-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at Kansas City Athletics
+LOCATION:KC Current Training Facility - Field 9
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083756-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Missouri Rush
+LOCATION:KC Current Training Facility - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1142200-n-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T102500
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at Sporting California USA (national event
+ )
+LOCATION:Surf Sports Park - Field #18
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083782-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T154500
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs St. Louis Scott Gallagher Navy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083794-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T120000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs St. Louis Scott Gallagher Green
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083798-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T160000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Eclipse Select Soccer Club
+LOCATION:HyVee Multiplex - White 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083808-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T100000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Chicago Inter
+LOCATION:HyVee Multiplex - White 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083852-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T134500
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Sporting Blue Valley
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083878-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T120000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs MN Thunder Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083892-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T080000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083900-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T080000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at St. Louis Scott Gallagher Navy
+LOCATION:WWT Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083924-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Gretna Elite Academy vs Nationals SC
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083934-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Gretna Elite Academy vs Liverpool FC MI
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083950-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Gretna Elite Academy vs Missouri Rush
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083960-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T104500
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy at Sporting Iowa
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083970-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Gretna Elite Academy at Sporting Blue Valley
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083988-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T140000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Kansas City Athletics
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084002-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T130000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Michigan Hawks
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084018-131819@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270516T100000
+DURATION:PT2H
+SUMMARY:U14 Gretna Elite Academy vs Michigan Hawks Magic
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=131819
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=131819
+END:VEVENT
+END:VCALENDAR

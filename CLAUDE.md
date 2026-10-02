@@ -24,6 +24,10 @@ data/{boys,girls}_games.csv        this season's games (blank scores = not playe
 data/cross.csv                     this season's cross-conference games; data/national_events.json their event ids
 data/meta.json                     snapshot date and season
 data/history/                      past seasons' games and brackets, cross.csv, confadj_<gender>.json (cache)
+data/national_games.csv            this season's national-event games (played and upcoming) for team pages
+cal/<team id>.ics                  one subscribable calendar per team (this season), rebuilt by refresh.py
+analytics/                         fa.js + config.json, copied from the MLS NEXT repo's analytics kit (see its README)
+scripts/checkstandings.py          compare our tables with ECNL's official standings
 index.html, girls.html             this season (Boys, Girls)
 season-<season>.html, girls-season-<season>.html   finished seasons (same template, DATA.past set)
 .github/workflows/refresh.yml      weekend auto-refresh
@@ -128,6 +132,24 @@ Poisson goals model with attack and defense ratings per team, ridge priors (σ 0
 rating when there is one), home edge, and a Dixon-Coles low-score adjustment. The season sim plays out every remaining
 game 10,000 times and ranks the way ECNL does (points per game, then total GD and GF). "How accurate are the
 predictions?" is a walk-forward backtest of the current model.
+
+## Calendars, feedback, analytics
+- **Calendars:** `refresh.write_calendars` writes `cal/<team id>.ics` for every team this season: league and national-event
+  games, results in the title once played, times local to the field (floating), and a fixed DTSTAMP so a file only
+  changes when its games do. Only changed files are rewritten and stray ones removed (`prune_calendars`), which avoids
+  iCloud "123 2.ics" duplicates (also in .gitignore). "Add to calendar" opens a panel: subscribe on iPhone/Mac (webcal),
+  Google Calendar, copy the link, or download the remaining games once. Past-season pages only download.
+- **Feedback:** `refresh.FEEDBACK = "support@spaikz.com"` adds "Report a problem or suggest an idea" to the footer, as an
+  email link with the page address.
+- **Analytics:** `refresh.ANALYTICS_SITE = "ecnl"`. `analytics_tag()` inlines `analytics/fa.js` into every page
+  (`<!--__ANALYTICS__-->` in the head), configured from `analytics/config.json`. This is the shared Firebase project
+  `spaikz-dashboards`, where the MLS NEXT repo owns the rules and report. The page calls `fa.view({view, league, season,
+  age, conf, team, club, following, page})`, and the footer notes anonymous stats with an opt-out (`?fa=off`). There are
+  no cookies, and DNT/GPC are respected. Report: https://stw1.github.io/mlsnext-dashboard/analytics/report.html (pick
+  "ecnl"). To update the tracker, copy fa.js from the MLS repo.
+- **Home:** the site title links home, and club, national and team pages get a "‹ Home" button.
+- **Official check in the workflow:** runs after publishing and fails (GitHub emails a warning) on any record or order
+  difference. Teams with a game in the last 48 hours are reported, not flagged.
 
 ## Conventions
 - Each page is a single self-contained HTML file with all data embedded and no external scripts.

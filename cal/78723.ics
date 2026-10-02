@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Capital FC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075371-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U15 Capital FC vs Idaho Rush
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075372-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U15 Capital FC vs Boise Timbers
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075373-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U15 Capital FC vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075565-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270207
+SUMMARY:U15 Capital FC at United PDX
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075408-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U15 Capital FC at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075531-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T090000
+DURATION:PT2H
+SUMMARY:U15 Capital FC at Oregon Premier FC
+LOCATION:TBA - Field 1
+DESCRIPTION:ECNL Boys · U15 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075337-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Capital FC at Boise Timbers
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075478-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 Capital FC at Idaho Rush
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075374-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Capital FC vs United PDX
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075375-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U15 Capital FC vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075450-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T150000
+DURATION:PT2H
+SUMMARY:U15 Capital FC at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U15 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075376-78723@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 Capital FC vs FC Portland
+DESCRIPTION:ECNL Boys · U15 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&show=78723
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=far-west&
+ show=78723
+END:VEVENT
+END:VCALENDAR

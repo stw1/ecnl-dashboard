@@ -1,0 +1,277 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Potomac Soccer Association U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078732-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs Maryland United FC (L 2–5)
+LOCATION:Maryland Soccerplex - Field 10
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078750-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs Pipeline SC (L 0–1)
+LOCATION:Maryland Soccerplex - Field 15
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078764-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T140000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs Philadelphia Ukrainian Nationals 
+ (W 2–1)
+LOCATION:Maryland Soccerplex - Field 7
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078774-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at SJEB FC
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078776-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at Match Fit Surf
+LOCATION:Sycamore Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140125-n-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at Wilmington Hammerheads FC (nation
+ al event)
+LOCATION:nCino Sports Park - Field #10
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys North Carolina - F
+ all\nhttps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-a
+ tlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078788-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T121500
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs World Class FC
+LOCATION:Maryland Soccerplex - Field 17
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078838-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T103000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs Penn Fusion Soccer Academy
+LOCATION:Maryland Soccerplex - Field 15
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078796-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T143000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at Baltimore Celtic
+LOCATION:St Paul's School - Tullai
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078820-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T140000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at Delaware FC
+LOCATION:Hudson Fields - Field 1 11v11 Grass
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078832-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T103000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association at STA
+LOCATION:Central Park - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078862-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T113000
+DURATION:PT2H
+SUMMARY:U13 Potomac Soccer Association vs PSA Monmouth
+LOCATION:Maryland Soccerplex - Field 19
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078882-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Potomac Soccer Association at Pipeline SC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078896-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Potomac Soccer Association at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078858-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Potomac Soccer Association vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078930-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Potomac Soccer Association at World Class FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078934-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Potomac Soccer Association at PSA Monmouth
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078942-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Potomac Soccer Association vs Baltimore Celtic
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078948-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Potomac Soccer Association vs STA
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078872-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Potomac Soccer Association at Maryland United FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078968-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 Potomac Soccer Association vs Delaware FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078976-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Potomac Soccer Association at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078980-134254@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 Potomac Soccer Association vs SJEB FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=134254
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=134254
+END:VEVENT
+END:VCALENDAR

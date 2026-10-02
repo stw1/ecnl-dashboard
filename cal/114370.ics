@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Missouri Rush U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057385-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:U18/19 Missouri Rush at Sporting Nebraska FC
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057389-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T130000
+DURATION:PT2H
+SUMMARY:U18/19 Missouri Rush at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Heartland\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=heartland&show=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057417-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T110000
+DURATION:PT2H
+SUMMARY:U18/19 Missouri Rush vs Arkansas Comets FC
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Heartland\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=heartland&show=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057441-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U18/19 Missouri Rush vs OK Energy FC
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Heartland\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=heartland&show=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057509-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U18/19 Missouri Rush vs VSA Rush
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057517-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U18/19 Missouri Rush vs Sporting Iowa Central
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057525-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Missouri Rush vs FC Wichita
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057533-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Missouri Rush vs Kansas Rush
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057541-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Missouri Rush vs Kansas City Athletics
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057549-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Missouri Rush vs Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057561-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 Missouri Rush at Kansas Rush
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057573-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Missouri Rush at FC Wichita
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057597-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Missouri Rush vs St. Louis Stars SC
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057605-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Missouri Rush at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057621-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 Missouri Rush at Kansas City Athletics
+DESCRIPTION:ECNL Boys · U18/19 Heartland · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartland&sho
+ w=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057625-114370@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U18/19 Missouri Rush at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Heartland\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U18/19&conf=heartland&show=114370
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=heartl
+ and&show=114370
+END:VEVENT
+END:VCALENDAR

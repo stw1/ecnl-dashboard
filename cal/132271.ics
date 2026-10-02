@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tennessee United SC U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1059553-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Tennessee SC (L 0–5)
+LOCATION:Bethesda Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059585-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Germantown Legends (L 2–5)
+LOCATION:Stateline Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059605-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Lobos Rush (L 0–3)
+LOCATION:Progress Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059625-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T170000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Mississippi Rush United (L 0–1)
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059637-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Louisiana Fire SC (L 1–5)
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059677-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Chattanooga Red Wolves SC (L 0–4)
+LOCATION:Camp Jordan Sports Complex - field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059689-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at FC Alliance TN (D 1–1)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059693-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Alabama FC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059717-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Coastal Rush
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059781-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261023T190000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Tennessee SC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059805-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T190000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs FC Alliance TN
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059809-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T150000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Chattanooga Red Wolves SC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059825-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T170000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Mississippi Rush United
+LOCATION:Freedom Ridge Park - Stadium
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059829-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Louisiana Fire SC
+LOCATION:Lafreniere Park Turf Field Complex - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059837-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field #1
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059861-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC at Coastal Rush
+LOCATION:Ashton Brosnaham - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059873-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T170000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Lobos Rush
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059881-132271@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T130000
+DURATION:PT2H
+SUMMARY:U18/19 Tennessee United SC vs Germantown Legends
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U18/19 Mid-America\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=mid-america&show=132271
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-am
+ erica&show=132271
+END:VEVENT
+END:VCALENDAR

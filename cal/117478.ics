@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Coast Surf SC U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118069-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 East Coast Surf SC vs Manhattan SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118097-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U16 East Coast Surf SC vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118117-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T130000
+DURATION:PT2H
+SUMMARY:U16 East Coast Surf SC at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118137-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 East Coast Surf SC at Manhattan SC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118169-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 East Coast Surf SC vs FSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118181-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U16 East Coast Surf SC vs Connecticut FC United
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118205-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U16 East Coast Surf SC vs AC Connecticut
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118237-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 East Coast Surf SC vs Oakwood Soccer Club
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118281-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U16 East Coast Surf SC at East Meadow Soccer Club
+LOCATION:Point Lookout - Lido Blvd - Field 2
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118289-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 East Coast Surf SC at SUSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118313-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 East Coast Surf SC vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118361-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 East Coast Surf SC vs SUSA FC
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118365-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U16 East Coast Surf SC at Select
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118373-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 East Coast Surf SC at AC Connecticut
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118393-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U16 East Coast Surf SC at FC Stars
+DESCRIPTION:ECNL Boys · U16 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-england&show=
+ 117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118409-117478@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270523T104500
+DURATION:PT2H
+SUMMARY:U16 East Coast Surf SC at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U16 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U16&conf=new-england&show=117478
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=new-engla
+ nd&show=117478
+END:VEVENT
+END:VCALENDAR

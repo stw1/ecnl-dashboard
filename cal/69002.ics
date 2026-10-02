@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CESA Triumph U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1064982-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs South Carolina United (W 4–1)
+LOCATION:Mesa Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065000-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T170000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at Concorde Fire Premier (W 4–1)
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065018-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at Concorde Fire Platinum (L 1–2)
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065070-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs United Futbol Academy (W 1–0)
+LOCATION:Mesa Soccer Complex - Field 15
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065082-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs GSA (W 3–1)
+LOCATION:Mesa Soccer Complex - Field 15
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065304-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs Atlanta Fire United (L 0–5)
+LOCATION:Mesa Soccer Complex - Field 4
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065312-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs NTH NASA (W 1–0)
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065126-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at GSA
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065156-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T090000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at United Futbol Academy
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065222-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 3
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065242-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs Concorde Fire Platinum
+LOCATION:Mesa Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065258-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs Concorde Fire Premier
+LOCATION:Mesa Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065048-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at NTH NASA
+LOCATION:Metro North Park - Field 1
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065054-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T110000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at Atlanta Fire United
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065300-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T130000
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph at South Carolina Surf
+LOCATION:Pinewood Prep - Field 1
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065346-69002@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T134500
+DURATION:PT2H
+SUMMARY:U16 CESA Triumph vs South Carolina Surf
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U16 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U16&conf=southeast&show=69002
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=southeast
+ &show=69002
+END:VEVENT
+END:VCALENDAR

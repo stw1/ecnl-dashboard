@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan Hawks U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067697-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T115000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Michigan Hawks Magic (W 6–0)
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067729-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T135000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Missouri Rush (W 3–0)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067773-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at Chicago Inter (W 4–0)
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067805-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at FC Wisconsin (W 4–0)
+LOCATION:University School Milwaukee - Stadium
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067841-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T154000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Kansas City Athletics (W 4–0)
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067861-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T133000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Sporting Blue Valley (W 3–0)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067905-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T160000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Gretna Elite Academy
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067929-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T111000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Sporting Iowa
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067941-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at Eclipse Select Soccer Club
+LOCATION:Lewis University - field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067973-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field TBA (11v11)
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068029-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T131500
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at St. Louis Scott Gallagher Navy
+LOCATION:SLSG Creve Coeur Facility - Field 2
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068053-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T131500
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at St. Louis Scott Gallagher Green
+LOCATION:SLSG Creve Coeur Facility - Field 5
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068106-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T160000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs MN Thunder Academy
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068126-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T150000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks at Liverpool FC MI
+LOCATION:UWM Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068149-134166@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T140000
+DURATION:PT2H
+SUMMARY:U15 Michigan Hawks vs Nationals SC
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=134166
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=134166
+END:VEVENT
+END:VCALENDAR

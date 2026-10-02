@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting California USA U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085367-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA at So Cal Blues (W 1–0)
+LOCATION:OC Great Park - Field 19
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085415-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T080000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA vs Slammers FC HB Koge (L 1–2)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085457-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T080000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA vs San Diego Surf (L 1–8)
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085475-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA at Eagles SC
+LOCATION:Pleasant Valley Fields - Field 14
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085523-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 24
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085643-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA vs Phoenix Rising FC
+LOCATION:San Bernardino Soccer Complex - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085667-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA at Pateadores Soccer Club
+LOCATION:Great Park - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085733-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T160000
+DURATION:PT2H
+SUMMARY:U18/19 Sporting California USA at LV Heat Surf
+LOCATION:Heritage Park Sports Complex - Field 10
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085799-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Sporting California USA vs SLAMMERS FC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085847-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U18/19 Sporting California USA vs Utah Royals FC AZ
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085937-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U18/19 Sporting California USA at Arizona Arsenal
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085949-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U18/19 Sporting California USA at LAFC So Cal
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086015-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 Sporting California USA vs LA Breakers FC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086063-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U18/19 Sporting California USA vs Rebels SC
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086087-134098@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U18/19 Sporting California USA at Legends FC Del Mar
+DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
+ ow=134098
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=134098
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:STA U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122388-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T095000
+DURATION:PT2H
+SUMMARY:U13 STA at Philadelphia Ukrainian Nationals (national event) (W 4
+ –0)
+LOCATION:Morningside Farm - Field #13
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122391-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T114000
+DURATION:PT2H
+SUMMARY:U13 STA at Columbus Force RL (national event) (W 3–1)
+LOCATION:Morningside Farm - Field #12
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122393-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U13 STA vs Penn Fusion Soccer Academy (national event) (W 5–0)
+LOCATION:PDA Soccer Complex - Field #03
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140620-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T094500
+DURATION:PT2H
+SUMMARY:U13 STA at FC Stars (national event) (W 4–0)
+LOCATION:Georgia Sports Park - Field #02
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140623-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U13 STA vs Tennessee SC (national event) (D 0–0)
+LOCATION:Georgia Sports Park - Field #02
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140624-n-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T123000
+DURATION:PT2H
+SUMMARY:U13 STA at Concorde Fire Platinum (national event) (L 0–4)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Atlanta\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078744-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T114500
+DURATION:PT2H
+SUMMARY:U13 STA at Match Fit Surf (W 5–3)
+LOCATION:Monmouth Regional High School - North
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078758-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 STA at Maryland United FC (L 3–4)
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078770-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T163000
+DURATION:PT2H
+SUMMARY:U13 STA at Pipeline SC (W 2–1)
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078790-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U13 STA vs SJEB FC
+LOCATION:Central Park - Field 4
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078804-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T133000
+DURATION:PT2H
+SUMMARY:U13 STA at PSA Monmouth
+LOCATION:The Ranney School - Field 1 - Stadium
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078726-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T133000
+DURATION:PT2H
+SUMMARY:U13 STA vs Delaware FC
+LOCATION:Central Park - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078818-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T103000
+DURATION:PT2H
+SUMMARY:U13 STA vs Philadelphia Ukrainian Nationals
+LOCATION:Central Park - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078828-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U13 STA vs Baltimore Celtic
+LOCATION:Central Park - Field 4
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078832-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T103000
+DURATION:PT2H
+SUMMARY:U13 STA vs Potomac Soccer Association
+LOCATION:Central Park - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078842-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U13 STA vs World Class FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078730-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T113000
+DURATION:PT2H
+SUMMARY:U13 STA at Penn Fusion Soccer Academy
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078852-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 STA at Delaware FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078876-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 STA vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078886-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 STA vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078902-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 STA vs Maryland United FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078908-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 STA vs Pipeline SC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078918-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 STA at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078928-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T100000
+DURATION:PT2H
+SUMMARY:U13 STA at SJEB FC
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078944-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 STA vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078948-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 STA at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078956-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 STA at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078970-133136@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 STA at World Class FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=133136
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=133136
+END:VEVENT
+END:VCALENDAR

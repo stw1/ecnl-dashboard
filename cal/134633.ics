@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Alliance TN U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1056585-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Coastal Rush (L 0–5)
+LOCATION:Ashton Brosnaham - Field 5
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056593-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Alabama FC (L 2–3)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056603-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Chattanooga Red Wolves SC (W 3–1)
+LOCATION:CSLA - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056627-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Louisiana Fire SC (L 3–10)
+LOCATION:Ben Franklin High School - Turf Field
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056635-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Mississippi Rush United (L 0–2)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056639-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T160000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Tennessee SC (D 1–1)
+LOCATION:Tommy Shumpert - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056643-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Tennessee United SC (W 4–1)
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056647-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Chattanooga Red Wolves SC
+LOCATION:Mayor Bob Leonard Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056673-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Germantown Legends
+LOCATION:Mike Rose Soccer Complex - Field 16
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056679-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Lobos Rush
+LOCATION:Mike Rose Soccer Complex - Field 10
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056687-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Louisiana Fire SC
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056697-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Mississippi Rush United
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056701-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T170000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Tennessee United SC
+LOCATION:Drakes Creek Park (DCP) - Field 10
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056705-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T080000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Tennessee SC
+LOCATION:Bethesda Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056725-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Germantown Legends
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056733-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Lobos Rush
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056747-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Coastal Rush
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056749-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T090000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN vs Alabama FC
+LOCATION:Tommy Shumpert - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056755-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U14 FC Alliance TN vs Chattanooga Red Wolves SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056791-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Coastal Rush
+LOCATION:Mobile County Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056793-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U14 FC Alliance TN at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field #1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056803-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 FC Alliance TN vs Louisiana Fire SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056811-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 FC Alliance TN vs Mississippi Rush United
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056815-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 FC Alliance TN at Tennessee United SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056823-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 FC Alliance TN at Tennessee SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056831-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 FC Alliance TN vs Lobos Rush
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056839-134633@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 FC Alliance TN vs Germantown Legends
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 134633
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=134633
+END:VEVENT
+END:VCALENDAR

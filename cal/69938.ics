@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio Elite SA U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1139084-n-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Kansas City Surf RL (national event) (W 2–1)
+LOCATION:Creve Coeur Park - Field #11
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139087-n-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T113000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Alabama FC Huntsville RL (national event) (L 0
+ –3)
+LOCATION:Creve Coeur Park - Field #10
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139090-n-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T080000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs LA Krewe Rush RL (national event) (W 1–0)
+LOCATION:Creve Coeur Park - Field #11
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · ECNL Boys St. Louis\nhttps://st
+ w1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064552-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Louisville City Academy (L 1–2)
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 3
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064558-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T113000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs RNY FC Youth (W 4–2)
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064564-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T103000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs WNY Flash (W 4–1)
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064568-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T113000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Pittsburgh Riverhounds
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064576-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T113000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs FC Pride Elite
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064588-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T103000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Nationals SC
+LOCATION:Evolution Sportsplex - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064594-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T104500
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Cleveland Force SC
+LOCATION:Victory Park - Field 4
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064604-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T123000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Ohio Premier
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064616-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T190000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Louisville City Academy
+LOCATION:Seven Hills School - Upper Field
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064624-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T113000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Nationals SC
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064632-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T103000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA vs Cleveland Force SC
+LOCATION:Seven Hills School - Upper Field
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064636-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Ohio Elite SA at FC Pride Elite
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064648-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T140000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064670-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Ohio Elite SA at RNY FC Youth
+DESCRIPTION:ECNL Boys · U14 Ohio Valley · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-valley&show=
+ 69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064672-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T143000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at WNY Flash
+LOCATION:Sahlen's Sports Park - Field #45
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064676-69938@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T120000
+DURATION:PT2H
+SUMMARY:U14 Ohio Elite SA at Ohio Premier
+LOCATION:OP Training Facility - Field 1
+DESCRIPTION:ECNL Boys · U14 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=ohio-valley&show=69938
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=ohio-vall
+ ey&show=69938
+END:VEVENT
+END:VCALENDAR

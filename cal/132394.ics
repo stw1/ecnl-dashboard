@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Skyline Elite U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109277-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T120000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite vs Fairfax Virginia Union (W 4–1)
+LOCATION:South Fork Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109283-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T170000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Arlington Soccer Association (L 0–10)
+LOCATION:Williamsburg Middle School - WMS #1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109287-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Beach FC (VA) (L 0–2)
+LOCATION:Hampton Roads Soccer Complex - Field 14
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109309-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at NCFC Youth (L 2–4)
+LOCATION:WRAL - Field 21
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109317-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Wilmington Hammerheads (W 6–2)
+LOCATION:NCINO Sports Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109327-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at VDA
+LOCATION:Catharpin Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109341-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T100000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Highland FC
+LOCATION:Buncombe County Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109349-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Charlotte SA Academy
+LOCATION:Orthocarolina Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109363-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite vs NCFC Youth Academy
+LOCATION:Charlottesville High School - Grass Field
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109375-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite vs Richmond United
+LOCATION:Charlottesville High School - Grass Field
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109379-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T150000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite vs Beach FC (VA)
+LOCATION:South Fork Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109405-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Fairfax Virginia Union
+LOCATION:James W Robinson HS - Stadium
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109413-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U13 Skyline Elite at NC Fusion
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109415-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U13 Skyline Elite at Charlotte SA
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109421-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T120000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at NCFC Youth Academy
+LOCATION:WRAL - Field 23
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109423-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U13 Skyline Elite vs Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109433-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T140000
+DURATION:PT2H
+SUMMARY:U13 Skyline Elite at Richmond United
+LOCATION:Striker Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109443-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U13 Skyline Elite vs VDA
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109473-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U13 Skyline Elite vs Charlotte SA Academy
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109489-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U13 Skyline Elite vs Highland FC
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109497-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 Skyline Elite vs Charlotte SA
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109505-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Skyline Elite vs NC Fusion
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109555-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Skyline Elite vs Wilmington Hammerheads
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109559-132394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Skyline Elite vs NCFC Youth
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
+ w=132394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
+ tic&show=132394
+END:VEVENT
+END:VCALENDAR

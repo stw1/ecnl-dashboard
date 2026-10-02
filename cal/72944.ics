@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Solar SC Academy U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106696-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T110000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy vs RISE SC (L 4–5)
+LOCATION:Lonestar HS - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106702-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T100000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy vs Albion Hurricanes FC (W 4–3)
+LOCATION:Lonestar HS - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106786-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260912
+SUMMARY:U13 Solar SC Academy at SAFC
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106846-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260913
+SUMMARY:U13 Solar SC Academy at San Antonio City SC
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106882-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at Dallas Texans Academy (L 2–4)
+LOCATION:Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106924-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy vs Real Colorado Academy (W 5–0)
+LOCATION:Beacon Park & Z - Field 5
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106936-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy vs Colorado Storm (D 1–1)
+LOCATION:Beacon Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107104-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261010
+SUMMARY:U13 Solar SC Academy vs SOLAR SC
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144171-n-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T080000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at Marin FC (national event)
+LOCATION:Surf Sports Park - Field #06
+DESCRIPTION:ECNL Boys · U13 Texas · ECNL Boys San Diego\nhttps://stw1.git
+ hub.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107188-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at FC Westlake
+LOCATION:Onion Creek Soccer Complex - Field 7
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107248-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T100000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at HTX
+LOCATION:Bear Branch Sportsfields - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107296-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U13 Solar SC Academy vs Lonestar ATX Red
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107326-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U13 Solar SC Academy vs Lonestar ATX Royal
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107398-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U13 Solar SC Academy vs DKSC
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107482-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U13 Solar SC Academy vs Sting
+DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107518-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T150000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at Tulsa SC
+LOCATION:Jenks Sports Complex - Field 10
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107542-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at OK Energy FC Academy
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107722-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 10
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107752-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 13
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107800-72944@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T100000
+DURATION:PT2H
+SUMMARY:U13 Solar SC Academy at Dallas Texans
+LOCATION:Independence High School - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=72944
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
+ w=72944
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Louis Stars SC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057384-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T130000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057396-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:U15 St. Louis Stars SC at Sporting Nebraska FC
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057416-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T110000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs OK Energy FC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057440-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Arkansas Comets FC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057516-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T110000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Sporting Iowa Central
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057524-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T090000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs VSA Rush
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057532-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T110000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Kansas Rush
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057540-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs FC Wichita
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057548-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T110000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Union KC Soccer Club
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057556-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Kansas City Athletics
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057568-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U15 St. Louis Stars SC at FC Wichita
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057580-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U15 St. Louis Stars SC at Kansas Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057600-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 St. Louis Stars SC at Missouri Rush
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057612-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 St. Louis Stars SC at Kansas City Athletics
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057620-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 St. Louis Stars SC at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U15 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland&show=1127
+ 87
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057628-112787@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U15 St. Louis Stars SC vs Missouri Rush
+LOCATION:Sport 360 Soccer Zone - Field 2
+DESCRIPTION:ECNL Boys · U15 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U15&conf=heartland&show=112787
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=heartland
+ &show=112787
+END:VEVENT
+END:VCALENDAR

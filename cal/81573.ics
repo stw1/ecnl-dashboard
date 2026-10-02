@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Avalanche U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091211-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T111500
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs La Roca FC (W 4–1)
+LOCATION:Salt Lake Regional Athletic Complex - Field 12
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091219-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs Arizona Arsenal (W 2–1)
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091227-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs CCV STARS (W 5–0)
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091231-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche at Arizona Arsenal
+LOCATION:Santos Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091243-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U15 Avalanche at CCV STARS
+LOCATION:Arizona Christian University - Field 1 (North)
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144256-n-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T131500
+DURATION:PT2H
+SUMMARY:U15 Avalanche at COSC (national event)
+LOCATION:Surf Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U15 Mountain · ECNL Boys San Diego\nhttps://stw1.
+ github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091251-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T120000
+DURATION:PT2H
+SUMMARY:U15 Avalanche at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091259-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs El Paso Locomotive
+LOCATION:Judge Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091267-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs NM Rapids SC
+LOCATION:Judge Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091279-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 Avalanche at Pride SC
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091303-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 Avalanche at Real Colorado National
+DESCRIPTION:ECNL Boys · U15 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091311-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs Colorado EDGE
+LOCATION:Judge Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091319-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T090000
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs Colorado Storm Central
+LOCATION:Judge Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091327-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T111500
+DURATION:PT2H
+SUMMARY:U15 Avalanche vs Colorado Rush
+LOCATION:Judge Memorial High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091351-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T111500
+DURATION:PT2H
+SUMMARY:U15 Avalanche at Colorado Storm Central
+LOCATION:Dick's Sporting Goods Park - DSGP - 8
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091363-81573@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T120000
+DURATION:PT2H
+SUMMARY:U15 Avalanche at Colorado EDGE
+LOCATION:Long Lake Regional Park - Turf East A
+DESCRIPTION:ECNL Boys · U15 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U15&conf=mountain&show=81573
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=mountain&
+ show=81573
+END:VEVENT
+END:VCALENDAR

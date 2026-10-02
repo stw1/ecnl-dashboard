@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RISE SC U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106698-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at Solar SC Academy (L 0–1)
+LOCATION:Reedy high School - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106740-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T100000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at SOLAR SC (D 1–1)
+LOCATION:Liberty High School - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106782-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Real Colorado Academy (D 0–0)
+LOCATION:South Campus - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106806-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Colorado Storm (W 1–0)
+LOCATION:South Campus - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106854-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at Albion Hurricanes FC (L 0–4)
+LOCATION:Campbell Road Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106968-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T150000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at San Antonio City SC (D 0–0)
+LOCATION:Specht Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107010-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Sting
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107028-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs DKSC
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107178-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Dallas Texans
+LOCATION:South Campus - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107232-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Dallas Texans Academy
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107430-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs OK Energy FC Academy
+LOCATION:South Campus - Field 4
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107478-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs Tulsa SC
+LOCATION:South Campus - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107508-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U15 RISE SC at HTX
+DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107538-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at FC Westlake
+LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107634-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at FC Dallas Youth White
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107670-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at FC Dallas Youth Red
+LOCATION:Toyota Soccer Center - Field 12
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107730-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T130000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at Lonestar ATX Royal
+LOCATION:Round Rock MultiPurpose Complex - Field 8
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107766-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T090000
+DURATION:PT2H
+SUMMARY:U15 RISE SC at Lonestar ATX Red
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107790-131313@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U15 RISE SC vs SAFC
+LOCATION:South Campus - Field 3
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131313
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131313
+END:VEVENT
+END:VCALENDAR

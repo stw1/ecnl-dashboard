@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VDA U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1121231-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Arlington Soccer Association (W 1–0)
+LOCATION:Howison Park - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121243-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs NC Fusion (W 6–0)
+LOCATION:Howison Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121259-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs South Carolina Surf (W 5–1)
+LOCATION:Ali Krieger Sports Complex (AKSC) - Field 7
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121271-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T133000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Charlotte SA
+LOCATION:Long Park - Field 7
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121283-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T153000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 16
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121327-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121343-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at NCFC Youth NC Courage
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121363-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T130000
+DURATION:PT2H
+SUMMARY:U18/19 VDA vs Fairfax Virginia Union
+LOCATION:Howison Park - Field 3
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121411-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T103000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at Richmond United
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121423-59474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T090000
+DURATION:PT2H
+SUMMARY:U18/19 VDA at NCFC Youth
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=mid-atlantic&show=59474
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=mid-at
+ lantic&show=59474
+END:VEVENT
+END:VCALENDAR

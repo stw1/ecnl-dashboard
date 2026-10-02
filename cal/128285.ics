@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PDA White U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072541-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 PDA White vs HEX FC Bucks
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072689-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270309T203000
+DURATION:PT2H
+SUMMARY:U17 PDA White at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U17 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U17&conf=north-atlantic&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072557-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 PDA White vs Match Fit Surf
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072577-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U17 PDA White vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072597-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 PDA White vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072617-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 PDA White at Maryland United FC
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072637-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 PDA White vs Pipeline SC
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072665-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 PDA White at Bethesda SC
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072709-128285@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 PDA White at FC DELCO
+DESCRIPTION:ECNL Girls · U17 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atlanti
+ c&show=128285
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=north-atl
+ antic&show=128285
+END:VEVENT
+END:VCALENDAR

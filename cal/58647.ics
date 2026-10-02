@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liverpool FC MI U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067696-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs St. Louis Scott Gallagher Green (D 3–3)
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067716-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs St. Louis Scott Gallagher Navy (L 0–4)
+LOCATION:Oakland University Upper Fields - South
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067728-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Michigan Hawks Magic (L 1–3)
+LOCATION:UWM Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067756-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T140000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI at Rockford Raptors FC (L 0–2)
+LOCATION:Mercyhealth Sportscore Two - Field TBA (11v11)
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067792-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI at Sporting Iowa (L 0–1)
+LOCATION:Hy-Vee Multiplex - Green #2
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067820-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Gretna Elite Academy (L 0–9)
+LOCATION:HyVee Multiplex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067840-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI at Nationals SC (L 0–6)
+LOCATION:Oakland University Upper Fields - North field
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067904-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Missouri Rush
+LOCATION:Chicago Inter Complex - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067924-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261011
+SUMMARY:U18/19 Liverpool FC MI at FC Wisconsin
+DESCRIPTION:ECNL Girls · U18/19 Midwest · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwest&show=5
+ 8647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067960-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 11
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067984-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI at Kansas City Athletics
+LOCATION:KC Current Training Facility - Field 9
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068016-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Eclipse Select Soccer Club
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068040-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Chicago Inter
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068080-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs MN Thunder Academy
+LOCATION:Avondale High School - Auxiliary
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068129-58647@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T090000
+DURATION:PT2H
+SUMMARY:U18/19 Liverpool FC MI vs Michigan Hawks
+LOCATION:UWM Sports Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
+ t&show=58647
+END:VEVENT
+END:VCALENDAR

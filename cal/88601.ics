@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SJEB FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122363-n-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T133000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs STA MOSC RL (national event) (L 0–2)
+LOCATION:Morningside Farm - Field #12
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122371-n-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T152000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Oakwood Soccer Club (national event) (W 5–1)
+LOCATION:Morningside Farm - Field #13
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122373-n-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T123000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs FC Europa RL (national event) (D 1–1)
+LOCATION:Morningside Farm - Field #16
+DESCRIPTION:ECNL Boys · U13 North Atlantic · ECNL Boys New Jersey\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic&sho
+ w=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078724-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Pipeline SC (L 0–4)
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078736-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Philadelphia Ukrainian Nationals (W 4–2)
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078752-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs World Class FC (W 4–1)
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078760-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs PSA Monmouth
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078774-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T140000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Potomac Soccer Association
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078790-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC at STA
+LOCATION:Central Park - Field 4
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078794-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Maryland United FC
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078798-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T113000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC at Delaware FC
+LOCATION:Smith Estates - Field 4
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078814-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T113000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC at Penn Fusion Soccer Academy
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078822-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T111500
+DURATION:PT2H
+SUMMARY:U13 SJEB FC at Match Fit Surf
+LOCATION:Monmouth Regional High School - North
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078846-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T140000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Baltimore Celtic
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078856-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 SJEB FC at Pipeline SC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078888-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U13 SJEB FC at World Class FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078890-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Penn Fusion Soccer Academy
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078900-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs PSA Monmouth
+LOCATION:Tuckahoe Farm - Field 3
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078906-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 SJEB FC at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078912-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 SJEB FC at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078928-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs STA
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078962-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Match Fit Surf
+LOCATION:Tuckahoe Farm - Field 3
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078964-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 SJEB FC at Maryland United FC
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078980-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 SJEB FC at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
+ &show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078982-88601@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270523T100000
+DURATION:PT2H
+SUMMARY:U13 SJEB FC vs Delaware FC
+LOCATION:Tuckahoe Farm - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=88601
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=88601
+END:VEVENT
+END:VCALENDAR

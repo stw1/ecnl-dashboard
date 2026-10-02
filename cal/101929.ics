@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Columbia Premier SC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075589-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T110000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at Eastside FC (D 0–0)
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075607-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs XF 1 (L 1–3)
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075631-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs 3RSC (W 2–0)
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075655-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at PacNW SC (W 3–1)
+LOCATION:Starfire Sports - Field 3
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075679-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs XF 2
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144185-n-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T131500
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at River Islands Surf (national event)
+LOCATION:Surf Sports Park - Field #06
+DESCRIPTION:ECNL Boys · U13 Northwest · ECNL Boys San Diego\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075703-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs Washington Premier
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075727-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T123000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075769-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at Snohomish United
+LOCATION:Snohomish High School - Lower Turf
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075787-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T130000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075835-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 Columbia Premier SC at XF 1
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075865-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:U13 Columbia Premier SC at XF 2
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075889-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs Eastside FC
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075913-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U13 Columbia Premier SC at 3RSC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075937-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs Seattle United
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075961-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U13 Columbia Premier SC vs PacNW SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075985-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U13 Columbia Premier SC vs Snohomish United
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076011-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 Columbia Premier SC at 3RSC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076017-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T090000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076025-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Columbia Premier SC vs Seattle United
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076033-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 Columbia Premier SC at PacNW SC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076043-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T150000
+DURATION:PT2H
+SUMMARY:U13 Columbia Premier SC vs Snohomish United
+LOCATION:Harmony Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=101929
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076059-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Columbia Premier SC at XF 2
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076067-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Columbia Premier SC vs Eastside FC
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1076075-101929@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Columbia Premier SC at XF 1
+DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=1019
+ 29
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
+ &show=101929
+END:VEVENT
+END:VCALENDAR

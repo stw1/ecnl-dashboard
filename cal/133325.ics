@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AC Florida West U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068348-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T130000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Florida Premier FC (L 0–17)
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068360-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T150000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Florida Premier FC South (L 0–4)
+LOCATION:JetBlue Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140631-n-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at NTH NASA (national event) (L 0–2)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140638-n-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T131500
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Pittsburgh Riverhounds (national event) (D 0
+ –0)
+LOCATION:Georgia Sports Park - Field #02
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140641-n-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs SAFC (national event) (L 0–7)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U13 Florida · ECNL Atlanta\nhttps://stw1.github.i
+ o/ecnl-dashboard/index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068390-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Athletic Club Florida (D 0–0)
+LOCATION:North Collier Regional Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068414-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T120000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Parkland Soccer Club (L 0–7)
+LOCATION:North Collier Regional Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068528-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068558-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T120000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Fort Lauderdale United FC
+LOCATION:North Collier Regional Park - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068582-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Space Coast United
+LOCATION:JetBlue Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068666-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U13 AC Florida West at Palm Beach United
+DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068600-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Sporting SA JAX
+LOCATION:JetBlue Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068684-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T100000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068702-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T090000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068720-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T120000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068738-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068768-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T130000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Fort Lauderdale United FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068780-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Doral Soccer Club
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068810-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Florida Kraze Krush -
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068828-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Florida Premier FC
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068876-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Florida Kraze Krush -
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068912-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068924-133325@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U13 AC Florida West vs Palm Beach United
+LOCATION:Bayshore Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133325
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133325
+END:VEVENT
+END:VCALENDAR

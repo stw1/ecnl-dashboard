@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SJEBFC U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1078997-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 SJEBFC at Pipeline SC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079053-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 SJEBFC at World Class FC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079057-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T140000
+DURATION:PT2H
+SUMMARY:U16 SJEBFC vs Penn Fusion Soccer Academy
+LOCATION:Tuckahoe Farm - Field 3
+DESCRIPTION:ECNL Boys · U16 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U16&conf=north-atlantic&show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079077-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T140000
+DURATION:PT2H
+SUMMARY:U16 SJEBFC vs PSA Monmouth
+LOCATION:Tuckahoe Farm - Field 4
+DESCRIPTION:ECNL Boys · U16 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U16&conf=north-atlantic&show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079089-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U16 SJEBFC at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079101-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U16 SJEBFC at Baltimore Celtic
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079137-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U16 SJEBFC vs STA
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U16 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U16&conf=north-atlantic&show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079205-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T140000
+DURATION:PT2H
+SUMMARY:U16 SJEBFC vs Match Fit Surf
+LOCATION:Tuckahoe Farm - Field 4
+DESCRIPTION:ECNL Boys · U16 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U16&conf=north-atlantic&show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079209-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 SJEBFC at Maryland United FC
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079241-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U16 SJEBFC at Potomac Soccer Association
+DESCRIPTION:ECNL Boys · U16 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atlantic
+ &show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079245-82610@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270523T100000
+DURATION:PT2H
+SUMMARY:U16 SJEBFC vs Delaware FC
+LOCATION:Tuckahoe Farm - Field 2
+DESCRIPTION:ECNL Boys · U16 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U16&conf=north-atlantic&show=82610
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=north-atl
+ antic&show=82610
+END:VEVENT
+END:VCALENDAR

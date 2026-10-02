@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Futbol Academy U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1065009-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T150000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs NTH NASA (L 0–1)
+LOCATION:Fowler Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065033-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T150000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs Atlanta Fire United (L 0–3)
+LOCATION:Fowler Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140608-n-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T131500
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at Tennessee United SC (national event) (
+ W 1–0)
+LOCATION:Georgia Sports Park - Field #05
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140611-n-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T164500
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs Concorde Fire Premier (national event)
+  (D 0–0)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140612-n-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at Alabama FC (national event) (W 4–0)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065067-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at CESA Triumph (W 1–0)
+LOCATION:Mesa Soccer Complex - Field 15
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065087-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at South Carolina United (W 2–1)
+LOCATION:Southeastern Freight Lines Complex - Stadium B
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065111-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T100000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065153-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T110000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs CESA Triumph
+LOCATION:Fowler Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065245-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at South Carolina Surf
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065293-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at GSA
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065351-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T110000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs Concorde Fire Platinum
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065359-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T100000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065361-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy at NTH NASA
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065365-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 United Futbol Academy at Atlanta Fire United
+DESCRIPTION:ECNL Boys · U13 Southeast · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=1199
+ 98
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065383-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs South Carolina Surf
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065135-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs South Carolina United
+LOCATION:Fowler Park - Field 6
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065399-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs Concorde Fire Premier
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065391-119998@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U13 United Futbol Academy vs GSA
+LOCATION:Fowler Park - Field 7
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=119998
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=119998
+END:VEVENT
+END:VCALENDAR

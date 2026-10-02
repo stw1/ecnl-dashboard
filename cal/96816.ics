@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connecticut FC United U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118056-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 Connecticut FC United at FC Stars
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118080-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 Connecticut FC United at Scorpions SC
+LOCATION:Taunton Forekicks - Field 15
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118104-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T083000
+DURATION:PT2H
+SUMMARY:U15 Connecticut FC United at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 7
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118160-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Connecticut FC United at Manhattan SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118180-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 Connecticut FC United at East Coast Surf SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118224-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U15 Connecticut FC United vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118244-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U15 Connecticut FC United vs Select
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118260-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U15 Connecticut FC United vs SUSA FC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118264-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 Connecticut FC United vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118276-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U15 Connecticut FC United at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=new-england&show=96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118332-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 Connecticut FC United vs FSA FC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118348-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Connecticut FC United vs FC Stars
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118368-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 Connecticut FC United vs Scorpions SC
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118388-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U15 Connecticut FC United at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118404-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U15 Connecticut FC United at Select
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118420-96816@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:U15 Connecticut FC United at AC Connecticut
+DESCRIPTION:ECNL Boys · U15 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-england&show=
+ 96816
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=new-engla
+ nd&show=96816
+END:VEVENT
+END:VCALENDAR

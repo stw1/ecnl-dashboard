@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Palm Beach United U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068313-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Space Coast United (L 0–3)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068337-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Sporting SA JAX (W 2–1)
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068397-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United vs Space Coast United (W 2–1)
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068421-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United vs Sporting SA JAX (D 3–3)
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068451-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T190000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Parkland Soccer Club (L 0–9)
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068481-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United vs Florida Kraze Krush
+LOCATION:Gardens North County District Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068517-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T090000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United vs Doral Soccer Club
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068583-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Fort Lauderdale United FC
+LOCATION:Miami Dolphins Training Facility @ NOVA Southeaste - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068631-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:U18/19 Palm Beach United vs Florida Premier FC South
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068649-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:U18/19 Palm Beach United vs Florida Premier FC
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068661-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U18/19 Palm Beach United vs AC Florida West
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068367-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T120000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Athletic Club Florida
+LOCATION:North Community Park - North
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068739-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Palm Beach United at Florida Kraze Krush
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068787-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T120000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068793-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068811-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U18/19 Palm Beach United vs Fort Lauderdale United FC
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068835-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U18/19 Palm Beach United vs Parkland Soccer Club
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068847-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at Doral Soccer Club
+LOCATION:Divine Savior Academy - DSA 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068895-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Palm Beach United vs Athletic Club Florida
+DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
+ 896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068919-34896@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T120000
+DURATION:PT2H
+SUMMARY:U18/19 Palm Beach United at AC Florida West
+LOCATION:Bayshore Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=34896
+END:VEVENT
+END:VCALENDAR

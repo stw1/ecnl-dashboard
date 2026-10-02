@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Concorde Fire Premier U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069933-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs Florida Kraze Krush (L 0–5)
+LOCATION:Georgia Sports Park - field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069969-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs Seminole United (W 7–2)
+LOCATION:Georgia Sports Park - field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070029-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs Athletic Club Florida (W 2–0)
+LOCATION:Georgia Sports Park - field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070065-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs Team Boca (L 0–1)
+LOCATION:Georgia Sports Park - field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070089-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Tampa Bay United (W 6–0)
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070117-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T120000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Florida Premier FC (W 2–0)
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070149-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070177-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T123000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Jacksonville FC
+LOCATION:Patton Park - Stadium
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070205-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070221-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at GSA
+LOCATION:GSA East - #1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070237-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs Atlanta Fire United
+LOCATION:Georgia Sports Park - field 3
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070253-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T090000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier vs United Futbol Academy
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070269-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070285-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at CESA Liberty
+LOCATION:Mesa Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070297-89720@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T110000
+DURATION:PT2H
+SUMMARY:U15 Concorde Fire Premier at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=89720
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=89720
+END:VEVENT
+END:VCALENDAR

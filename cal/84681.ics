@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MVLA U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1099268-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T130000
+DURATION:PT2H
+SUMMARY:U15 MVLA at Los Gatos United Soccer Club (L 1–2)
+LOCATION:Branham High School Stadium - Stadium
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099328-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U15 MVLA vs El Camino FC Salinas (D 1–1)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099352-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U15 MVLA at COSC (L 0–3)
+LOCATION:Clovis South High School - Field 2
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099466-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T150000
+DURATION:PT2H
+SUMMARY:U15 MVLA vs Santa Clara Sporting (L 0–3)
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099520-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U15 MVLA at San Juan SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144314-n-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100500
+DURATION:PT2H
+SUMMARY:U15 MVLA vs Legends FC - Del Mar (national event)
+LOCATION:Surf Sports Park - Field #09
+DESCRIPTION:ECNL Boys · U15 Northern Cal · ECNL Boys San Diego\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&show=846
+ 81
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099568-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T150000
+DURATION:PT2H
+SUMMARY:U15 MVLA at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099616-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U15 MVLA at Marin FC
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099634-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T131500
+DURATION:PT2H
+SUMMARY:U15 MVLA at Folsom Lake Surf
+LOCATION:Econome Family Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099688-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T140000
+DURATION:PT2H
+SUMMARY:U15 MVLA at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099748-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T090000
+DURATION:PT2H
+SUMMARY:U15 MVLA vs Association FC
+LOCATION:Foothill College - Top Hill Soccer Field
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099808-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 MVLA vs San Francisco Elite Academy
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099868-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T100000
+DURATION:PT2H
+SUMMARY:U15 MVLA at Santa Rosa United
+LOCATION:Trione Fields - Trione East
+DESCRIPTION:ECNL Boys · U15 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U15&conf=northern-cal&show=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099904-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 MVLA vs River Islands Surf
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099934-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 MVLA vs Napa United
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100006-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 MVLA vs Mustang Soccer
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100018-84681@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 MVLA at 1974 Newark FC
+DESCRIPTION:ECNL Boys · U15 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-cal&sho
+ w=84681
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=northern-
+ cal&show=84681
+END:VEVENT
+END:VCALENDAR

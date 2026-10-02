@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oakwood Soccer Club U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1118074-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U17 Oakwood Soccer Club at AC Connecticut
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118102-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs SUSA FC
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118118-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T110000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs East Coast Surf SC
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118142-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 Oakwood Soccer Club at SUSA FC
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118154-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T140000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118158-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T170000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs AC Connecticut
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118214-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U17 Oakwood Soccer Club at Manhattan SC
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118238-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U17 Oakwood Soccer Club at East Coast Surf SC
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118270-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U17 Oakwood Soccer Club vs FC Stars
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118278-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T170000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs Connecticut FC United
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118298-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T123000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 8
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118302-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T133000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs Manhattan SC
+LOCATION:Oakwood Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118326-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Oakwood Soccer Club at SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118342-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 Oakwood Soccer Club at Select
+DESCRIPTION:ECNL Boys · U17 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-england&show=
+ 135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118378-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T130000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs East Meadow Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118258-135302@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T110000
+DURATION:PT2H
+SUMMARY:U17 Oakwood Soccer Club vs Scorpions SC
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U17 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=new-england&show=135302
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=new-engla
+ nd&show=135302
+END:VEVENT
+END:VCALENDAR

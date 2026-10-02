@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Missouri Rush U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083676-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at Chicago Inter (L 0–7)
+LOCATION:Chicago Inter Complex - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083702-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T154000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at Michigan Hawks (L 0–2)
+LOCATION:Schoolcraft Turf - SC Turf
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083712-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T120000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at Michigan Hawks Magic (W 1–0)
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139145-n-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs FC Dallas Youth RL (national event) (D 1–1)
+LOCATION:SLYSA Complex - Field #12
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139152-n-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T080000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs West Side Alliance (national event) (W 4–2)
+LOCATION:SLYSA Complex - Field #14
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139153-n-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at FC Wisconsin (national event) (W 1–0)
+LOCATION:SLYSA Complex - Field #01
+DESCRIPTION:ECNL Girls · U14 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083714-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T094500
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at MN Thunder Academy (D 1–1)
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083748-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at Sporting Iowa
+LOCATION:Olathe District Activity Center - Soccer Stadium
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083756-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at Gretna Elite Academy
+LOCATION:KC Current Training Facility - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083774-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs FC Wisconsin
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083802-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083812-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T104500
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs Sporting Blue Valley
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083828-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs Eclipse Select Soccer Club
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083854-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T130000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush vs St. Louis Scott Gallagher Navy
+LOCATION:Missouri Rush Sports Park - Field 4
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083866-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U14 Missouri Rush vs Kansas City Athletics
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083868-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U14 Missouri Rush vs Rockford Raptors FC
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083888-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U14 Missouri Rush at Liverpool FC MI
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083898-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 Missouri Rush vs Nationals SC
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083904-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U14 Missouri Rush vs Sporting Iowa
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083916-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U14 Missouri Rush at St. Louis Scott Gallagher Navy
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083950-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Missouri Rush at Gretna Elite Academy
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083962-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Missouri Rush vs MN Thunder Academy
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083976-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Missouri Rush at Kansas City Athletics
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083982-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 Missouri Rush at Sporting Blue Valley
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084026-114381@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U14 Missouri Rush vs St. Louis Scott Gallagher Green
+DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=114381
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
+ how=114381
+END:VEVENT
+END:VCALENDAR

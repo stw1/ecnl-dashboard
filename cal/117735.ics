@@ -1,0 +1,305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Louis Stars SC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1139356-n-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T150000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs MN Thunder Academy (national event) (W 7
+ –0)
+LOCATION:Creve Coeur Park - Field #06
+DESCRIPTION:ECNL Boys · U13 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139359-n-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T094500
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at FC Wichita (national event) (W 1–0)
+LOCATION:Creve Coeur Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139361-n-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T080000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Chicago Magic Soccer Club (national event
+ ) (D 3–3)
+LOCATION:Creve Coeur Park - Field #07
+DESCRIPTION:ECNL Boys · U13 Heartland · ECNL Boys St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057014-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T184500
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at Missouri Rush (D 1–1)
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057038-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Sporting Nebraska FC (W 11–2)
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057046-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Gretna Elite Academy (W 3–0)
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057054-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs VSA Rush
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057060-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Sporting Iowa Central
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057068-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs FC Wichita
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057076-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T110000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Kansas Rush
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057096-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Union KC Soccer Club
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057100-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Kansas City Athletics
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057112-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at Arkansas Comets FC
+LOCATION:NOKC Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057122-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057130-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T110000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at Gretna Elite Academy
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057136-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:U13 St. Louis Stars SC at Sporting Nebraska FC
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057144-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T130000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Arkansas Comets FC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057148-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs OK Energy FC
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057166-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 St. Louis Stars SC at FC Wichita
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057178-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 St. Louis Stars SC at Kansas Rush
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057192-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 St. Louis Stars SC at Sporting Iowa Central
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057206-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057222-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 St. Louis Stars SC at Kansas City Athletics
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057232-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U13 St. Louis Stars SC at Union KC Soccer Club
+DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1177
+ 35
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057240-117735@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T090000
+DURATION:PT2H
+SUMMARY:U13 St. Louis Stars SC vs Missouri Rush
+LOCATION:Sport 360 Soccer Zone - Field 1
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=117735
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
+ &show=117735
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Inter U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071367-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T080000
+DURATION:PT2H
+SUMMARY:U15 Chicago Inter at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Boys · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071379-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U15 Chicago Inter at St Croix
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071391-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Chicago Inter vs FC Wisconsin
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071399-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 Chicago Inter vs Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071431-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Chicago Inter vs St Croix
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071447-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 Chicago Inter vs MN Thunder Academy
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071455-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U15 Chicago Inter vs Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071463-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 Chicago Inter vs Rockford Raptors FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071483-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Chicago Inter vs Indiana Elite FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071495-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Chicago Inter at Chicago Magic Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071507-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 Chicago Inter at FC Wisconsin
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071539-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T100000
+DURATION:PT2H
+SUMMARY:U15 Chicago Inter at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Boys · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071551-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 Chicago Inter at Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071567-128618@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 Chicago Inter at Indiana Elite FC
+DESCRIPTION:ECNL Boys · U15 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&show=128618
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=midwest&s
+ how=128618
+END:VEVENT
+END:VCALENDAR

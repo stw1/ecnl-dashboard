@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Potomac Soccer Association U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1079042-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 Potomac Soccer Association at Pipeline SC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079070-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Potomac Soccer Association at Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079122-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Potomac Soccer Association vs Match Fit Surf
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079142-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Potomac Soccer Association at World Class FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079150-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Potomac Soccer Association at PSA Monmouth
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079166-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Potomac Soccer Association vs Baltimore Celtic
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079178-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Potomac Soccer Association vs STA
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079022-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Potomac Soccer Association at Maryland United FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079218-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Potomac Soccer Association vs Delaware FC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079234-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U17 Potomac Soccer Association at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1079242-134269@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U17 Potomac Soccer Association vs SJEBFC
+DESCRIPTION:ECNL Boys · U17 North Atlantic · kickoff time not set yet\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atlantic
+ &show=134269
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=north-atl
+ antic&show=134269
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OK Energy FC U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1057270-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Arkansas Comets FC (L 3–5)
+LOCATION:North Oklahoma City FC - NOKC Red 5
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057282-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at Gretna Elite Academy (L 0–2)
+LOCATION:Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057298-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at Sporting Nebraska FC (L 1–2)
+LOCATION:CHI Nebraska MultiSport Complex - Field 12
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057310-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at Arkansas Comets FC
+LOCATION:Brunner & Lay Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057326-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T150000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at VSA Rush
+LOCATION:VSA Timberline Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057330-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T080000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at Sporting Iowa Central
+LOCATION:Hy-Vee Multiplex - Green #2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057346-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T090000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Sporting Nebraska FC
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057354-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Gretna Elite Academy
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057358-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Sporting Iowa Central
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 1
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057370-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs VSA Rush
+LOCATION:Brunner & Lay Soccer Complex - B&L Field 1
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057414-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at St. Louis Stars SC
+LOCATION:Sport 360 Soccer Zone - Field 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057442-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC at Missouri Rush
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057454-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Kansas Rush
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057470-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261220T090000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs FC Wichita
+LOCATION:North Oklahoma City FC - NOKC Red 2
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057494-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270206T110000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Union KC Soccer Club
+LOCATION:North Oklahoma City FC - NOKC Red 4
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1057502-69198@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270207T090000
+DURATION:PT2H
+SUMMARY:U17 OK Energy FC vs Kansas City Athletics
+LOCATION:Edmond Soccer Club - ESC 5
+DESCRIPTION:ECNL Boys · U17 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=heartland&show=69198
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=heartland
+ &show=69198
+END:VEVENT
+END:VCALENDAR

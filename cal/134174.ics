@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NTH NASA U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1065009-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T150000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at United Futbol Academy (W 1–0)
+LOCATION:Fowler Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065027-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at GSA (W 2–1)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140631-n-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T113000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs AC Florida West (national event) (W 2–0)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140634-n-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T131500
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at Colorado Storm (national event) (D 0–0)
+LOCATION:Georgia Sports Park - Field #01
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140637-n-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T093000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs FC Westlake (national event) (W 5–0)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U13 Southeast · ECNL Atlanta\nhttps://stw1.github
+ .io/ecnl-dashboard/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065165-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs Concorde Fire Premier
+LOCATION:Franklin Gateway Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065183-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs Concorde Fire Platinum
+LOCATION:Franklin Gateway Sports Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065129-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T150000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs Atlanta Fire United
+LOCATION:Lake Point Sporting Community - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065045-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs CESA Triumph
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065061-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T130000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs South Carolina United
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1064973-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at Atlanta Fire United
+LOCATION:Pinecrest Academy - Turf
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065255-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T150000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065261-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at CESA Triumph
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065353-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at South Carolina Surf
+LOCATION:Shea Family Fields - Field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065361-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs United Futbol Academy
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065369-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs GSA
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065387-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T100000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at Concorde Fire Premier
+LOCATION:Georgia Sports Park - field 2
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065393-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA vs South Carolina Surf
+LOCATION:Metro North Park - Field 3
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1065401-134174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U13 NTH NASA at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 1
+DESCRIPTION:ECNL Boys · U13 Southeast\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=southeast&show=134174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=southeast
+ &show=134174
+END:VEVENT
+END:VCALENDAR

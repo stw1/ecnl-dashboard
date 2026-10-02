@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boise Timbers U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1075517-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T130000
+DURATION:PT2H
+SUMMARY:U17 Boise Timbers at Oregon Premier FC
+LOCATION:TBA - Field
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075396-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U17 Boise Timbers at Capital FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075554-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U17 Boise Timbers at United PDX
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075466-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T170000
+DURATION:PT2H
+SUMMARY:U17 Boise Timbers at FC Portland
+LOCATION:Liberty High School - Clive Charles Field
+DESCRIPTION:ECNL Boys · U17 Far West\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075347-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U17 Boise Timbers vs FC Portland
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075348-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U17 Boise Timbers vs United PDX
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075349-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U17 Boise Timbers vs Capital FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075350-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U17 Boise Timbers vs Eugene Metro FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075351-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U17 Boise Timbers vs Idaho Rush
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075420-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U17 Boise Timbers at Eugene Metro FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075485-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Boise Timbers at Idaho Rush
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1075352-82123@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Boise Timbers vs Oregon Premier FC
+DESCRIPTION:ECNL Boys · U17 Far West · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&show=82123
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=far-west&
+ show=82123
+END:VEVENT
+END:VCALENDAR

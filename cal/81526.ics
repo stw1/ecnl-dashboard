@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Premier U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058647-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs Avalanche
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058669-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs La Roca FC
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058700-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U16 Washington Premier at XF
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058718-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs Seattle United
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058743-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U16 Washington Premier vs Portland Thorns
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058770-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs Boise Thorns
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058798-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U16 Washington Premier at PacNW SC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058812-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T110000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058831-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs Oregon Surf
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058850-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs XF
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058872-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Washington Premier at Boise Thorns
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058942-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs PacNW SC
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059021-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Washington Premier at Portland Thorns
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059044-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 Washington Premier at Oregon Surf
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=815
+ 26
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059078-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T100000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier vs Eastside FC
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059133-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T111500
+DURATION:PT2H
+SUMMARY:U16 Washington Premier at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059160-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T133000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier at Avalanche
+LOCATION:St. Joseph Catholic High School - Turf Field
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059188-81526@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T100000
+DURATION:PT2H
+SUMMARY:U16 Washington Premier at Seattle United
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=81526
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=81526
+END:VEVENT
+END:VCALENDAR

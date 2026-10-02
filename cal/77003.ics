@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Juan SC U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094393-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T133000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at Placer United (D 0–0)
+LOCATION:Placer Valley Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094435-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at Pleasanton RAGE (L 2–3)
+LOCATION:Val Vista - Field 2
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094471-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Stanislaus Surf - (W 3–1)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094507-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Santa Rosa United (W 2–0)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094531-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Bay Area Surf - (D 0–0)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094579-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Force (CA) (L 1–3)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094585-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T140000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at COSC (L 1–2)
+LOCATION:Edison High School Fields - field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094639-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs MVLA (L 2–4)
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094681-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261003
+SUMMARY:U16 San Juan SC at Mustang SC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095077-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Mustang SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094717-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Marin FC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094735-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094789-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC vs Placer United
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094825-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at Santa Rosa United
+LOCATION:Trione Fields - Trione West
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094837-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U16 San Juan SC at Bay Area Surf -
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094909-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T125000
+DURATION:PT2H
+SUMMARY:U16 San Juan SC at Stanislaus Surf -
+LOCATION:Thomas Downey High School - Field 1
+DESCRIPTION:ECNL Girls · U16 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=northern-cal&show=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094933-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U16 San Juan SC vs Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094951-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 San Juan SC at Force (CA)
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095011-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 San Juan SC at MVLA
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095041-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 San Juan SC vs COSC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095107-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 San Juan SC at Marin FC
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095155-77003@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U16 San Juan SC vs Davis Legacy
+DESCRIPTION:ECNL Girls · U16 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-cal&sh
+ ow=77003
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northern-
+ cal&show=77003
+END:VEVENT
+END:VCALENDAR

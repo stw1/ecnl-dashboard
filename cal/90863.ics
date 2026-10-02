@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastside FC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1141549-n-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T152000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC at LA Breakers FC (national event)
+LOCATION:Surf Sports Park - Field #14
+DESCRIPTION:ECNL Girls · U13 Northwest · ECNL Girls San Diego\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058629-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U13 Eastside FC at PacNW SC
+DESCRIPTION:ECNL Girls · U13 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=908
+ 63
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058707-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T110000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Portland Thorns
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058725-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T110000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs La Roca FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058755-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Avalanche
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058791-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Boise Thorns
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058803-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Washington Premier
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058823-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U13 Eastside FC at XF
+DESCRIPTION:ECNL Girls · U13 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=908
+ 63
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058840-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T110000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Oregon Surf
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058887-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U13 Eastside FC at Boise Thorns
+DESCRIPTION:ECNL Girls · U13 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=908
+ 63
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058924-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Eastside FC at Portland Thorns
+DESCRIPTION:ECNL Girls · U13 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=908
+ 63
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058954-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Eastside FC at Oregon Surf
+DESCRIPTION:ECNL Girls · U13 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest&show=908
+ 63
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058972-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs XF
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058995-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs Seattle United
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059010-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC at Avalanche
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059031-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059060-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T140000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059172-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC vs PacNW SC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 3
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059202-90863@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T073000
+DURATION:PT2H
+SUMMARY:U13 Eastside FC at Seattle United
+LOCATION:Field 2
+DESCRIPTION:ECNL Girls · U13 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=northwest&show=90863
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northwest
+ &show=90863
+END:VEVENT
+END:VCALENDAR

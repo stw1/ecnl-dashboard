@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lonestar ATX Red U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1106664-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at Colorado Storm (D 2–2)
+LOCATION:David A. Lorenz Regional Park - South Turf
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106736-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T111500
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at Real Colorado Academy (L 0–2)
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106778-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T150000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs Sting (L 0–3)
+LOCATION:Glenn High School - Field 3
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106814-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T140000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs DKSC (L 0–1)
+LOCATION:Glenn High School - Stadium Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106922-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs Tulsa SC (W 2–1)
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106964-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs OK Energy FC Academy (W 3–1)
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107006-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at San Antonio City SC
+LOCATION:Specht Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107048-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at SAFC
+LOCATION:STAR Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107084-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs FC Dallas Youth White
+LOCATION:Bible Stadium - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107126-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs FC Dallas Youth Red
+LOCATION:Burger Activity Center - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106874-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261015T193000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs Lonestar ATX Royal
+LOCATION:Round Rock MultiPurpose Complex - Field 8
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107300-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U17 Lonestar ATX Red at Solar SC Academy
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107336-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:U17 Lonestar ATX Red at SOLAR SC
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107354-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T100000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at Dallas Texans
+LOCATION:Beacon Park - field 5
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107384-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red at Dallas Texans Academy
+LOCATION:Beacon Park - field 7
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107648-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T150000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs HTX
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107678-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U17 Lonestar ATX Red at FC Westlake
+DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
+ 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107714-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T150000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs Albion Hurricanes FC
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107768-133277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T130000
+DURATION:PT2H
+SUMMARY:U17 Lonestar ATX Red vs RISE SC
+LOCATION:Round Rock MultiPurpose Complex - Field 9
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=133277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=133277
+END:VEVENT
+END:VCALENDAR

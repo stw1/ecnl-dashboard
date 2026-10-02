@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Connecticut FC United U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122365-n-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T133000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs AC Connecticut (national event) (L 0
+ –5)
+LOCATION:Morningside Farm - Field #14
+DESCRIPTION:ECNL Boys · U13 New England · ECNL Boys New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=1146
+ 50
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122372-n-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T152000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs FC Europa RL (national event) (L 0–2
+ )
+LOCATION:Morningside Farm - Field #16
+DESCRIPTION:ECNL Boys · U13 New England · ECNL Boys New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=1146
+ 50
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122374-n-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T123000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at Oakwood Soccer Club (national event) (
+ L 1–2)
+LOCATION:Morningside Farm - Field 15
+DESCRIPTION:ECNL Boys · U13 New England · ECNL Boys New Jersey\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=1146
+ 50
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117795-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T131500
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at SUSA FC ACADEMY (L 1–2)
+LOCATION:The SUSA Orlin & Cohen Sports Complex - field 4
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117802-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T120000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at Select (L 0–6)
+LOCATION:Union Point Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117808-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T103000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs Scorpions SC (L 1–4)
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117821-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T103000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs FSA FC
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117849-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T121500
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - North Turf
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117855-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:U13 Connecticut FC United at SUSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117858-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs AC Connecticut
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117868-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T103000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs Oakwood Soccer Club
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117876-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs Manhattan SC
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117880-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs East Coast Surf SC
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117885-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United vs FC Stars
+LOCATION:CFC Park - Field 2
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117925-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T100000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117938-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U13 Connecticut FC United at Manhattan SC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117948-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U13 Connecticut FC United at East Coast Surf SC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117960-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 Connecticut FC United vs SUSA FC ACADEMY
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117972-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U13 Connecticut FC United vs Select
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117985-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Connecticut FC United vs SUSA FC
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1117996-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U13 Connecticut FC United vs East Meadow Soccer Club
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118004-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at Oakwood Soccer Club
+LOCATION:Oakwood Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118019-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Connecticut FC United at FC Stars
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118032-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T104500
+DURATION:PT2H
+SUMMARY:U13 Connecticut FC United at Scorpions SC
+LOCATION:Taunton Forekicks - Field 14
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1118054-114650@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U13 Connecticut FC United at AC Connecticut
+DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
+ 114650
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
+ nd&show=114650
+END:VEVENT
+END:VCALENDAR

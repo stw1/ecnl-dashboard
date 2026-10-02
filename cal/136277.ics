@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Magic Soccer Club U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1139014-n-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club vs St. Louis Stars SC (national event
+ ) (W 2–0)
+LOCATION:Creve Coeur Park - Field #08
+DESCRIPTION:ECNL Boys · U14 Midwest · ECNL Boys St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139016-n-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T113000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at FC Wichita (national event) (L 1
+ –3)
+LOCATION:Creve Coeur Park - Field #04
+DESCRIPTION:ECNL Boys · U14 Midwest · ECNL Boys St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1139018-n-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at St Croix (national event) (W 5–3
+ )
+LOCATION:Creve Coeur Park - Field #11
+DESCRIPTION:ECNL Boys · U14 Midwest · ECNL Boys St. Louis\nhttps://stw1.g
+ ithub.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071198-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T133000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club vs Eclipse Select Soccer Club (L 0–
+ 1)
+LOCATION:Techny Prairie Park and Fields - Field 1
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071214-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T100000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at Eclipse Select Soccer Club
+LOCATION:Oak Brook Park District - Turf
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071220-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071206-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T133000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club vs Rockford Raptors FC
+LOCATION:Wheeling High School - Stadium
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071230-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T103000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club vs Chicago Inter
+LOCATION:Wheeling High School - Stadium
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071234-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T103000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club vs Indiana Elite FC
+LOCATION:Wheeling High School - Stadium
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071192-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T150000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at FC Wisconsin
+LOCATION:FC Wisconsin Soccer Park - Val Olla #01
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071254-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T094500
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071280-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T111500
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at St Croix
+LOCATION:St. Croix Valley Recreation Center - Field 1
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071260-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T123000
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at St Croix
+LOCATION:St. Croix Valley Recreation Center - Field 1
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071286-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T094500
+DURATION:PT2H
+SUMMARY:U14 Chicago Magic Soccer Club at MN Thunder Academy
+LOCATION:Winter Park - Fieldhouse
+DESCRIPTION:ECNL Boys · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071264-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U14 Chicago Magic Soccer Club vs Indiana Elite FC
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071268-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U14 Chicago Magic Soccer Club vs Chicago Inter
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071292-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Chicago Magic Soccer Club vs FC Wisconsin
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071304-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Chicago Magic Soccer Club at Chicago Inter
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071314-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Chicago Magic Soccer Club at Indiana Elite FC
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071320-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Chicago Magic Soccer Club vs MN Thunder Academy
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071328-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U14 Chicago Magic Soccer Club vs St Croix
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071336-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 Chicago Magic Soccer Club vs Eclipse Select Soccer Club
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071340-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U14 Chicago Magic Soccer Club vs Rockford Raptors FC
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071344-136277@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U14 Chicago Magic Soccer Club at FC Wisconsin
+DESCRIPTION:ECNL Boys · U14 Midwest · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&show=136277
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=midwest&s
+ how=136277
+END:VEVENT
+END:VCALENDAR

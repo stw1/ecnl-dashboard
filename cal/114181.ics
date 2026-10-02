@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1974 Newark FC U13 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1099252-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T140000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC vs San Francisco Elite Academy (L 1–2)
+LOCATION:Newark Sportsfield Park - SFT #1 11v11
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099348-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC vs Santa Rosa United (W 8–1)
+LOCATION:Newark Sportsfield Park - SFT #1 11v11
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099426-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at San Juan SC (D 2–2)
+LOCATION:Davis Legacy Soccer Complex - Pod B - Field 5
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099480-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:U13 1974 Newark FC at River Islands Surf (D 2–2)
+DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
+ w=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099486-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T120000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at Placer United
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1144184-n-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T131500
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at SDSC Surf (national event)
+LOCATION:Surf Sports Park - Field #07
+DESCRIPTION:ECNL Boys · U13 Northern Cal · ECNL Boys San Diego\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&show=114
+ 181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099534-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC vs Napa United
+LOCATION:Newark Sportsfield Park - SFT #1 11v11
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099594-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC vs Mustang Soccer
+LOCATION:Newark Sportsfield Park - SFT #1 11v11
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099648-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at Marin FC
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099708-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at Los Gatos United Soccer Club
+LOCATION:Monta Vista High School - Lower Field
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099726-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC vs Folsom Lake Surf
+LOCATION:Newark Sportsfield Park - SFT #1 11v11
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099774-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at Santa Clara Sporting
+LOCATION:Santa Clara Youth Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099792-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 1974 Newark FC at El Camino FC Salinas
+DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
+ w=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099840-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T100000
+DURATION:PT2H
+SUMMARY:U13 1974 Newark FC at Davis Legacy
+LOCATION:Davis Legacy Soccer Complex - Field 9
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099882-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 1974 Newark FC vs COSC
+DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
+ w=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1099924-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U13 1974 Newark FC vs Association FC
+DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
+ w=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1100020-114181@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 1974 Newark FC vs MVLA
+DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
+ w=114181
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
+ cal&show=114181
+END:VEVENT
+END:VCALENDAR

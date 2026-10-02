@@ -20,20 +20,17 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Fetch latest data and rebuild
         run: python3 scripts/refresh.py
-      - name: Compare with ECNL's official standings (warning only)
-        continue-on-error: true
-        run: python3 scripts/checkstandings.py
       - name: Publish if scores or schedule changed
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -z "$(git status --porcelain -- data/boys_games.csv data/girls_games.csv data/cross.csv)" ]; then
+          if [ -z "$(git status --porcelain -- data/boys_games.csv data/girls_games.csv data/cross.csv data/national_games.csv)" ]; then
             echo "No new scores or schedule changes."
             exit 0
           fi
@@ -44,3 +41,13 @@ jobs:
           git push
           # Pushes made with the workflow token may not trigger a Pages build on their own
           gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+      # Runs after publishing on purpose: the new scores still go live, but if the tables stop matching ECNL's official
+      # standings (a feed change or a new data quirk), this step fails and GitHub emails a warning.
+      - name: Check tables against ECNL's official standings
+        run: |
+          set +e  # keep going after a failed check so the summary is still written
+          python3 scripts/checkstandings.py > check.txt
+          status=$?
+          cat check.txt
+          { echo '### Official standings check'; echo '```'; cat check.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          exit $status

@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fort Lauderdale United FC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068311-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Sporting SA JAX (W 2–1)
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068335-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T120000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Space Coast United (W 3–0)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068365-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Doral Soccer Club (W 2–0)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068377-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T170000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Parkland Soccer Club (W 2–1)
+LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068419-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Space Coast United (W 4–2)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068431-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Florida Kraze Krush (L 0–2)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140150-n-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T100000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Wilmington Hammerheads FC (nationa
+ l event)
+LOCATION:nCino Sports Park - Field #09
+DESCRIPTION:ECNL Boys · U14 Florida · ECNL Boys North Carolina - Fall\nht
+ tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=1
+ 33912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068557-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T140000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at AC Florida West
+LOCATION:North Collier Regional Park - Field 3
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068587-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Palm Beach United
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068605-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Athletic Club Florida
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068629-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Florida Premier FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068659-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Florida Premier FC South
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068395-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T100000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Sporting SA JAX
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068767-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T110000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs AC Florida West
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068785-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T120000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068803-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 4
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068815-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U14 Fort Lauderdale United FC at Palm Beach United
+DESCRIPTION:ECNL Boys · U14 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068833-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T120000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068893-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068917-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC vs Parkland Soccer Club
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068941-133912@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U14 Fort Lauderdale United FC at Florida Kraze Krush
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133912
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133912
+END:VEVENT
+END:VCALENDAR

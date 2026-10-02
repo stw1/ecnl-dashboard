@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cleveland Force SC U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1132859-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T100000
+DURATION:PT2H
+SUMMARY:U15 Cleveland Force SC at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132895-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U15 Cleveland Force SC at Tennessee SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132904-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U15 Cleveland Force SC at FC Alliance TN
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132958-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Cleveland Force SC vs WNY Flash
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132970-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 Cleveland Force SC vs Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132985-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U15 Cleveland Force SC at GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133000-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 Cleveland Force SC vs Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133012-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Cleveland Force SC vs Racing Louisville Academy
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133027-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Cleveland Force SC vs Ohio Elite SA
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133039-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Cleveland Force SC at Indy Eleven
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133057-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 Cleveland Force SC at FC Pride Elite
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133075-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Cleveland Force SC vs Internationals SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133102-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 Cleveland Force SC at Pittsburgh Riverhounds
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133111-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U15 Cleveland Force SC at WNY Flash
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133123-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 Cleveland Force SC vs GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133135-60141@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U15 Cleveland Force SC at Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =60141
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=60141
+END:VEVENT
+END:VCALENDAR

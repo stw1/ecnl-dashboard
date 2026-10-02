@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NC Fusion U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1121224-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T120000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion at NCFC Youth (L 0–5)
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121240-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion at VDA (L 0–3)
+LOCATION:Howison Park - Field 3
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121252-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion at Richmond United (L 0–4)
+LOCATION:Striker Park - Field 4
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121312-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U15 NC Fusion vs Beach FC (VA)
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlantic&sh
+ ow=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121328-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion vs Arlington Soccer Association
+LOCATION:Truist Soccer Complex at Bryan Park - BP 02 Triton Management
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121352-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion at South Carolina Surf
+LOCATION:Shea Family Fields - Field 3
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121364-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U15 NC Fusion at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=mid-atlantic&show=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121376-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U15 NC Fusion vs NCFC Youth NC Courage
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlantic&sh
+ ow=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121400-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U15 NC Fusion vs Fairfax Virginia Union
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlantic&sh
+ ow=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121412-82112@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U15 NC Fusion vs Charlotte SA
+DESCRIPTION:ECNL Girls · U15 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlantic&sh
+ ow=82112
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=mid-atlan
+ tic&show=82112
+END:VEVENT
+END:VCALENDAR

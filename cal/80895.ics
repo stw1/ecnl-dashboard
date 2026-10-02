@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCFC Youth U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1121225-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth vs NC Fusion (L 0–2)
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121233-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T150000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth at Beach FC (VA) (D 1–1)
+LOCATION:Hampton Roads Soccer Complex - Field 14
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121245-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth at Richmond United (L 0–6)
+LOCATION:Striker Park - Field 3
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121249-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T101500
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth at Fairfax Virginia Union (D 0–0)
+LOCATION:WT Woodson High School - Stadium Field
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121301-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth at NCFC Youth NC Courage
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121373-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T140000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 4
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121393-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T120000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth vs Arlington Soccer Association
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121421-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270117T110000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth vs VDA
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121429-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T140000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth vs Wilmington Hammerheads
+LOCATION:WRAL - Field 4
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1121433-80895@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270124T130000
+DURATION:PT2H
+SUMMARY:U16 NCFC Youth vs South Carolina Surf
+LOCATION:WRAL - Field 3
+DESCRIPTION:ECNL Girls · U16 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U16&conf=mid-atlantic&show=80895
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=mid-atlan
+ tic&show=80895
+END:VEVENT
+END:VCALENDAR

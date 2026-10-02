@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chattanooga Red Wolves SC U14 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1056583-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Alabama FC (D 1–1)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056595-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Coastal Rush (L 1–2)
+LOCATION:Ashton Brosnaham - Field 5
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056603-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs FC Alliance TN (L 1–3)
+LOCATION:CSLA - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140667-n-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T094500
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs FC Westlake (national event) (L 3
+ –5)
+LOCATION:Georgia Sports Park - Field #04
+DESCRIPTION:ECNL Boys · U14 Mid-America · ECNL Atlanta\nhttps://stw1.gith
+ ub.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140674-n-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T094500
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Atlanta Fire United (national even
+ t) (D 0–0)
+LOCATION:Georgia Sports Park - Field #02
+DESCRIPTION:ECNL Boys · U14 Mid-America · ECNL Atlanta\nhttps://stw1.gith
+ ub.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140677-n-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T080000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs AC Florida West (national event) (
+ W 3–1)
+LOCATION:Georgia Sports Park - Field #03
+DESCRIPTION:ECNL Boys · U14 Mid-America · ECNL Atlanta\nhttps://stw1.gith
+ ub.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056623-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Mississippi Rush United (L 1–4)
+LOCATION:Freedom Ridge Park - Green
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056631-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Louisiana Fire SC (L 0–5)
+LOCATION:Bayou Nation - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056637-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs Tennessee United SC (L 2–6)
+LOCATION:Camp Jordan Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056641-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs Tennessee SC (L 0–5)
+LOCATION:Camp Jordan Sports Complex - Field 2
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056647-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at FC Alliance TN
+LOCATION:Mayor Bob Leonard Park - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056671-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Lobos Rush
+LOCATION:Mike Rose Soccer Complex - Field 11
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056677-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T104500
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Germantown Legends
+LOCATION:Mike Rose Soccer Complex - Field 14
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056683-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U14 Chattanooga Red Wolves SC vs Mississippi Rush United
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056693-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T101500
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs Louisiana Fire SC
+LOCATION:Soddy Daisy High School - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056699-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Tennessee SC
+LOCATION:Richard Siegel Soccer Complex - Field 6
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056703-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T150000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Tennessee United SC
+LOCATION:Drakes Creek Park (DCP) - Field 4
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056721-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T120000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs Lobos Rush
+LOCATION:CSLA - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056729-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261115T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC vs Germantown Legends
+LOCATION:CSLA - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056745-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:U14 Chattanooga Red Wolves SC vs Alabama FC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056751-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:U14 Chattanooga Red Wolves SC vs Coastal Rush
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056755-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:U14 Chattanooga Red Wolves SC at FC Alliance TN
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056789-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T130000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Alabama FC
+LOCATION:Dunnavant Valley Fields (DVF) - Field #1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056795-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T110000
+DURATION:PT2H
+SUMMARY:U14 Chattanooga Red Wolves SC at Coastal Rush
+LOCATION:Mobile County Sports Complex - Field 1
+DESCRIPTION:ECNL Boys · U14 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U14&conf=mid-america&show=135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056799-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Chattanooga Red Wolves SC vs Mississippi Rush United
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056807-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 Chattanooga Red Wolves SC vs Louisiana Fire SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056813-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Chattanooga Red Wolves SC at Tennessee SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056821-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U14 Chattanooga Red Wolves SC at Tennessee United SC
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056829-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U14 Chattanooga Red Wolves SC vs Germantown Legends
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1056837-135572@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Chattanooga Red Wolves SC vs Lobos Rush
+DESCRIPTION:ECNL Boys · U14 Mid-America · kickoff time not set yet\nhttps
+ ://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-america&show=
+ 135572
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=mid-ameri
+ ca&show=135572
+END:VEVENT
+END:VCALENDAR

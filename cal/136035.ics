@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eclipse Select Soccer Club U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1083695-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T090000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Kansas City Athletics (W 3–2)
+LOCATION:KC Current Training Facility - Field 9
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083709-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T130000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Sporting Blue Valley (W 5–0)
+LOCATION:Pinnacle National Development Center - West
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136933-n-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260911T080000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at FC Dallas Youth (national event) 
+ (W 4–3)
+LOCATION:SLYSA Complex - Field #03
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136936-n-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T113000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Tennessee SC (national event) (W 
+ 1–0)
+LOCATION:SLYSA Complex - Field #10
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1136938-n-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T110000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club vs Nationals SC (national event) (D 
+ 1–1)
+LOCATION:SLYSA Complex - Field #15
+DESCRIPTION:ECNL Girls · U13 Midwest · ECNL Girls St. Louis\nhttps://stw1
+ .github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083715-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T104500
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Chicago Inter (W 5–1)
+LOCATION:Chicago Inter Complex - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083729-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:U13 Eclipse Select Soccer Club vs Rockford Raptors FC (W 1–0)
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083759-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261010
+SUMMARY:U13 Eclipse Select Soccer Club vs FC Wisconsin
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083771-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T133000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club vs Michigan Hawks
+LOCATION:Lewis University - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083785-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club vs Michigan Hawks Magic
+LOCATION:Lewis University - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083797-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T140000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Gretna Elite Academy
+LOCATION:HyVee Multiplex - White 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083805-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T080000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Sporting Iowa
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083813-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T130000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Liverpool FC MI
+LOCATION:Avondale High School - Stadium
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083827-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Missouri Rush
+LOCATION:Missouri Rush Sports Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083835-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T094500
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at St. Louis Scott Gallagher Green
+LOCATION:WWT Soccer Park - Field 3
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083845-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:U13 Eclipse Select Soccer Club vs MN Thunder Academy
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083883-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U13 Eclipse Select Soccer Club vs Nationals SC
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083905-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Eclipse Select Soccer Club at Nationals SC
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083919-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U13 Eclipse Select Soccer Club vs Chicago Inter
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083963-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Eclipse Select Soccer Club vs Liverpool FC MI
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083983-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T120000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Michigan Hawks
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083991-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T120000
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at Michigan Hawks Magic
+LOCATION:Jaycee Park - Jaycee Turf
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1083995-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U13 Eclipse Select Soccer Club at Rockford Raptors FC
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084013-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Eclipse Select Soccer Club at FC Wisconsin
+DESCRIPTION:ECNL Girls · U13 Midwest · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1084021-136035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T104500
+DURATION:PT2H
+SUMMARY:U13 Eclipse Select Soccer Club at St. Louis Scott Gallagher Navy
+LOCATION:WWT Soccer Park - Field 2
+DESCRIPTION:ECNL Girls · U13 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U13&conf=midwest&show=136035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=midwest&s
+ how=136035
+END:VEVENT
+END:VCALENDAR

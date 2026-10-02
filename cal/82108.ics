@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boise Thorns U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058648-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U16 Boise Thorns at XF
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058670-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U16 Boise Thorns at XF
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058683-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U16 Boise Thorns at Oregon Surf
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058699-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U16 Boise Thorns at Portland Thorns
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058742-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T093000
+DURATION:PT2H
+SUMMARY:U16 Boise Thorns at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=82108
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058770-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T090000
+DURATION:PT2H
+SUMMARY:U16 Boise Thorns at Washington Premier
+LOCATION:WPFC Field Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=82108
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058797-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U16 Boise Thorns at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 1
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=82108
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058813-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270221
+SUMMARY:U16 Boise Thorns at PacNW SC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058848-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U16 Boise Thorns vs Portland Thorns
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058872-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U16 Boise Thorns vs Washington Premier
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058905-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U16 Boise Thorns vs Eastside FC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058941-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U16 Boise Thorns at Avalanche
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058962-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T100000
+DURATION:PT2H
+SUMMARY:U16 Boise Thorns at La Roca FC
+LOCATION:La Roca Park - Field 1
+DESCRIPTION:ECNL Girls · U16 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=northwest&show=82108
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058983-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Boise Thorns vs Oregon Surf
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059073-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U16 Boise Thorns vs PacNW SC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059106-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Boise Thorns vs Seattle United
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059184-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Boise Thorns vs La Roca FC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059185-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Boise Thorns vs Avalanche
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059211-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U16 Boise Thorns vs La Roca FC
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059212-82108@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U16 Boise Thorns vs Avalanche
+DESCRIPTION:ECNL Girls · U16 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest&show=821
+ 08
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=northwest
+ &show=82108
+END:VEVENT
+END:VCALENDAR

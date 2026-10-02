@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colorado Storm U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073405-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Real Colorado Athletico (W 2–0)
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073417-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T121500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Lonestar ATX Red (D 1–1)
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073441-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T133000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs FC Westlake (D 1–1)
+LOCATION:Stargate Charter School - Field 2
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073615-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at FC Dallas Youth (L 0–6)
+LOCATION:Toyota Soccer Center - Field 17
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073639-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Sting Royal (L 0–1)
+LOCATION:Sting National Training Center - Field 3
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073507-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T121500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Albion Hurricanes FC (W 2–0)
+LOCATION:Regis University - Middle Turf
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073555-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Challenge SC (D 0–0)
+LOCATION:Dick's Sporting Goods Park - DSGP - 8
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073591-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Dallas Texans
+LOCATION:Beacon Park - field 5
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073603-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at SOLAR SC
+LOCATION:Carroll Senior High School - Field 1
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073669-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T100000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Sting Black
+LOCATION:Regis University - West Turf
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073705-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs DKSC
+LOCATION:Centennial Stadium Field Complex - Field 2
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073807-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at Real Colorado National
+LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073951-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T110000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at West Side Alliance
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073963-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270131T130000
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 4
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073999-72334@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T111500
+DURATION:PT2H
+SUMMARY:U16 Colorado Storm vs Colorado Rush
+LOCATION:Regis University - Middle Turf
+DESCRIPTION:ECNL Girls · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U16&conf=texas&show=72334
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=texas&sho
+ w=72334
+END:VEVENT
+END:VCALENDAR

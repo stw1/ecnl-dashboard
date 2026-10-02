@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Placer United U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1094396-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T153000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs San Juan SC (D 2–2)
+LOCATION:Placer Valley Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094432-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T140000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Santa Rosa United (W 4–0)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094456-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U13 Placer United at Force (CA) (W 1–0)
+LOCATION:De Anza College - Stadium Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094486-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T100000
+DURATION:PT2H
+SUMMARY:U13 Placer United at Davis Legacy (L 0–1)
+LOCATION:Davis Legacy Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094546-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T175500
+DURATION:PT2H
+SUMMARY:U13 Placer United at Stanislaus Surf - (W 1–0)
+LOCATION:Modesto Junior College - MJC West
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094570-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T100000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Mustang SC (L 0–1)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094618-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T120000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Pleasanton RAGE (W 5–0)
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094624-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T105500
+DURATION:PT2H
+SUMMARY:U13 Placer United at Bay Area Surf -
+LOCATION:Ohlone College - Soccer Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094660-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U13 Placer United at COSC
+LOCATION:Edison High School Fields - field 2
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1141551-n-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T152000
+DURATION:PT2H
+SUMMARY:U13 Placer United at Portland Thorns (national event)
+LOCATION:Surf Sports Park - Field #16
+DESCRIPTION:ECNL Girls · U13 Northern Cal · ECNL Girls San Diego\nhttps:/
+ /stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&show=1
+ 06267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094708-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T120000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs MVLA
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094750-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T130000
+DURATION:PT2H
+SUMMARY:U13 Placer United at Marin FC
+LOCATION:College of Marin - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094792-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U13 Placer United at San Juan SC
+LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094822-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Davis Legacy
+LOCATION:Whitney High School - Stadium
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094864-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T140000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Stanislaus Surf -
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094894-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Force (CA)
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094942-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U13 Placer United at Santa Rosa United
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1094966-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Placer United at Mustang SC
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095020-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs Bay Area Surf -
+LOCATION:Placer Valley Soccer Complex - Field 5
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095038-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U13 Placer United at Pleasanton RAGE
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095068-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T120000
+DURATION:PT2H
+SUMMARY:U13 Placer United vs COSC
+LOCATION:Placer Valley Soccer Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=northern-cal&show=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095122-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U13 Placer United at MVLA
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1095146-106267@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 Placer United vs Marin FC
+DESCRIPTION:ECNL Girls · U13 Northern Cal · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-cal&sh
+ ow=106267
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=northern-
+ cal&show=106267
+END:VEVENT
+END:VCALENDAR

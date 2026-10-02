@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Athletic Club Florida U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068388-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at AC Florida West (W 6–0)
+LOCATION:North Collier Regional Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068406-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Doral Soccer Club (D 0–0)
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068472-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Sporting SA JAX
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068496-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T100000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068508-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Parkland Soccer Club
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068532-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T160000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068562-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T123000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068604-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T110000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Fort Lauderdale United FC
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068616-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Space Coast United
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068640-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Sporting SA JAX
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068370-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T100000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Palm Beach United
+LOCATION:North Community Park - South
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068682-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T120000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs AC Florida West
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068694-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T110000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Doral Soccer Club
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068754-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T170000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida at Florida Kraze Krush
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068772-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 Athletic Club Florida at Florida Kraze Krush
+DESCRIPTION:ECNL Boys · U15 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068724-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Parkland Soccer Club
+LOCATION:Mullins Park - Field 2 - Turf
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068832-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T100000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Fort Lauderdale United FC
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068856-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Florida Premier FC South
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068880-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T110000
+DURATION:PT2H
+SUMMARY:U15 Athletic Club Florida vs Florida Premier FC
+LOCATION:Mullins Park - Field 1 - Turf
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068898-59550@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Athletic Club Florida at Palm Beach United
+DESCRIPTION:ECNL Boys · U15 Florida · kickoff time not set yet\nhttps://s
+ tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&show=59550
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=59550
+END:VEVENT
+END:VCALENDAR

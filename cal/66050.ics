@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SOLAR SC U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073536-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs DKSC (W 2–0)
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073596-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs Real Colorado National
+LOCATION:Dragon Stadium - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073602-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs Colorado Storm
+LOCATION:Dragon Stadium - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073662-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T130000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs Dallas Texans
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073698-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs FC Westlake
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073740-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T150000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs Lonestar ATX Red
+LOCATION:OAK GROVE - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073818-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T111500
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC at Real Colorado Athletico
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073842-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U17 SOLAR SC at Colorado Rush
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073902-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T130000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC vs Sting Black
+LOCATION:Dragon Stadium - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073908-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T210000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 3
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073944-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T130000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC at West Side Alliance
+LOCATION:RiverCity Parks - Field 10
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074040-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 SOLAR SC at Sting Royal
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074058-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T110000
+DURATION:PT2H
+SUMMARY:U17 SOLAR SC at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074070-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 SOLAR SC at Albion Hurricanes FC
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074106-66050@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 SOLAR SC at FC Dallas Youth
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=66050
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=66050
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tennessee SC U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1133066-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T120000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC at Pittsburgh Riverhounds
+LOCATION:Montour Junction Sports Complex - Field 2
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133045-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC at WNY Flash
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132889-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T090000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC vs Racing Louisville Academy
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132883-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC vs Ohio Elite SA
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132874-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270130T120000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC vs FC Alliance TN
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133141-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T100000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC vs FC Pride Elite
+LOCATION:Bethesda Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132895-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U15 Tennessee SC vs Cleveland Force SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132901-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:U15 Tennessee SC vs Internationals SC
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132913-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T100000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132931-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 2
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132940-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 Tennessee SC vs GTFC Impact
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132952-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 Tennessee SC vs Ohio Premier
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1132994-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U15 Tennessee SC at Indy Eleven
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133009-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T143000
+DURATION:PT2H
+SUMMARY:U15 Tennessee SC at FC Pride Elite
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133090-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 Tennessee SC at FC Alliance TN
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1133129-133464@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 Tennessee SC vs Indy Eleven
+DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
+ =133464
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
+ ey&show=133464
+END:VEVENT
+END:VCALENDAR

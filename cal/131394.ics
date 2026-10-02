@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Charlotte SA Academy U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1109608-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T140000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy vs NCFC Youth Academy (D 1–1)
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109652-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy at NCFC Youth Academy
+LOCATION:WRAL - Field 6
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109664-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T140000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy vs VDA
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109688-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy vs Skyline Elite
+LOCATION:Orthocarolina Complex - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109736-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U18/19 Charlotte SA Academy at Charlotte SA
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109756-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T140000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy at Highland FC
+LOCATION:Buncombe County Sports Park - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109784-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270124
+SUMMARY:U18/19 Charlotte SA Academy vs Charlotte SA
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109804-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:U18/19 Charlotte SA Academy at NC Fusion
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109836-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270213
+SUMMARY:U18/19 Charlotte SA Academy vs Arlington Soccer Association
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109864-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:U18/19 Charlotte SA Academy vs Fairfax Virginia Union
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109896-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U18/19 Charlotte SA Academy vs Wilmington Hammerheads
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109908-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U18/19 Charlotte SA Academy vs NCFC Youth
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109924-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 Charlotte SA Academy vs NC Fusion
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109952-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T150000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy at Beach FC (VA)
+LOCATION:Hampton Roads Soccer Complex - Field 6
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109972-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T140000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy at Richmond United
+LOCATION:Striker Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1109980-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U18/19 Charlotte SA Academy vs Highland FC
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110004-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U18/19 Charlotte SA Academy at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=mid-atlantic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1110016-131394@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U18/19 Charlotte SA Academy at NCFC Youth
+DESCRIPTION:ECNL Boys · U18/19 Mid-Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-atlant
+ ic&show=131394
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=mid-at
+ lantic&show=131394
+END:VEVENT
+END:VCALENDAR

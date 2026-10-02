@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GSA U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069954-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T110000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Tampa Bay United (W 3–0)
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069982-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Florida Premier FC (D 0–0)
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070014-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T130000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Jacksonville FC (W 3–2)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070050-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T130000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Sporting SA JAX (D 2–2)
+LOCATION:Rabbit Hill Park - Field 1
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070098-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U16 GSA at Team Boca (W 1–0)
+LOCATION:SPANISH RIVER SPORTS COMPLEX - Field S2 #2
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070126-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U16 GSA at Athletic Club Florida (W 1–0)
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070142-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T130000
+DURATION:PT2H
+SUMMARY:U16 GSA at Seminole United
+LOCATION:Seminole - Field 5
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070170-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U16 GSA at Florida Kraze Krush
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070202-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Alabama FC
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070222-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Concorde Fire Premier
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070242-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U16 GSA at CESA Liberty
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070262-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T110000
+DURATION:PT2H
+SUMMARY:U16 GSA at South Carolina United
+LOCATION:Southeastern Freight Lines Complex - Field 3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070274-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T090000
+DURATION:PT2H
+SUMMARY:U16 GSA vs United Futbol Academy
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070294-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T090000
+DURATION:PT2H
+SUMMARY:U16 GSA vs Atlanta Fire United
+LOCATION:GSA East - #3
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070306-131498@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T120000
+DURATION:PT2H
+SUMMARY:U16 GSA at Concorde Fire Platinum
+LOCATION:Georgia Sports Park - field 4
+DESCRIPTION:ECNL Girls · U16 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southeast&show=131498
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southeast
+ &show=131498
+END:VEVENT
+END:VCALENDAR

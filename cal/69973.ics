@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SOLAR SC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073540-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T150000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs DKSC (D 1–1)
+LOCATION:OAK GROVE - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073600-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs Real Colorado National
+LOCATION:Carroll Senior High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073606-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T130000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs Colorado Storm
+LOCATION:Carroll Senior High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073666-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T150000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs Dallas Texans
+LOCATION:OAK GROVE - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073702-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs FC Westlake
+LOCATION:OAK GROVE - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073744-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs Lonestar ATX Red
+LOCATION:OAK GROVE - Field 2
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073822-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T111500
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC at Real Colorado Athletico
+LOCATION:Highland Heritage Regional Park - HHRP West
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073846-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:U13 SOLAR SC at Colorado Rush
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073906-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC vs Sting Black
+LOCATION:Carroll Senior High School - Field 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073912-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T090000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC at OK Energy FC
+LOCATION:North Oklahoma City FC - NOKC Red 4
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073948-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T090000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC at West Side Alliance
+LOCATION:RiverCity Parks - Field 9
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074044-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 SOLAR SC at Sting Royal
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074062-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T130000
+DURATION:PT2H
+SUMMARY:U13 SOLAR SC at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074074-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U13 SOLAR SC at Albion Hurricanes FC
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074110-69973@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U13 SOLAR SC at FC Dallas Youth
+DESCRIPTION:ECNL Girls · U13 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&show=69973
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=69973
+END:VEVENT
+END:VCALENDAR

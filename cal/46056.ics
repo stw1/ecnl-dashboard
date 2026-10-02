@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Florida Kraze Krush U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1069933-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T130000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at Concorde Fire Premier (W 5–0)
+LOCATION:Georgia Sports Park - field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1069965-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T110000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at Alabama FC (W 4–2)
+LOCATION:Dunnavant Valley Fields (DVF) - Field # 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070001-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Jacksonville FC (W 3–0)
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070005-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at CESA Liberty (W 2–1)
+LOCATION:Mesa Soccer Complex - Field 3
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070037-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at South Carolina United (W 5–1)
+LOCATION:Southeastern Freight Lines Complex - Field 2
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070069-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs United Futbol Academy (W 2–1)
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070101-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Atlanta Fire United (W 8–3)
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070137-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Concorde Fire Platinum
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070169-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs GSA
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070329-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Team Boca
+LOCATION:Central Winds - Field B
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070345-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Athletic Club Florida
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070361-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T140000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 8
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070377-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T130000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at Tampa Bay United
+LOCATION:Ed Radice Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070393-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush at Seminole United
+LOCATION:Seminole - Field 5
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1070409-46056@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T090000
+DURATION:PT2H
+SUMMARY:U15 Florida Kraze Krush vs Sporting SA JAX
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Girls · U15 Southeast\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southeast&show=46056
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southeast
+ &show=46056
+END:VEVENT
+END:VCALENDAR

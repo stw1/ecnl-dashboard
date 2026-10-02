@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NM Rapids SC U16 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1091256-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261205T141500
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091268-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261206T133000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC at Avalanche
+LOCATION:Westminster College - Dumke Stadium Field
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091344-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270214T090000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Colorado Rush
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091360-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T110000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Pride SC
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 7
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091376-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T090000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Real Colorado National
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091384-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T133000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC at Colorado Rush
+LOCATION:Trailblazer Stadium - field 1
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091444-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270327T090000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs El Paso Locomotive
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 10
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091456-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T133000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC at Pride SC
+LOCATION:Pride Soccer Complex - Field 2
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091476-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270404
+SUMMARY:U16 NM Rapids SC at Real Colorado National
+DESCRIPTION:ECNL Boys · U16 Mountain · kickoff time not set yet\nhttps://
+ stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091488-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T110000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Colorado EDGE
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 7
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091504-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T110000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Colorado Storm Central
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091516-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs CCV STARS
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 9
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091528-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T130000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC vs Arizona Arsenal
+LOCATION:Mesa Del Sol Regional Sports Complex - Field 8
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1091536-134899@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T110000
+DURATION:PT2H
+SUMMARY:U16 NM Rapids SC at El Paso Locomotive
+LOCATION:Andress High School - Field 1
+DESCRIPTION:ECNL Boys · U16 Mountain\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U16&conf=mountain&show=134899
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=mountain&
+ show=134899
+END:VEVENT
+END:VCALENDAR

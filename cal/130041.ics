@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oregon Surf U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1058640-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:U15 Oregon Surf at Portland Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058681-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:U15 Oregon Surf vs Boise Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058695-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270117
+SUMMARY:U15 Oregon Surf at PacNW SC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058739-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:U15 Oregon Surf at XF
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058781-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270206
+SUMMARY:U15 Oregon Surf vs Portland Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058828-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270227T090000
+DURATION:PT2H
+SUMMARY:U15 Oregon Surf at Washington Premier
+LOCATION:WPFC Field Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=130041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058846-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T110000
+DURATION:PT2H
+SUMMARY:U15 Oregon Surf at Eastside FC
+LOCATION:PRESTON PARK ATHLETIC FIELDS - Field 2
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=130041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058868-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Oregon Surf vs La Roca FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058869-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 Oregon Surf vs Avalanche
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058900-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 Oregon Surf vs La Roca FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058901-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 Oregon Surf vs Avalanche
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058935-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T093000
+DURATION:PT2H
+SUMMARY:U15 Oregon Surf at Seattle United
+LOCATION:Field TBD
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=130041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058960-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U15 Oregon Surf vs Eastside FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1058979-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 Oregon Surf at Boise Thorns
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059016-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U15 Oregon Surf vs PacNW SC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059040-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 Oregon Surf vs Washington Premier
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059070-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 Oregon Surf at Avalanche
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059068-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T111500
+DURATION:PT2H
+SUMMARY:U15 Oregon Surf at La Roca FC
+LOCATION:La Roca Park - Field 2
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=130041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059102-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 Oregon Surf at La Roca FC
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059104-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T090000
+DURATION:PT2H
+SUMMARY:U15 Oregon Surf at Avalanche
+LOCATION:St. Joseph Catholic High School - Grass Field
+DESCRIPTION:ECNL Girls · U15 Northwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=northwest&show=130041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059130-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 Oregon Surf vs Seattle United
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1059154-130041@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U15 Oregon Surf vs XF
+DESCRIPTION:ECNL Girls · U15 Northwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest&show=130
+ 041
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northwest
+ &show=130041
+END:VEVENT
+END:VCALENDAR

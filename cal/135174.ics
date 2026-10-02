@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bethesda SC U16 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072548-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U16 Bethesda SC vs FC DELCO
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072592-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U16 Bethesda SC vs Pipeline SC
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072608-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U16 Bethesda SC at Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072632-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U16 Bethesda SC at HEX FC Bucks
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072640-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T110000
+DURATION:PT2H
+SUMMARY:U16 Bethesda SC at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U16 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U16&conf=north-atlantic&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072664-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U16 Bethesda SC vs PDA White
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072676-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U16 Bethesda SC vs Philadelphia Ukrainian Nationals
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072696-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270509
+SUMMARY:U16 Bethesda SC at Match Fit Surf
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072700-135174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U16 Bethesda SC at Maryland United FC
+DESCRIPTION:ECNL Girls · U16 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atlanti
+ c&show=135174
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=north-atl
+ antic&show=135174
+END:VEVENT
+END:VCALENDAR

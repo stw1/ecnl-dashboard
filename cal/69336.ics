@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting SA JAX U15 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068310-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Fort Lauderdale United FC (L 1–3)
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068340-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T090000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Palm Beach United (W 3–1)
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068352-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T113000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Florida Kraze Krush (L 0–2)
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068394-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Fort Lauderdale United FC (W 3–1)
+LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068424-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Palm Beach United (W 2–1)
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068436-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T140000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Florida Premier FC (W 2–1)
+LOCATION:Indian Trails Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068466-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T120000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Florida Premier FC South (W 3–1)
+LOCATION:Indian Trails Sports Complex - Field 4
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068472-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T130000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Athletic Club Florida
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068502-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Parkland Soccer Club
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068574-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T110000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Doral Soccer Club
+LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068598-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at AC Florida West
+LOCATION:JetBlue Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068622-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T150000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Parkland Soccer Club
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068640-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T090000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068706-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T100000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Space Coast United
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 4
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068718-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T160000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs AC Florida West
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068730-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T090000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Doral Soccer Club
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068820-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T120000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Space Coast United
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068928-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T140000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 6
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068952-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T130000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 4
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068958-69336@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T100000
+DURATION:PT2H
+SUMMARY:U15 Sporting SA JAX vs Florida Kraze Krush
+LOCATION:Veterans Park - Field 1
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69336
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
+ how=69336
+END:VEVENT
+END:VCALENDAR

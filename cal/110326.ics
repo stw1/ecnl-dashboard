@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pipeline SC U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1072179-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC at Philadelphia Ukranian Nationals (L 0–1)
+LOCATION:Ukrainian AMerican Sports Center - Field 6
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072187-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T173000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs Maryland United FC (L 0–1)
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072197-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T153000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC at FC DELCO (L 1–2)
+LOCATION:Proving Grounds - 7
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072209-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs Bethesda SC (L 0–1)
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072219-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs PDA Blue
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072227-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T143000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs PDA White
+LOCATION:Cedar Lane Turf - Field 13
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072247-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T130000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC at Match Fit Surf
+LOCATION:Morris Catholic High School - Field 2 Lower
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072259-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T123000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs HEX FC Bucks
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072249-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T104500
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC at Penn Fusion Soccer Academy
+LOCATION:USTC - Zach Steffen Field
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072269-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs Philadelphia Ukranian Nationals
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072277-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs FC DELCO
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072281-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U13 Pipeline SC at Maryland United FC
+DESCRIPTION:ECNL Girls · U13 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atlanti
+ c&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072293-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U13 Pipeline SC at Bethesda SC
+DESCRIPTION:ECNL Girls · U13 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atlanti
+ c&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072309-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC at PDA Blue
+LOCATION:PDA Main Complex - Field 3
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072317-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U13 Pipeline SC at PDA White
+DESCRIPTION:ECNL Girls · U13 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atlanti
+ c&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072327-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270501T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs Match Fit Surf
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072341-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270508T090000
+DURATION:PT2H
+SUMMARY:U13 Pipeline SC vs Penn Fusion Soccer Academy
+LOCATION:Mercy High School - Field 1
+DESCRIPTION:ECNL Girls · U13 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U13&conf=north-atlantic&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072357-110326@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270516
+SUMMARY:U13 Pipeline SC at HEX FC Bucks
+DESCRIPTION:ECNL Girls · U13 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atlanti
+ c&show=110326
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=north-atl
+ antic&show=110326
+END:VEVENT
+END:VCALENDAR

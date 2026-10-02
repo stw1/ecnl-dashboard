@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WNY Flash U18/19 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073392-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T143000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash vs FC Alliance TN
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073386-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T143000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash vs Tennessee SC
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073338-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T160000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash at Pittsburgh Riverhounds
+LOCATION:Highmark Stadium - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073355-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T150000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash at Racing Louisville Academy
+LOCATION:Lynn Family Sports Vision & Training Facility - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073358-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270314T143000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash at Ohio Elite SA
+LOCATION:Seven Hills School - Lower Field
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073362-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U18/19 WNY Flash at Cleveland Force SC
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073367-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T143000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash at Internationals SC
+LOCATION:Pinnacle Sports - OT 11v11
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073380-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T133000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash vs Indy Eleven
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073384-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270418T133000
+DURATION:PT2H
+SUMMARY:U18/19 WNY Flash vs FC Pride Elite
+LOCATION:Flash Fields - Field A
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073398-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U18/19 WNY Flash vs GTFC Impact
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073400-47038@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U18/19 WNY Flash vs Ohio Premier
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
+ y&show=47038
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
+ alley&show=47038
+END:VEVENT
+END:VCALENDAR

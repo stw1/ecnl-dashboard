@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCFC Youth NC Courage U13 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1122147-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Beach FC (VA) (W 7–2)
+LOCATION:Hampton Roads Soccer Complex - Field 17
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122175-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T153000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Fairfax Virginia Union
+LOCATION:WT Woodson High School - Aux Turf
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122177-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T090000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Arlington Soccer Association
+LOCATION:Long Bridge Park - Boeing #3
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1140062-n-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T080000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Scorpions SC (national event)
+LOCATION:nCino Sports Park - Field #04
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic · ECNL Girls North Carolina - F
+ all\nhttps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atl
+ antic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122189-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs NCFC Youth
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122199-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Richmond United
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122209-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T090000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs VDA
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122217-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T110000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Charlotte SA
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122227-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U13 NCFC Youth NC Courage at NC Fusion
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlantic&sh
+ ow=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122239-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270116T110000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Wilmington Hammerheads
+LOCATION:NCINO Sports Park - Field 8
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122249-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270123T110000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs South Carolina Surf
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122263-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270213T110000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs NC Fusion
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122267-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270220T090000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at VDA
+LOCATION:Long Park - Field 7
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122273-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270221T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Richmond United
+LOCATION:Striker Park - Field 1
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122291-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270320T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Fairfax Virginia Union
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122295-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270321T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Beach FC (VA)
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122305-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U13 NCFC Youth NC Courage at South Carolina Surf
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic · kickoff time not set yet\nhtt
+ ps://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlantic&sh
+ ow=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122313-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T090000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at NCFC Youth
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122317-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270411T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Arlington Soccer Association
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122325-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T120000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage at Charlotte SA
+LOCATION:Orthocarolina Complex - Field 6
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1122341-131830@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T100000
+DURATION:PT2H
+SUMMARY:U13 NCFC Youth NC Courage vs Wilmington Hammerheads
+LOCATION:WRAL - Field 5
+DESCRIPTION:ECNL Girls · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U13&conf=mid-atlantic&show=131830
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=mid-atlan
+ tic&show=131830
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sting Royal U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1073482-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T120000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at Sting Black (L 1–2)
+LOCATION:Sting National Training Center
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073620-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T090000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal vs Real Colorado National (L 0–3)
+LOCATION:Sting National Training Center - Field 3
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073638-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal vs Colorado Storm (L 1–2)
+LOCATION:Sting National Training Center - Field 3
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073548-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T130000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal vs West Side Alliance (W 5–0)
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073584-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T130000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal vs OK Energy FC (W 2–0)
+LOCATION:Sting National Training Center - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073746-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T110000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at FC Dallas Youth
+LOCATION:Toyota Soccer Center - Field 11
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073752-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261024
+SUMMARY:U17 Sting Royal at Colorado Rush
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073788-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T111500
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at Real Colorado Athletico
+LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073836-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T110000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at FC Westlake
+LOCATION:Onion Creek Soccer Complex - Field 8
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073854-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at Lonestar ATX Red
+LOCATION:Burger Activity Center - Stadium Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073872-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T110000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at Albion Hurricanes FC
+LOCATION:Campbell Road Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073896-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261122T110000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at Challenge SC
+LOCATION:Burroughs Park - Field 4
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074010-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U17 Sting Royal at DKSC
+LOCATION:Clark East Field - Field 1
+DESCRIPTION:ECNL Girls · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074040-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Sting Royal vs SOLAR SC
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1074100-68974@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U17 Sting Royal vs Dallas Texans
+DESCRIPTION:ECNL Girls · U17 Texas · kickoff time not set yet\nhttps://st
+ w1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&show=68974
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=texas&sho
+ w=68974
+END:VEVENT
+END:VCALENDAR

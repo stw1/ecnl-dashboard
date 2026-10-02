@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SLAMMERS FC U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1085376-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T104500
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC vs Utah Royals FC-AZ (W 3–1)
+LOCATION:Arroyo Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085406-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T170000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC at Legends FC Del Mar (D 0–0)
+LOCATION:Canyon Crest Academy - Stadium
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085454-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T083000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC vs Arizona Arsenal (D 3–3)
+LOCATION:Arroyo Park - Field 1
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085664-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T103000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC at LV Heat Surf
+LOCATION:Heritage Park Sports Complex - Field 6
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085544-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T133000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC vs Beach Futbol Club (CA)
+LOCATION:Silver Lakes Sports Complex (Norco) - Field 22
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085592-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T134500
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC at Slammers FC HB Koge
+LOCATION:Silver Lakes Sports Complex (Norco) - Field 22
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085616-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T090000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC at LA Breakers FC
+LOCATION:Bell Gardens Sports Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085742-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261121T114500
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC vs Eagles SC
+LOCATION:Saddleback College - Turf Field
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085802-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 SLAMMERS FC at Sporting California USA
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085838-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 SLAMMERS FC vs LAFC So Cal
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085898-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U15 SLAMMERS FC vs Phoenix Rising FC
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085928-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270417T130000
+DURATION:PT2H
+SUMMARY:U15 SLAMMERS FC at San Diego Surf
+LOCATION:Surf Sports Park - Field 4
+DESCRIPTION:ECNL Girls · U15 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U15&conf=southwest&show=89212
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085970-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U15 SLAMMERS FC at Rebels SC
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086012-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 SLAMMERS FC at So Cal Blues
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086060-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U15 SLAMMERS FC vs Legends FC (CA)
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086102-89212@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U15 SLAMMERS FC vs Pateadores Soccer Club
+DESCRIPTION:ECNL Girls · U15 Southwest · kickoff time not set yet\nhttps:
+ //stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest&show=892
+ 12
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=southwest
+ &show=89212
+END:VEVENT
+END:VCALENDAR

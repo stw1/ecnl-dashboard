@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Space Coast United U18/19 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1068313-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260829T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Palm Beach United (W 3–0)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068331-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260830T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Fort Lauderdale United FC (L 0–3)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068397-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T150000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Palm Beach United (L 1–2)
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068415-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T090000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Fort Lauderdale United FC (L 0–2)
+LOCATION:Miami Dolphins Training Facility @ NOVA Southeaste - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068439-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T110000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Florida Premier FC South (W 2–1)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068457-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T110000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Florida Premier FC (L 1–4)
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068475-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T160000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Parkland Soccer Club
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068493-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Athletic Club Florida
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068541-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T150000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Florida Kraze Krush
+LOCATION:Central Winds - Field C
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068577-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at AC Florida West
+LOCATION:JetBlue Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068589-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261025T170000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Doral Soccer Club
+LOCATION:Divine Savior Academy - DSA 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068613-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T140000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Athletic Club Florida
+LOCATION:Nob Hill Soccer Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068643-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Parkland Soccer Club
+LOCATION:Terramar Park - Field D
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068703-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270228T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Sporting SA JAX
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068709-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270306T140000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Doral Soccer Club
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068733-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270307T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs AC Florida West
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068817-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270403T140000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Sporting SA JAX
+LOCATION:Veterans Park - Field 2
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068865-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270410T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United vs Florida Kraze Krush
+LOCATION:SCU - Viera Regional Park Soccer Fields - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068931-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T120000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Florida Premier FC South
+LOCATION:Lakewood Ranch Park - Field 3
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068943-44614@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270425T090000
+DURATION:PT2H
+SUMMARY:U18/19 Space Coast United at Florida Premier FC
+LOCATION:Starkey Ranch District Park - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=44614
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=44614
+END:VEVENT
+END:VCALENDAR

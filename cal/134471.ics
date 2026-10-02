@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sporting California USA U17 · ECNL Boys
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1086484-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260913T090000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA vs West Coast FC (W 3–2)
+LOCATION:San Bernardino Valley College - Turf
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086500-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T110000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA vs Pateadores Soccer Club (W 2–1)
+LOCATION:San Bernardino Valley College - Turf
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086560-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T090000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA vs SDSC Surf
+LOCATION:San Bernardino Valley College - Turf
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086576-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T110000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at Legends FC Del Mar
+LOCATION:Canyon Crest Academy - Stadium
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086620-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:U17 Sporting California USA at West Coast FC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086648-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T080000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA vs San Diego Surf
+LOCATION:San Bernardino Soccer Complex - Field 1
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086664-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T110000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at Pateadores Soccer Club
+LOCATION:Great Park - Field 10
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086680-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at Rebels SC
+LOCATION:Monte Vista High School - Stadium
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086696-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261107T090000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA vs Legends FC Del Mar
+LOCATION:Ontario Sports Empire - Field 1
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086736-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T143000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at SDSC Surf
+LOCATION:Maranatha Christian School - Stadium (South)
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086756-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U17 Sporting California USA vs CDA Slammers FC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086776-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:U17 Sporting California USA vs LA Breakers FC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086800-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U17 Sporting California USA vs Legends FC (CA)
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086828-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:U17 Sporting California USA vs Rebels SC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086844-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270404T090000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at San Diego Surf
+LOCATION:Surf Sports Park - Field 2
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086864-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U17 Sporting California USA at LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086892-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U17 Sporting California USA at LA Breakers FC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086936-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:U17 Sporting California USA vs LAFC So Cal
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086960-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U17 Sporting California USA vs Beach Futbol Club (CA)
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086968-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U17 Sporting California USA at CDA Slammers FC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1086992-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270509T110000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at Legends FC (CA)
+LOCATION:Silverlakes Complex - Field 2
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087016-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U17 Sporting California USA vs LV Heat Surf SC
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087032-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:U17 Sporting California USA at LAFC So Cal
+DESCRIPTION:ECNL Boys · U17 Southwest · kickoff time not set yet\nhttps:/
+ /stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest&show=1344
+ 71
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1087052-134471@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270529T090000
+DURATION:PT2H
+SUMMARY:U17 Sporting California USA at Beach Futbol Club (CA)
+LOCATION:El Camino College - Athletic Field
+DESCRIPTION:ECNL Boys · U17 Southwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U17&conf=southwest&show=134471
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=southwest
+ &show=134471
+END:VEVENT
+END:VCALENDAR

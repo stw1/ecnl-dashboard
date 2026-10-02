@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Stars White U15 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1071581-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T094500
+DURATION:PT2H
+SUMMARY:U15 FC Stars White vs Scorpions SC
+LOCATION:FC Stars Soccer Complex - Field 2
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071590-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:U15 FC Stars White vs FSA FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071593-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T094500
+DURATION:PT2H
+SUMMARY:U15 FC Stars White vs Select
+LOCATION:FC Stars Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071743-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:U15 FC Stars White vs FC Stars Blue
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071614-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:U15 FC Stars White at Select
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071626-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270307
+SUMMARY:U15 FC Stars White at Scorpions SC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071635-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270313
+SUMMARY:U15 FC Stars White vs FC Stars Blue
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071644-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:U15 FC Stars White vs East Meadow Soccer Club
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071656-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U15 FC Stars White vs SUSA FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071686-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U15 FC Stars White vs World Class FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071698-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270418
+SUMMARY:U15 FC Stars White vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071728-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U15 FC Stars White at Connecticut FC United
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071740-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:U15 FC Stars White at World Class FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071755-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270515T100000
+DURATION:PT2H
+SUMMARY:U15 FC Stars White at FSA FC
+LOCATION:FSA-Farmington Sports Arena - Field 6
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071767-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270522T090000
+DURATION:PT2H
+SUMMARY:U15 FC Stars White at East Meadow Soccer Club
+LOCATION:East Meadow Field of Dreams - South Turf
+DESCRIPTION:ECNL Girls · U15 New England\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=new-england&show=61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1071779-61270@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:U15 FC Stars White at SUSA FC
+DESCRIPTION:ECNL Girls · U15 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-england&show
+ =61270
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=new-engla
+ nd&show=61270
+END:VEVENT
+END:VCALENDAR

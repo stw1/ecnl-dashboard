@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas City Athletics U17 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1067719-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260905T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Eclipse Select Soccer Club (W 1–0)
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067743-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260906T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Chicago Inter (L 2–3)
+LOCATION:KC Current Training Facility - Field 2
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067795-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260919T100000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at St. Louis Scott Gallagher Green (L 1
+ –2)
+LOCATION:WWT Soccer Park - Field 1
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067811-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at Missouri Rush (L 1–2)
+LOCATION:Missouri Rush Sports Park - Field 1
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067843-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260926T100000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at Michigan Hawks (L 0–9)
+LOCATION:St. Joe's Sports Dome - St. Joe's Dome
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067867-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T073000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at Michigan Hawks Magic (L 0–7)
+LOCATION:Catholic Central High School - Football Field
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067879-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261003T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Gretna Elite Academy
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067887-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261004T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Sporting Iowa
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067919-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261010T140000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs St. Louis Scott Gallagher Navy
+LOCATION:Paragon Star Soccer Complex - Field 10
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067939-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261011T081500
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at Sporting Blue Valley
+LOCATION:Scheels Overland Park Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067955-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T110000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Nationals SC
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067983-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T090000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics vs Liverpool FC MI
+LOCATION:KC Current Training Facility - Field 8
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068023-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261031T120000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at FC Wisconsin
+LOCATION:Mercy Health Sportscore 2 - Field 1
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068047-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T100000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at Rockford Raptors FC
+LOCATION:Mercyhealth Sportscore Two - Field TBA (11v11)
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068075-46766@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T080000
+DURATION:PT2H
+SUMMARY:U17 Kansas City Athletics at MN Thunder Academy
+LOCATION:Academy of Holy Angels - South Turf 1 (11v11)
+DESCRIPTION:ECNL Girls · U17 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U17&conf=midwest&show=46766
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=midwest&s
+ how=46766
+END:VEVENT
+END:VCALENDAR

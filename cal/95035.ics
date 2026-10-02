@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ecnl-dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maryland United FC U14 · ECNL Girls
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ecnl-1111198-n-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260821T133000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs Michigan Hawks Magic (national event) (W 
+ 7–1)
+LOCATION:PDA Soccer Complex - Field #02
+DESCRIPTION:ECNL Girls · U14 North Atlantic · ECNL Girls New Jersey\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlantic&s
+ how=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111201-n-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260822T095000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at FC Stars Blue (national event) (L 0–1)
+LOCATION:PDA Soccer Complex - Field #01
+DESCRIPTION:ECNL Girls · U14 North Atlantic · ECNL Girls New Jersey\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlantic&s
+ how=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1111204-n-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260823T110000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs FC Stars White (national event) (L 0–1)
+LOCATION:Morningside Farm - Field #15
+DESCRIPTION:ECNL Girls · U14 North Atlantic · ECNL Girls New Jersey\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlantic&s
+ how=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072188-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260912T191500
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at Pipeline SC (W 5–0)
+LOCATION:Notre Dame Prepatory School - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072206-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260920T133000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs Philadelphia Ukranian Nationals (W 3–1)
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072218-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20260927T090000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at PDA White
+LOCATION:Toms River High School - North - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072232-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261017T161500
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs Match Fit Surf
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072238-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261018T133000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs FC DELCO
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072240-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261024T104500
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at Penn Fusion Soccer Academy
+LOCATION:USTC - Zach Steffen Field
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072258-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:U14 Maryland United FC at Bethesda SC
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072266-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T103000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC vs HEX FC Bucks
+LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072208-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261114T100000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at PDA Blue
+LOCATION:PDA Main Complex - Field 5
+DESCRIPTION:ECNL Girls · U14 North Atlantic\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U14&conf=north-atlantic&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072280-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:U14 Maryland United FC at HEX FC Bucks
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072282-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270327
+SUMMARY:U14 Maryland United FC vs Pipeline SC
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072296-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:U14 Maryland United FC vs PDA Blue
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072302-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:U14 Maryland United FC at Philadelphia Ukranian Nationals
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072308-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270417
+SUMMARY:U14 Maryland United FC vs PDA White
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072324-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:U14 Maryland United FC at Match Fit Surf
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072334-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:U14 Maryland United FC vs Penn Fusion Soccer Academy
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072340-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:U14 Maryland United FC at FC DELCO
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1072350-95035@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:U14 Maryland United FC vs Bethesda SC
+DESCRIPTION:ECNL Girls · U14 North Atlantic · kickoff time not set yet\nh
+ ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atlanti
+ c&show=95035
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=north-atl
+ antic&show=95035
+END:VEVENT
+END:VCALENDAR
