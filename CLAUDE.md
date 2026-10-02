@@ -133,6 +133,18 @@ rating when there is one), home edge, and a Dixon-Coles low-score adjustment. Th
 game 10,000 times and ranks the way ECNL does (points per game, then total GD and GF). "How accurate are the
 predictions?" is a walk-forward backtest of the current model.
 
+## Insights and team history
+- **Insights** (`?age=U14&conf=insights`, "Insights (interesting facts)" in the conference menu; `drawInsights` in the
+  template): one age group across all conferences. It covers the biggest turnarounds and drops (points per game vs the
+  same players last season, from `DATA.hist`), unbeaten and winless teams, current winning streaks, goals for and
+  against per game, biggest upsets (wins the current ratings gave under 25%), best records at national events, closest
+  title races and Champions League bubble teams (season sim, this season only), strongest conferences (`DATA.confAdj`)
+  and the strongest clubs across age groups (average table position, 4+ teams). Teams need 3+ games. It works on past
+  season pages too.
+- **Team pages: "Previous seasons"** lists this season and every earlier one for the same players: finish (with a bar),
+  W-D-L, points per game and goals, each linked to that season's team page. A line compares last season with now and
+  gives the best finish. "In other age groups" lists the club's other teams (matched by club id).
+
 ## Calendars, feedback, analytics
 - **Calendars:** `refresh.write_calendars` writes `cal/<team id>.ics` for every team this season: league and national-event
   games, results in the title once played, times local to the field (floating), and a fixed DTSTAMP so a file only

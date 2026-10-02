@@ -96,6 +96,9 @@ table tbody tr.me td,table tbody tr.me:hover td{background:#fef9c3}table tbody t
 table.st td.team.zt-cl{box-shadow:inset 3px 0 #14b8a6}table.st td.team.zt-pi{box-shadow:inset 3px 0 #38bdf8}table.st td.team.zt-nac{box-shadow:inset 3px 0 #3b82f6}table.st td.team.zt-sa{box-shadow:inset 3px 0 #f59e0b}table.st td.team.zt-sb{box-shadow:inset 3px 0 #94a3b8}table.st td.team.zt-wc{box-shadow:inset 3px 0 #94a3b8}
 @media(max-width:700px){#standings .pchip,#natTable .pchip{display:none}}
 .cstr{margin-top:8px;line-height:1.9}.cstr span{display:inline-block;margin-right:12px;white-space:nowrap}
+.insg{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}.insg .card h3{margin:0 0 2px;font-size:15px}.insg ol{margin:8px 0 0;padding-left:20px}.insg li{margin:5px 0;font-size:13.5px;line-height:1.45}.insg li .mut{font-size:12px}
+@media(max-width:900px){.insg{grid-template-columns:1fr}}
+.phist td,.phist th{white-space:nowrap}.phist .fin{display:inline-block;width:52px;height:6px;border-radius:3px;background:#e2e8f0;overflow:hidden;vertical-align:middle;margin-left:6px}.phist .fin b{display:block;height:100%;background:var(--teal)}
 .postkey{display:block;width:100%;line-height:1.7}.postkey .pchip{margin:0 4px 0 0}
 .grp-tag{display:inline-block;font-size:10px;font-weight:600;color:var(--mut);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px;vertical-align:1px}
 .ftag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#ede9fe;color:#5b21b6;border-radius:4px;padding:1px 5px;margin-left:6px;vertical-align:1px}
@@ -453,6 +456,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="card" id="s-acc"><h2>How accurate are the predictions?</h2>
 <div class="sub">Each weekend is re-predicted using only the games played before it, then compared with what actually happened, so the model never gets to peek at the result. "Too close to call" counts as a draw pick. With only a few weekends played, these numbers will be rough.</div>
 <div id="acc"></div><button class="btn" id="accMore"></button></div>
+<div id="s-ins" style="display:none"><div class="card"><h2 id="insTitle"></h2><div class="sub" id="insSub"></div></div><div class="insg" id="insGrid"></div></div>
 <div class="card" id="s-nat" style="display:none"><h2 id="natTitle"></h2>
 <div class="sub">Every team in this age group, ranked by the model's rating: the goal margin per game it would expect against an average team <b id="natVs">in its own conference</b>, adjusted for the opponents each team has actually played<span id="natFlex"></span>. Ratings are pulled toward average when a team has played only a few games, so a hot start counts for less than a long run.</div>
 <div class="note" id="natNote" style="display:block;margin:0 0 14px"><b>Read this as "how dominant is each team in its own conference".</b> Conferences don't play each other in the regular season, so no result tells us whether one conference is stronger than another. This list treats every conference as equally strong. <span id="natPpp"></span></div>
@@ -493,12 +497,12 @@ function pickBracket(){const a=qs.get("age"),c=qs.get("conf");
  return(saved&&findB(saved.age,saved.conf))||findB(DATA.default.age,DATA.default.conf)||DATA.brackets[0]}
 const B=pickBracket();
 // ?conf=national shows every conference of the age group on one ranked list (B stays the last conference viewed)
-const NATIONAL=slugC(qs.get("conf"))==="national";
+const NATIONAL=slugC(qs.get("conf"))==="national",INSIGHTS=slugC(qs.get("conf"))==="insights",MULTI=NATIONAL||INSIGHTS;
 // ?club=<slug> lists every team of one club across age groups
 const CLUBQ=(qs.get("club")||"").toLowerCase();
 // ?show=<team slug> opens one team's page inside its bracket (does not change the followed team)
-const SHOWQ=NATIONAL||CLUBQ?"":(qs.get("show")||"").toLowerCase();
-try{if(!NATIONAL)localStorage.setItem("bracket",JSON.stringify({age:B.age,conf:B.conf}))}catch(e){}
+const SHOWQ=MULTI||CLUBQ?"":(qs.get("show")||"").toLowerCase();
+try{if(!MULTI)localStorage.setItem("bracket",JSON.stringify({age:B.age,conf:B.conf}))}catch(e){}
 const bracketUrl=(b,extra="")=>`?age=${b.age}&conf=${slugC(b.conf)}${extra}`;
 // teams in links use a readable slug (&team=ballistic-united); the older &follow=<squad id> still works
 const slugT=n=>n.toLowerCase().replace(/&/g," and ").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
@@ -506,7 +510,7 @@ const slugT=n=>n.toLowerCase().replace(/&/g," and ").replace(/[^a-z0-9]+/g,"-").
 const teamBySlug=(b,s)=>{if(!s)return;const k=slugT(s),ids=Object.keys(b.teams);return ids.find(id=>id===s||slugT(b.teams[id])===k)||ids.find(id=>slugT(shortName(b.teams[id]))===k)};
 const pageUrl=(b,team)=>bracketUrl(b,team?`&team=${slugT(b.teams[team])}`:"");
 const TPRE=`${DATA.brand||"ECNL"} · ${PAST?PAST+" · ":""}`;
-document.title=CLUBQ?`${TPRE}${CLUBQ} · all teams`:NATIONAL?`${TPRE}${B.age} National rankings`:`${TPRE}${B.age} ${B.conf} Conference`;
+document.title=CLUBQ?`${TPRE}${CLUBQ} · all teams`:NATIONAL?`${TPRE}${B.age} National rankings`:INSIGHTS?`${TPRE}${B.age} Insights`:`${TPRE}${B.age} ${B.conf} Conference`;
 const RAW=B.raw,TEAMS=B.teams,SNAP=DATA.snap,VEN=DATA.venues||[];
 // kickoff times arrive in UTC ("2026-10-03T16:00Z"); show them in the viewer's time zone. Date-only = time not set.
 const p2=n=>String(n).padStart(2,"0");
@@ -696,10 +700,10 @@ const involves=(g,c)=>g.h===c||g.a===c;
 const MYKEY="myteam:"+document.title;let myTeam="";try{myTeam=localStorage.getItem(MYKEY)||""}catch(e){}
 // a team in the link wins and becomes this browser's followed team for the bracket
 const linked=teamBySlug(B,qs.get("team")||qs.get("follow"));if(linked){myTeam=linked;try{localStorage.setItem(MYKEY,myTeam)}catch(e){}}
-if(!TEAMS[myTeam]||NATIONAL||CLUBQ)myTeam="";
+if(!TEAMS[myTeam]||MULTI||CLUBQ)myTeam="";
 const SHOW=SHOWQ?teamBySlug(B,SHOWQ):undefined;
 // keep the address bar in step with the bracket and followed team, so copying it shares exactly this view
-const syncUrl=()=>{if(CLUBQ)return;try{history.replaceState(null,"",(SHOW?bracketUrl(B,`&show=${slugT(nm(SHOW))}`):NATIONAL?`?age=${B.age}&conf=national`:pageUrl(B,myTeam))+location.hash)}catch(e){}};
+const syncUrl=()=>{if(CLUBQ)return;try{history.replaceState(null,"",(SHOW?bracketUrl(B,`&show=${slugT(nm(SHOW))}`):MULTI?`?age=${B.age}&conf=${NATIONAL?"national":"insights"}`:pageUrl(B,myTeam))+location.hash)}catch(e){}};
 syncUrl();
 // "new since your last visit": a visit ends after 6 quiet hours; results that weren't there at the end of the
 // previous visit get a "New" mark for the whole of this one
@@ -715,17 +719,17 @@ const showNote=(id,on)=>{const el=$(id);el.style.display=on?"block":"none";if(on
 // season picker: same age group, conference / national / club view and team on the other season's page
 const SEASONS=DATA.seasons||[];
 if(SEASONS.length>1){$("seasonSel").innerHTML=SEASONS.map(x=>`<option value="${x.file}"${(PAST?x.key===PAST:!x.past)?" selected":""}>${x.key}</option>`).join("");
- $("seasonSel").onchange=e=>{const q=CLUBQ?`?club=${CLUBQ}`:NATIONAL?`?age=${B.age}&conf=national`:`?age=${B.age}&conf=${slugC(B.conf)}${myTeam?`&team=${slugT(nm(myTeam))}`:""}`;location.href=e.target.value+q}}
+ $("seasonSel").onchange=e=>{const q=CLUBQ?`?club=${CLUBQ}`:MULTI?`?age=${B.age}&conf=${NATIONAL?"national":"insights"}`:`?age=${B.age}&conf=${slugC(B.conf)}${myTeam?`&team=${slugT(nm(myTeam))}`:""}`;location.href=e.target.value+q}}
 else{$("seasonWrap").style.display="none";document.querySelector(".ctl").classList.add("noseason")}
 $("brandTxt").textContent=DATA.brand||"ECNL";
-if(DATA.leagues){const q=CLUBQ?`?club=${CLUBQ}`:NATIONAL?`?age=${B.age}&conf=national`:`?age=${B.age}&conf=${slugC(B.conf)}`;
+if(DATA.leagues){const q=CLUBQ?`?club=${CLUBQ}`:MULTI?`?age=${B.age}&conf=${NATIONAL?"national":"insights"}`:`?age=${B.age}&conf=${slugC(B.conf)}`;
  $("leagues").innerHTML=DATA.leagues.map(x=>`<a href="${x.file}${q}"${x.on?' class="on" aria-current="page"':""}>${x.key}</a>`).join("")}else $("leagues").remove();
-$("bracket").textContent=NATIONAL?`${B.age} National rankings`:`${B.age} ${baseConf(B.conf)} Conference`;
+$("bracket").textContent=NATIONAL?`${B.age} National rankings`:INSIGHTS?`${B.age} Insights`:`${B.age} ${baseConf(B.conf)} Conference`;
 if(B.conf!==baseConf(B.conf)&&!NATIONAL)$("ppp").style.display="inline-block";
 // age tabs keep the conference when that age has it (else its regular version for Pro Player Pathway, else the default)
 const ages=[...new Set(DATA.brackets.map(b=>b.age))];
-const drawTabs=()=>{$("ages").innerHTML=ages.map(a=>{const b=findB(a,B.conf)||findB(a,baseConf(B.conf))||findB(a,DATA.default.conf)||DATA.brackets.find(x=>x.age===a);const st=SHOW&&teamBySlug(b,nm(SHOW));return`<a href="${NATIONAL?`?age=${a}&conf=national`:st?showUrl(b,st):SHOW?bracketUrl(b):pageUrl(b,myTeam&&teamBySlug(b,nm(myTeam)))}"${a===B.age?' class="on" aria-current="page"':""}>${a}</a>`}).join("")};drawTabs();
-$("confSel").innerHTML=`<option value="national"${NATIONAL?" selected":""}>National (all conferences)</option>`+DATA.brackets.filter(b=>b.age===B.age).map(b=>`<option value="${slugC(b.conf)}"${b===B&&!NATIONAL?" selected":""}>${b.conf}</option>`).join("");
+const drawTabs=()=>{$("ages").innerHTML=ages.map(a=>{const b=findB(a,B.conf)||findB(a,baseConf(B.conf))||findB(a,DATA.default.conf)||DATA.brackets.find(x=>x.age===a);const st=SHOW&&teamBySlug(b,nm(SHOW));return`<a href="${MULTI?`?age=${a}&conf=${NATIONAL?"national":"insights"}`:st?showUrl(b,st):SHOW?bracketUrl(b):pageUrl(b,myTeam&&teamBySlug(b,nm(myTeam)))}"${a===B.age?' class="on" aria-current="page"':""}>${a}</a>`}).join("")};drawTabs();
+$("confSel").innerHTML=`<option value="national"${NATIONAL?" selected":""}>National (all conferences)</option><option value="insights"${INSIGHTS?" selected":""}>Insights (interesting facts)</option>`+DATA.brackets.filter(b=>b.age===B.age).map(b=>`<option value="${slugC(b.conf)}"${b===B&&!MULTI?" selected":""}>${b.conf}</option>`).join("");
 $("confSel").onchange=e=>{location.search=`?age=${B.age}&conf=${e.target.value}`};
 // find any team across every bracket; picking one opens its bracket and follows it
 // clubs: by the platform's club id when the build provides one (DATA.clubs + bracket.club), else by team name
@@ -745,7 +749,7 @@ $("findQ").onkeydown=e=>{const links=$("findR").querySelectorAll("a");
  else if(e.key==="Enter"&&links[findSel]){location.href=links[findSel].href}else if(e.key==="Escape"){$("findR").style.display="none";$("findQ").blur()}};
 document.addEventListener("click",e=>{if(!e.target.closest(".find"))$("findR").style.display="none"});
 const nextG=future[0];
-if(NATIONAL){const ab=DATA.brackets.filter(b=>b.age===B.age),all=ab.flatMap(parseGames),pl=all.filter(g=>g.hs!==null).length,nx=all.filter(g=>g.hs===null).sort((x,y)=>x.dt<y.dt?-1:1)[0];
+if(MULTI){const ab=DATA.brackets.filter(b=>b.age===B.age),all=ab.flatMap(parseGames),pl=all.filter(g=>g.hs!==null).length,nx=all.filter(g=>g.hs===null&&g.dt.slice(0,10)>=SNAP).sort((x,y)=>x.dt<y.dt?-1:1)[0];
  $("meta").innerHTML=`<span>Updated ${fmtDay(SNAP)}</span><span class="prog"><i><b style="width:${pl/(all.length||1)*100}%"></b></i>${pl} of ${all.length} league games played in ${ab.length} conferences</span>`+(nx?`<span>Next games ${fmtDay(nx.dt)}</span>`:"")}
 else if(PAST)$("meta").innerHTML=`<span>Final results · ${played.length} league games</span><span>Results from TotalGlobalSports, ECNL's results platform</span>`;
 else $("meta").innerHTML=`<span>Updated ${fmtDay(SNAP)}</span><span class="prog"><i><b style="width:${played.length/(games.length||1)*100}%"></b></i>${played.length} of ${games.length} games played</span>`+(nextG?`<span>Next games ${fmtDay(nextG.dt)}</span>`:"")+(newIds.size&&!NATIONAL?`<span><span class="new" style="margin:0 4px 0 0">${newIds.size} new</span>result${newIds.size>1?"s":""} since your last visit (${fmtDay(localDt(new Date(baseSeen.at).toISOString()))})</span>`:"");
@@ -1019,12 +1023,20 @@ function drawTeam(c){const b=B,t=srows.find(r=>r.c===c),pr=power.findIndex(p=>p.
  const oppT=`<div class="card" id="s-topp"><h2>Against each opponent</h2><div class="sub">League meetings (and any at national events) with every team in the conference, in table order. Upcoming meetings show the date; national-event results have a purple outline.</div><div class="scroll"><table id="tOpp"><tbody>`+
   opps.map(({r,gs})=>`<tr><td style="width:46%"><span class="rk" style="display:inline-block;width:22px;color:var(--mut)">${r.rk}</span>${tlink(r.c,esc(short(r.c)))}</td><td class="res">${gs.map(g=>{const x=side(g);return g.hs!==null?`<span class="chip ${x.res}${g.flex?" fx":""}" title="${x.home?"Home":"Away"}${g.flex?" · national event":""} · ${fmtDay(g.dt)}">${x.f}–${x.a}</span>`:`<span class="mut" style="font-size:12px;margin-right:8px">${fmtDay(g.dt).replace(/^\w+, /,"")}${g.flex?" (national event)":""}</span>`}).join("")||'<span class="mut">–</span>'}</td></tr>`).join("")+`</tbody></table></div></div>`;
  // history and the club's other teams
- const others=DATA.brackets.flatMap(x=>Object.entries(x.teams).filter(([id,n])=>slugT(n)===slugT(nm(c))&&id!==c).map(([id])=>({b:x,id}))).sort((p,q)=>parseInt(p.b.age.slice(1))-parseInt(q.b.age.slice(1)));
+ const others=DATA.brackets.flatMap(x=>Object.keys(x.teams).filter(id=>clubSlug(x,id)===clubSlug(b,c)&&id!==c).map(id=>({b:x,id}))).sort((p,q)=>parseInt(p.b.age.slice(1))-parseInt(q.b.age.slice(1)));
  const otherHtml=others.length?`<div class="tother"><div class="lab" style="font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);font-weight:600;margin:6px 0 4px">${esc(short(c))} in other age groups</div>`+
   others.map(o=>{const bi=bracketInfo(o.b),tr=bi.tb.find(x=>x.c===o.id);return`<a href="${showUrl(o.b,o.id)}"><b>${o.b.age} · ${esc(baseConf(o.b.conf))}</b><span>${ordn(bi.tb.indexOf(tr)+1)} of ${bi.ids.length} · ${tr.w}-${tr.d}-${tr.l}</span></a>`}).join("")+"</div>":"";
- const hist=histLines(c);
- const histCard=hist||otherHtml?`<div class="card my" id="s-thist" style="background:var(--card)">${hist?hist.replace('class="hist"','class="hist" style="margin:0;padding:0;border:0"'):""}${otherHtml}</div>`:"";
- $("s-team").innerHTML=`<div class="kpis">${kp}</div>${btns}<div class="grid2"><div>${stats}${histCard}</div>${sched}</div>${oppT}`;
+ // previous seasons: the same players, one age group younger each year (DATA.hist), with this season on top
+ const PH=(DATA.hist||{})[c]||[],fin=(r,n)=>`<span class="fin"><b style="width:${n>1?(1-(r-1)/(n-1))*100:100}%"></b></span>`,pg=(w,d,l)=>w+d+l?((3*w+d)/(w+d+l)).toFixed(2):"–";
+ let trend="";if(PH.length&&t&&t.mp>=3){const h=PH[0],lp=(3*h[5]+h[6])/(h[5]+h[6]+h[7]||1),dp=t.ppm-lp;
+  trend=`Last season: ${ordn(h[3])} of ${h[4]} at ${h[1]} (${lp.toFixed(2)} pts/game). ${PAST?"This season":"Now"}: ${ordn(t.rk)} of ${N} (${t.ppm.toFixed(2)})`+(Math.abs(dp)>=.75?`, ${dp>0?"a big step up":"a big drop"}.`:".")}
+ if(PH.length>1){const best=PH.reduce((x,y)=>(y[3]-1)/Math.max(1,y[4]-1)<(x[3]-1)/Math.max(1,x[4]-1)?y:x);trend+=` Best finish: ${ordn(best[3])} of ${best[4]} in ${best[0].replace("-","–")} (${best[1]}).`}
+ const histCard=PH.length?`<div class="card" id="s-thist"><h2>Previous seasons</h2><div class="sub">The same players in earlier seasons, one age group younger each year. ${trend}</div><div class="scroll"><table class="st phist"><thead><tr><th class="t">Season</th><th>Age</th><th class="t">Conference</th><th>Finish</th><th class="xs-hide">W-D-L</th><th>Pts/G</th><th class="xs-hide">Goals</th></tr></thead><tbody>`+
+  (t?`<tr class="me"><td class="t">${PAST||SEASONS.find(x=>!x.past)?.key||"This season"}${PAST?"":" (so far)"}</td><td>${b.age}</td><td class="t">${esc(baseConf(b.conf))}</td><td>${ordn(t.rk)} of ${N}${fin(t.rk,N)}</td><td class="xs-hide">${t.w}-${t.d}-${t.l}</td><td>${t.mp?t.ppm.toFixed(2):"–"}</td><td class="xs-hide">${t.gf}–${t.ga}</td></tr>`:"")+
+  PH.map(([se,a,cf,rk,n,w,d,l,gf,ga,pn])=>`<tr><td class="t"><a href="${DATA.histPre||"season-"}${se}.html?age=${a}&conf=${slugC(cf)}&show=${slugT(pn||nm(c))}">${se.replace("-","–")}</a></td><td>${a}</td><td class="t">${esc(baseConf(cf))}</td><td>${ordn(rk)} of ${n}${fin(rk,n)}</td><td class="xs-hide">${w}-${d}-${l}</td><td>${pg(w,d,l)}</td><td class="xs-hide">${gf}–${ga}</td></tr>`).join("")+
+  `</tbody></table></div></div>`:"";
+ const otherCard=otherHtml?`<div class="card my" style="background:var(--card)">${otherHtml}</div>`:"";
+ $("s-team").innerHTML=`<div class="kpis">${kp}</div>${btns}<div class="grid2"><div>${stats}${histCard}${otherCard}</div>${sched}</div>${oppT}`;
  $("tFollow").onclick=()=>{myTeam=myTeam===c?"":c;try{localStorage.setItem(MYKEY,myTeam)}catch(e){}drawTeam(c)};
  if(!PAST||fu.length)wireCal("tCal",c,fu.length);$("tShare").onclick=()=>$("share").click();
  $("meta").innerHTML=`<span>${PAST?"Final results":`Updated ${fmtDay(SNAP)}`}</span><span>${esc(b.age)} ${esc(b.conf)} Conference</span>${fu[0]?`<span>Next game ${fmtDay(fu[0].dt)}</span>`:""}`}
@@ -1112,6 +1124,47 @@ function drawNational(){const age=B.age,rows=natRows(age),reg=rows.filter(r=>r.b
  $("natPpp").textContent=ppp.length?"Pro Player Pathway conferences are a separate pool of pro academies, so they're ranked in their own table below.":"";
  $("natPppWrap").innerHTML=ppp.length?`<h3>Pro Player Pathway</h3><p>Ranked among themselves; ratings aren't comparable with the main list.</p><div class="scroll"><table class="st nat" id="natPpp2">${tableHtml(ppp,rankOf(ppp))}</table></div>`:"";
  document.querySelectorAll(".nat th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(natK===k)natDir*=-1;else{natK=k;natDir=k==="conf"?1:-1}drawNational()});}
+// Insights (?conf=insights): interesting facts about one age group across every conference
+function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).map(bracketInfo),H=DATA.hist||{},S=[],MIN=3;
+ const T=os.flatMap(o=>o.tb.map((t,i)=>({o,b:o.b,c:t.c,t,rk:i+1,n:o.ids.length}))),act=T.filter(x=>x.t.mp>=MIN);
+ const who=x=>`<a href="${showUrl(x.b,x.c)}">${esc(nm(x.c))}</a> <span class="mut">${esc(baseConf(x.b.conf))}</span>`;
+ const ppg=t=>t.mp?t.pts/t.mp:0,rec=t=>`${t.w}-${t.d}-${t.l}`,f2=x=>x.toFixed(2),add=(t,sub,items)=>{if(items.length)S.push({t,sub,items})};
+ $("insTitle").textContent=`${age} insights`;
+ $("insSub").innerHTML=`Things that stand out in ${PAST?"the":"this"} ${PAST||"season"} across all ${os.length} ${age} conferences. Teams need ${MIN}+ games to count. Pick another age group above, or open a team for its details.`;
+ // same players, last season vs now
+ const tv=act.map(x=>{const h=(H[x.c]||[])[0];if(!h)return null;const[,ha,,hr,hn,w,d,l]=h,mp=w+d+l;return mp?{...x,h,lp:(3*w+d)/mp,dp:ppg(x.t)-(3*w+d)/mp}:null}).filter(Boolean);
+ const tl=x=>`${who(x)}: ${ordn(x.h[3])} of ${x.h[4]} at ${x.h[1]} last season (${f2(x.lp)} pts/game, ${x.h[5]}-${x.h[6]}-${x.h[7]}), now ${ordn(x.rk)} of ${x.n} (${f2(ppg(x.t))})`;
+ add("Biggest turnarounds","The same players as last season (one age group younger then), comparing points per game.",tv.filter(x=>x.dp>=.75).sort((p,q)=>q.dp-p.dp).slice(0,6).map(tl));
+ add("Biggest drops","Last season's results compared with this season's so far.",tv.filter(x=>x.dp<=-.75).sort((p,q)=>p.dp-q.dp).slice(0,6).map(tl));
+ // records
+ add(PAST?"Unbeaten all season":"Still unbeaten","",act.filter(x=>!x.t.l).sort((p,q)=>ppg(q.t)-ppg(p.t)||q.t.gd-p.t.gd).slice(0,8).map(x=>`${who(x)}: ${rec(x.t)}, goals ${x.t.gf}–${x.t.ga}`));
+ add(PAST?"Winless all season":"Still looking for a first win","",act.filter(x=>!x.t.w).sort((p,q)=>q.t.mp-p.t.mp||p.t.gd-q.t.gd).slice(0,6).map(x=>`${who(x)}: ${rec(x.t)} from ${x.t.mp} games`));
+ // streaks (league games)
+ const streak=x=>{const gs=x.o.pl.filter(g=>g.h===x.c||g.a===x.c).sort((p,q)=>p.dt<q.dt?-1:1);let n=0;for(let i=gs.length-1;i>=0;i--){const g=gs[i],f=g.h===x.c?g.hs:g.as,a=g.h===x.c?g.as:g.hs;if(f>a)n++;else break}return n};
+ add(PAST?"Longest winning runs to finish":"Hot streaks","Wins in a row, up to the latest game.",act.map(x=>({...x,k:streak(x)})).filter(x=>x.k>=3).sort((p,q)=>q.k-p.k).slice(0,6).map(x=>`${who(x)}: ${x.k} straight wins`));
+ // goals
+ add("Goal machines","Most goals scored per game.",act.slice().sort((p,q)=>q.t.gf/q.t.mp-p.t.gf/p.t.mp).slice(0,5).map(x=>`${who(x)}: ${(x.t.gf/x.t.mp).toFixed(1)} per game (${x.t.gf} in ${x.t.mp})`));
+ add("Hardest to score against","Fewest goals conceded per game.",act.slice().sort((p,q)=>p.t.ga/p.t.mp-q.t.ga/q.t.mp).slice(0,5).map(x=>`${who(x)}: ${(x.t.ga/x.t.mp).toFixed(2)} per game (${x.t.ga} in ${x.t.mp})`));
+ // upsets: results the model's current ratings found least likely
+ const ups=[];for(const o of os)for(const g of o.pl){if(g.hs===g.as)continue;const p=predict(g.h,g.a,o.m),hw=g.hs>g.as,pw=hw?p.pH:p.pA;if(pw<.25)ups.push({o,g,pw,w:hw?g.h:g.a,l:hw?g.a:g.h})}
+ add("Biggest upsets","Wins the model gives the lowest chance, using each team's current rating.",ups.sort((p,q)=>p.pw-q.pw).slice(0,6).map(u=>{const x={b:u.o.b,c:u.w},sc=`${Math.max(u.g.hs,u.g.as)}–${Math.min(u.g.hs,u.g.as)}`;
+  return`${who(x)} beat <a href="${showUrl(u.o.b,u.l)}">${esc(nm(u.l))}</a> ${sc} · ${fmtDay(u.g.dt)} <span class="mut">(${pct(u.pw)} chance)</span>`}));
+ // national events
+ const nat=T.map(x=>{const gs=x.o.fxAll.filter(g=>g.hs!==null&&(g.h===x.c||g.a===x.c));if(gs.length<3)return null;let w=0,d=0,l=0,gf=0,ga=0;
+  for(const g of gs){const f=g.h===x.c?g.hs:g.as,a=g.h===x.c?g.as:g.hs;gf+=f;ga+=a;if(f>a)w++;else if(f<a)l++;else d++}return{...x,w,d,l,gf,ga,n:gs.length,p:(3*w+d)/gs.length}}).filter(Boolean);
+ add("Best at national events","Showcases and playoffs against teams from other conferences (3+ games).",nat.sort((p,q)=>q.p-p.p||(q.gf-q.ga)-(p.gf-p.ga)).slice(0,6).map(x=>`${who(x)}: ${x.w}-${x.d}-${x.l}, goals ${x.gf}–${x.ga}`));
+ // races (this season only)
+ if(!PAST){const sims=os.map(o=>({o,s:simulate(o)}));
+  const races=sims.map(({o,s})=>{const top=o.ids.map(c=>({c,p:s.res[c].p1})).sort((p,q)=>q.p-p.p);return{o,a:top[0],b:top[1]}}).filter(r=>r.b&&r.b.p>=.2&&r.a.p-r.b.p<=.2).sort((p,q)=>(p.a.p-p.b.p)-(q.a.p-q.b.p));
+  add("Closest title races","Chance of finishing first, from the season simulation.",races.slice(0,6).map(r=>`<b>${esc(baseConf(r.o.b.conf))}</b>: <a href="${showUrl(r.o.b,r.a.c)}">${esc(nm(r.a.c))}</a> ${pct(r.a.p)}, <a href="${showUrl(r.o.b,r.b.c)}">${esc(nm(r.b.c))}</a> ${pct(r.b.p)}`));
+  add(`On the ${tierName("cl")} bubble`,"Teams with a 35–65% chance of a spot under ECNL's rules.",sims.flatMap(({o,s})=>o.ids.filter(c=>s.res[c].pcl>=.35&&s.res[c].pcl<=.65).map(c=>({b:o.b,c,p:s.res[c].pcl}))).sort((p,q)=>Math.abs(p.p-.5)-Math.abs(q.p-.5)).slice(0,8).map(x=>`${who(x)}: ${pct(x.p)}`))}
+ // conference strength
+ const A=CADJ[age];if(A){const cs=Object.keys(A).filter(k=>k!=="mu").map(c=>({c,v:Math.exp(A.mu+A[c][0])-Math.exp(A.mu-A[c][1])})).sort((p,q)=>q.v-p.v),av=cs.reduce((x,y)=>x+y.v,0)/cs.length;
+  add("Strongest conferences",`From games between conferences at national events. <a href="?age=${age}&conf=national">National rankings →</a>`,cs.slice(0,3).map(x=>`<b>${esc(x.c)}</b>: ${x.v-av>=0?"+":"−"}${Math.abs(x.v-av).toFixed(2)} goals per game vs an average conference`))}
+ // clubs across all age groups (this gender)
+ const cl={};for(const b of DATA.brackets){const gs=parseGames(b).filter(g=>g.hs!==null),tb=table(gs,Object.keys(b.teams));tb.forEach((t,i)=>{if(!t.mp)return;const id=clubSlug(b,t.c),k=cl[id]||(cl[id]={name:clubName(b,t.c),slug:id,n:0,pos:0,pts:0,mp:0});k.n++;k.pos+=tb.length>1?i/(tb.length-1):0;k.pts+=t.pts;k.mp+=t.mp})}
+ add("Strongest clubs across age groups","Average table position over all of a club's teams (4+ teams), U13 to U18/19.",Object.values(cl).filter(k=>k.n>=4).sort((p,q)=>p.pos/p.n-q.pos/q.n).slice(0,6).map(k=>`<a href="?club=${k.slug}">${esc(k.name)}</a>: ${k.n} teams, ${(k.pts/k.mp).toFixed(2)} pts/game, average in the top ${Math.max(1,Math.round(k.pos/k.n*100))}%`));
+ $("insGrid").innerHTML=S.map(x=>`<div class="card"><h3>${x.t}</h3>${x.sub?`<div class="sub" style="margin:0">${x.sub}</div>`:""}<ol>${x.items.map(i=>`<li>${i}</li>`).join("")}</ol></div>`).join("")||`<div class="card"><div class="empty">Not enough games yet. Check back after a few weekends.</div></div>`}
 function drawAll(){drawMy();drawStand();drawH2H();drawPower();drawResults();drawPreds();drawAcc()}
 $("myTeam").onchange=e=>{myTeam=e.target.value;pin=null;try{localStorage.setItem(MYKEY,myTeam)}catch(err){}syncUrl();drawAll();drawTabs()};
 // share this exact view: the phone share sheet where there is one, else copy the link
@@ -1124,9 +1177,9 @@ if(PAST){const up=document.querySelector('nav a[href="#s-upcoming"]');if(up)up.r
  document.querySelector("#s-acc .sub").textContent="The model replayed over this whole season: each weekend predicted using only the games played before it, then checked against what happened.";
  $("foot").innerHTML=`Unofficial fan dashboard, not affiliated with ECNL. ${PAST} results from TotalGlobalSports, ECNL's results platform.`}
 // Home: this page with no options (opens the conference viewed last); a button on club, national and team pages
-{const home=location.pathname;$("brand").href=home;$("homeB").href=home;$("homeB").hidden=!(SHOW||CLUBQ||NATIONAL)}
+{const home=location.pathname;$("brand").href=home;$("homeB").href=home;$("homeB").hidden=!(SHOW||CLUBQ||MULTI)}
 if(SHOW){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s-upcoming","s-acc"])$(id).style.display="none";
- $("s-team").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-team">Overview</a><a href="#s-tsched">Schedule</a><a href="#s-topp">Opponents</a><a href="#s-about">How it works</a>';
+ $("s-team").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-team">Overview</a><a href="#s-tsched">Schedule</a><a href="#s-thist">Past seasons</a><a href="#s-topp">Opponents</a><a href="#s-about">How it works</a>';
  $("myTeam").closest(".follow").style.display="none";document.querySelector(".ctl").classList.add("nat");$("ppp").style.display="none";
  drawTeam(SHOW)}
 else if(CLUBQ){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s-upcoming","s-acc"])$(id).style.display="none";
@@ -1138,16 +1191,19 @@ else if(NATIONAL){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s
  $("myTeam").closest(".follow").style.display="none";document.querySelector(".ctl").classList.add("nat");
  $("natConf").innerHTML='<option value="">All conferences</option>'+DATA.brackets.filter(b=>b.age===B.age&&b.conf===baseConf(b.conf)).map(b=>`<option value="${slugC(b.conf)}">${b.conf}</option>`).join("");
  $("natConf").onchange=drawNational;drawNational()}
+else if(INSIGHTS){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s-upcoming","s-acc"])$(id).style.display="none";
+ $("s-ins").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-ins">Insights</a><a href="#s-about">How it works</a>';
+ $("myTeam").closest(".follow").style.display="none";document.querySelector(".ctl").classList.add("nat");drawInsights()}
 else drawAll();
 // say so when usage stats are on, with an opt-out that keeps the current view
 if(window.fa&&fa.enabled){const q=new URLSearchParams(location.search);q.set("fa","off");
  $("foot").insertAdjacentHTML("beforeend",` · Anonymous usage stats, no cookies (<a href="?${esc(String(q))}" data-notrack>opt out</a>)`)}
 // analytics (analytics/fa.js, inlined by refresh.py): one view per page with what it shows, so the report can tell
 // bracket / national / club / team pages, genders and teams apart
-try{const pre=PAST?PAST+" · ":"",fol=!SHOW&&!CLUBQ&&!NATIONAL&&myTeam?nm(myTeam):"",lg=DATA.brand||"ECNL";
- window.fa&&fa.view({view:SHOW?"team":CLUBQ?"club":NATIONAL?"national":"bracket",league:lg,season:PAST||"current",age:CLUBQ?"":B.age,conf:CLUBQ||NATIONAL?"":B.conf,
+try{const pre=PAST?PAST+" · ":"",fol=!SHOW&&!CLUBQ&&!MULTI&&myTeam?nm(myTeam):"",lg=DATA.brand||"ECNL";
+ window.fa&&fa.view({view:SHOW?"team":CLUBQ?"club":NATIONAL?"national":INSIGHTS?"insights":"bracket",league:lg,season:PAST||"current",age:CLUBQ?"":B.age,conf:CLUBQ||MULTI?"":B.conf,
   team:SHOW?nm(SHOW):"",club:CLUBQ?$("bracket").textContent:"",following:fol,
-  page:`${lg.replace("ECNL ","")} · `+pre+(SHOW?`Team · ${nm(SHOW)} ${B.age}`:CLUBQ?`Club · ${$("bracket").textContent}`:NATIONAL?`${B.age} National`:`${B.age} ${B.conf}`)})}catch(e){}
+  page:`${lg.replace("ECNL ","")} · `+pre+(SHOW?`Team · ${nm(SHOW)} ${B.age}`:CLUBQ?`Club · ${$("bracket").textContent}`:NATIONAL?`${B.age} National`:INSIGHTS?`${B.age} Insights`:`${B.age} ${B.conf}`)})}catch(e){}
 window.__debug={predict,fit,future,SIMS,mu,hadv,att,def,rho,power,tbl,first,simPts,bt};
 // "Report a problem" link in the footer: DATA.feedback is a form URL or an email address (FEEDBACK in refresh.py)
 if(DATA.feedback){const f=DATA.feedback,href=/^https?:/.test(f)?f:`mailto:${f}?subject=${encodeURIComponent(DATA.brand||"ECNL")+" dashboard"}&body=${encodeURIComponent("Page: "+location.href+"\n\n")}`;
