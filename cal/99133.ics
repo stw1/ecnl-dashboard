@@ -33,11 +33,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1075685-99133@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261004
+DTSTART:20261004T160000
+DURATION:PT2H
 SUMMARY:U13 Seattle United at XF 1
-DESCRIPTION:ECNL Boys · U13 Northwest · kickoff time not set yet\nhttps:/
- /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest&show=9913
- 3
+LOCATION:Marymoor Park - Field 1
+DESCRIPTION:ECNL Boys · U13 Northwest\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=northwest&show=99133
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northwest
  &show=99133
 END:VEVENT

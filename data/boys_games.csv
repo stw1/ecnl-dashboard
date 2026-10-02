@@ -1199,10 +1199,10 @@ U13,Northwest,1075667,2026-09-26 09:00,92623,99133,XF ECNL B2013/14 2,Seattle Un
 U13,Northwest,1075655,2026-09-26 11:00,111548,101929,PacNW SC ECNL B2013/14,Columbia Premier SC ECNL B2013/14,1,3,Starfire Sports - Field 3,2331,2322,PacNW,Columbia Premier Soccer Club
 U13,Northwest,1075661,2026-09-26 15:00,94143,104617,Washington Premier ECNL B2013/14,XF ECNL B2013/14 1,0,2,WPFC Field Complex - Field 3,112,3476,Washington Premier FC,Crossfire Premier
 U13,Northwest,1075673,2026-09-27 13:00,131399,135009,Snohomish United ECNL B2013/14,3RSC ECNL B2013/14,2,0,Snohomish High School - Lower Turf,2522,2229,Snohomish United,Three Rivers Soccer Club
-U13,Northwest,1075685,2026-10-04,104617,99133,XF ECNL B2013/14 1,Seattle United ECNL B2013/14,,,,3476,1643,Crossfire Premier,Seattle United
 U13,Northwest,1075691,2026-10-04 11:00,135009,90858,3RSC ECNL B2013/14,Eastside FC ECNL B2013/14,,,Kamiakin High School - Stadium,2229,398,Three Rivers Soccer Club,Eastside FC (WA)
 U13,Northwest,1075679,2026-10-04 15:00,101929,92623,Columbia Premier SC ECNL B2013/14,XF ECNL B2013/14 2,,,Harmony Sports Complex - Field 8,2322,3476,Columbia Premier Soccer Club,Crossfire Premier
 U13,Northwest,1075697,2026-10-04 15:00,131399,94143,Snohomish United ECNL B2013/14,Washington Premier ECNL B2013/14,,,Centennial Middle School - Field 1,2522,112,Snohomish United,Washington Premier FC
+U13,Northwest,1075685,2026-10-04 16:00,104617,99133,XF ECNL B2013/14 1,Seattle United ECNL B2013/14,,,Marymoor Park - Field 1,3476,1643,Crossfire Premier,Seattle United
 U13,Northwest,1075601,2026-10-10 11:00,99133,111548,Seattle United ECNL B2013/14,PacNW SC ECNL B2013/14,,,Shoreline A/B fields - Field A,1643,2331,Seattle United,PacNW
 U13,Northwest,1075709,2026-10-17,104617,135009,XF ECNL B2013/14 1,3RSC ECNL B2013/14,,,,3476,2229,Crossfire Premier,Three Rivers Soccer Club
 U13,Northwest,1075715,2026-10-17 09:00,90858,111548,Eastside FC ECNL B2013/14,PacNW SC ECNL B2013/14,,,PRESTON PARK ATHLETIC FIELDS - Field 1,398,2331,Eastside FC (WA),PacNW
@@ -2978,13 +2978,13 @@ U14,Northwest,1075632,2026-09-19 13:00,94668,135010,Columbia Premier SC ECNL B20
 U14,Northwest,1075644,2026-09-19 13:00,131398,90869,Snohomish United ECNL B2012/13,Eastside FC ECNL B2012/13,0,11,Snohomish High School - Lower Turf,2522,398,Snohomish United,Eastside FC (WA)
 U14,Northwest,1075650,2026-09-19 13:00,98188,94525,Washington Premier ECNL B2012/13,PacNW SC ECNL B2012/13,1,0,WPFC Field Complex - Field 3,112,2331,Washington Premier FC,PacNW
 U14,Northwest,1075662,2026-09-26 13:00,98188,82883,Washington Premier ECNL B2012/13,XF ECNL B2012/13 1,3,2,WPFC Field Complex - Field 4,112,3476,Washington Premier FC,Crossfire Premier
-U14,Northwest,1075668,2026-09-26 13:00,92619,84928,XF ECNL B2012/13 2,Seattle United ECNL B2012/13,5,2,Marymoor Park - Field 1,3476,1643,Crossfire Premier,Seattle United
+U14,Northwest,1075668,2026-09-26 13:00,92619,84928,XF ECNL B2012/13 2,Seattle United ECNL B2012/13,0,7,Marymoor Park - Field 1,3476,1643,Crossfire Premier,Seattle United
 U14,Northwest,1075656,2026-09-26 15:00,94525,94668,PacNW SC ECNL B2012/13,Columbia Premier SC ECNL B2012/13,,,Starfire Sports - Field 4,2331,2322,PacNW,Columbia Premier Soccer Club
 U14,Northwest,1075674,2026-09-27 11:00,131398,135010,Snohomish United ECNL B2012/13,3RSC ECNL B2012/13,0,9,Snohomish High School - Lower Turf,2522,2229,Snohomish United,Three Rivers Soccer Club
-U14,Northwest,1075686,2026-10-04,82883,84928,XF ECNL B2012/13 1,Seattle United ECNL B2012/13,,,,3476,1643,Crossfire Premier,Seattle United
 U14,Northwest,1075698,2026-10-04 09:00,131398,98188,Snohomish United ECNL B2012/13,Washington Premier ECNL B2012/13,,,Centennial Middle School - Field 1,2522,112,Snohomish United,Washington Premier FC
 U14,Northwest,1075680,2026-10-04 13:00,94668,92619,Columbia Premier SC ECNL B2012/13,XF ECNL B2012/13 2,,,Harmony Sports Complex - Field 9,2322,3476,Columbia Premier Soccer Club,Crossfire Premier
 U14,Northwest,1075692,2026-10-04 13:00,135010,90869,3RSC ECNL B2012/13,Eastside FC ECNL B2012/13,,,Kamiakin High School - Stadium,2229,398,Three Rivers Soccer Club,Eastside FC (WA)
+U14,Northwest,1075686,2026-10-04 16:00,82883,84928,XF ECNL B2012/13 1,Seattle United ECNL B2012/13,,,Marymoor Park - Field 2,3476,1643,Crossfire Premier,Seattle United
 U14,Northwest,1075602,2026-10-10 09:00,84928,94525,Seattle United ECNL B2012/13,PacNW SC ECNL B2012/13,,,Shoreline A/B fields - Field B,1643,2331,Seattle United,PacNW
 U14,Northwest,1075710,2026-10-17,82883,135010,XF ECNL B2012/13 1,3RSC ECNL B2012/13,,,,3476,2229,Crossfire Premier,Three Rivers Soccer Club
 U14,Northwest,1075716,2026-10-17 11:00,90869,94525,Eastside FC ECNL B2012/13,PacNW SC ECNL B2012/13,,,PRESTON PARK ATHLETIC FIELDS - Field 1,398,2331,Eastside FC (WA),PacNW
@@ -8807,9 +8807,9 @@ U18/19,Northwest,1075666,2026-09-26 13:00,59878,60435,Washington Premier ECNL B2
 U18/19,Northwest,1075672,2026-09-26 13:00,60439,46841,XF ECNL B2008/09 2,Seattle United ECNL B2008/09,2,3,Marymoor Park - Field 2,3476,1643,Crossfire Premier,Seattle United
 U18/19,Northwest,1075678,2026-09-27 11:00,131390,134993,Snohomish United ECNL B2008/09,3RSC ECNL B2008/09,3,2,Centennial Middle School - Field 1,2522,2229,Snohomish United,Three Rivers Soccer Club
 U18/19,Northwest,1075696,2026-10-04 11:00,134993,59853,3RSC ECNL B2008/09,Eastside FC ECNL B2008/09,,,Hanford High School - Stadium,2229,398,Three Rivers Soccer Club,Eastside FC (WA)
+U18/19,Northwest,1075690,2026-10-04 12:00,60435,46841,XF ECNL B2008/09,Seattle United ECNL B2008/09,,,Marymoor Park - Field 2,3476,1643,Crossfire Premier,Seattle United
 U18/19,Northwest,1075684,2026-10-04 13:00,46845,60439,Columbia Premier SC ECNL B2008/09,XF ECNL B2008/09 2,,,Harmony Sports Complex - Field 8,2322,3476,Columbia Premier Soccer Club,Crossfire Premier
 U18/19,Northwest,1075702,2026-10-04 13:00,131390,59878,Snohomish United ECNL B2008/09,Washington Premier ECNL B2008/09,,,Centennial Middle School - Field 1,2522,112,Snohomish United,Washington Premier FC
-U18/19,Northwest,1075690,2026-10-04 16:00,60435,46841,XF ECNL B2008/09,Seattle United ECNL B2008/09,,,Marymoor Park - Field 1,3476,1643,Crossfire Premier,Seattle United
 U18/19,Northwest,1075606,2026-10-10 09:00,46841,26470,Seattle United ECNL B2008/09,PacNW SC ECNL B2008/09,,,Shoreline A/B fields - Field A,1643,2331,Seattle United,PacNW
 U18/19,Northwest,1075714,2026-10-17,60435,134993,XF ECNL B2008/09,3RSC ECNL B2008/09,,,,3476,2229,Crossfire Premier,Three Rivers Soccer Club
 U18/19,Northwest,1075726,2026-10-17 09:00,46841,131390,Seattle United ECNL B2008/09,Snohomish United ECNL B2008/09,,,Field TBD,1643,2522,Seattle United,Snohomish United
