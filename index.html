@@ -603,14 +603,16 @@ const last5=c=>played.filter(g=>involves(g,c)).slice(-5).map(g=>{const v=fromRow
 const GROUPS=B.groups||{},grpTag=c=>GROUPS[c]?`<span class="grp-tag" title="${esc(GROUPS[c])} group">${esc(GROUPS[c])}</span>`:"";
 if(Object.keys(GROUPS).length){const gs=[...new Set(Object.values(GROUPS))].sort();document.querySelector("#s-table .sub").insertAdjacentHTML("beforeend",` This conference plays this age group in ${gs.join(" and ")} groups that also play each other; the table combines them.`)}
 let sortK="rk",sortDir=1;
-// a line under the last team of each postseason tier (table order only; grouped tables use the tags alone)
-const lineAfter=(r,i)=>{if(!HASPOST||sortK!=="rk"||sortDir<0||Object.keys(GROUPS).length||i===r.length-1)return"";
- const a=(r[i].today||{}).tier||"",b=(r[i+1].today||{}).tier||"";return a&&a!==b?(a==="cl"?" cut1":" cut2"):""};
+// a line under the last team of each postseason tier, by table position, so it shows before any games too
+// (grouped tables use the tags alone, since spots there depend on the group)
+const LINE=(()=>{if(!HASPOST||Object.keys(GROUPS).length)return{};const{t,wc}=postAssign(POST,tbl.map(r=>r.c),{});if(wc)t[wc]="wc";return t})();
+const lineAfter=(r,i)=>{if(sortK!=="rk"||sortDir<0||i===r.length-1)return"";
+ const a=LINE[r[i].c]||"",b=LINE[r[i+1].c]||"";return a&&a!==b?(a==="cl"?" cut1":" cut2"):""};
 function drawStand(){const r=srows.slice().sort((a,b)=>(a[sortK]-b[sortK])*sortDir||a.rk-b.rk);
  $("standings").innerHTML=`<thead><tr class="grp"><th class="team"></th><th colspan="9">Table so far</th><th colspan="${cols.length-10}" class="pj div">Projected finish</th></tr><tr>`+
   cols.map(([k,l,c,tip])=>`<th class="${c}${k===sortK?" sorted":""}"${k?` data-k="${k}"`:""}${tip?` title="${tip}"`:""}>${l}${k===sortK?(sortDir>0?" ▲":" ▼"):""}</th>`).join("")+"</tr></thead><tbody>"+
   r.map((t,i)=>`<tr class="${t.c===myTeam?"me":""}${lineAfter(r,i)}"><td class="t team${zt(t.today)}"><span class="rk">${t.rk}</span>${tlink(t.c,teamName(t.c))}${grpTag(t.c)}${tierChip(t.today)}</td><td>${t.mp}</td><td class="xs-hide">${t.w}</td><td class="xs-hide">${t.d}</td><td class="xs-hide">${t.l}</td><td class="mut xs-hide">${t.gf}–${t.ga}</td><td class="${t.gd>0?"pos":t.gd<0?"neg":""}">${t.gd>0?"+":""}${t.gd}</td><td class="pts">${t.pts}</td><td class="mut">${t.ppm.toFixed(2)}</td><td class="form">${last5(t.c)}</td><td class="pj div">${t.proj.toFixed(0)}</td>${HASPOST?`<td class="pj">${pbar(t.pcl)}</td>${OTHERT.length?`<td class="pj">${pbar(t.pany)}</td>`:""}`:`<td class="pj">${pbar(t.p4)}</td>`}<td class="pj">${pbar(t.p1)}</td></tr>`).join("")+"</tbody>";
- $("cutKey").innerHTML=HASPOST?postText(B)+(Object.keys(GROUPS).length?"":`<span><b>Lines</b> solid = last ${tierName("cl")} spot today, dashed = last spot of the other postseason events.</span>`):`<span><b>Top 4</b> isn't an official playoff line.</span>`;
+ $("cutKey").innerHTML=HASPOST?postText(B)+(Object.keys(GROUPS).length?"":`<span><b>Lines</b> solid = last ${tierName("cl")} spot${(d=>d.length?`, dashed = ${d.join(" and ")}`:"")([...(POST.some(s=>s[2]==="wc")?["the wildcard spot"]:[]),...(OTHERT.length?["the last spot of each other postseason event"]:[])])}.</span>`)+(played.length?"":`<span><b>No games yet</b> in this age group, so the order${Object.keys(GROUPS).length?"":" (and who's above each line)"} means nothing yet. See the Champ. League column for each team's chances.</span>`):`<span><b>Top 4</b> isn't an official playoff line.</span>`;
  document.querySelectorAll("#standings th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK===k)sortDir*=-1;else{sortK=k;sortDir=["rk","l"].includes(k)?1:-1}drawStand()});}
 
 // H2H matrix
