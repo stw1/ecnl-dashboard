@@ -17,7 +17,7 @@ Unofficial standings, predictions and national rankings for every ECNL Boys and 
   conferences at ECNL national events and the playoffs.
 - **Club pages** (all of a club's teams) and **team pages**, including where the same players finished in earlier seasons.
 - **Past seasons** back to 2020–21, and each team's previous seasons on its team page.
-- **Insights:** the interesting stuff for each age group, such as turnarounds from last season, unbeaten teams, upsets, streaks, title races and playoff bubble teams.
+- **Insights:** the interesting stuff for each age group. **This week** covers upsets, table climbers, first wins, ended unbeaten runs, playoff-chance swings and how the model did, for any week of the season. **Season so far** covers turnarounds from last season, unbeaten teams, streaks, title races and playoff bubble teams.
 - **Calendars:** subscribe to any team's schedule on iPhone, Mac or Google Calendar; it updates by itself.
 - **Matches ECNL's official standings:** every record and position, checked after each update.
 - **Follow a team:** shareable links (`?age=U14&conf=northwest&team=seattle-united`), "new since your last visit"

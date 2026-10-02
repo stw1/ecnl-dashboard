@@ -96,6 +96,7 @@ table tbody tr.me td,table tbody tr.me:hover td{background:#fef9c3}table tbody t
 table.st td.team.zt-cl{box-shadow:inset 3px 0 #14b8a6}table.st td.team.zt-pi{box-shadow:inset 3px 0 #38bdf8}table.st td.team.zt-nac{box-shadow:inset 3px 0 #3b82f6}table.st td.team.zt-sa{box-shadow:inset 3px 0 #f59e0b}table.st td.team.zt-sb{box-shadow:inset 3px 0 #94a3b8}table.st td.team.zt-wc{box-shadow:inset 3px 0 #94a3b8}
 @media(max-width:700px){#standings .pchip,#natTable .pchip{display:none}}
 .cstr{margin-top:8px;line-height:1.9}.cstr span{display:inline-block;margin-right:12px;white-space:nowrap}
+.insw-h{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;justify-content:space-between}.insw-h h2{margin:0}#insWk{padding:5px 8px;font:inherit;font-size:13px;border:1px solid var(--line);border-radius:7px;background:var(--card);color:var(--ink)}
 .insg{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}.insg .card h3{margin:0 0 2px;font-size:15px}.insg ol{margin:8px 0 0;padding-left:20px}.insg li{margin:5px 0;font-size:13.5px;line-height:1.45}.insg li .mut{font-size:12px}
 @media(max-width:900px){.insg{grid-template-columns:1fr}}
 .phist td,.phist th{white-space:nowrap}.phist .fin{display:inline-block;width:52px;height:6px;border-radius:3px;background:#e2e8f0;overflow:hidden;vertical-align:middle;margin-left:6px}.phist .fin b{display:block;height:100%;background:var(--teal)}
@@ -456,7 +457,11 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="card" id="s-acc"><h2>How accurate are the predictions?</h2>
 <div class="sub">Each weekend is re-predicted using only the games played before it, then compared with what actually happened, so the model never gets to peek at the result. "Too close to call" counts as a draw pick. With only a few weekends played, these numbers will be rough.</div>
 <div id="acc"></div><button class="btn" id="accMore"></button></div>
-<div id="s-ins" style="display:none"><div class="card"><h2 id="insTitle"></h2><div class="sub" id="insSub"></div></div><div class="insg" id="insGrid"></div></div>
+<div id="s-ins" style="display:none"><div class="card"><h2 id="insTitle"></h2><div class="sub" id="insSub"></div></div>
+<div class="card" id="s-insw"><div class="insw-h"><h2 id="insWkTitle">This week</h2><label class="mut" style="font-size:13px">Week <select id="insWk"></select></label></div><div class="sub" id="insWkSub" style="margin-bottom:0"></div></div>
+<div class="insg" id="insWeek"></div>
+<div class="card" id="s-inss"><h2>Season so far</h2><div class="sub" style="margin:0">The whole season up to now, not just the latest week.</div></div>
+<div class="insg" id="insGrid"></div></div>
 <div class="card" id="s-nat" style="display:none"><h2 id="natTitle"></h2>
 <div class="sub">Every team in this age group, ranked by the model's rating: the goal margin per game it would expect against an average team <b id="natVs">in its own conference</b>, adjusted for the opponents each team has actually played<span id="natFlex"></span>. Ratings are pulled toward average when a team has played only a few games, so a hot start counts for less than a long run.</div>
 <div class="note" id="natNote" style="display:block;margin:0 0 14px"><b>Read this as "how dominant is each team in its own conference".</b> Conferences don't play each other in the regular season, so no result tells us whether one conference is stronger than another. This list treats every conference as equally strong. <span id="natPpp"></span></div>
@@ -1124,8 +1129,52 @@ function drawNational(){const age=B.age,rows=natRows(age),reg=rows.filter(r=>r.b
  $("natPpp").textContent=ppp.length?"Pro Player Pathway conferences are a separate pool of pro academies, so they're ranked in their own table below.":"";
  $("natPppWrap").innerHTML=ppp.length?`<h3>Pro Player Pathway</h3><p>Ranked among themselves; ratings aren't comparable with the main list.</p><div class="scroll"><table class="st nat" id="natPpp2">${tableHtml(ppp,rankOf(ppp))}</table></div>`:"";
  document.querySelectorAll(".nat th[data-k]").forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(natK===k)natDir*=-1;else{natK=k;natDir=k==="conf"?1:-1}drawNational()});}
+// Insights, week to week: how one week (Monday to Sunday) changed things. Each conference is rebuilt as it stood just
+// before the week (games from that Monday on count as unplayed; ratings refit on the earlier games) and just after it
+const isoD=D=>`${D.getFullYear()}-${String(D.getMonth()+1).padStart(2,"0")}-${String(D.getDate()).padStart(2,"0")}`;
+const mondayOf=d=>{const D=day(d);D.setDate(D.getDate()-(D.getDay()+6)%7);return isoD(D)};
+const addDays=(iso,n)=>{const D=day(iso);D.setDate(D.getDate()+n);return isoD(D)};
+function stateBefore(o,cut){const pl=o.pl.filter(g=>g.dt.slice(0,10)<cut),fx=ratable(o.fxAll,o.b.teams).filter(g=>g.dt.slice(0,10)<cut);
+ return{b:o.b,ids:o.ids,IX:o.IX,gs:o.gs,pl,fuAll:o.gs.filter(g=>g.hs===null||g.dt.slice(0,10)>=cut),m:fit(pl.concat(fx),o.IX,o.ids.length,priorArr(o.b,o.ids)),tb:table(pl,o.ids)}}
+let insWk=0;
+function drawWeekend(os){const W=[];
+ const mons=[...new Set(os.flatMap(o=>o.pl.map(g=>mondayOf(g.dt))))].sort().reverse();
+ if(!mons.length){$("s-insw").style.display="none";$("insWeek").innerHTML="";return}
+ $("insWk").innerHTML=mons.map((m,i)=>`<option value="${i}"${i===insWk?" selected":""}>${fmtDay(m).replace(/^\w+, /,"")} – ${fmtDay(addDays(m,6)).replace(/^\w+, /,"")}${i?"":" (latest)"}</option>`).join("");
+ $("insWk").onchange=e=>{insWk=+e.target.value;drawWeekend(os)};
+ const mon=mons[insWk],next=addDays(mon,7),inW=g=>{const d=g.dt.slice(0,10);return d>=mon&&d<next};
+ const who=(b,c)=>`<a href="${showUrl(b,c)}">${esc(nm(c))}</a> <span class="mut">${esc(baseConf(b.conf))}</span>`,add=(t,sub,items)=>{if(items.length)W.push({t,sub,items})};
+ const st=os.map(o=>{const pre=stateBefore(o,mon),post=stateBefore(o,next),wk=o.pl.filter(inW);return{o,pre,post,wk}}).filter(x=>x.wk.length);
+ const all=st.flatMap(x=>x.wk.map(g=>({x,g,p:predict(g.h,g.a,x.pre.m)})));
+ const right=all.filter(({g,p})=>{const r=g.hs>g.as?"H":g.hs<g.as?"A":"D",k=Math.abs(p.pH-p.pA)<.05?"D":p.pH>p.pA?"H":"A";return r===k}).length,goals=all.reduce((a,{g})=>a+g.hs+g.as,0);
+ const md=d=>fmtDay(d).replace(/^\w+, /,"");$("insWkTitle").textContent=`Week of ${md(mon)} – ${md(addDays(mon,6))}`;
+ $("insWkSub").innerHTML=`${all.length} ${B.age} conference game${all.length===1?"":"s"} in ${st.length} conference${st.length===1?"":"s"}, ${goals} goals (${(goals/(all.length||1)).toFixed(1)} a game). Predicting each one from only the games before that week, the model called <b>${right} of ${all.length}</b> results (${pct(right/(all.length||1))}). Pick an earlier week above.`;
+ // upsets by the odds going in, and the biggest wins
+ add("Upsets","Wins the model gave the lowest chance going into the week.",all.filter(({g})=>g.hs!==g.as).map(a=>({...a,pw:a.g.hs>a.g.as?a.p.pH:a.p.pA})).filter(a=>a.pw<.3).sort((p,q)=>p.pw-q.pw).slice(0,6).map(({x,g,pw})=>{const w=g.hs>g.as?g.h:g.a,l=w===g.h?g.a:g.h;
+  return`${who(x.o.b,w)} beat <a href="${showUrl(x.o.b,l)}">${esc(nm(l))}</a> ${Math.max(g.hs,g.as)}–${Math.min(g.hs,g.as)} <span class="mut">(${pct(pw)} chance)</span>`}));
+ add("Biggest wins","",all.filter(({g})=>Math.abs(g.hs-g.as)>=4).sort((p,q)=>Math.abs(q.g.hs-q.g.as)-Math.abs(p.g.hs-p.g.as)).slice(0,5).map(({x,g})=>{const w=g.hs>g.as?g.h:g.a,l=w===g.h?g.a:g.h;
+  return`${who(x.o.b,w)} ${Math.max(g.hs,g.as)}–${Math.min(g.hs,g.as)} over <a href="${showUrl(x.o.b,l)}">${esc(nm(l))}</a>`}));
+ // movement in the tables (teams that played)
+ const mv=st.flatMap(x=>{const played=new Set(x.wk.flatMap(g=>[g.h,g.a])),rb=Object.fromEntries(x.pre.tb.map((t,i)=>[t.c,{i:i+1,t}])),ra=Object.fromEntries(x.post.tb.map((t,i)=>[t.c,{i:i+1,t}]));
+  return[...played].filter(c=>rb[c]&&ra[c]&&rb[c].t.mp).map(c=>({b:x.o.b,c,from:rb[c].i,to:ra[c].i,n:x.o.ids.length,pre:rb[c].t,post:ra[c].t}))});
+ const mvl=m=>`${who(m.b,m.c)}: ${ordn(m.from)} → ${ordn(m.to)} of ${m.n}`;
+ add("Climbers","Biggest moves up the table this week.",mv.filter(m=>m.from-m.to>=2).sort((p,q)=>(q.from-q.to)-(p.from-p.to)).slice(0,6).map(mvl));
+ add("Slipping","Biggest moves down.",mv.filter(m=>m.to-m.from>=2).sort((p,q)=>(q.to-q.from)-(p.to-p.from)).slice(0,6).map(mvl));
+ add("Firsts and endings","",[...mv.filter(m=>!m.pre.w&&m.post.w).map(m=>`${who(m.b,m.c)}: first win of the season, at game ${m.post.mp}`),
+  ...mv.filter(m=>!m.pre.l&&m.pre.mp>=3&&m.post.l).map(m=>`${who(m.b,m.c)}: unbeaten run ended after ${m.pre.mp} games`),
+  ...mv.filter(m=>m.pre.w===m.pre.mp&&m.pre.mp>=3&&m.post.w<m.post.mp).map(m=>`${who(m.b,m.c)}: perfect record (${m.pre.mp}-0-0) ended`)].slice(0,8));
+ // postseason chances before vs after (this season only)
+ if(!PAST){const ch=st.flatMap(x=>{const a=simulate(x.pre).res,b2=simulate(x.post).res;return x.o.ids.map(c=>({b:x.o.b,c,d:b2[c].pcl-a[c].pcl,from:a[c].pcl,to:b2[c].pcl}))}),cl=tierName("cl");
+  const chl=m=>`${who(m.b,m.c)}: ${pct(m.from)} → ${pct(m.to)}`;
+  add(`${cl} chances up`,"From the season simulation, run as of before and after the week.",ch.filter(m=>m.d>=.1).sort((p,q)=>q.d-p.d).slice(0,6).map(chl));
+  add(`${cl} chances down`,"",ch.filter(m=>m.d<=-.1).sort((p,q)=>p.d-q.d).slice(0,6).map(chl))}
+ // national events that weekend: each conference's record against the others
+ const seen=new Set(),rec={};for(const o of os)for(const g of o.fxAll){if(g.hs===null||!inW(g)||seen.has(g.id))continue;const ch=BOF[g.h],ca=BOF[g.a];if(!ch||!ca||ch.age!==ca.age||ch.conf===ca.conf)continue;seen.add(g.id);
+  for(const[c,f,a]of[[ch.conf,g.hs,g.as],[ca.conf,g.as,g.hs]]){const r=rec[c]||(rec[c]={w:0,d:0,l:0,gf:0,ga:0});r.gf+=f;r.ga+=a;r[f>a?"w":f<a?"l":"d"]++}}
+ add("At national events","Each conference's record against the others at that week's showcases.",Object.entries(rec).map(([c,r])=>({c,...r,n:r.w+r.d+r.l,p:(3*r.w+r.d)/(r.w+r.d+r.l)})).filter(r=>r.n>=3).sort((p,q)=>q.p-p.p||(q.gf-q.ga)-(p.gf-p.ga)).slice(0,8).map(r=>`<b>${esc(r.c)}</b>: ${r.w}-${r.d}-${r.l}, goals ${r.gf}–${r.ga}`));
+ $("insWeek").innerHTML=W.map(x=>`<div class="card"><h3>${x.t}</h3>${x.sub?`<div class="sub" style="margin:0">${x.sub}</div>`:""}<ol>${x.items.map(i=>`<li>${i}</li>`).join("")}</ol></div>`).join("")}
 // Insights (?conf=insights): interesting facts about one age group across every conference
-function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).map(bracketInfo),H=DATA.hist||{},S=[],MIN=3;
+function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).map(bracketInfo),H=DATA.hist||{},S=[],MIN=3;drawWeekend(os);
  const T=os.flatMap(o=>o.tb.map((t,i)=>({o,b:o.b,c:t.c,t,rk:i+1,n:o.ids.length}))),act=T.filter(x=>x.t.mp>=MIN);
  const who=x=>`<a href="${showUrl(x.b,x.c)}">${esc(nm(x.c))}</a> <span class="mut">${esc(baseConf(x.b.conf))}</span>`;
  const ppg=t=>t.mp?t.pts/t.mp:0,rec=t=>`${t.w}-${t.d}-${t.l}`,f2=x=>x.toFixed(2),add=(t,sub,items)=>{if(items.length)S.push({t,sub,items})};
@@ -1192,7 +1241,7 @@ else if(NATIONAL){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s
  $("natConf").innerHTML='<option value="">All conferences</option>'+DATA.brackets.filter(b=>b.age===B.age&&b.conf===baseConf(b.conf)).map(b=>`<option value="${slugC(b.conf)}">${b.conf}</option>`).join("");
  $("natConf").onchange=drawNational;drawNational()}
 else if(INSIGHTS){for(const id of["myCard","kpis","s-table","s-h2h","s-grid2","s-upcoming","s-acc"])$(id).style.display="none";
- $("s-ins").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-ins">Insights</a><a href="#s-about">How it works</a>';
+ $("s-ins").style.display="";document.querySelector("nav .wrap").innerHTML='<a href="#s-insw">This week</a><a href="#s-inss">Season so far</a><a href="#s-about">How it works</a>';
  $("myTeam").closest(".follow").style.display="none";document.querySelector(".ctl").classList.add("nat");drawInsights()}
 else drawAll();
 // say so when usage stats are on, with an opt-out that keeps the current view

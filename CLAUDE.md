@@ -144,6 +144,14 @@ predictions?" is a walk-forward backtest of the current model.
   title races and Champions League bubble teams (season sim, this season only), strongest conferences (`DATA.confAdj`)
   and the strongest clubs across age groups (average table position, 4+ teams). Teams need 3+ games. It works on past
   season pages too.
+- **Insights, week to week** ("This week" at the top, with a menu of every week of the season; `drawWeekend`): each
+  conference is rebuilt as it stood just before the chosen Monday-to-Sunday week and just after it (`stateBefore`: games
+  from the cut date on count as unplayed, and ratings are refit on the earlier games with the same priors). It shows
+  the model's record that week (predicted from only the earlier games), upsets by the odds going in, the biggest wins,
+  table climbers and fallers, first wins and ended unbeaten or perfect runs, Champions League chance changes (season sim
+  before vs after, this season only) and each conference's record at that week's national events. Everything comes
+  from game dates, so there's no stored history to keep. The season sim treats ratings as exact, so early-season
+  chances can swing a lot in one week.
 - **Team pages: "Previous seasons"** lists this season and every earlier one for the same players: finish (with a bar),
   W-D-L, points per game and goals, each linked to that season's team page. A line compares last season with now and
   gives the best finish. "In other age groups" lists the club's other teams (matched by club id).
