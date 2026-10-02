@@ -480,7 +480,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="card about" id="s-about"><h2>How the predictions work</h2>
 <div class="cols">
 <div><h3>Team ratings</h3><p>Each team gets an <b>attack</b> and a <b>defense</b> rating, fit to every completed game with a Poisson goals model, the standard approach for predicting soccer scores. Expected goals for the home side = league average × home edge × home attack × away defense weakness, and likewise for the away side. Home teams currently get <span id="hadv"></span> more goals in the model.<span id="priorTxt"> Each team starts the season from last season's rating, at three-quarters strength: the average of the same players one age group younger and the club's team at this age. This season's results take over as games are played. Replaying this season so far, it lifts correct picks from 52% to 59% (boys) and 55% to 65% (girls).</span></p></div>
-<div><h3>From ratings to odds</h3><p>From the two expected-goal numbers the model works out the chance of every scoreline (0–0, 1–0, 2–1, …), which gives the win, draw and loss chances and the most likely score. A small Dixon-Coles adjustment makes 0–0 and 1–1 a bit more likely (and 1–0 and 0–1 a bit less), because plain Poisson models under-predict draws; its strength is estimated from the results so far (currently <span id="rho"></span>). The pick is the more likely winner, or "too close to call" when the two are within 5 points; the margin is the expected goal difference, rounded. The projected finish plays out every remaining game 10,000 times using those chances.</p></div>
+<div><h3>From ratings to odds</h3><p>From the two expected-goal numbers the model works out the chance of every scoreline (0–0, 1–0, 2–1, …), which gives the win, draw and loss chances and the most likely score. A small Dixon-Coles adjustment makes 0–0 and 1–1 a bit more likely (and 1–0 and 0–1 a bit less), because plain Poisson models under-predict draws; its strength is estimated from the results so far (currently <span id="rho"></span>). The pick is the more likely winner, or "too close to call" when the two are within 5 points; the margin is the expected goal difference, rounded. The projected finish plays out every remaining game 10,000 times using those chances. Each run also redraws every team's rating within how sure the model is about it, which is wide after a few games and narrow late in the season, so early-season chances don't swing as hard. Checked on two past seasons, this made the playoff and title chances more accurate, most of all early on.</p></div>
 <div><h3>The standings</h3><p>Tables follow ECNL's rules: 3 points for a win, 1 for a tie, ranked by points per game, then head-to-head (two-team ties only), total goal difference and total goals scored. After every update all tables are checked against ECNL's official standings. On October 2, 2026 every record and position matched for all 1,812 teams.</p></div>
 <div><h3>National rankings</h3><p>Conferences don't play each other in the regular season, but they meet at ECNL national events (Phoenix, Florida, Las Vegas and others) and the playoffs. Those games set each conference's strength, starting from last season's and updated as this season's events are played. A team's national rating is its rating inside its conference plus its conference's strength. Checked on past seasons, this predicted games between conferences better than treating every conference as equal (correct picks about 50% → 55%).</p></div>
 <div><h3>Postseason chances</h3><p>Each simulated season ends with ECNL's official 2026–27 qualification rules for that conference and age group: how many teams reach the Champions League (ECNL National Playoffs) and, for the girls, the North American Cup and Showcase Cups. That includes the top teams in each group, wildcards and play-ins. A wildcard spot goes to whichever of two conferences' teams has more points per game, so the two conferences' seasons are simulated side by side. League Cup winners can't be predicted from this data, so a spot that the League Cup winner can take is treated as going to the team in the table.</p></div>
@@ -572,6 +572,19 @@ const PRIOR=priorArr(B,codes);
 const M=fit(played.concat(flexPlayed),ix,N,PRIOR),{mu,hadv,att,def,rho}=M;
 const lamM=(m,h,a)=>{const I=m.IX||ix;return[Math.exp(m.mu+m.hadv+m.att[I[h]]-m.def[I[a]]),Math.exp(m.mu+m.att[I[a]]-m.def[I[h]])]};
 const lam=(h,a)=>lamM(M,h,a);
+// Rating uncertainty in the season sim: each run plays with ratings drawn around the fitted ones, att ~ N(att, (UNC·sa)²)
+// and def likewise. sa/sd come from the fit's curvature (1/sqrt(1/SIG² + expected goals the team was involved in)), so
+// they are wide after a few games and narrow late in the season. SIMK scenarios, each with its own scoreline tables
+// (UNC = 1.0 chosen by scripts/simcheck.py on 2024-25 and 2025-26: log-loss of P(top 4) 0.304 -> 0.290, Brier 0.094 ->
+// 0.093, biggest gains early in the season; x1.5 was worse. 0 = ratings treated as exact)
+const UNC=1.0,SIMK=20;
+function scoreTables(m,fitGames,list,IX,n,rnd){const z=()=>{let u=0;while(!u)u=rnd();return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*rnd())};
+ const la=new Float64Array(n),ld=new Float64Array(n);
+ for(const g of fitGames){const i=IX[g.h],j=IX[g.a];if(i===undefined||j===undefined)continue;const[lh,lw]=lamM(m,g.h,g.a);la[i]+=lh;la[j]+=lw;ld[j]+=lh;ld[i]+=lw}
+ const sa=[...la].map(x=>1/Math.sqrt(1/SIG**2+x)),sd=[...ld].map(x=>1/Math.sqrt(1/SIG**2+x)),out=[];
+ for(let k=0;k<(UNC?SIMK:1);k++){const mk={...m,att:m.att.map((v,i)=>v+(UNC?UNC*sa[i]*z():0)),def:m.def.map((v,i)=>v+(UNC?UNC*sd[i]*z():0))};
+  out.push(list.map(g=>{const[lh,lw]=lamM(mk,g.h,g.a),cum=new Float64Array(121);let t=0;for(let q=0;q<121;q++){t+=pxy(q/11|0,q%11,lh,lw,m.rho);cum[q]=t}return[g.h,g.a,cum]}))}
+ return out}
 function predict(h,a,m=M){const[lh,la]=lamM(m,h,a),r=m.rho;let pH=0,pD=0,pA=0,best=[0,0,0];
  for(let x=0;x<=10;x++)for(let y=0;y<=10;y++){const p=pxy(x,y,lh,la,r);if(x>y)pH+=p;else if(x===y)pD+=p;else pA+=p;if(p>best[2])best=[x,y,p];}
  const s=pH+pD+pA;pH/=s;pD/=s;pA/=s;const xgd=lh-la;
@@ -655,9 +668,9 @@ const SIMS=10000,simPts=Object.fromEntries(codes.map(c=>[c,0])),first=Object.fro
 // final matches played per team, so the simulated table can rank by points per match like the real one
 const finMp=Object.fromEntries(codes.map(c=>[c,games.filter(g=>g.h===c||g.a===c).length||1]));
 const tierCnt=Object.fromEntries(codes.map(c=>[c,{}])),wcRuns=[],addT=(c,k)=>tierCnt[c][k]=(tierCnt[c][k]||0)+1;
-const base=Object.fromEntries(tbl.map(t=>[t.c,{pts:t.pts,gd:t.gd,gf:t.gf}]));const fl=unplayed.map(g=>{const[lh,la]=lam(g.h,g.a),cum=new Float64Array(121);let t=0;for(let k=0;k<121;k++){t+=pxy(k/11|0,k%11,lh,la,rho);cum[k]=t}return[g.h,g.a,cum]});
+const base=Object.fromEntries(tbl.map(t=>[t.c,{pts:t.pts,gd:t.gd,gf:t.gf}]));const fls=scoreTables(M,played.concat(flexPlayed),unplayed,ix,N,rnd);
 for(let s=0;s<SIMS;s++){const S=Object.fromEntries(codes.map(c=>[c,{...base[c]}]));
- for(const[h,a,cum]of fl){const k=sample(cum),x=k/11|0,y=k%11;S[h].gd+=x-y;S[a].gd+=y-x;S[h].gf+=x;S[a].gf+=y;if(x>y)S[h].pts+=3;else if(y>x)S[a].pts+=3;else{S[h].pts++;S[a].pts++}}
+ for(const[h,a,cum]of fls[s%fls.length]){const k=sample(cum),x=k/11|0,y=k%11;S[h].gd+=x-y;S[a].gd+=y-x;S[h].gf+=x;S[a].gf+=y;if(x>y)S[h].pts+=3;else if(y>x)S[a].pts+=3;else{S[h].pts++;S[a].pts++}}
  const ord=codes.slice().sort((p,q)=>S[q].pts/finMp[q]-S[p].pts/finMp[p]||S[q].gd-S[p].gd||S[q].gf-S[p].gf||rnd()-.5);
  first[ord[0]]++;ord.slice(0,4).forEach(c=>top4[c]++);codes.forEach(c=>simPts[c]+=S[c].pts);
  if(HASPOST){const{t,wc}=postAssign(POST,ord,B.groups||{});for(const c in t)addT(c,t[c]);if(wc)wcRuns.push([wc,S[wc].pts/finMp[wc],S[wc].gd/finMp[wc],S[wc].gf/finMp[wc]])}}
@@ -966,11 +979,11 @@ const netOf=(o,c)=>{const i=o.IX[c];return Math.exp(o.m.mu+o.m.att[i])-Math.exp(
 // simRaw: postseason tiers without the wildcard, plus each run's wildcard team; simulate adds the wildcard
 function simRaw(o,S=2000){if(o.raw)return o.raw;const{ids,fuAll:fu,m,tb,b}=o,steps=PAST?[]:b.post||[];
  const base=Object.fromEntries(tb.map(t=>[t.c,t])),fin=Object.fromEntries(ids.map(c=>[c,o.gs.filter(g=>g.h===c||g.a===c).length||1]));
- const fl=fu.map(g=>{const[lh,la]=lamM(m,g.h,g.a),cum=new Float64Array(121);let t=0;for(let k=0;k<121;k++){t+=pxy(k/11|0,k%11,lh,la,m.rho);cum[k]=t}return[g.h,g.a,cum]});
  const res=Object.fromEntries(ids.map(c=>[c,{p1:0,pts:0,t:{}}])),wcS=[];let sd=777;const rn=()=>{sd=(sd*1664525+1013904223)>>>0;return sd/4294967296};
+ const fls=scoreTables(m,o.pl.concat(o.fx||[]),fu,o.IX,ids.length,rn);
  const smp=cum=>{const u=rn()*cum[120];let lo=0,hi=120;while(lo<hi){const md=lo+hi>>1;if(cum[md]<u)lo=md+1;else hi=md}return lo};
  for(let s=0;s<S;s++){const P={},GD={},GF={};for(const c of ids){P[c]=base[c].pts;GD[c]=base[c].gd;GF[c]=base[c].gf}
-  for(const[h,a,cum]of fl){const k=smp(cum),x=k/11|0,y=k%11;GD[h]+=x-y;GD[a]+=y-x;GF[h]+=x;GF[a]+=y;if(x>y)P[h]+=3;else if(y>x)P[a]+=3;else{P[h]++;P[a]++}}
+  for(const[h,a,cum]of fls[s%fls.length]){const k=smp(cum),x=k/11|0,y=k%11;GD[h]+=x-y;GD[a]+=y-x;GF[h]+=x;GF[a]+=y;if(x>y)P[h]+=3;else if(y>x)P[a]+=3;else{P[h]++;P[a]++}}
   const ord=ids.slice().sort((p,q)=>P[q]/fin[q]-P[p]/fin[p]||GD[q]-GD[p]||GF[q]-GF[p]||rn()-.5);res[ord[0]].p1++;
   if(steps.length){const{t,wc}=postAssign(steps,ord,b.groups||{});for(const c in t)res[c].t[t[c]]=(res[c].t[t[c]]||0)+1;if(wc)wcS.push([wc,P[wc]/fin[wc],GD[wc]/fin[wc],GF[wc]/fin[wc]])}
   for(const c of ids)res[c].pts+=P[c]}
@@ -1135,7 +1148,7 @@ const isoD=D=>`${D.getFullYear()}-${String(D.getMonth()+1).padStart(2,"0")}-${St
 const mondayOf=d=>{const D=day(d);D.setDate(D.getDate()-(D.getDay()+6)%7);return isoD(D)};
 const addDays=(iso,n)=>{const D=day(iso);D.setDate(D.getDate()+n);return isoD(D)};
 function stateBefore(o,cut){const pl=o.pl.filter(g=>g.dt.slice(0,10)<cut),fx=ratable(o.fxAll,o.b.teams).filter(g=>g.dt.slice(0,10)<cut);
- return{b:o.b,ids:o.ids,IX:o.IX,gs:o.gs,pl,fuAll:o.gs.filter(g=>g.hs===null||g.dt.slice(0,10)>=cut),m:fit(pl.concat(fx),o.IX,o.ids.length,priorArr(o.b,o.ids)),tb:table(pl,o.ids)}}
+ return{b:o.b,ids:o.ids,IX:o.IX,gs:o.gs,pl,fx,fuAll:o.gs.filter(g=>g.hs===null||g.dt.slice(0,10)>=cut),m:fit(pl.concat(fx),o.IX,o.ids.length,priorArr(o.b,o.ids)),tb:table(pl,o.ids)}}
 let insWk=0;
 function drawWeekend(os){const W=[];
  const mons=[...new Set(os.flatMap(o=>o.pl.map(g=>mondayOf(g.dt))))].sort().reverse();

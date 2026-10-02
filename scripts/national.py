@@ -115,7 +115,7 @@ def discover(known, ahead=120):
             found.append(ev); print(f"  new national event {ev}: {name.strip()}", flush=True)
     return found
 
-def current(brackets_by_gender):
+def current(brackets_by_gender, force=False):
     """This season's cross-conference games so far -> data/cross.csv (called by refresh.py). Newly listed national
     events are found by id and remembered in data/national_events.json."""
     path = f"{ROOT}/data/national_events.json"
@@ -124,6 +124,9 @@ def current(brackets_by_gender):
     json.dump(events, open(path, "w"))
     index = {refresh.SEASON: {t: (g, b["age"], b["conf"]) for g, bs in brackets_by_gender.items() for b in bs for t in b["teams"]}}
     rows, allg = collect(events, index, everything=True)
+    old = read(f"{ROOT}/data/cross.csv")
+    if not force and len(rows) < 0.9 * len(old):  # played cross-conference games only grow during a season
+        raise RuntimeError(f"{len(rows)} cross-conference games, was {len(old)}")
     write(f"{ROOT}/data/cross.csv", rows)
     with open(f"{ROOT}/data/national_games.csv", "w", newline="") as f:
         w = csv.DictWriter(f, GAME_FIELDS); w.writeheader(); w.writerows(allg)

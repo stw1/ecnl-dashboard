@@ -361,9 +361,30 @@ def build(gender, brackets, games, meta):
         print(f"Built {page_file(gender, s)} ({size//1024} KB): {len(pb)} brackets")
     return cals
 
+def feed_problems(gender, brackets, games):
+    """Signs that the feed came back broken or half-empty, compared with the last good download in data/. Played games
+    and teams only grow during a season (a few reschedules aside), so a real drop means something is wrong upstream."""
+    try:
+        old_b, old_g = load(gender)
+    except OSError:
+        return []
+    out = []
+    played = lambda gs: sum(1 for g in gs if str(g["home_score"]) != "")
+    teams = lambda bs: sum(len(b["teams"]) for b in bs)
+    if len(brackets) < len(old_b):
+        out.append(f"{len(brackets)} brackets, was {len(old_b)}")
+    if teams(brackets) < 0.95 * teams(old_b):
+        out.append(f"{teams(brackets)} teams, was {teams(old_b)}")
+    if len(games) < 0.9 * len(old_g):
+        out.append(f"{len(games)} games, was {len(old_g)}")
+    if played(games) < played(old_g) - max(10, 0.02 * played(old_g)):
+        out.append(f"{played(games)} played games, was {played(old_g)}")
+    return out
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", action="store_true")
+    ap.add_argument("--force", action="store_true", help="publish even if the feed looks broken (e.g. a new season)")
     ap.add_argument("--tz", default="America/Los_Angeles", help="time zone for the snapshot date")
     a = ap.parse_args()
     postseason.check()
@@ -378,10 +399,20 @@ if __name__ == "__main__":
             got[gender] = fetch(gender)
             if not got[gender][0]:
                 sys.exit(f"No {gender} brackets found - check LEAGUES event ids")
-            save(gender, *got[gender], meta)
+    if not a.offline:
+        # safety check: if either feed looks broken, stop before anything is saved or published (the workflow run
+        # fails, so GitHub emails). The site keeps the last good data. A new season needs --force once.
+        bad = [f"{g}: {p}" for g, v in got.items() for p in feed_problems(g, *v)]
+        if bad and not a.force:
+            sys.exit("Feed looks broken, nothing saved or published:\n  " + "\n  ".join(bad) + "\nRerun with --force if this is expected.")
+        for gender, (brackets, games) in got.items():
+            save(gender, brackets, games, meta)
     if not a.offline:  # games between conferences at this season's national events (for the national rankings)
         import national
-        national.current({g: v[0] for g, v in got.items()})
+        try:
+            national.current({g: v[0] for g, v in got.items()}, force=a.force)
+        except Exception as err:  # national events are extra: keep last good files and still publish league scores
+            print(f"WARNING: national-event games not updated ({err}); keeping the previous files", flush=True)
     wanted = set()
     for gender, (brackets, games) in got.items():
         wanted |= build(gender, brackets, games, meta)

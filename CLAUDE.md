@@ -21,6 +21,7 @@ scripts/national.py                cross-conference games from national events a
 scripts/confstrength.py            conference strength for the national rankings (+ --evaluate backtest)
 scripts/ratings.py                 Python copy of the goals model (fit, probs, fit_conf)
 scripts/priors.py                  backtest that chose the last-season prior setting
+scripts/simcheck.py                backtest that chose the rating uncertainty in the season sim
 scripts/checkstandings.py          compare our tables with ECNL's official standings (the workflow runs it)
 data/{boys,girls}_games.csv        this season's games (blank scores = not played); *_brackets.json teams, clubs, groups
 data/cross.csv                     this season's cross-conference games; data/national_events.json their event ids
@@ -53,7 +54,8 @@ manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from 
 
 ## Every August (new season)
 1. Scan TGS event ids (get-event-details-by-eventID) for "ECNL Boys|Girls <conference> <season>". Put them in
-   `refresh.LEAGUES` and set `refresh.SEASON`.
+   `refresh.LEAGUES` and set `refresh.SEASON`. Run `python3 scripts/refresh.py --force` once: the feed safety check would
+   otherwise stop the switch, because the new season has fewer games than the old one.
 2. Add the season that just ended to `history.EVENTS`, then run `python3 scripts/history.py`. Move this season's
    `data/cross.csv` rows into `data/history/cross.csv` (or rerun `scripts/national.py`), and delete
    `data/history/confadj_*.json` so it's recomputed.
@@ -133,7 +135,13 @@ League Cup winners can't be predicted, so those spots go to the team in the tabl
 ## Model (template JS, search for "fit penalised Poisson model")
 Poisson goals model with attack and defense ratings per team, ridge priors (σ 0.35, centered on last season's
 rating when there is one), home edge, and a Dixon-Coles low-score adjustment. The season sim plays out every remaining
-game 10,000 times and ranks the way ECNL does (points per game, then total GD and GF). "How accurate are the
+game 10,000 times and ranks the way ECNL does (points per game, then total GD and GF). **Rating uncertainty:** each run uses
+one of `SIMK = 20` rating scenarios drawn around the fitted ratings, N(rating, (UNC·sd)²), where sd = 1/sqrt(1/SIG² +
+expected goals the team was involved in) (Laplace approximation; `scoreTables`). `UNC = 1.0` was chosen by
+`scripts/simcheck.py`, which replays 2024-25 and 2025-26 from 15/30/50% checkpoints and scores P(1st) and P(top 4) against
+the final tables. P(top 4) log-loss went from 0.304 to 0.290 and Brier from 0.094 to 0.093, with the biggest gains early;
+×1.5 was worse. Without it, early-season chances swung too hard (NCFC Youth Academy U14 went from 21% to 99% after one
+week; with it, 37% to 90%). "How accurate are the
 predictions?" is a walk-forward backtest of the current model.
 
 ## Insights and team history
@@ -150,8 +158,7 @@ predictions?" is a walk-forward backtest of the current model.
   the model's record that week (predicted from only the earlier games), upsets by the odds going in, the biggest wins,
   table climbers and fallers, first wins and ended unbeaten or perfect runs, Champions League chance changes (season sim
   before vs after, this season only) and each conference's record at that week's national events. Everything comes
-  from game dates, so there's no stored history to keep. The season sim treats ratings as exact, so early-season
-  chances can swing a lot in one week.
+  from game dates, so there's no stored history to keep.
 - **Team pages: "Previous seasons"** lists this season and every earlier one for the same players: finish (with a bar),
   W-D-L, points per game and goals, each linked to that season's team page. A line compares last season with now and
   gives the best finish. "In other age groups" lists the club's other teams (matched by club id).
@@ -173,6 +180,13 @@ predictions?" is a walk-forward backtest of the current model.
 - **Home:** the site title links home, and club, national and team pages get a "‹ Home" button.
 - **Official check in the workflow:** runs after publishing and fails (GitHub emails a warning) on any record or order
   difference. Teams with a game in the last 48 hours are reported, not flagged.
+
+## Feed safety check
+`refresh.feed_problems` compares a live download with the last good one in `data/`. If there are fewer brackets, teams
+(-5%), games (-10%) or played games (-2%, minimum 10), refresh.py stops before saving anything, so the workflow run fails
+and GitHub emails, and the site keeps the last good data. `--force` overrides it (for example, for a new season).
+National-event games have their own check (cross-conference games -10%). If that fails, the old files are kept with a
+warning, and league scores still publish.
 
 ## Security
 - No API keys or other secrets in the repo or the pages. GitHub secret scanning and push protection are on. In October 2026 a
