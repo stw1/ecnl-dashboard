@@ -832,8 +832,6 @@
   "age": "U13",
   "conf": "Southwest",
   "teams": {
-   "134467": "Sporting California USA ECNL B2013/14",
-   "126632": "Pateadores Soccer Club ECNL B2013/14",
    "131696": "Legends FC Del Mar ECNL B2013/14",
    "94795": "LA Breakers FC ECNL B2013/14",
    "95183": "West Coast FC ECNL B2013/14",
@@ -843,18 +841,12 @@
    "133678": "LAFC So Cal ECNL B2013/14",
    "131427": "SDSC Surf ECNL B2013/14",
    "133558": "CDA Slammers FC ECNL B2013/14",
+   "134467": "Sporting California USA ECNL B2013/14",
    "132946": "Legends FC (CA) ECNL B2013/14",
-   "96695": "Rebels SC ECNL B2013/14"
+   "96695": "Rebels SC ECNL B2013/14",
+   "126632": "Pateadores Soccer Club ECNL B2013/14"
   },
   "clubs": {
-   "134467": [
-    "13",
-    "Sporting California USA"
-   ],
-   "126632": [
-    "186",
-    "Pateadores Soccer Club"
-   ],
    "131696": [
     "39",
     "Legends FC - Del Mar"
@@ -891,6 +883,10 @@
     "3360",
     "CDA Slammers FC"
    ],
+   "134467": [
+    "13",
+    "Sporting California USA"
+   ],
    "132946": [
     "61",
     "Legends FC (CA)"
@@ -898,6 +894,10 @@
    "96695": [
     "300",
     "Rebels Soccer Club"
+   ],
+   "126632": [
+    "186",
+    "Pateadores Soccer Club"
    ]
   },
   "groups": {}
@@ -1844,8 +1844,6 @@
   "age": "U14",
   "conf": "Southwest",
   "teams": {
-   "134468": "Sporting California USA ECNL B2012/13",
-   "130991": "Pateadores Soccer Club ECNL B2012/13",
    "132186": "Beach Futbol Club (CA) ECNL B2012/13",
    "132456": "San Diego Surf ECNL B2012/13",
    "131698": "Legends FC Del Mar ECNL B2012/13",
@@ -1854,19 +1852,13 @@
    "110876": "LV Heat Surf SC ECNL B2012/13",
    "133677": "LAFC So Cal ECNL B2012/13",
    "131410": "SDSC Surf ECNL B2012/13",
+   "134468": "Sporting California USA ECNL B2012/13",
    "133557": "CDA Slammers FC ECNL B2012/13",
    "132945": "Legends FC (CA) ECNL B2012/13",
-   "113383": "Rebels SC ECNL B2012/13"
+   "113383": "Rebels SC ECNL B2012/13",
+   "130991": "Pateadores Soccer Club ECNL B2012/13"
   },
   "clubs": {
-   "134468": [
-    "13",
-    "Sporting California USA"
-   ],
-   "130991": [
-    "186",
-    "Pateadores Soccer Club"
-   ],
    "132186": [
     "16",
     "Beach Futbol Club"
@@ -1899,6 +1891,10 @@
     "86",
     "SDSC Surf"
    ],
+   "134468": [
+    "13",
+    "Sporting California USA"
+   ],
    "133557": [
     "3360",
     "CDA Slammers FC"
@@ -1910,6 +1906,10 @@
    "113383": [
     "300",
     "Rebels Soccer Club"
+   ],
+   "130991": [
+    "186",
+    "Pateadores Soccer Club"
    ]
   },
   "groups": {}

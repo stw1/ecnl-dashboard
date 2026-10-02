@@ -953,11 +953,11 @@ U13,Southwest,1085450,2026-09-26 12:00,90147,112900,Rebels SC ECNL G2013/14,Slam
 U13,Southwest,1085462,2026-09-26 17:15,134070,132463,Sporting California USA ECNL G2013/14,San Diego Surf ECNL G2013/14,0,6,San Bernardino Soccer Complex - Field 1,13,87,Sporting California USA,San Diego Surf Soccer Club
 U13,Southwest,1085468,2026-09-27 13:00,131925,134387,Beach Futbol Club (CA) ECNL G2013/14,Arizona Arsenal ECNL G2013/14,3,0,El Camino College - Stadium,16,592,Beach Futbol Club,Arizona Arsenal Soccer Club
 U13,Southwest,1085438,2026-09-27 14:45,133715,63947,LAFC So Cal ECNL G2013/14,Eagles SC ECNL G2013/14,1,0,Oak Park High School - Stadium,82,41,LAFC So Cal,Eagles SC
+U13,Southwest,1085480,2026-10-03 10:00,63947,134070,Eagles SC ECNL G2013/14,Sporting California USA ECNL G2013/14,,,Pleasant Valley Fields - Field 19,41,13,Eagles SC,Sporting California USA
 U13,Southwest,1085510,2026-10-03 11:00,90259,133715,Utah Royals FC-AZ ECNL G2013/14,LAFC So Cal ECNL G2013/14,,,Bell Road Sports Complex - Field 16,3716,82,Utah Royals FC - AZ,LAFC So Cal
 U13,Southwest,1085474,2026-10-03 13:00,131925,133032,Beach Futbol Club (CA) ECNL G2013/14,Legends FC (CA) ECNL G2013/14,,,El Camino College - Stadium,16,61,Beach Futbol Club,Legends FC (CA)
 U13,Southwest,1085498,2026-10-03 13:00,126631,90147,Pateadores Soccer Club ECNL G2013/14,Rebels SC ECNL G2013/14,,,Great Park - Field 8,186,300,Pateadores Soccer Club,Rebels Soccer Club
 U13,Southwest,1085504,2026-10-03 16:00,112900,132463,Slammers FC HB Koge ECNL G2013/14,San Diego Surf ECNL G2013/14,,,Saddleback College - Turf Field,96,87,Slammers FC,San Diego Surf Soccer Club
-U13,Southwest,1085480,2026-10-03 17:20,63947,134070,Eagles SC ECNL G2013/14,Sporting California USA ECNL G2013/14,,,Pleasant Valley Fields - Field 14,41,13,Eagles SC,Sporting California USA
 U13,Southwest,1085486,2026-10-03 17:45,131706,135883,Legends FC Del Mar ECNL G2013/14,So Cal Blues ECNL G2013/14,,,Canyon Crest Academy - Stadium,39,98,Legends FC - Del Mar,So Cal Blues
 U13,Southwest,1085666,2026-10-04 08:30,126712,107988,LV Heat Surf ECNL G2013/14,SLAMMERS FC ECNL G2013/14,,,Heritage Park Sports Complex - Field 5,57,96,LV Heat Surf SC,Slammers FC
 U13,Southwest,1085516,2026-10-04 12:00,121185,133715,Phoenix Rising FC ECNL G2013/14,LAFC So Cal ECNL G2013/14,,,PRFC Youth Soccer Facility - Field 1,1141,82,Phoenix Rising FC,LAFC So Cal
@@ -1103,7 +1103,7 @@ U13,Texas,1073636,2026-10-03 09:00,111690,129343,Sting Black ECNL G2013/14,Chall
 U13,Texas,1073522,2026-10-03 11:00,132704,132180,Lonestar ATX Red ECNL G2013/14,Colorado Rush ECNL G2013/14,,,Burger Activity Center - Field 2,62,28,Lonestar ATX,Colorado Rush
 U13,Texas,1073528,2026-10-03 12:00,131271,127617,FC Westlake ECNL G2013/14,Real Colorado Athletico ECNL G2013/14,,,Ann Richards School - Field 1,3234,81,FC Westlake,Real Colorado
 U13,Texas,1073612,2026-10-04 09:00,134490,108897,Dallas Texans ECNL G2013/14,Real Colorado National ECNL G2013/14,,,Beacon Park - field 4,37,81,Dallas Texans,Real Colorado
-U13,Texas,1073654,2026-10-04 09:00,111690,69768,Sting Black ECNL G2013/14,Albion Hurricanes FC ECNL G2013/14,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
+U13,Texas,1073654,2026-10-04 09:00,111690,69768,Sting Black ECNL G2013/14,Albion Hurricanes FC ECNL G2013/14,,,Sting National Training Center - Championship Field,36,10,Sting Soccer Club,Albion Hurricanes FC
 U13,Texas,1073660,2026-10-04 09:00,131839,129343,DKSC ECNL G2013/14,Challenge SC ECNL G2013/14,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
 U13,Texas,1073570,2026-10-04 11:00,131271,132180,FC Westlake ECNL G2013/14,Colorado Rush ECNL G2013/14,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,28,FC Westlake,Colorado Rush
 U13,Texas,1073576,2026-10-04 11:00,132704,127617,Lonestar ATX Red ECNL G2013/14,Real Colorado Athletico ECNL G2013/14,,,Burger Activity Center - Field 2,62,81,Lonestar ATX,Real Colorado
@@ -2293,7 +2293,7 @@ U14,Texas,1073569,2026-10-04 09:00,131272,90652,FC Westlake ECNL G2012/13,Colora
 U14,Texas,1073575,2026-10-04 09:00,132703,99153,Lonestar ATX Red ECNL G2012/13,Real Colorado Athletico ECNL G2012/13,,,Burger Activity Center - Field 2,62,81,Lonestar ATX,Real Colorado
 U14,Texas,1073605,2026-10-04 11:00,59794,111254,SOLAR SC ECNL G2012/13,Colorado Storm ECNL G2012/13,,,Carroll Senior High School - Field 1,101,29,Solar SC,Colorado Storm
 U14,Texas,1073611,2026-10-04 11:00,134489,99152,Dallas Texans ECNL G2012/13,Real Colorado National ECNL G2012/13,,,Beacon Park - field 4,37,81,Dallas Texans,Real Colorado
-U14,Texas,1073653,2026-10-04 11:00,82159,71431,Sting Black ECNL G2012/13,Albion Hurricanes FC ECNL G2012/13,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
+U14,Texas,1073653,2026-10-04 11:00,82159,71431,Sting Black ECNL G2012/13,Albion Hurricanes FC ECNL G2012/13,,,Sting National Training Center - Championship Field,36,10,Sting Soccer Club,Albion Hurricanes FC
 U14,Texas,1073659,2026-10-04 11:00,114045,129342,DKSC ECNL G2012/13,Challenge SC ECNL G2012/13,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
 U14,Texas,1073491,2026-10-07 19:30,99152,99153,Real Colorado National ECNL G2012/13,Real Colorado Athletico ECNL G2012/13,,,Highland Heritage Regional Park - HHRP Stadium,81,81,Real Colorado,Real Colorado
 U14,Texas,1073665,2026-10-11 13:00,59794,134489,SOLAR SC ECNL G2012/13,Dallas Texans ECNL G2012/13,,,OAK GROVE - Field 2,101,37,Solar SC,Dallas Texans
@@ -3280,16 +3280,16 @@ U15,Texas,1073580,2026-09-27 11:00,94652,111175,FC Dallas Youth ECNL G2011/12,We
 U15,Texas,1073586,2026-09-27 11:00,59609,94440,Sting Royal ECNL G2011/12,OK Energy FC ECNL G2011/12,2,5,Sting National Training Center - Field 1,36,2133,Sting Soccer Club,Oklahoma Energy FC
 U15,Texas,1073520,2026-10-03 09:00,132702,95047,Lonestar ATX Red ECNL G2011/12,Colorado Rush ECNL G2011/12,,,Burger Activity Center - Stadium Field 1,62,28,Lonestar ATX,Colorado Rush
 U15,Texas,1073598,2026-10-03 09:00,59566,95108,SOLAR SC ECNL G2011/12,Real Colorado National ECNL G2011/12,,,Dragon Stadium - Field 1,101,81,Solar SC,Real Colorado
-U15,Texas,1073628,2026-10-03 09:00,81105,81918,DKSC ECNL G2011/12,Albion Hurricanes FC ECNL G2011/12,,,Clark East Field - Field 2,35,10,DKSC,Albion Hurricanes FC
-U15,Texas,1073634,2026-10-03 09:00,116000,129341,Sting Black ECNL G2011/12,Challenge SC ECNL G2011/12,,,Sting National Training Center,36,25,Sting Soccer Club,Challenge SC
+U15,Texas,1073628,2026-10-03 09:00,81105,81918,DKSC ECNL G2011/12,Albion Hurricanes FC ECNL G2011/12,,,Clark East Field - Field 1,35,10,DKSC,Albion Hurricanes FC
+U15,Texas,1073634,2026-10-03 09:00,116000,129341,Sting Black ECNL G2011/12,Challenge SC ECNL G2011/12,,,Coppell Middle School North - Turf Field,36,25,Sting Soccer Club,Challenge SC
 U15,Texas,1073526,2026-10-03 10:00,131273,95110,FC Westlake ECNL G2011/12,Real Colorado Athletico ECNL G2011/12,,,Ann Richards School - Field 1,3234,81,FC Westlake,Real Colorado
 U15,Texas,1073592,2026-10-03 13:00,134488,71847,Dallas Texans ECNL G2011/12,Colorado Storm ECNL G2011/12,,,Beacon Park - field 4,37,29,Dallas Texans,Colorado Storm
 U15,Texas,1073568,2026-10-04 09:00,131273,95047,FC Westlake ECNL G2011/12,Colorado Rush ECNL G2011/12,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,28,FC Westlake,Colorado Rush
 U15,Texas,1073574,2026-10-04 09:00,132702,95110,Lonestar ATX Red ECNL G2011/12,Real Colorado Athletico ECNL G2011/12,,,Burger Activity Center - Stadium Field 1,62,81,Lonestar ATX,Real Colorado
-U15,Texas,1073658,2026-10-04 09:00,81105,129341,DKSC ECNL G2011/12,Challenge SC ECNL G2011/12,,,Clark East Field - Field 2,35,25,DKSC,Challenge SC
+U15,Texas,1073652,2026-10-04 09:00,116000,81918,Sting Black ECNL G2011/12,Albion Hurricanes FC ECNL G2011/12,,,Coppell Middle School North - Turf Field,36,10,Sting Soccer Club,Albion Hurricanes FC
+U15,Texas,1073658,2026-10-04 09:00,81105,129341,DKSC ECNL G2011/12,Challenge SC ECNL G2011/12,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
 U15,Texas,1073604,2026-10-04 11:00,59566,71847,SOLAR SC ECNL G2011/12,Colorado Storm ECNL G2011/12,,,Dragon Stadium - Field 1,101,29,Solar SC,Colorado Storm
 U15,Texas,1073610,2026-10-04 13:00,134488,95108,Dallas Texans ECNL G2011/12,Real Colorado National ECNL G2011/12,,,Beacon Park - field 4,37,81,Dallas Texans,Real Colorado
-U15,Texas,1073652,2026-10-04 13:00,116000,81918,Sting Black ECNL G2011/12,Albion Hurricanes FC ECNL G2011/12,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
 U15,Texas,1073490,2026-10-07 17:30,95108,95110,Real Colorado National ECNL G2011/12,Real Colorado Athletico ECNL G2011/12,,,Highland Heritage Regional Park - HHRP West,81,81,Real Colorado,Real Colorado
 U15,Texas,1073664,2026-10-11 11:00,59566,134488,SOLAR SC ECNL G2011/12,Dallas Texans ECNL G2011/12,,,OAK GROVE - Field 1,101,37,Solar SC,Dallas Texans
 U15,Texas,1073688,2026-10-17 09:00,129341,111175,Challenge SC ECNL G2011/12,West Side Alliance ECNL G2011/12,,,Burroughs Park - Field 4,25,3587,Challenge SC,West Side Alliance SC
@@ -4132,9 +4132,9 @@ U16,Southwest,1085435,2026-09-27 13:00,133711,62045,LAFC So Cal ECNL G2010/11,Ea
 U16,Southwest,1085465,2026-09-27 13:00,131922,134383,Beach Futbol Club (CA) ECNL G2010/11,Arizona Arsenal ECNL G2010/11,2,0,El Camino College - Athletic Field,16,592,Beach Futbol Club,Arizona Arsenal Soccer Club
 U16,Southwest,1085495,2026-10-03 09:00,130974,81798,Pateadores Soccer Club ECNL G2010/11,Rebels SC ECNL G2010/11,,,Great Park - Field 9,186,300,Pateadores Soccer Club,Rebels Soccer Club
 U16,Southwest,1085507,2026-10-03 11:00,77350,133711,Utah Royals FC-AZ ECNL G2010/11,LAFC So Cal ECNL G2010/11,,,Bell Road Sports Complex - Field 15,3716,82,Utah Royals FC - AZ,LAFC So Cal
-U16,Southwest,1085477,2026-10-03 12:20,62045,134089,Eagles SC ECNL G2010/11,Sporting California USA ECNL G2010/11,,,Pleasant Valley Fields - Field 14,41,13,Eagles SC,Sporting California USA
 U16,Southwest,1085483,2026-10-03 12:30,131715,135892,Legends FC Del Mar ECNL G2010/11,So Cal Blues ECNL G2010/11,,,Canyon Crest Academy - Stadium,39,98,Legends FC - Del Mar,So Cal Blues
 U16,Southwest,1085471,2026-10-03 13:00,131922,133024,Beach Futbol Club (CA) ECNL G2010/11,Legends FC (CA) ECNL G2010/11,,,El Camino College - Athletic Field,16,61,Beach Futbol Club,Legends FC (CA)
+U16,Southwest,1085477,2026-10-03 14:00,62045,134089,Eagles SC ECNL G2010/11,Sporting California USA ECNL G2010/11,,,Pleasant Valley Fields - Field 14,41,13,Eagles SC,Sporting California USA
 U16,Southwest,1085501,2026-10-03 14:15,133598,132460,Slammers FC HB Koge ECNL G2010/11,San Diego Surf ECNL G2010/11,,,Saddleback College - Turf Field,96,87,Slammers FC,San Diego Surf Soccer Club
 U16,Southwest,1085513,2026-10-04 10:00,62249,133711,Phoenix Rising FC ECNL G2010/11,LAFC So Cal ECNL G2010/11,,,PRFC Youth Soccer Facility - Field 2,1141,82,Phoenix Rising FC,LAFC So Cal
 U16,Southwest,1085663,2026-10-04 12:30,48247,61426,LV Heat Surf ECNL G2010/11,SLAMMERS FC ECNL G2010/11,,,Heritage Park Sports Complex - Field 6,57,96,LV Heat Surf SC,Slammers FC
@@ -4274,15 +4274,15 @@ U16,Texas,1073579,2026-09-27 13:00,63889,110468,FC Dallas Youth ECNL G2010/11,We
 U16,Texas,1073591,2026-10-03 09:00,134487,72334,Dallas Texans ECNL G2010/11,Colorado Storm ECNL G2010/11,,,Beacon Park - field 5,37,29,Dallas Texans,Colorado Storm
 U16,Texas,1073519,2026-10-03 11:00,132699,95046,Lonestar ATX Red ECNL G2010/11,Colorado Rush ECNL G2010/11,,,Burger Activity Center - Stadium Field 1,62,28,Lonestar ATX,Colorado Rush
 U16,Texas,1073597,2026-10-03 13:00,81882,81431,SOLAR SC ECNL G2010/11,Real Colorado National ECNL G2010/11,,,Carroll Senior High School - Field 1,101,81,Solar SC,Real Colorado
-U16,Texas,1073627,2026-10-03 13:00,81104,40463,DKSC ECNL G2010/11,Albion Hurricanes FC ECNL G2010/11,,,Clark East Field - Field 2,35,10,DKSC,Albion Hurricanes FC
-U16,Texas,1073633,2026-10-03 13:00,80765,129340,Sting Black ECNL G2010/11,Challenge SC ECNL G2010/11,,,Sting National Training Center,36,25,Sting Soccer Club,Challenge SC
+U16,Texas,1073627,2026-10-03 13:00,81104,40463,DKSC ECNL G2010/11,Albion Hurricanes FC ECNL G2010/11,,,Clark East Field - Field 1,35,10,DKSC,Albion Hurricanes FC
+U16,Texas,1073633,2026-10-03 13:00,80765,129340,Sting Black ECNL G2010/11,Challenge SC ECNL G2010/11,,,Coppell Middle School North - Turf Field,36,25,Sting Soccer Club,Challenge SC
 U16,Texas,1073525,2026-10-03 14:00,131274,81521,FC Westlake ECNL G2010/11,Real Colorado Athletico ECNL G2010/11,,,Ann Richards School - Field 1,3234,81,FC Westlake,Real Colorado
 U16,Texas,1073603,2026-10-04 09:00,81882,72334,SOLAR SC ECNL G2010/11,Colorado Storm ECNL G2010/11,,,Carroll Senior High School - Field 1,101,29,Solar SC,Colorado Storm
 U16,Texas,1073609,2026-10-04 09:00,134487,81431,Dallas Texans ECNL G2010/11,Real Colorado National ECNL G2010/11,,,Beacon Park - field 5,37,81,Dallas Texans,Real Colorado
 U16,Texas,1073573,2026-10-04 11:00,132699,81521,Lonestar ATX Red ECNL G2010/11,Real Colorado Athletico ECNL G2010/11,,,Burger Activity Center - Stadium Field 1,62,81,Lonestar ATX,Real Colorado
+U16,Texas,1073657,2026-10-04 11:00,81104,129340,DKSC ECNL G2010/11,Challenge SC ECNL G2010/11,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
 U16,Texas,1073567,2026-10-04 13:00,131274,95046,FC Westlake ECNL G2010/11,Colorado Rush ECNL G2010/11,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,28,FC Westlake,Colorado Rush
-U16,Texas,1073657,2026-10-04 13:00,81104,129340,DKSC ECNL G2010/11,Challenge SC ECNL G2010/11,,,Clark East Field - Field 2,35,25,DKSC,Challenge SC
-U16,Texas,1073651,2026-10-04 15:00,80765,40463,Sting Black ECNL G2010/11,Albion Hurricanes FC ECNL G2010/11,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
+U16,Texas,1073651,2026-10-04 13:00,80765,40463,Sting Black ECNL G2010/11,Albion Hurricanes FC ECNL G2010/11,,,Coppell Middle School North - Turf Field,36,10,Sting Soccer Club,Albion Hurricanes FC
 U16,Texas,1073489,2026-10-07 17:30,81431,81521,Real Colorado National ECNL G2010/11,Real Colorado Athletico ECNL G2010/11,,,Highland Heritage Regional Park - HHRP Stadium,81,81,Real Colorado,Real Colorado
 U16,Texas,1073663,2026-10-11 11:00,81882,134487,SOLAR SC ECNL G2010/11,Dallas Texans ECNL G2010/11,,,OAK GROVE - Field 2,101,37,Solar SC,Dallas Texans
 U16,Texas,1073675,2026-10-17 09:00,81431,81104,Real Colorado National ECNL G2010/11,DKSC ECNL G2010/11,,,Real Colorado Soccer Complex - RCSC Grass,81,35,Real Colorado,DKSC
@@ -5273,13 +5273,13 @@ U17,Texas,1073590,2026-10-03 11:00,134485,69485,Dallas Texans ECNL G2009/10,Colo
 U17,Texas,1073518,2026-10-03 13:00,132697,94985,Lonestar ATX Red ECNL G2009/10,Colorado Rush ECNL G2009/10,,,Burger Activity Center - Field 2,62,28,Lonestar ATX,Colorado Rush
 U17,Texas,1073596,2026-10-03 13:00,66050,69251,SOLAR SC ECNL G2009/10,Real Colorado National ECNL G2009/10,,,Dragon Stadium - Field 1,101,81,Solar SC,Real Colorado
 U17,Texas,1073626,2026-10-03 15:00,68923,59340,DKSC ECNL G2009/10,Albion Hurricanes FC ECNL G2009/10,,,Clark East Field - Field 1,35,10,DKSC,Albion Hurricanes FC
-U17,Texas,1073632,2026-10-03 15:00,48667,129339,Sting Black ECNL G2009/10,Challenge SC ECNL G2009/10,,,Sting National Training Center,36,25,Sting Soccer Club,Challenge SC
+U17,Texas,1073632,2026-10-03 15:00,48667,129339,Sting Black ECNL G2009/10,Challenge SC ECNL G2009/10,,,Coppell Middle School North - Turf Field,36,25,Sting Soccer Club,Challenge SC
 U17,Texas,1073602,2026-10-04 09:00,66050,69485,SOLAR SC ECNL G2009/10,Colorado Storm ECNL G2009/10,,,Dragon Stadium - Field 1,101,29,Solar SC,Colorado Storm
 U17,Texas,1073566,2026-10-04 11:00,131276,94985,FC Westlake ECNL G2009/10,Colorado Rush ECNL G2009/10,,,Westlake High School - Field 1 & 2,3234,28,FC Westlake,Colorado Rush
 U17,Texas,1073608,2026-10-04 11:00,134485,69251,Dallas Texans ECNL G2009/10,Real Colorado National ECNL G2009/10,,,Beacon Park - field 5,37,81,Dallas Texans,Real Colorado
-U17,Texas,1073650,2026-10-04 11:00,48667,59340,Sting Black ECNL G2009/10,Albion Hurricanes FC ECNL G2009/10,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
 U17,Texas,1073572,2026-10-04 13:00,132697,69250,Lonestar ATX Red ECNL G2009/10,Real Colorado Athletico ECNL G2009/10,,,Burger Activity Center - Field 2,62,81,Lonestar ATX,Real Colorado
-U17,Texas,1073656,2026-10-04 15:00,68923,129339,DKSC ECNL G2009/10,Challenge SC ECNL G2009/10,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
+U17,Texas,1073656,2026-10-04 13:00,68923,129339,DKSC ECNL G2009/10,Challenge SC ECNL G2009/10,,,Clark East Field - Field 2,35,25,DKSC,Challenge SC
+U17,Texas,1073650,2026-10-04 15:00,48667,59340,Sting Black ECNL G2009/10,Albion Hurricanes FC ECNL G2009/10,,,Coppell Middle School North - Turf Field,36,10,Sting Soccer Club,Albion Hurricanes FC
 U17,Texas,1073488,2026-10-07 15:30,69251,69250,Real Colorado National ECNL G2009/10,Real Colorado Athletico ECNL G2009/10,,,Highland Heritage Regional Park - HHRP West,81,81,Real Colorado,Real Colorado
 U17,Texas,1073662,2026-10-11 13:00,66050,134485,SOLAR SC ECNL G2009/10,Dallas Texans ECNL G2009/10,,,OAK GROVE - Field 1,101,37,Solar SC,Dallas Texans
 U17,Texas,1073680,2026-10-17 11:00,59340,61013,Albion Hurricanes FC ECNL G2009/10,OK Energy FC ECNL G2009/10,,,Campbell Road Sports Park - Field 1,10,2133,Albion Hurricanes FC,Oklahoma Energy FC
@@ -6217,17 +6217,17 @@ U18/19,Texas,1073559,2026-09-27 13:00,58631,39582,Real Colorado National ECNL G2
 U18/19,Texas,1073577,2026-09-27 13:00,58541,110465,FC Dallas Youth ECNL G2008/09,West Side Alliance ECNL G2008/09,1,0,Toyota Soccer Center - Field 9,47,3587,FC Dallas Youth,West Side Alliance SC
 U18/19,Texas,1073583,2026-09-27 15:00,68973,59502,Sting Royal ECNL G2008/09,OK Energy FC ECNL G2008/09,1,0,Sting National Training Center - Field 1,36,2133,Sting Soccer Club,Oklahoma Energy FC
 U18/19,Texas,1073595,2026-10-03 11:00,59562,58631,SOLAR SC ECNL G2008/09,Real Colorado National ECNL G2008/09,,,Dragon Stadium - Field 1,101,81,Solar SC,Real Colorado
-U18/19,Texas,1073631,2026-10-03 11:00,59553,129337,Sting Black ECNL G2008/09,Challenge SC ECNL G2008/09,,,Sting National Training Center,36,25,Sting Soccer Club,Challenge SC
+U18/19,Texas,1073625,2026-10-03 11:00,47082,39582,DKSC ECNL G2008/09,Albion Hurricanes FC ECNL G2008/09,,,Clark East Field - Field 1,35,10,DKSC,Albion Hurricanes FC
+U18/19,Texas,1073631,2026-10-03 11:00,59553,129337,Sting Black ECNL G2008/09,Challenge SC ECNL G2008/09,,,Coppell Middle School North - Turf Field,36,25,Sting Soccer Club,Challenge SC
 U18/19,Texas,1073517,2026-10-03 13:00,132696,94982,Lonestar ATX Red ECNL G2008/09,Colorado Rush ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,28,Lonestar ATX,Colorado Rush
 U18/19,Texas,1073523,2026-10-03 13:00,131277,58634,FC Westlake ECNL G2008/09,Real Colorado Athletico ECNL G2008/09,,,Westlake High School - Field 1 & 2,3234,81,FC Westlake,Real Colorado
 U18/19,Texas,1073589,2026-10-03 13:00,134483,59850,Dallas Texans ECNL G2008/09,Colorado Storm ECNL G2008/09,,,Beacon Park - field 5,37,29,Dallas Texans,Colorado Storm
-U18/19,Texas,1073625,2026-10-03 13:00,47082,39582,DKSC ECNL G2008/09,Albion Hurricanes FC ECNL G2008/09,,,Clark East Field - Field 1,35,10,DKSC,Albion Hurricanes FC
-U18/19,Texas,1073649,2026-10-04 09:00,59553,39582,Sting Black ECNL G2008/09,Albion Hurricanes FC ECNL G2008/09,,,Sting National Training Center,36,10,Sting Soccer Club,Albion Hurricanes FC
+U18/19,Texas,1073649,2026-10-04 11:00,59553,39582,Sting Black ECNL G2008/09,Albion Hurricanes FC ECNL G2008/09,,,Coppell Middle School North - Turf Field,36,10,Sting Soccer Club,Albion Hurricanes FC
+U18/19,Texas,1073655,2026-10-04 11:00,47082,129337,DKSC ECNL G2008/09,Challenge SC ECNL G2008/09,,,Clark East Field - Field 2,35,25,DKSC,Challenge SC
 U18/19,Texas,1073565,2026-10-04 13:00,131277,94982,FC Westlake ECNL G2008/09,Colorado Rush ECNL G2008/09,,,Westlake High School - Field 1 & 2,3234,28,FC Westlake,Colorado Rush
 U18/19,Texas,1073571,2026-10-04 13:00,132696,58634,Lonestar ATX Red ECNL G2008/09,Real Colorado Athletico ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,81,Lonestar ATX,Real Colorado
 U18/19,Texas,1073601,2026-10-04 13:00,59562,59850,SOLAR SC ECNL G2008/09,Colorado Storm ECNL G2008/09,,,Dragon Stadium - Field 1,101,29,Solar SC,Colorado Storm
 U18/19,Texas,1073607,2026-10-04 13:00,134483,58631,Dallas Texans ECNL G2008/09,Real Colorado National ECNL G2008/09,,,Beacon Park - field 5,37,81,Dallas Texans,Real Colorado
-U18/19,Texas,1073655,2026-10-04 13:00,47082,129337,DKSC ECNL G2008/09,Challenge SC ECNL G2008/09,,,Clark East Field - Field 1,35,25,DKSC,Challenge SC
 U18/19,Texas,1073487,2026-10-07 15:30,58631,58634,Real Colorado National ECNL G2008/09,Real Colorado Athletico ECNL G2008/09,,,Highland Heritage Regional Park - HHRP Stadium,81,81,Real Colorado,Real Colorado
 U18/19,Texas,1073661,2026-10-11 09:00,59562,134483,SOLAR SC ECNL G2008/09,Dallas Texans ECNL G2008/09,,,OAK GROVE - Field 1,101,37,Solar SC,Dallas Texans
 U18/19,Texas,1073667,2026-10-17 12:15,59850,59553,Colorado Storm ECNL G2008/09,Sting Black ECNL G2008/09,,,Regis University - West Turf,29,36,Colorado Storm,Sting Soccer Club
@@ -6245,7 +6245,6 @@ U18/19,Texas,1073733,2026-10-18 13:00,134483,131277,Dallas Texans ECNL G2008/09,
 U18/19,Texas,1073709,2026-10-18 13:30,58631,59553,Real Colorado National ECNL G2008/09,Sting Black ECNL G2008/09,,,Real Colorado Soccer Complex - RCSC Grass,81,36,Real Colorado,Sting Soccer Club
 U18/19,Texas,1073745,2026-10-18 15:00,58541,68973,FC Dallas Youth ECNL G2008/09,Sting Royal ECNL G2008/09,,,Toyota Soccer Center - Field 10,47,36,FC Dallas Youth,Sting Soccer Club
 U18/19,Texas,1073751,2026-10-24,94982,68973,Colorado Rush ECNL G2008/09,Sting Royal ECNL G2008/09,,,,28,36,Colorado Rush,Sting Soccer Club
-U18/19,Texas,1073763,2026-10-24 13:00,132696,131277,Lonestar ATX Red ECNL G2008/09,FC Westlake ECNL G2008/09,,,St. Andrew's Episcopal School - Field 2,62,3234,Lonestar ATX,FC Westlake
 U18/19,Texas,1073769,2026-10-24 13:00,59502,59553,OK Energy FC ECNL G2008/09,Sting Black ECNL G2008/09,,,Edmond Soccer Club - ESC 4,2133,36,Oklahoma Energy FC,Sting Soccer Club
 U18/19,Texas,1073775,2026-10-24 13:00,110465,47082,West Side Alliance ECNL G2008/09,DKSC ECNL G2008/09,,,RiverCity Parks - Field 9,3587,35,West Side Alliance SC,DKSC
 U18/19,Texas,1074021,2026-10-24 13:00,131277,129337,FC Westlake ECNL G2008/09,Challenge SC ECNL G2008/09,,,Onion Creek Soccer Complex - Field 9,3234,25,FC Westlake,Challenge SC
@@ -6260,6 +6259,7 @@ U18/19,Texas,1074045,2026-10-31 12:00,131277,47082,FC Westlake ECNL G2008/09,DKS
 U18/19,Texas,1074063,2026-10-31 13:00,132696,59553,Lonestar ATX Red ECNL G2008/09,Sting Black ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,36,Lonestar ATX,Sting Soccer Club
 U18/19,Texas,1074081,2026-11-01 09:00,132696,47082,Lonestar ATX Red ECNL G2008/09,DKSC ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,35,Lonestar ATX,DKSC
 U18/19,Texas,1074087,2026-11-01 10:00,131277,59553,FC Westlake ECNL G2008/09,Sting Black ECNL G2008/09,,,Cedar Ridge High School - Stadium Field,3234,36,FC Westlake,Sting Soccer Club
+U18/19,Texas,1073763,2026-11-04 19:00,132696,131277,Lonestar ATX Red ECNL G2008/09,FC Westlake ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,3234,Lonestar ATX,FC Westlake
 U18/19,Texas,1073811,2026-11-07,94982,134483,Colorado Rush ECNL G2008/09,Dallas Texans ECNL G2008/09,,,,28,37,Colorado Rush,Dallas Texans
 U18/19,Texas,1073823,2026-11-07,39582,129337,Albion Hurricanes FC ECNL G2008/09,Challenge SC ECNL G2008/09,,,,10,25,Albion Hurricanes FC,Challenge SC
 U18/19,Texas,1073829,2026-11-07 13:00,132696,58541,Lonestar ATX Red ECNL G2008/09,FC Dallas Youth ECNL G2008/09,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth

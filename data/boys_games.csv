@@ -1087,8 +1087,8 @@ U13,Northern Cal,1099474,2026-09-27 09:00,109540,121192,Placer United ECNL B2013
 U13,Northern Cal,1099444,2026-09-27 10:00,104729,112093,COSC ECNL B2013/14,Folsom Lake Surf ECNL B2013/14,0,6,Clovis High School - Field 1,1470,3989,California Odyssey Soccer Club,Folsom Lake Surf
 U13,Northern Cal,1099456,2026-09-27 10:00,131730,113204,Los Gatos United Soccer Club ECNL B2013/14,Association FC ECNL B13/14,1,5,Monta Vista High School - Lower Field,3231,3065,Los Gatos United Soccer Club,Association Football Club
 U13,Northern Cal,1099450,2026-09-27 12:00,112149,125866,El Camino FC Salinas ECNL B2013/14,Davis Legacy ECNL B2013/14,7,0,Salinas Regional Soccer Complex - Turf #2,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
-U13,Northern Cal,1099492,2026-10-03 09:00,99191,132647,River Islands Surf ECNL B2013/14,Napa United ECNL B2013/14,,,River Islands Sports Park - Field 1,3777,2907,Valley Surf | America,Napa United
 U13,Northern Cal,1099486,2026-10-03 12:00,109540,114181,Placer United ECNL B2013/14,1974 Newark FC ECNL B2013/14,,,Placer Valley Soccer Complex - Field 5,3054,4342,Placer United Soccer Club,1974 Newark FC
+U13,Northern Cal,1099492,2026-10-03 13:00,99191,132647,River Islands Surf ECNL B2013/14,Napa United ECNL B2013/14,,,River Islands Sports Park - FIeld 1 (11v11),3777,2907,Valley Surf | America,Napa United
 U13,Northern Cal,1099522,2026-10-04 09:00,121192,113198,San Juan SC ECNL B2013/14,MVLA ECNL B2013/14,,,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,294,San Juan Soccer Club,MVLA
 U13,Northern Cal,1099504,2026-10-04 10:00,125866,104729,Davis Legacy ECNL B2013/14,COSC ECNL B2013/14,,,Davis Legacy Soccer Complex - Field 13,1425,1470,Davis Legacy Soccer Club,California Odyssey Soccer Club
 U13,Northern Cal,1099516,2026-10-04 10:00,131240,131730,San Francisco Elite Academy ECNL B2013/14,Los Gatos United Soccer Club ECNL B2013/14,,,University of San Francisco - Negoesco Stadium,1040,3231,San Francisco Elite Academy,Los Gatos United Soccer Club
@@ -1643,13 +1643,13 @@ U13,Texas,1106972,2026-09-27 11:00,76663,133099,SOLAR SC ECNL B2013/14,Real Colo
 U13,Texas,1106948,2026-09-27 13:00,131178,134128,Sting ECNL B2013/14,Dallas Texans ECNL B2013/14,0,0,Sting National Training Center - Field 3,36,37,Sting Soccer Club,Dallas Texans
 U13,Texas,1107002,2026-10-03 09:00,131620,133287,San Antonio City SC ECNL B2013/14,Lonestar ATX Red ECNL B2013/14,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U13,Texas,1106978,2026-10-03 10:00,69769,131794,Albion Hurricanes FC ECNL B2013/14,DKSC ECNL B2013/14,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
-U13,Texas,1106984,2026-10-03 11:00,94444,132251,OK Energy FC Academy B2013/14,FC Dallas Youth Red ECNL B2013/14,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U13,Texas,1106996,2026-10-03 11:00,111245,133289,SAFC ECNL B2013/14,Lonestar ATX Royal ECNL B2013/14,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U13,Texas,1107008,2026-10-03 15:00,131316,131178,RISE SC ECNL B2013/14,Sting ECNL B2013/14,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
 U13,Texas,1106990,2026-10-03 16:00,127474,131244,HTX ECNL B2013/14,FC Westlake ECNL B2013/14,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U13,Texas,1107014,2026-10-04 09:00,69769,131178,Albion Hurricanes FC ECNL B2013/14,Sting ECNL B2013/14,,,Campbell Road Sports Park - Field 5,10,36,Albion Hurricanes FC,Sting Soccer Club
 U13,Texas,1107026,2026-10-04 09:00,131316,131794,RISE SC ECNL B2013/14,DKSC ECNL B2013/14,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
 U13,Texas,1107038,2026-10-04 09:00,131620,133289,San Antonio City SC ECNL B2013/14,Lonestar ATX Royal ECNL B2013/14,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
+U13,Texas,1106984,2026-10-04 11:00,94444,132251,OK Energy FC Academy B2013/14,FC Dallas Youth Red ECNL B2013/14,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U13,Texas,1107032,2026-10-04 11:00,76663,134128,SOLAR SC ECNL B2013/14,Dallas Texans ECNL B2013/14,,,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
 U13,Texas,1107044,2026-10-04 11:00,111245,133287,SAFC ECNL B2013/14,Lonestar ATX Red ECNL B2013/14,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U13,Texas,1107050,2026-10-10,131794,131244,DKSC ECNL B2013/14,FC Westlake ECNL B2013/14,,,,35,3234,DKSC,FC Westlake
@@ -2869,7 +2869,7 @@ U14,Northern Cal,1099461,2026-09-27 11:00,132470,131243,Mustang Soccer ECNL B201
 U14,Northern Cal,1099473,2026-09-27 11:00,99066,99062,Placer United ECNL B2012/13,San Juan SC ECNL B2012/13,2,0,Placer Valley Soccer Complex - Field 5,3054,88,Placer United Soccer Club,San Juan Soccer Club
 U14,Northern Cal,1099443,2026-09-27 12:00,70860,111815,COSC ECNL B2012/13,Folsom Lake Surf ECNL B2012/13,4,0,Clovis High School - Field 1,1470,3989,California Odyssey Soccer Club,Folsom Lake Surf
 U14,Northern Cal,1099449,2026-09-27 14:00,99057,103014,El Camino FC Salinas ECNL B2012/13,Davis Legacy ECNL B2012/13,1,0,Salinas Regional Soccer Complex - Turf #2,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
-U14,Northern Cal,1099491,2026-10-03 09:00,84813,132648,River Islands Surf ECNL B2012/13,Napa United ECNL B2012/13,,,River Islands Sports Park - Field 2,3777,2907,Valley Surf | America,Napa United
+U14,Northern Cal,1099491,2026-10-03 13:00,84813,132648,River Islands Surf ECNL B2012/13,Napa United ECNL B2012/13,,,River Islands Sports Park - Field 2 (11v11),3777,2907,Valley Surf | America,Napa United
 U14,Northern Cal,1099485,2026-10-03 13:30,99066,99123,Placer United ECNL B2012/13,1974 Newark FC ECNL B2012/13,,,Placer Valley Soccer Complex - Field 5,3054,4342,Placer United Soccer Club,1974 Newark FC
 U14,Northern Cal,1099527,2026-10-04 10:00,132007,132470,Santa Rosa United ECNL B2012/13,Mustang Soccer ECNL B2012/13,,,Trione Fields - Trione West,91,69,Santa Rosa United Soccer,Mustang Soccer
 U14,Northern Cal,1099521,2026-10-04 11:00,99062,99148,San Juan SC ECNL B2012/13,MVLA ECNL B2012/13,,,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,294,San Juan Soccer Club,MVLA
@@ -3425,13 +3425,13 @@ U14,Texas,1106943,2026-09-27 11:00,134051,114023,Dallas Texans Academy ECNL B201
 U14,Texas,1106961,2026-09-27 11:00,133285,80818,Lonestar ATX Red ECNL B2012/13,OK Energy FC Academy B2012/13,4,0,Round Rock MultiPurpose Complex - Field 10,62,2133,Lonestar ATX,Oklahoma Energy FC
 U14,Texas,1107003,2026-10-03 11:00,131621,133285,San Antonio City SC ECNL B2012/13,Lonestar ATX Red ECNL B2012/13,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U14,Texas,1106979,2026-10-03 12:00,57176,114023,Albion Hurricanes FC ECNL B2012/13,DKSC ECNL B2012/13,,,Campbell Road Sports Park - Field 1,10,35,Albion Hurricanes FC,DKSC
-U14,Texas,1106985,2026-10-03 13:00,80818,116038,OK Energy FC Academy B2012/13,FC Dallas Youth Red ECNL B2012/13,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U14,Texas,1106997,2026-10-03 13:00,95141,133286,SAFC ECNL B2012/13,Lonestar ATX Royal ECNL B2012/13,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U14,Texas,1107009,2026-10-03 13:00,131315,131176,RISE SC ECNL B2012/13,Sting ECNL B2012/13,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
 U14,Texas,1106991,2026-10-03 14:00,111928,131245,HTX ECNL B2012/13,FC Westlake ECNL B2012/13,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U14,Texas,1107015,2026-10-04 09:00,57176,131176,Albion Hurricanes FC ECNL B2012/13,Sting ECNL B2012/13,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U14,Texas,1107027,2026-10-04 11:00,131315,114023,RISE SC ECNL B2012/13,DKSC ECNL B2012/13,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
 U14,Texas,1107039,2026-10-04 11:00,131621,133286,San Antonio City SC ECNL B2012/13,Lonestar ATX Royal ECNL B2012/13,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
+U14,Texas,1106985,2026-10-04 13:00,80818,116038,OK Energy FC Academy B2012/13,FC Dallas Youth Red ECNL B2012/13,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U14,Texas,1107045,2026-10-04 13:00,95141,133285,SAFC ECNL B2012/13,Lonestar ATX Red ECNL B2012/13,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U14,Texas,1107033,2026-10-04 15:00,76665,134125,SOLAR SC ECNL B2012/13,Dallas Texans ECNL B2012/13,,,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
 U14,Texas,1107051,2026-10-10,114023,131245,DKSC ECNL B2012/13,FC Westlake ECNL B2012/13,,,,35,3234,DKSC,FC Westlake
@@ -4875,13 +4875,13 @@ U15,Texas,1106974,2026-09-27 13:00,60621,133097,SOLAR SC ECNL B2011/12,Real Colo
 U15,Texas,1106950,2026-09-27 15:00,131174,134124,Sting ECNL B2011/12,Dallas Texans ECNL B2011/12,0,1,Sting National Training Center - Field 3,36,37,Sting Soccer Club,Dallas Texans
 U15,Texas,1106908,2026-09-30 18:00,94653,94660,FC Dallas Youth Red ECNL B2011/12,FC Dallas Youth White ECNL B2011/12,,,Toyota Soccer Center - Field 10,47,47,FC Dallas Youth,FC Dallas Youth
 U15,Texas,1107004,2026-10-03 09:00,131622,133282,San Antonio City SC ECNL B2011/12,Lonestar ATX Red ECNL B2011/12,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
-U15,Texas,1106986,2026-10-03 11:00,94439,94653,OK Energy FC Academy B2011/12,FC Dallas Youth Red ECNL B2011/12,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U15,Texas,1106998,2026-10-03 11:00,81510,133283,SAFC ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U15,Texas,1107010,2026-10-03 11:00,131313,131174,RISE SC ECNL B2011/12,Sting ECNL B2011/12,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
 U15,Texas,1106980,2026-10-03 14:00,81909,94512,Albion Hurricanes FC ECNL B2011/12,DKSC ECNL B2011/12,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
 U15,Texas,1106992,2026-10-03 14:00,90777,131247,HTX ECNL B2011/12,FC Westlake ECNL B2011/12,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U15,Texas,1107028,2026-10-04 09:00,131313,94512,RISE SC ECNL B2011/12,DKSC ECNL B2011/12,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
 U15,Texas,1107040,2026-10-04 09:00,131622,133283,San Antonio City SC ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
+U15,Texas,1106986,2026-10-04 11:00,94439,94653,OK Energy FC Academy B2011/12,FC Dallas Youth Red ECNL B2011/12,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U15,Texas,1107016,2026-10-04 11:00,81909,131174,Albion Hurricanes FC ECNL B2011/12,Sting ECNL B2011/12,,,Campbell Road Sports Park - Field 5,10,36,Albion Hurricanes FC,Sting Soccer Club
 U15,Texas,1107046,2026-10-04 11:00,81510,133282,SAFC ECNL B2011/12,Lonestar ATX Red ECNL B2011/12,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U15,Texas,1107034,2026-10-04 13:00,60621,134124,SOLAR SC ECNL B2011/12,Dallas Texans ECNL B2011/12,,,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
@@ -5799,7 +5799,7 @@ U16,Northern Cal,1099441,2026-09-27 10:00,39821,89718,COSC ECNL B2010/11,Folsom 
 U16,Northern Cal,1099459,2026-09-27 11:00,132473,131260,Mustang Soccer ECNL B2010/11,San Francisco Elite Academy ECNL B2010/11,1,2,Provident Field @ MSC - Upper,69,1040,Mustang Soccer,San Francisco Elite Academy
 U16,Northern Cal,1099447,2026-09-27 12:00,79980,81188,El Camino FC Salinas ECNL B2010/11,Davis Legacy ECNL B2010/11,1,1,Salinas Regional Soccer Complex - Turf #1,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
 U16,Northern Cal,1099453,2026-09-27 12:00,131737,80637,Los Gatos United Soccer Club ECNL B2010/11,Association FC ECNL B10/11,0,1,Monta Vista High School - Stadium,3231,3065,Los Gatos United Soccer Club,Association Football Club
-U16,Northern Cal,1099489,2026-10-03 13:00,71303,132650,River Islands Surf ECNL B2010/11,Napa United ECNL B2010/11,,,River Islands Sports Park - Field 2,3777,2907,Valley Surf | America,Napa United
+U16,Northern Cal,1099489,2026-10-03 09:00,71303,132650,River Islands Surf ECNL B2010/11,Napa United ECNL B2010/11,,,River Islands Sports Park - Field 2 (11v11),3777,2907,Valley Surf | America,Napa United
 U16,Northern Cal,1099483,2026-10-03 16:00,71880,81051,Placer United ECNL B2010/11,1974 Newark FC ECNL B2010/11,,,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
 U16,Northern Cal,1099519,2026-10-04 09:00,82111,71814,San Juan SC ECNL B2010/11,MVLA ECNL B2010/11,,,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,294,San Juan Soccer Club,MVLA
 U16,Northern Cal,1099501,2026-10-04 12:00,81188,39821,Davis Legacy ECNL B2010/11,COSC ECNL B2010/11,,,Davis Legacy Soccer Complex - Field 14,1425,1470,Davis Legacy Soccer Club,California Odyssey Soccer Club
@@ -6326,11 +6326,11 @@ U16,Texas,1106981,2026-10-03 10:00,48117,81106,Albion Hurricanes FC ECNL B2010/1
 U16,Texas,1107005,2026-10-03 11:00,131623,133280,San Antonio City SC ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U16,Texas,1106993,2026-10-03 12:00,80547,131248,HTX ECNL B2010/11,FC Westlake ECNL B2010/11,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U16,Texas,1107011,2026-10-03 13:00,131312,131171,RISE SC ECNL B2010/11,Sting ECNL B2010/11,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
-U16,Texas,1106987,2026-10-03 15:00,80772,69605,OK Energy FC Academy B2010/11,FC Dallas Youth Red ECNL B2010/11,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U16,Texas,1106999,2026-10-03 15:00,81511,133281,SAFC ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U16,Texas,1107017,2026-10-04 11:00,48117,131171,Albion Hurricanes FC ECNL B2010/11,Sting ECNL B2010/11,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U16,Texas,1107041,2026-10-04 11:00,131623,133281,San Antonio City SC ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U16,Texas,1107029,2026-10-04 13:00,131312,81106,RISE SC ECNL B2010/11,DKSC ECNL B2010/11,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
+U16,Texas,1106987,2026-10-04 15:00,80772,69605,OK Energy FC Academy B2010/11,FC Dallas Youth Red ECNL B2010/11,,,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U16,Texas,1107035,2026-10-04 15:00,69285,134123,SOLAR SC ECNL B2010/11,Dallas Texans ECNL B2010/11,,,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U16,Texas,1107047,2026-10-04 15:00,81511,133280,SAFC ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U16,Texas,1107053,2026-10-10,81106,131248,DKSC ECNL B2010/11,FC Westlake ECNL B2010/11,,,,35,3234,DKSC,FC Westlake
@@ -6358,13 +6358,13 @@ U16,Texas,1107179,2026-10-17 15:00,131312,134123,RISE SC ECNL B2010/11,Dallas Te
 U16,Texas,1107191,2026-10-17 15:00,131248,82752,FC Westlake ECNL B2010/11,Solar SC Academy ECNL B2010/11,,,Onion Creek Soccer Complex - Field 7,3234,101,FC Westlake,Solar SC
 U16,Texas,1107203,2026-10-17 15:30,133095,130561,Real Colorado Academy ECNL B2010/11,Tulsa SC ECNL B2010/11,,,Highland Heritage Regional Park - HHRP Stadium,81,106,Real Colorado,Tulsa Soccer Club
 U16,Texas,1107227,2026-10-18,81106,69605,DKSC ECNL B2010/11,FC Dallas Youth Red ECNL B2010/11,,,,35,47,DKSC,FC Dallas Youth
-U16,Texas,1107251,2026-10-18 10:00,80547,82752,HTX ECNL B2010/11,Solar SC Academy ECNL B2010/11,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U16,Texas,1107215,2026-10-18 13:00,48117,134123,Albion Hurricanes FC ECNL B2010/11,Dallas Texans ECNL B2010/11,,,New Territory Sports Complex - Field 4,10,37,Albion Hurricanes FC,Dallas Texans
 U16,Texas,1107221,2026-10-18 13:00,81111,130561,Colorado Storm ECNL B2010/11,Tulsa SC ECNL B2010/11,,,Stargate Charter School - Field 2,29,106,Colorado Storm,Tulsa Soccer Club
 U16,Texas,1107233,2026-10-18 13:00,131312,134028,RISE SC ECNL B2010/11,Dallas Texans Academy ECNL B2010/11,,,South Campus - Field 3,1772,37,RISE Soccer Club,Dallas Texans
 U16,Texas,1107239,2026-10-18 13:00,131171,69608,Sting ECNL B2010/11,FC Dallas Youth White ECNL B2010/11,,,Sting National Training Center - Field 3,36,47,Sting Soccer Club,FC Dallas Youth
 U16,Texas,1107245,2026-10-18 13:00,131248,69285,FC Westlake ECNL B2010/11,SOLAR SC ECNL B2010/11,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,101,FC Westlake,Solar SC
 U16,Texas,1107257,2026-10-18 13:30,133095,80772,Real Colorado Academy ECNL B2010/11,OK Energy FC Academy B2010/11,,,Highland Heritage Regional Park - HHRP Stadium,81,2133,Real Colorado,Oklahoma Energy FC
+U16,Texas,1107251,2026-10-18 14:00,80547,82752,HTX ECNL B2010/11,Solar SC Academy ECNL B2010/11,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U16,Texas,1107293,2026-10-24,69285,133281,SOLAR SC ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,,101,62,Solar SC,Lonestar ATX
 U16,Texas,1107299,2026-10-24,82752,133280,Solar SC Academy ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,,101,62,Solar SC,Lonestar ATX
 U16,Texas,1107275,2026-10-24 11:00,130561,134028,Tulsa SC ECNL B2010/11,Dallas Texans Academy ECNL B2010/11,,,Jenks Sports Complex - Field 1,106,37,Tulsa Soccer Club,Dallas Texans
@@ -7772,10 +7772,10 @@ U17,Texas,1106952,2026-09-27 13:00,131167,134119,Sting ECNL B2009/10,Dallas Texa
 U17,Texas,1107012,2026-10-03 11:00,131311,131167,RISE SC ECNL B2009/10,Sting ECNL B2009/10,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
 U17,Texas,1106982,2026-10-03 12:00,48116,68922,Albion Hurricanes FC ECNL B2009/10,DKSC ECNL B2009/10,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
 U17,Texas,1106994,2026-10-03 12:00,68820,131249,HTX ECNL B2009/10,FC Westlake ECNL B2009/10,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
-U17,Texas,1106988,2026-10-03 13:00,62605,69576,OK Energy FC Academy B2009/10,FC Dallas Youth Red ECNL B2009/10,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U17,Texas,1107006,2026-10-03 13:00,131624,133277,San Antonio City SC ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U17,Texas,1107000,2026-10-03 15:00,81512,133279,SAFC ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U17,Texas,1107030,2026-10-04 11:00,131311,68922,RISE SC ECNL B2009/10,DKSC ECNL B2009/10,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
+U17,Texas,1106988,2026-10-04 13:00,62605,69576,OK Energy FC Academy B2009/10,FC Dallas Youth Red ECNL B2009/10,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U17,Texas,1107018,2026-10-04 13:00,48116,131167,Albion Hurricanes FC ECNL B2009/10,Sting ECNL B2009/10,,,Campbell Road Sports Park - Field 5,10,36,Albion Hurricanes FC,Sting Soccer Club
 U17,Texas,1107036,2026-10-04 13:00,59418,134119,SOLAR SC ECNL B2009/10,Dallas Texans ECNL B2009/10,,,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U17,Texas,1107042,2026-10-04 13:00,131624,133279,San Antonio City SC ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
@@ -7808,9 +7808,9 @@ U17,Texas,1107222,2026-10-18 09:00,69487,130564,Colorado Storm ECNL B2009/10,Tul
 U17,Texas,1107234,2026-10-18 11:00,131311,134027,RISE SC ECNL B2009/10,Dallas Texans Academy ECNL B2009/10,,,South Campus - Field 4,1772,37,RISE Soccer Club,Dallas Texans
 U17,Texas,1107246,2026-10-18 11:00,131249,59418,FC Westlake ECNL B2009/10,SOLAR SC ECNL B2009/10,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,101,FC Westlake,Solar SC
 U17,Texas,1107258,2026-10-18 11:15,133094,62605,Real Colorado Academy ECNL B2009/10,OK Energy FC Academy B2009/10,,,Highland Heritage Regional Park - HHRP Stadium,81,2133,Real Colorado,Oklahoma Energy FC
+U17,Texas,1107252,2026-10-18 12:00,68820,82751,HTX ECNL B2009/10,Solar SC Academy ECNL B2009/10,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U17,Texas,1107216,2026-10-18 13:00,48116,134119,Albion Hurricanes FC ECNL B2009/10,Dallas Texans ECNL B2009/10,,,New Territory Sports Complex - Field 5,10,37,Albion Hurricanes FC,Dallas Texans
 U17,Texas,1107240,2026-10-18 13:00,131167,69544,Sting ECNL B2009/10,FC Dallas Youth White ECNL B2009/10,,,Sting National Training Center - Championship Field,36,47,Sting Soccer Club,FC Dallas Youth
-U17,Texas,1107252,2026-10-18 14:00,68820,82751,HTX ECNL B2009/10,Solar SC Academy ECNL B2009/10,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U17,Texas,1107294,2026-10-24,59418,133279,SOLAR SC ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,,101,62,Solar SC,Lonestar ATX
 U17,Texas,1107300,2026-10-24,82751,133277,Solar SC Academy ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,,101,62,Solar SC,Lonestar ATX
 U17,Texas,1107270,2026-10-24 10:00,69576,69487,FC Dallas Youth Red ECNL B2009/10,Colorado Storm ECNL B2009/10,,,Toyota Soccer Center - Field 11,47,29,FC Dallas Youth,Colorado Storm
@@ -8693,7 +8693,7 @@ U18/19,Northern Cal,1099469,2026-09-27 13:00,59933,60204,Placer United ECNL B200
 U18/19,Northern Cal,1099439,2026-09-27 14:00,69843,80748,COSC ECNL B2008/09,Folsom Lake Surf ECNL B2008/09,9,1,"San Joaquin Memorial- 1406 N. Fresno St. Fresno, C - field 1",1470,3989,California Odyssey Soccer Club,Folsom Lake Surf
 U18/19,Northern Cal,1099445,2026-09-27 14:00,70357,60302,El Camino FC Salinas ECNL B2008/09,Davis Legacy ECNL B2008/09,1,4,Salinas Regional Soccer Complex - Turf #1,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
 U18/19,Northern Cal,1099451,2026-09-27 14:00,131741,80633,Los Gatos United Soccer Club ECNL B2008/09,Association FC ECNL B08/09,3,2,Monta Vista High School - Stadium,3231,3065,Los Gatos United Soccer Club,Association Football Club
-U18/19,Northern Cal,1099487,2026-10-03 13:00,71301,132652,River Islands Surf ECNL B2008/09,Napa United ECNL B2008/09,,,River Islands Sports Park - Field 1,3777,2907,Valley Surf | America,Napa United
+U18/19,Northern Cal,1099487,2026-10-03 09:00,71301,132652,River Islands Surf ECNL B2008/09,Napa United ECNL B2008/09,,,River Islands Sports Park - FIeld 1 (11v11),3777,2907,Valley Surf | America,Napa United
 U18/19,Northern Cal,1099481,2026-10-03 14:00,59933,80778,Placer United ECNL B2008/09,1974 Newark FC ECNL B2008/09,,,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
 U18/19,Northern Cal,1099517,2026-10-04 13:00,60204,35860,San Juan SC ECNL B08/09,MVLA ECNL B2008/09,,,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,294,San Juan Soccer Club,MVLA
 U18/19,Northern Cal,1099505,2026-10-04 13:15,47721,56319,Marin FC ECNL B2008/09,Santa Clara Sporting ECNL B2008/09,,,Terra Linda High School - Stadium,1585,2548,Marin FC,Santa Clara Sporting
@@ -9218,13 +9218,13 @@ U18/19,Texas,1106911,2026-09-30 19:30,59581,48488,FC Dallas Youth Red ECNL B2008
 U18/19,Texas,1107001,2026-10-03 13:00,81514,133276,SAFC ECNL B2008/09,Lonestar ATX Royal ECNL B2008/09,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U18/19,Texas,1107007,2026-10-03 13:00,131625,133275,San Antonio City SC ECNL B2008/09,Lonestar ATX Red ECNL B2008/09,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U18/19,Texas,1106983,2026-10-03 14:00,46865,58707,Albion Hurricanes FC ECNL B2008/09,DKSC ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,35,Albion Hurricanes FC,DKSC
-U18/19,Texas,1106989,2026-10-03 15:00,59604,59581,OK Energy FC Academy B2008/09,FC Dallas Youth Red ECNL B2008/09,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U18/19,Texas,1107013,2026-10-03 15:00,131310,131163,RISE SC ECNL B2008/09,Sting ECNL B2008/09,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
 U18/19,Texas,1106995,2026-10-03 16:00,58597,131250,HTX ECNL B2008/09,FC Westlake ECNL B2008/09,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U18/19,Texas,1107037,2026-10-04 11:00,46793,134118,SOLAR SC ECNL B2008/09,Dallas Texans ECNL B2008/09,,,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U18/19,Texas,1107019,2026-10-04 13:00,46865,131163,Albion Hurricanes FC ECNL B2008/09,Sting ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U18/19,Texas,1107031,2026-10-04 13:00,131310,58707,RISE SC ECNL B2008/09,DKSC ECNL B2008/09,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
 U18/19,Texas,1107043,2026-10-04 13:00,131625,133276,San Antonio City SC ECNL B2008/09,Lonestar ATX Royal ECNL B2008/09,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
+U18/19,Texas,1106989,2026-10-04 15:00,59604,59581,OK Energy FC Academy B2008/09,FC Dallas Youth Red ECNL B2008/09,,,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U18/19,Texas,1107049,2026-10-04 15:00,81514,133275,SAFC ECNL B2008/09,Lonestar ATX Red ECNL B2008/09,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U18/19,Texas,1106857,2026-10-07 20:00,46865,131310,Albion Hurricanes FC ECNL B2008/09,RISE SC ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,1772,Albion Hurricanes FC,RISE Soccer Club
 U18/19,Texas,1107055,2026-10-10,58707,131250,DKSC ECNL B2008/09,FC Westlake ECNL B2008/09,,,,35,3234,DKSC,FC Westlake
@@ -9251,9 +9251,9 @@ U18/19,Texas,1107163,2026-10-17 15:00,46865,134025,Albion Hurricanes FC ECNL B20
 U18/19,Texas,1107169,2026-10-17 15:00,59851,59604,Colorado Storm ECNL B2008/09,OK Energy FC Academy B2008/09,,,Aurora Sports Park - Field 42,29,2133,Colorado Storm,Oklahoma Energy FC
 U18/19,Texas,1107229,2026-10-18,58707,59581,DKSC ECNL B2008/09,FC Dallas Youth Red ECNL B2008/09,,,,35,47,DKSC,FC Dallas Youth
 U18/19,Texas,1107259,2026-10-18 09:00,133092,59604,Real Colorado Academy ECNL B2008/09,OK Energy FC Academy B2008/09,,,Highland Heritage Regional Park - HHRP Stadium,81,2133,Real Colorado,Oklahoma Energy FC
+U18/19,Texas,1107253,2026-10-18 10:00,58597,60698,HTX ECNL B2008/09,Solar SC Academy ECNL B2008/09,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U18/19,Texas,1107217,2026-10-18 11:00,46865,134118,Albion Hurricanes FC ECNL B2008/09,Dallas Texans ECNL B2008/09,,,New Territory Sports Complex - Field 4,10,37,Albion Hurricanes FC,Dallas Texans
 U18/19,Texas,1107241,2026-10-18 11:00,131163,48488,Sting ECNL B2008/09,FC Dallas Youth White ECNL B2008/09,,,Sting National Training Center - Field 3,36,47,Sting Soccer Club,FC Dallas Youth
-U18/19,Texas,1107253,2026-10-18 12:00,58597,60698,HTX ECNL B2008/09,Solar SC Academy ECNL B2008/09,,,Bear Branch Sportsfields - Field 3,2258,101,HTX,Solar SC
 U18/19,Texas,1107223,2026-10-18 13:00,59851,130567,Colorado Storm ECNL B2008/09,Tulsa SC ECNL B2008/09,,,Stargate Charter School - Field 1,29,106,Colorado Storm,Tulsa Soccer Club
 U18/19,Texas,1107235,2026-10-18 13:00,131310,134025,RISE SC ECNL B2008/09,Dallas Texans Academy ECNL B2008/09,,,South Campus - Field 4,1772,37,RISE Soccer Club,Dallas Texans
 U18/19,Texas,1107247,2026-10-18 15:00,131250,46793,FC Westlake ECNL B2008/09,SOLAR SC ECNL B2008/09,,,Westlake High School Stadium - Chaparral Stadium - Field 1,3234,101,FC Westlake,Solar SC
