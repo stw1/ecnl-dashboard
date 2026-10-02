@@ -173,7 +173,10 @@ def page_file(gender, season=SEASON):
         return LEAGUES[gender]["file"]
     return f"{'girls-' if gender == 'girls' else ''}season-{season}.html"
 
-def page_data(gender, brackets, games, snap, season=SEASON):
+def page_data(gender, brackets, games, snap, season=SEASON, national=None):
+    """national: games at ECNL national events and the playoffs (national.py rows), shown with each team's games and
+    in the template's "extra games" slot (b.flex): not in the league table, and only games between two teams of the
+    same conference feed its ratings."""
     lg = LEAGUES[gender]
     venues, vix, league = [], {}, {}
     for g in games:
@@ -182,6 +185,22 @@ def page_data(gender, brackets, games, snap, season=SEASON):
             vix[v] = len(venues); venues.append(v)
         league.setdefault((g["age"], g["conference"]), []).append(",".join([str(g["match_id"]), g["start"], g["home_id"], g["away_id"],
                                                                            str(g["home_score"]), str(g["away_score"]), str(vix[v]) if v else ""]))
+    where = {t: (b["age"], b["conf"]) for b in brackets for t in b["teams"]}
+    extra, xnames = {}, {}
+    for g in national or []:
+        if g.get("gender", gender) != gender or (str(g["home_score"]) == "" and (g.get("start") or g["date"])[:10] < snap):
+            continue  # other gender, or an unplayed national-event game dated before today (cancelled or never reported)
+        v = " · ".join(x for x in (g.get("event_name") or "", g.get("venue") or "") if x)
+        if v and v not in vix:
+            vix[v] = len(venues); venues.append(v)
+        row = ",".join([str(g["match_id"]), g.get("start") or g["date"], g["home_id"], g["away_id"],
+                        str(g["home_score"]), str(g["away_score"]), str(vix[v]) if v else ""])
+        for t in {g["home_id"], g["away_id"]}:
+            if t in where:
+                extra.setdefault(where[t], []).append(row)
+        for t, n in ((g["home_id"], g.get("home_team")), (g["away_id"], g.get("away_team"))):
+            if t not in where and n:
+                xnames[t] = team_label(n)
     clubs = {}
     for b in brackets:
         for cid, cname in b["clubs"].values():
@@ -192,12 +211,14 @@ def page_data(gender, brackets, games, snap, season=SEASON):
         dage, dconf = next(((b["age"], b["conf"]) for b in brackets if b["age"] == dage), (brackets[0]["age"], brackets[0]["conf"]))
     return {"default": {"age": dage, "conf": dconf}, "snap": snap, "venues": venues, "brand": lg["label"],
             "leagues": [{"key": "Boys" if k == "boys" else "Girls", "file": page_file(k, season), "on": k == gender} for k in LEAGUES],
-            "clubs": clubs, "localTimes": True, "histPre": "girls-season-" if gender == "girls" else "season-",
+            "clubs": clubs, "localTimes": True, "xnames": xnames, "flexName": "ECNL national events", "flexShort": "National",
+            "histPre": "girls-season-" if gender == "girls" else "season-",
             "tiers": postseason.TIERS[gender], "postNotes": postseason.NOTES[gender],
             "brackets": [{"age": b["age"], "conf": b["conf"], "teams": {k: team_label(n) for k, n in b["teams"].items()},
                           "club": {k: v[0] for k, v in b["clubs"].items() if v[0]}, "groups": b.get("groups") or {},
                           "post": postseason.RULES[gender].get(b["conf"], {}).get(b["age"], []) if season == SEASON else [],
-                          "raw": ";".join(league.get((b["age"], b["conf"]), [])), "flex": ""} for b in brackets]}
+                          "raw": ";".join(league.get((b["age"], b["conf"]), [])),
+                          "flex": ";".join(sorted(set(extra.get((b["age"], b["conf"]), []))))} for b in brackets]}
 
 def write_page(gender, data, season):
     lg = LEAGUES[gender]
@@ -221,7 +242,9 @@ def build(gender, brackets, games, meta):
     past = pastseasons.seasons(gender)
     seasons = [{"key": SEASON.replace("-", "–"), "file": page_file(gender)}] + \
               [{"key": pastseasons.label(s), "file": page_file(gender, s), "past": True} for s in past]
-    data = page_data(gender, brackets, games, meta["snapshot"])
+    ng = f"{ROOT}/data/national_games.csv"
+    nat = list(csv.DictReader(open(ng))) if os.path.exists(ng) else []
+    data = page_data(gender, brackets, games, meta["snapshot"], national=nat)
     data["seasons"] = seasons
     data["hist"] = pastseasons.team_history(gender, brackets) if past else {}
     add_priors(gender, data, brackets, past[0] if past else None)
@@ -239,7 +262,8 @@ def build(gender, brackets, games, meta):
     hist_cross = national.read(f"{ROOT}/data/history/cross.csv")
     for i, s in enumerate(past):  # finished seasons: same template with DATA.past set
         pb, pg = pastseasons.load(gender, s)
-        d = page_data(gender, pb, pg, max(g["start"][:10] for g in pg), s)
+        d = page_data(gender, pb, pg, max(g["start"][:10] for g in pg), s,
+                      national=[r for r in hist_cross if r["gender"] == gender and r["season"] == s])
         d.update(seasons=seasons, past=pastseasons.label(s), hist=pastseasons.team_history(gender, pb, before=s),
                  confAdj=eff["final"].get(s), confPrior=i + 1 < len(past), crossN=dict(collections.Counter(r["age"] for r in hist_cross
                                                                                if r["gender"] == gender and r["season"] == s)))

@@ -36,12 +36,18 @@ def season_of(date):
     y = y if m >= 8 else y - 1
     return f"{y}-{(y + 1) % 100:02d}"
 
-def collect(events, index):
-    """index: {season: {team id: (gender, age, conf)}} -> cross-conference rows."""
-    rows, seen = [], set()
+GAME_FIELDS = ["gender", "age", "event", "event_name", "match_id", "start", "home_id", "away_id", "home_team", "away_team",
+               "home_score", "away_score", "venue"]
+
+def collect(events, index, everything=False):
+    """index: {season: {team id: (gender, age, conf)}} -> cross-conference rows (played, both teams ECNL, same age,
+    different conferences). everything=True also returns every game with at least one of the indexed teams, played or
+    not (this season's national-event games, shown on team pages)."""
+    rows, allg, seen = [], [], set()
     for ev in events:
         try:
             divs = refresh.get(f"{refresh.API}/get-event-schedule-or-standings/{ev}")
+            ename = (refresh.get(f"{refresh.API}/get-event-details-by-eventID/{ev}") or {}).get("name", "").strip() if everything else ""
         except Exception as err:
             print(f"  skip event {ev}: {err}", flush=True)
             continue
@@ -54,22 +60,34 @@ def collect(events, index):
                     print(f"  skip flight {fl['flightID']} of event {ev}: {err}", flush=True)
                     continue
                 for g in games:
-                    if g["matchID"] in seen or g.get("hometeamscore") is None or g.get("awayteamscore") is None:
+                    if g["matchID"] in seen or not g.get("hometeamID") or not g.get("awayteamID"):
                         continue
-                    date = (g.get("gameDate") or "")[:10]
-                    if date[:4] < "2000":
+                    when = (g.get("gameDate") or "")[:16].replace("T", " ")
+                    if when[:4] < "2000":
                         continue
-                    s = season_of(date); ix = index.get(s, {})
-                    h, a = ix.get(str(g.get("hometeamID"))), ix.get(str(g.get("awayteamID")))
-                    if not h or not a or h[0] != a[0] or h[1] != a[1] or h[2] == a[2]:
+                    if when.endswith(" 00:00"):
+                        when = when[:10]
+                    s = season_of(when); ix = index.get(s, {})
+                    h, a = ix.get(str(g["hometeamID"])), ix.get(str(g["awayteamID"]))
+                    played = g.get("hometeamscore") is not None and g.get("awayteamscore") is not None
+                    if everything and (h or a):
+                        seen.add(g["matchID"]); k = h or a
+                        venue = " - ".join(x for x in ((g.get("complex") or "").strip(), (g.get("venue") or "").strip()) if x and x.upper() != "TBD")
+                        allg.append({"gender": k[0], "age": k[1], "event": ev, "event_name": ename, "match_id": g["matchID"], "start": when,
+                                     "home_id": str(g["hometeamID"]), "away_id": str(g["awayteamID"]),
+                                     "home_team": (g.get("homeTeam") or "").strip(), "away_team": (g.get("awayTeam") or "").strip(),
+                                     "home_score": g["hometeamscore"] if played else "", "away_score": g["awayteamscore"] if played else "",
+                                     "venue": venue})
+                    if not played or not h or not a or h[0] != a[0] or h[1] != a[1] or h[2] == a[2]:
                         continue
                     seen.add(g["matchID"]); n += 1
-                    rows.append({"season": s, "gender": h[0], "age": h[1], "date": date, "event": ev, "match_id": g["matchID"],
+                    rows.append({"season": s, "gender": h[0], "age": h[1], "date": when[:10], "event": ev, "match_id": g["matchID"],
                                  "home_id": str(g["hometeamID"]), "away_id": str(g["awayteamID"]), "home_conf": h[2], "away_conf": a[2],
                                  "home_score": g["hometeamscore"], "away_score": g["awayteamscore"]})
         print(f"  event {ev}: {n} cross-conference games", flush=True)
     rows.sort(key=lambda r: (r["season"], r["gender"], r["date"], str(r["match_id"])))
-    return rows
+    allg.sort(key=lambda r: (r["gender"], r["start"], str(r["match_id"])))
+    return (rows, allg) if everything else rows
 
 def write(path, rows):
     with open(path, "w", newline="") as f:
@@ -105,8 +123,10 @@ def current(brackets_by_gender):
     events = sorted(set(events) | set(discover(events)))
     json.dump(events, open(path, "w"))
     index = {refresh.SEASON: {t: (g, b["age"], b["conf"]) for g, bs in brackets_by_gender.items() for b in bs for t in b["teams"]}}
-    rows = collect(events, index)
+    rows, allg = collect(events, index, everything=True)
     write(f"{ROOT}/data/cross.csv", rows)
+    with open(f"{ROOT}/data/national_games.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, GAME_FIELDS); w.writeheader(); w.writerows(allg)
     return rows
 
 if __name__ == "__main__":

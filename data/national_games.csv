@@ -1,0 +1,468 @@
+gender,age,event,event_name,match_id,start,home_id,away_id,home_team,away_team,home_score,away_score,venue
+boys,U14,4414,ECNL Boys New Jersey,1122447,2026-08-21 08:00,135479,133677,Penn Fusion Soccer Academy ECNL B2012/13,LAFC So Cal ECNL B2012/13,1,2,Morningside Farm - Field #12
+boys,U14,4414,ECNL Boys New Jersey,1122448,2026-08-21 08:00,134990,133137,Philadelphia Ukrainian Nationals ECNL B2012/13,STA ECNL B2012/13,1,3,Morningside Farm - Field #13
+boys,U14,4414,ECNL Boys New Jersey,1122449,2026-08-21 08:00,115173,97125,East Coast Surf SC ECNL B2012/13,AC Connecticut ECNL B2012/13,1,3,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122450,2026-08-21 08:00,96817,94432,Connecticut FC United ECNL B2012/13,SJEB FC ECNL B2012/13,1,6,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122387,2026-08-21 09:50,134943,94549,Match Fit Surf ECNL B2013/14,Columbus Force ECNL RL B2013/14,3,4,Morningside Farm - Field #12
+boys,U13,4414,ECNL Boys New Jersey,1122388,2026-08-21 09:50,134992,133136,Philadelphia Ukrainian Nationals ECNL B2013/14,STA ECNL B2013/14,0,4,Morningside Farm - Field #13
+boys,U13,4414,ECNL Boys New Jersey,1122389,2026-08-21 09:50,115176,135474,East Coast Surf SC ECNL B2013/14,Penn Fusion Soccer Academy ECNL B2013/14,3,3,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122390,2026-08-21 09:50,112981,111883,PSA Monmouth ECNL B2013/14,WNY Flash ECNL B2013/14,1,1,Morningside Farm - Field #16
+boys,U14,4414,ECNL Boys New Jersey,1122423,2026-08-21 11:40,112320,134283,Baltimore Celtic ECNL B2012/13,FC Europa ECNL RL B2012/13,2,0,Morningside Farm - Field #12
+boys,U14,4414,ECNL Boys New Jersey,1122424,2026-08-21 11:40,134942,79650,Match Fit Surf ECNL B2012/13,WNY Flash ECNL B2012/13,3,4,Morningside Farm - Field #13
+boys,U14,4414,ECNL Boys New Jersey,1122425,2026-08-21 11:40,134844,114952,East Meadow Soccer Club ECNL B2012/13,STA MOSC ECNL RL B2012/13,8,2,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122426,2026-08-21 11:40,135306,112987,Oakwood Soccer Club ECNL B2012/13,PSA Monmouth ECNL B2012/13,0,1,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122363,2026-08-21 13:30,88601,114951,SJEB FC ECNL B2013/14,STA MOSC ECNL RL B2013/14,0,2,Morningside Farm - Field #12
+boys,U13,4414,ECNL Boys New Jersey,1122364,2026-08-21 13:30,135307,131025,Oakwood Soccer Club ECNL B2013/14,Baltimore Celtic ECNL B2013/14,0,1,Morningside Farm - Field #13
+boys,U13,4414,ECNL Boys New Jersey,1122365,2026-08-21 13:30,114650,116991,Connecticut FC United ECNL B2013/14,AC Connecticut ECNL B2013/14,0,5,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122366,2026-08-21 13:30,134845,134280,East Meadow Soccer Club ECNL B2013/14,FC Europa ECNL RL B2013/14,6,1,Morningside Farm - Field #16
+boys,U14,4414,ECNL Boys New Jersey,1122427,2026-08-22 08:00,112320,79650,Baltimore Celtic ECNL B2012/13,WNY Flash ECNL B2012/13,3,1,Morningside Farm - Field #12
+boys,U14,4414,ECNL Boys New Jersey,1122428,2026-08-22 08:00,134844,112987,East Meadow Soccer Club ECNL B2012/13,PSA Monmouth ECNL B2012/13,2,2,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122431,2026-08-22 08:00,134283,134942,FC Europa ECNL RL B2012/13,Match Fit Surf ECNL B2012/13,4,0,Morningside Farm - Field #13
+boys,U14,4414,ECNL Boys New Jersey,1122432,2026-08-22 08:00,114952,135306,STA MOSC ECNL RL B2012/13,Oakwood Soccer Club ECNL B2012/13,2,1,Morningside Farm - Field #16
+boys,U14,4414,ECNL Boys New Jersey,1122451,2026-08-22 09:50,133677,133137,LAFC So Cal ECNL B2012/13,STA ECNL B2012/13,3,2,Morningside Farm - Field #12
+boys,U14,4414,ECNL Boys New Jersey,1122452,2026-08-22 09:50,97125,94432,AC Connecticut ECNL B2012/13,SJEB FC ECNL B2012/13,2,0,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122455,2026-08-22 09:50,135479,134990,Penn Fusion Soccer Academy ECNL B2012/13,Philadelphia Ukrainian Nationals ECNL B2012/13,3,0,Morningside Farm - Field #13
+boys,U14,4414,ECNL Boys New Jersey,1122456,2026-08-22 09:50,115173,96817,East Coast Surf SC ECNL B2012/13,Connecticut FC United ECNL B2012/13,10,0,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122391,2026-08-22 11:40,94549,133136,Columbus Force ECNL RL B2013/14,STA ECNL B2013/14,1,3,Morningside Farm - Field #12
+boys,U13,4414,ECNL Boys New Jersey,1122392,2026-08-22 11:40,135474,111883,Penn Fusion Soccer Academy ECNL B2013/14,WNY Flash ECNL B2013/14,2,0,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122395,2026-08-22 11:40,134943,134992,Match Fit Surf ECNL B2013/14,Philadelphia Ukrainian Nationals ECNL B2013/14,0,1,Morningside Farm - Field #13
+boys,U13,4414,ECNL Boys New Jersey,1122396,2026-08-22 11:40,115176,112981,East Coast Surf SC ECNL B2013/14,PSA Monmouth ECNL B2013/14,2,1,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122367,2026-08-22 15:20,114951,131025,STA MOSC ECNL RL B2013/14,Baltimore Celtic ECNL B2013/14,3,2,Morningside Farm - Field #12
+boys,U13,4414,ECNL Boys New Jersey,1122368,2026-08-22 15:20,116991,134845,AC Connecticut ECNL B2013/14,East Meadow Soccer Club ECNL B2013/14,0,1,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122371,2026-08-22 15:20,88601,135307,SJEB FC ECNL B2013/14,Oakwood Soccer Club ECNL B2013/14,5,1,Morningside Farm - Field #13
+boys,U13,4414,ECNL Boys New Jersey,1122372,2026-08-22 15:20,114650,134280,Connecticut FC United ECNL B2013/14,FC Europa ECNL RL B2013/14,0,2,Morningside Farm - Field #16
+boys,U14,4414,ECNL Boys New Jersey,1122453,2026-08-23 08:00,133677,97125,LAFC So Cal ECNL B2012/13,AC Connecticut ECNL B2012/13,1,0,PDA Soccer Complex - Field #03
+boys,U14,4414,ECNL Boys New Jersey,1122454,2026-08-23 08:00,133137,94432,STA ECNL B2012/13,SJEB FC ECNL B2012/13,4,1,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122457,2026-08-23 08:00,135479,115173,Penn Fusion Soccer Academy ECNL B2012/13,East Coast Surf SC ECNL B2012/13,2,5,Morningside Farm - Field #16
+boys,U14,4414,ECNL Boys New Jersey,1122458,2026-08-23 08:00,134990,96817,Philadelphia Ukrainian Nationals ECNL B2012/13,Connecticut FC United ECNL B2012/13,,,Morningside Farm - Field #17
+boys,U13,4414,ECNL Boys New Jersey,1122393,2026-08-23 11:00,133136,135474,STA ECNL B2013/14,Penn Fusion Soccer Academy ECNL B2013/14,5,0,PDA Soccer Complex - Field #03
+boys,U13,4414,ECNL Boys New Jersey,1122394,2026-08-23 11:00,94549,111883,Columbus Force ECNL RL B2013/14,WNY Flash ECNL B2013/14,2,2,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122397,2026-08-23 11:00,134992,115176,Philadelphia Ukrainian Nationals ECNL B2013/14,East Coast Surf SC ECNL B2013/14,1,0,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122398,2026-08-23 11:00,134943,112981,Match Fit Surf ECNL B2013/14,PSA Monmouth ECNL B2013/14,4,0,Morningside Farm - Field #17
+boys,U13,4414,ECNL Boys New Jersey,1122369,2026-08-23 12:30,114951,134845,STA MOSC ECNL RL B2013/14,East Meadow Soccer Club ECNL B2013/14,1,4,PDA Soccer Complex - Field #04
+boys,U13,4414,ECNL Boys New Jersey,1122370,2026-08-23 12:30,131025,116991,Baltimore Celtic ECNL B2013/14,AC Connecticut ECNL B2013/14,0,3,Morningside Farm - Field #14
+boys,U13,4414,ECNL Boys New Jersey,1122373,2026-08-23 12:30,88601,134280,SJEB FC ECNL B2013/14,FC Europa ECNL RL B2013/14,1,1,Morningside Farm - Field #16
+boys,U13,4414,ECNL Boys New Jersey,1122374,2026-08-23 12:30,135307,114650,Oakwood Soccer Club ECNL B2013/14,Connecticut FC United ECNL B2013/14,2,1,Morningside Farm - Field 15
+boys,U14,4414,ECNL Boys New Jersey,1122429,2026-08-23 14:00,112320,134844,Baltimore Celtic ECNL B2012/13,East Meadow Soccer Club ECNL B2012/13,2,0,PDA Soccer Complex - Field #03
+boys,U14,4414,ECNL Boys New Jersey,1122430,2026-08-23 14:00,79650,112987,WNY Flash ECNL B2012/13,PSA Monmouth ECNL B2012/13,1,0,Morningside Farm - Field #14
+boys,U14,4414,ECNL Boys New Jersey,1122434,2026-08-23 14:00,134942,135306,Match Fit Surf ECNL B2012/13,Oakwood Soccer Club ECNL B2012/13,4,0,Morningside Farm - Field 15
+boys,U14,4417,ECNL Boys St. Louis,1139012,2026-09-11 08:00,132388,115101,Sporting Iowa Central ECNL B2012/13,Nationals SC ECNL B2012/13,0,6,Creve Coeur Park - Field #07
+boys,U14,4417,ECNL Boys St. Louis,1139013,2026-09-11 08:00,136407,133190,FC Wichita ECNL B2012/13,Lobos Rush ECNL B2012/13,4,0,Creve Coeur Park - Field #09
+boys,U14,4417,ECNL Boys St. Louis,1139014,2026-09-11 08:00,136277,112785,Chicago Magic Soccer Club ECNL B2012/13,St. Louis Stars SC ECNL B2012/13,2,0,Creve Coeur Park - Field #08
+boys,U14,4417,ECNL Boys St. Louis,1139083,2026-09-11 08:00,80550,112538,Indiana Elite FC ECNL B2012/13,Alabama FC Huntsville ECNL RL B2012/13,1,8,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139084,2026-09-11 08:00,69938,132546,Ohio Elite SA ECNL B2012/13,Kansas City Surf ECNL RL B2012/13,2,1,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139085,2026-09-11 08:00,116233,134034,Kansas City Athletics ECNL B2012/13,LA Krewe Rush ECNL RL B2012/13,0,4,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139086,2026-09-11 08:00,134342,132805,Rockford Raptors FC ECNL B2012/13,Toca Fusion Elite ECNL RL B2012/13,2,5,Creve Coeur Park - Field #13
+boys,U13,4416,ECNL Atlanta,1140619,2026-09-11 08:00,91703,98666,Pipeline SC ECNL B2013/14,Florida Kraze Krush - ECNL B2013/14,4,1,Georgia Sports Park - Field #06
+boys,U13,4416,ECNL Atlanta,1140621,2026-09-11 08:00,131805,134786,GSA ECNL B2013/14,Tennessee SC ECNL B2013/14,0,2,Georgia Sports Park - Field #05
+boys,U14,4416,ECNL Atlanta,1140654,2026-09-11 08:00,133137,112294,STA ECNL B2012/13,Concorde Fire Premier ECNL B2012/13,5,0,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140656,2026-09-11 08:00,94543,131973,FC Stars ECNL B2012/13,Coastal Rush ECNL B2012/13,2,1,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140668,2026-09-11 08:00,133324,83743,AC Florida West ECNL B2012/13,Highland FC ECNL B2012/13,5,6,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140669,2026-09-11 08:00,98539,69758,United Futbol Academy ECNL B2012/13,Pittsburgh Riverhounds ECNL B2012/13,7,1,Georgia Sports Park - Field #04
+boys,U13,4417,ECNL Boys St. Louis,1139403,2026-09-11 09:45,133046,69935,Colorado Storm Central ECNL B2013/14,Ohio Elite SA ECNL B2013/14,3,0,Creve Coeur Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139404,2026-09-11 09:45,136140,134135,Sporting Nebraska FC ECNL B2013/14,FC Wisconsin Boys ECNL B2013/14,1,6,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139405,2026-09-11 09:45,136332,120684,Union KC Soccer Club ECNL B2013/14,St Croix ECNL B2013/14,0,2,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139406,2026-09-11 09:45,135437,132386,FC Pride Elite ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,0,3,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140618,2026-09-11 09:45,133404,113644,Concorde Fire Platinum ECNL B2013/14,Sporting SA JAX ECNL B2013/14,3,1,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140620,2026-09-11 09:45,94546,133136,FC Stars ECNL B2013/14,STA ECNL B2013/14,0,4,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140655,2026-09-11 09:45,98515,87404,Alabama FC ECNL B2012/13,CESA Triumph ECNL B2012/13,1,5,Georgia Sports Park - Field #06
+boys,U14,4416,ECNL Atlanta,1140657,2026-09-11 09:45,111255,132267,Colorado Storm ECNL B2012/13,Tennessee United SC ECNL B2012/13,4,0,Georgia Sports Park - Field #05
+boys,U14,4416,ECNL Atlanta,1140666,2026-09-11 09:45,116940,95141,Atlanta Fire United ECNL B2012/13,SAFC ECNL B2012/13,0,3,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140667,2026-09-11 09:45,135572,131245,Chattanooga Red Wolves SC ECNL B2012/13,FC Westlake ECNL B2012/13,3,5,Georgia Sports Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139011,2026-09-11 11:30,98194,112022,St Croix ECNL B2012/13,Colorado Rush ECNL B2012/13,1,1,Creve Coeur Park - Field #06
+boys,U14,4417,ECNL Boys St. Louis,1139035,2026-09-11 11:30,131214,131892,VSA Rush ECNL B2012/13,Colorado EDGE ECNL B2012/13,2,0,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139036,2026-09-11 11:30,136053,133352,Eclipse Select Soccer Club ECNL B2012/13,Louisville City Academy ECNL B2012/13,2,1,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139037,2026-09-11 11:30,114374,134418,Missouri Rush ECNL B2012/13,MN Thunder Academy ECNL B2012/13,2,0,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139038,2026-09-11 11:30,134704,134897,Arkansas Comets FC ECNL B2012/13,NM Rapids SC ECNL B2012/13,2,5,Creve Coeur Park - Field #13
+boys,U13,4417,ECNL Boys St. Louis,1139427,2026-09-11 11:30,80548,131360,Indiana Elite FC ECNL B2013/14,St. Louis Stars SC ECNL RL B2013/14,0,2,Creve Coeur Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139428,2026-09-11 11:30,133992,132173,Kansas City Athletics ECNL B2013/14,Colorado Rush ECNL B2013/14,0,3,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139429,2026-09-11 11:30,134703,112582,Arkansas Comets FC ECNL B2013/14,FC 1974 Libertyville ECNL RL B2013/14,0,3,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139430,2026-09-11 11:30,134341,132543,Rockford Raptors FC ECNL B2013/14,Kansas City Surf ECNL RL B2013/14,0,3,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140607,2026-09-11 11:30,131974,131461,Coastal Rush ECNL B2013/14,Alabama FC ECNL B2013/14,1,2,Georgia Sports Park - Field #06
+boys,U13,4416,ECNL Atlanta,1140609,2026-09-11 11:30,132527,133410,Highland FC ECNL B2013/14,Concorde Fire Premier ECNL B2013/14,0,3,Georgia Sports Park - Field #05
+boys,U13,4416,ECNL Atlanta,1140630,2026-09-11 11:30,132369,82460,Colorado Storm ECNL B2013/14,Pittsburgh Riverhounds ECNL B2013/14,2,0,Georgia Sports Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140631,2026-09-11 11:30,134174,133325,NTH NASA ECNL B2013/14,AC Florida West ECNL B2013/14,2,0,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140642,2026-09-11 11:30,91715,134169,Pipeline SC ECNL B2012/13,NTH NASA ECNL B2012/13,1,1,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140644,2026-09-11 11:30,131804,131387,GSA ECNL B2012/13,Charlotte SA Academy ECNL B2012/13,2,1,Georgia Sports Park - Field #02
+boys,U14,4417,ECNL Boys St. Louis,1139059,2026-09-11 13:15,128620,98221,Chicago Inter ECNL B2012/13,Kansas Rush ECNL B2012/13,6,1,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139060,2026-09-11 13:15,136336,68814,Union KC Soccer Club ECNL B2012/13,FC Pride Elite ECNL B2012/13,3,2,Creve Coeur Park - Field #13
+boys,U14,4417,ECNL Boys St. Louis,1139061,2026-09-11 13:15,133047,134197,Colorado Storm Central ECNL B2012/13,FC Wisconsin Boys ECNL B2012/13,3,2,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139062,2026-09-11 13:15,96283,136139,Capital FC ECNL B2012/13,Sporting Nebraska FC ECNL B2012/13,7,2,Creve Coeur Park - Field #11
+boys,U13,4417,ECNL Boys St. Louis,1139379,2026-09-11 13:15,131944,134896,Missouri Rush ECNL B2013/14,NM Rapids SC ECNL B2013/14,1,2,Creve Coeur Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139380,2026-09-11 13:15,130839,131674,Capital FC ECNL B2013/14,Gretna Elite Academy ECNL B2013/14,0,3,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139381,2026-09-11 13:15,136052,116871,Eclipse Select Soccer Club ECNL B2013/14,Kansas Rush ECNL B2013/14,1,0,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139382,2026-09-11 13:15,133351,128622,Louisville City Academy ECNL B2013/14,Chicago Inter ECNL B2013/14,2,1,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140606,2026-09-11 13:15,98067,131386,CESA Triumph ECNL B2013/14,Charlotte SA Academy ECNL B2013/14,0,0,Georgia Sports Park - Field #06
+boys,U13,4416,ECNL Atlanta,1140608,2026-09-11 13:15,132266,119998,Tennessee United SC ECNL B2013/14,United Futbol Academy ECNL B2013/14,0,1,Georgia Sports Park - Field #05
+boys,U13,4416,ECNL Atlanta,1140632,2026-09-11 13:15,111245,119581,SAFC ECNL B2013/14,Atlanta Fire United ECNL B2013/14,1,6,Georgia Sports Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140633,2026-09-11 13:15,135571,131244,Chattanooga Red Wolves SC ECNL B2013/14,FC Westlake ECNL B2013/14,0,1,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140643,2026-09-11 13:15,134785,94388,Tennessee SC ECNL B2012/13,Sporting SA JAX ECNL B2012/13,2,1,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140645,2026-09-11 13:15,39797,112293,Florida Kraze Krush ECNL B2012/13,Concorde Fire Platinum ECNL B2012/13,1,2,Georgia Sports Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139355,2026-09-11 15:00,136410,131890,FC Wichita ECNL B2013/14,Colorado EDGE ECNL B2013/14,1,1,Creve Coeur Park - Field #05
+boys,U13,4417,ECNL Boys St. Louis,1139356,2026-09-11 15:00,117735,134416,St. Louis Stars SC ECNL B2013/14,MN Thunder Academy ECNL B2013/14,7,0,Creve Coeur Park - Field #06
+boys,U13,4417,ECNL Boys St. Louis,1139357,2026-09-11 15:00,136276,131213,Chicago Magic Soccer Club ECNL B2013/14,VSA Rush ECNL B2013/14,3,0,Creve Coeur Park - Field #07
+boys,U13,4417,ECNL Boys St. Louis,1139358,2026-09-11 15:00,115316,133189,Nationals SC ECNL B2013/14,Lobos Rush ECNL B2013/14,2,0,Creve Coeur Park - Field #08
+boys,U14,4417,ECNL Boys St. Louis,1139063,2026-09-12 08:00,128620,136336,Chicago Inter ECNL B2012/13,Union KC Soccer Club ECNL B2012/13,2,4,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139064,2026-09-12 08:00,133047,96283,Colorado Storm Central ECNL B2012/13,Capital FC ECNL B2012/13,2,4,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139067,2026-09-12 08:00,98221,68814,Kansas Rush ECNL B2012/13,FC Pride Elite ECNL B2012/13,3,1,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139068,2026-09-12 08:00,134197,136139,FC Wisconsin Boys ECNL B2012/13,Sporting Nebraska FC ECNL B2012/13,3,1,Creve Coeur Park - Field #13
+boys,U13,4417,ECNL Boys St. Louis,1139363,2026-09-12 08:00,131890,134416,Colorado EDGE ECNL B2013/14,MN Thunder Academy ECNL B2013/14,3,1,Creve Coeur Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140646,2026-09-12 08:00,134169,134785,NTH NASA ECNL B2012/13,Tennessee SC ECNL B2012/13,0,0,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140647,2026-09-12 08:00,131804,112293,GSA ECNL B2012/13,Concorde Fire Platinum ECNL B2012/13,2,1,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140650,2026-09-12 08:00,91715,94388,Pipeline SC ECNL B2012/13,Sporting SA JAX ECNL B2012/13,3,2,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140651,2026-09-12 08:00,131387,39797,Charlotte SA Academy ECNL B2012/13,Florida Kraze Krush ECNL B2012/13,1,2,Georgia Sports Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139039,2026-09-12 09:45,131214,136053,VSA Rush ECNL B2012/13,Eclipse Select Soccer Club ECNL B2012/13,2,1,Creve Coeur Park - Field #03
+boys,U14,4417,ECNL Boys St. Louis,1139040,2026-09-12 09:45,114374,134897,Missouri Rush ECNL B2012/13,NM Rapids SC ECNL B2012/13,2,3,SLYSA Complex - Field #18
+boys,U14,4417,ECNL Boys St. Louis,1139043,2026-09-12 09:45,131892,133352,Colorado EDGE ECNL B2012/13,Louisville City Academy ECNL B2012/13,1,4,Creve Coeur Park - Field #05
+boys,U14,4417,ECNL Boys St. Louis,1139044,2026-09-12 09:45,134418,134704,MN Thunder Academy ECNL B2012/13,Arkansas Comets FC ECNL B2012/13,1,1,Creve Coeur Park - Field #04
+boys,U13,4417,ECNL Boys St. Louis,1139359,2026-09-12 09:45,136410,117735,FC Wichita ECNL B2013/14,St. Louis Stars SC ECNL B2013/14,0,1,Creve Coeur Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139364,2026-09-12 09:45,131213,133189,VSA Rush ECNL B2013/14,Lobos Rush ECNL B2013/14,2,4,Creve Coeur Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140670,2026-09-12 09:45,95141,131245,SAFC ECNL B2012/13,FC Westlake ECNL B2012/13,0,1,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140671,2026-09-12 09:45,83743,98539,Highland FC ECNL B2012/13,United Futbol Academy ECNL B2012/13,0,0,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140674,2026-09-12 09:45,116940,135572,Atlanta Fire United ECNL B2012/13,Chattanooga Red Wolves SC ECNL B2012/13,0,0,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140675,2026-09-12 09:45,133324,69758,AC Florida West ECNL B2012/13,Pittsburgh Riverhounds ECNL B2012/13,1,1,Georgia Sports Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139015,2026-09-12 11:30,98194,115101,St Croix ECNL B2012/13,Nationals SC ECNL B2012/13,0,3,SLYSA Complex - Field #18
+boys,U14,4417,ECNL Boys St. Louis,1139016,2026-09-12 11:30,136407,136277,FC Wichita ECNL B2012/13,Chicago Magic Soccer Club ECNL B2012/13,3,1,Creve Coeur Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139019,2026-09-12 11:30,112022,132388,Colorado Rush ECNL B2012/13,Sporting Iowa Central ECNL B2012/13,2,3,Creve Coeur Park - Field #03
+boys,U14,4417,ECNL Boys St. Louis,1139020,2026-09-12 11:30,133190,112785,Lobos Rush ECNL B2012/13,St. Louis Stars SC ECNL B2012/13,2,5,Creve Coeur Park - Field #05
+boys,U14,4417,ECNL Boys St. Louis,1139087,2026-09-12 11:30,112538,69938,Alabama FC Huntsville ECNL RL B2012/13,Ohio Elite SA ECNL B2012/13,3,0,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139091,2026-09-12 11:30,80550,132546,Indiana Elite FC ECNL B2012/13,Kansas City Surf ECNL RL B2012/13,1,1,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139092,2026-09-12 11:30,116233,134342,Kansas City Athletics ECNL B2012/13,Rockford Raptors FC ECNL B2012/13,0,5,Creve Coeur Park - Field #13
+boys,U14,4416,ECNL Atlanta,1140658,2026-09-12 11:30,133137,87404,STA ECNL B2012/13,CESA Triumph ECNL B2012/13,0,0,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140659,2026-09-12 11:30,94543,111255,FC Stars ECNL B2012/13,Colorado Storm ECNL B2012/13,0,0,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140662,2026-09-12 11:30,112294,98515,Concorde Fire Premier ECNL B2012/13,Alabama FC ECNL B2012/13,0,0,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140663,2026-09-12 11:30,131973,132267,Coastal Rush ECNL B2012/13,Tennessee United SC ECNL B2012/13,0,1,Georgia Sports Park - Field #04
+boys,U13,4417,ECNL Boys St. Louis,1139383,2026-09-12 13:15,134896,131674,NM Rapids SC ECNL B2013/14,Gretna Elite Academy ECNL B2013/14,1,3,SLYSA Complex - Field #05
+boys,U13,4417,ECNL Boys St. Louis,1139384,2026-09-12 13:15,136052,133351,Eclipse Select Soccer Club ECNL B2013/14,Louisville City Academy ECNL B2013/14,0,2,SLYSA Complex - Field #06
+boys,U13,4417,ECNL Boys St. Louis,1139387,2026-09-12 13:15,131944,130839,Missouri Rush ECNL B2013/14,Capital FC ECNL B2013/14,7,8,SLYSA Complex - Field #07
+boys,U13,4417,ECNL Boys St. Louis,1139388,2026-09-12 13:15,116871,128622,Kansas Rush ECNL B2013/14,Chicago Inter ECNL B2013/14,3,4,SLYSA Complex - Field #09
+boys,U13,4417,ECNL Boys St. Louis,1139407,2026-09-12 13:15,133046,134135,Colorado Storm Central ECNL B2013/14,FC Wisconsin Boys ECNL B2013/14,1,1,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139408,2026-09-12 13:15,120684,132386,St Croix ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,1,3,Creve Coeur Park - Field #05
+boys,U13,4417,ECNL Boys St. Louis,1139411,2026-09-12 13:15,69935,136140,Ohio Elite SA ECNL B2013/14,Sporting Nebraska FC ECNL B2013/14,0,1,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139412,2026-09-12 13:15,136332,135437,Union KC Soccer Club ECNL B2013/14,FC Pride Elite ECNL B2013/14,2,2,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140622,2026-09-12 13:15,133404,91703,Concorde Fire Platinum ECNL B2013/14,Pipeline SC ECNL B2013/14,0,0,Georgia Sports Park - Field #05
+boys,U13,4416,ECNL Atlanta,1140634,2026-09-12 13:15,132369,134174,Colorado Storm ECNL B2013/14,NTH NASA ECNL B2013/14,0,0,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140635,2026-09-12 13:15,119581,131244,Atlanta Fire United ECNL B2013/14,FC Westlake ECNL B2013/14,0,0,Georgia Sports Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140638,2026-09-12 13:15,82460,133325,Pittsburgh Riverhounds ECNL B2013/14,AC Florida West ECNL B2013/14,0,0,Georgia Sports Park - Field #02
+boys,U13,4416,ECNL Atlanta,1140639,2026-09-12 13:15,111245,135571,SAFC ECNL B2013/14,Chattanooga Red Wolves SC ECNL B2013/14,0,1,Georgia Sports Park - Field #04
+boys,U13,4417,ECNL Boys St. Louis,1139360,2026-09-12 15:00,136276,115316,Chicago Magic Soccer Club ECNL B2013/14,Nationals SC ECNL B2013/14,0,0,Creve Coeur Park - Field #01
+boys,U13,4417,ECNL Boys St. Louis,1139431,2026-09-12 15:00,131360,132173,St. Louis Stars SC ECNL RL B2013/14,Colorado Rush ECNL B2013/14,3,1,Creve Coeur Park - Field #10
+boys,U13,4417,ECNL Boys St. Louis,1139435,2026-09-12 15:00,80548,133992,Indiana Elite FC ECNL B2013/14,Kansas City Athletics ECNL B2013/14,0,2,Creve Coeur Park - Field #12
+boys,U13,4417,ECNL Boys St. Louis,1139436,2026-09-12 15:00,134703,134341,Arkansas Comets FC ECNL B2013/14,Rockford Raptors FC ECNL B2013/14,2,3,Creve Coeur Park - Field #13
+boys,U13,4416,ECNL Atlanta,1140610,2026-09-12 15:00,131386,131461,Charlotte SA Academy ECNL B2013/14,Alabama FC ECNL B2013/14,0,0,Georgia Sports Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140614,2026-09-12 15:00,98067,131974,CESA Triumph ECNL B2013/14,Coastal Rush ECNL B2013/14,0,0,Georgia Sports Park - Field #05
+boys,U13,4416,ECNL Atlanta,1140623,2026-09-12 15:00,133136,134786,STA ECNL B2013/14,Tennessee SC ECNL B2013/14,0,0,Georgia Sports Park - Field #02
+boys,U13,4416,ECNL Atlanta,1140626,2026-09-12 15:00,113644,98666,Sporting SA JAX ECNL B2013/14,Florida Kraze Krush - ECNL B2013/14,0,0,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140627,2026-09-12 15:00,94546,131805,FC Stars ECNL B2013/14,GSA ECNL B2013/14,0,0,Georgia Sports Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140611,2026-09-12 16:45,119998,133410,United Futbol Academy ECNL B2013/14,Concorde Fire Premier ECNL B2013/14,0,0,Georgia Sports Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140615,2026-09-12 16:45,132266,132527,Tennessee United SC ECNL B2013/14,Highland FC ECNL B2013/14,0,0,Georgia Sports Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139041,2026-09-13 08:00,131214,134897,VSA Rush ECNL B2012/13,NM Rapids SC ECNL B2012/13,0,0,Creve Coeur Park - Field #06
+boys,U14,4417,ECNL Boys St. Louis,1139042,2026-09-13 08:00,136053,114374,Eclipse Select Soccer Club ECNL B2012/13,Missouri Rush ECNL B2012/13,1,1,Creve Coeur Park - Field #01
+boys,U14,4417,ECNL Boys St. Louis,1139045,2026-09-13 08:00,133352,134704,Louisville City Academy ECNL B2012/13,Arkansas Comets FC ECNL B2012/13,2,0,Creve Coeur Park - Field #05
+boys,U14,4417,ECNL Boys St. Louis,1139046,2026-09-13 08:00,131892,134418,Colorado EDGE ECNL B2012/13,MN Thunder Academy ECNL B2012/13,0,1,Creve Coeur Park - Field #10
+boys,U14,4417,ECNL Boys St. Louis,1139090,2026-09-13 08:00,69938,134034,Ohio Elite SA ECNL B2012/13,LA Krewe Rush ECNL RL B2012/13,1,0,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139093,2026-09-13 08:00,80550,134342,Indiana Elite FC ECNL B2012/13,Rockford Raptors FC ECNL B2012/13,1,3,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139094,2026-09-13 08:00,132546,116233,Kansas City Surf ECNL RL B2012/13,Kansas City Athletics ECNL B2012/13,2,1,Creve Coeur Park - Field #13
+boys,U13,4417,ECNL Boys St. Louis,1139361,2026-09-13 08:00,117735,136276,St. Louis Stars SC ECNL B2013/14,Chicago Magic Soccer Club ECNL B2013/14,3,3,Creve Coeur Park - Field #07
+boys,U13,4417,ECNL Boys St. Louis,1139362,2026-09-13 08:00,136410,115316,FC Wichita ECNL B2013/14,Nationals SC ECNL B2013/14,2,0,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139365,2026-09-13 08:00,131890,133189,Colorado EDGE ECNL B2013/14,Lobos Rush ECNL B2013/14,1,1,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139366,2026-09-13 08:00,134416,131213,MN Thunder Academy ECNL B2013/14,VSA Rush ECNL B2013/14,1,4,Creve Coeur Park - Field #04
+boys,U14,4416,ECNL Atlanta,1140660,2026-09-13 08:00,133137,111255,STA ECNL B2012/13,Colorado Storm ECNL B2012/13,6,0,Georgia Sports Park - Field #04
+boys,U14,4416,ECNL Atlanta,1140672,2026-09-13 08:00,131245,83743,FC Westlake ECNL B2012/13,Highland FC ECNL B2012/13,1,5,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140673,2026-09-13 08:00,95141,98539,SAFC ECNL B2012/13,United Futbol Academy ECNL B2012/13,4,3,Georgia Sports Park - Field #05
+boys,U14,4416,ECNL Atlanta,1140676,2026-09-13 08:00,116940,69758,Atlanta Fire United ECNL B2012/13,Pittsburgh Riverhounds ECNL B2012/13,3,1,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140677,2026-09-13 08:00,135572,133324,Chattanooga Red Wolves SC ECNL B2012/13,AC Florida West ECNL B2012/13,3,1,Georgia Sports Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139409,2026-09-13 09:30,133046,132386,Colorado Storm Central ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,0,2,Creve Coeur Park - Field #08
+boys,U13,4417,ECNL Boys St. Louis,1139410,2026-09-13 09:30,134135,120684,FC Wisconsin Boys ECNL B2013/14,St Croix ECNL B2013/14,1,2,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139413,2026-09-13 09:30,136140,135437,Sporting Nebraska FC ECNL B2013/14,FC Pride Elite ECNL B2013/14,2,5,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139414,2026-09-13 09:30,69935,136332,Ohio Elite SA ECNL B2013/14,Union KC Soccer Club ECNL B2013/14,2,4,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140636,2026-09-13 09:30,132369,119581,Colorado Storm ECNL B2013/14,Atlanta Fire United ECNL B2013/14,1,2,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140637,2026-09-13 09:30,134174,131244,NTH NASA ECNL B2013/14,FC Westlake ECNL B2013/14,5,0,Georgia Sports Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140640,2026-09-13 09:30,82460,135571,Pittsburgh Riverhounds ECNL B2013/14,Chattanooga Red Wolves SC ECNL B2013/14,2,0,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140661,2026-09-13 09:30,87404,94543,CESA Triumph ECNL B2012/13,FC Stars ECNL B2012/13,3,2,Georgia Sports Park - Field #05
+boys,U14,4416,ECNL Atlanta,1140664,2026-09-13 09:30,98515,132267,Alabama FC ECNL B2012/13,Tennessee United SC ECNL B2012/13,2,1,Georgia Sports Park - Field #04
+boys,U14,4417,ECNL Boys St. Louis,1139017,2026-09-13 11:00,115101,136407,Nationals SC ECNL B2012/13,FC Wichita ECNL B2012/13,4,0,Creve Coeur Park - Field #07
+boys,U14,4417,ECNL Boys St. Louis,1139018,2026-09-13 11:00,98194,136277,St Croix ECNL B2012/13,Chicago Magic Soccer Club ECNL B2012/13,3,5,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139021,2026-09-13 11:00,132388,112785,Sporting Iowa Central ECNL B2012/13,St. Louis Stars SC ECNL B2012/13,2,3,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139022,2026-09-13 11:00,112022,133190,Colorado Rush ECNL B2012/13,Lobos Rush ECNL B2012/13,2,0,Creve Coeur Park - Field #13
+boys,U13,4417,ECNL Boys St. Louis,1139434,2026-09-13 11:00,132173,132543,Colorado Rush ECNL B2013/14,Kansas City Surf ECNL RL B2013/14,1,1,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139437,2026-09-13 11:00,133992,134341,Kansas City Athletics ECNL B2013/14,Rockford Raptors FC ECNL B2013/14,0,2,Creve Coeur Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139438,2026-09-13 11:00,80548,134703,Indiana Elite FC ECNL B2013/14,Arkansas Comets FC ECNL B2013/14,0,8,Creve Coeur Park - Field #04
+boys,U13,4416,ECNL Atlanta,1140641,2026-09-13 11:00,133325,111245,AC Florida West ECNL B2013/14,SAFC ECNL B2013/14,0,7,Georgia Sports Park - Field #04
+boys,U14,4416,ECNL Atlanta,1140648,2026-09-13 11:00,134169,131804,NTH NASA ECNL B2012/13,GSA ECNL B2012/13,1,3,Georgia Sports Park - Field #01
+boys,U14,4416,ECNL Atlanta,1140649,2026-09-13 11:00,134785,112293,Tennessee SC ECNL B2012/13,Concorde Fire Platinum ECNL B2012/13,1,0,Georgia Sports Park - Field #02
+boys,U14,4416,ECNL Atlanta,1140652,2026-09-13 11:00,91715,39797,Pipeline SC ECNL B2012/13,Florida Kraze Krush ECNL B2012/13,4,3,Georgia Sports Park - Field #03
+boys,U14,4416,ECNL Atlanta,1140665,2026-09-13 11:00,112294,131973,Concorde Fire Premier ECNL B2012/13,Coastal Rush ECNL B2012/13,2,3,Georgia Sports Park - Field #05
+boys,U14,4417,ECNL Boys St. Louis,1139065,2026-09-13 12:30,136336,96283,Union KC Soccer Club ECNL B2012/13,Capital FC ECNL B2012/13,2,1,Creve Coeur Park - Field #08
+boys,U14,4417,ECNL Boys St. Louis,1139066,2026-09-13 12:30,128620,133047,Chicago Inter ECNL B2012/13,Colorado Storm Central ECNL B2012/13,3,0,Creve Coeur Park - Field #11
+boys,U14,4417,ECNL Boys St. Louis,1139069,2026-09-13 12:30,98221,134197,Kansas Rush ECNL B2012/13,FC Wisconsin Boys ECNL B2012/13,2,1,Creve Coeur Park - Field #12
+boys,U14,4417,ECNL Boys St. Louis,1139070,2026-09-13 12:30,68814,136139,FC Pride Elite ECNL B2012/13,Sporting Nebraska FC ECNL B2012/13,1,5,Creve Coeur Park - Field #13
+boys,U13,4417,ECNL Boys St. Louis,1139385,2026-09-13 12:30,131674,133351,Gretna Elite Academy ECNL B2013/14,Louisville City Academy ECNL B2013/14,2,2,Creve Coeur Park - Field #07
+boys,U13,4417,ECNL Boys St. Louis,1139386,2026-09-13 12:30,134896,136052,NM Rapids SC ECNL B2013/14,Eclipse Select Soccer Club ECNL B2013/14,0,1,Creve Coeur Park - Field #02
+boys,U13,4417,ECNL Boys St. Louis,1139389,2026-09-13 12:30,130839,128622,Capital FC ECNL B2013/14,Chicago Inter ECNL B2013/14,2,0,Creve Coeur Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140616,2026-09-13 12:30,98067,132266,CESA Triumph ECNL B2013/14,Tennessee United SC ECNL B2013/14,5,0,Georgia Sports Park - Field #05
+boys,U13,4416,ECNL Atlanta,1140624,2026-09-13 12:30,133404,133136,Concorde Fire Platinum ECNL B2013/14,STA ECNL B2013/14,4,0,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140625,2026-09-13 12:30,91703,134786,Pipeline SC ECNL B2013/14,Tennessee SC ECNL B2013/14,3,0,Georgia Sports Park - Field #02
+boys,U13,4416,ECNL Atlanta,1140629,2026-09-13 12:30,98666,94546,Florida Kraze Krush - ECNL B2013/14,FC Stars ECNL B2013/14,6,2,Georgia Sports Park - Field #04
+boys,U14,4416,ECNL Atlanta,1140653,2026-09-13 12:30,94388,131387,Sporting SA JAX ECNL B2012/13,Charlotte SA Academy ECNL B2012/13,2,0,Georgia Sports Park - Field #03
+boys,U13,4417,ECNL Boys St. Louis,1139390,2026-09-13 14:00,131944,116871,Missouri Rush ECNL B2013/14,Kansas Rush ECNL B2013/14,2,2,SLYSA Complex - Field #17
+boys,U13,4416,ECNL Atlanta,1140612,2026-09-13 14:00,131461,119998,Alabama FC ECNL B2013/14,United Futbol Academy ECNL B2013/14,0,4,Georgia Sports Park - Field #01
+boys,U13,4416,ECNL Atlanta,1140613,2026-09-13 14:00,131386,133410,Charlotte SA Academy ECNL B2013/14,Concorde Fire Premier ECNL B2013/14,1,1,Georgia Sports Park - Field #02
+boys,U13,4416,ECNL Atlanta,1140617,2026-09-13 14:00,131974,132527,Coastal Rush ECNL B2013/14,Highland FC ECNL B2013/14,2,2,Georgia Sports Park - Field #03
+boys,U13,4416,ECNL Atlanta,1140628,2026-09-13 14:00,113644,131805,Sporting SA JAX ECNL B2013/14,GSA ECNL B2013/14,3,2,Georgia Sports Park - Field #04
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140135,2026-10-10 08:00,131412,98644,Charlotte SA ECNL B2012/13,South Carolina United ECNL B2012/13,,,nCino Sports Park - Field #06
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140136,2026-10-10 08:00,135511,80687,Beach FC (VA) ECNL B2012/13,Ohio Premier ECNL B2012/13,,,nCino Sports Park - Field #07
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140137,2026-10-10 08:00,133817,95034,Richmond United ECNL B2012/13,Maryland United FC ECNL B2012/13,,,nCino Sports Park - Field #08
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140138,2026-10-10 08:00,113820,116940,NCFC Youth Academy ECNL B2012/13,Atlanta Fire United ECNL B2012/13,,,nCino Sports Park - Field #09
+boys,U13,4433,ECNL Boys San Diego,1144171,2026-10-10 08:00,114289,72944,Marin FC ECNL B2013/14,Solar SC Academy ECNL B2013/14,,,Surf Sports Park - Field #06
+boys,U13,4433,ECNL Boys San Diego,1144172,2026-10-10 08:00,113198,95183,MVLA ECNL B2013/14,West Coast FC ECNL B2013/14,,,Surf Sports Park - Field #05
+boys,U13,4433,ECNL Boys San Diego,1144173,2026-10-10 08:00,132457,90858,San Diego Surf Soccer Club ECNL B2013/14,Eastside FC ECNL B2013/14,,,Surf Sports Park - Field #07
+boys,U14,4433,ECNL Boys San Diego,1144218,2026-10-10 08:00,132470,113383,Mustang Soccer ECNL B2012/13,Rebels SC ECNL B2012/13,,,Surf Sports Park - Field #01
+boys,U14,4433,ECNL Boys San Diego,1144219,2026-10-10 08:00,133677,82883,LAFC So Cal ECNL B2012/13,XF ECNL B2012/13 1,,,Surf Sports Park - Field #02
+boys,U14,4433,ECNL Boys San Diego,1144220,2026-10-10 08:00,78582,103014,LA Breakers ECNL B2012/13,Davis Legacy ECNL B2012/13,,,Surf Sports Park - Field #03
+boys,U14,4433,ECNL Boys San Diego,1144221,2026-10-10 08:00,99057,134421,El Camino FC Salinas - ECNL B2012/13,Arizona Arsenal ECNL B2012/13,,,Surf Sports Park - Field #04
+boys,U15,4433,ECNL Boys San Diego,1144302,2026-10-10 08:00,94916,104931,West Coast FC ECNL B2011/12,Walnut Creek Surf ECNL RL BU15,,,Surf Sports Park - Field #08
+boys,U14,4433,ECNL Boys San Diego,1144206,2026-10-10 09:45,131410,103177,SDSC Surf ECNL B2012/13,Marin FC ECNL B2012/13,,,Surf Sports Park - Field #05
+boys,U14,4433,ECNL Boys San Diego,1144207,2026-10-10 09:45,70860,113987,COSC ECNL B2012/13,Solar SC Academy ECNL B2012/13,,,Surf Sports Park - Field #06
+boys,U14,4433,ECNL Boys San Diego,1144208,2026-10-10 09:45,99123,134468,1974 Newark FC ECNL B2012/13,Sporting California USA ECNL B2012/13,,,Surf Sports Park - Field #07
+boys,U14,4433,ECNL Boys San Diego,1144209,2026-10-10 09:45,132456,90869,San Diego Surf Soccer Club ECNL B2012/13,Eastside FC ECNL B2012/13,,,Surf Sports Park - Field #08
+boys,U15,4433,ECNL Boys San Diego,1144303,2026-10-10 09:45,91719,94660,El Camino FC Salinas - ECNL B2011/12,FC Dallas Youth White ECNL B2011/12,,,Surf Sports Park - Field #02
+boys,U15,4433,ECNL Boys San Diego,1144304,2026-10-10 09:45,84679,55701,San Juan SC ECNL B2011/12,Houstonians FC ECNL RL B2011/12,,,Surf Sports Park - Field #03
+boys,U15,4433,ECNL Boys San Diego,1144305,2026-10-10 09:45,131409,84676,SDSC Surf ECNL B2011/12,Placer United ECNL B2011/12,,,Surf Sports Park - Field #04
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140147,2026-10-10 10:00,116956,134497,Scorpions SC ECNL B2012/13,RNY FC Youth ECNL B2012/13,,,nCino Sports Park - Field #06
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140148,2026-10-10 10:00,112372,129031,NCFC Youth ECNL B2012/13,South Carolina Surf ECNL B2012/13,,,nCino Sports Park - Field #07
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140149,2026-10-10 10:00,95057,134261,NC Fusion ECNL B2012/13,Potomac Soccer Association ECNL B2012/13,,,nCino Sports Park - Field #08
+boys,U14,4435,ECNL Boys North Carolina - Fall,1140150,2026-10-10 10:00,132788,133912,Wilmington Hammerheads FC ECNL B2012/13,Fort Lauderdale United FC ECNL B2012/13,,,nCino Sports Park - Field #09
+boys,U15,4433,ECNL Boys San Diego,1144314,2026-10-10 10:05,84681,136890,MVLA ECNL B2011/12,Legends FC - Del Mar ECNL B2011/12,,,Surf Sports Park - Field #09
+boys,U15,4433,ECNL Boys San Diego,1144315,2026-10-10 10:05,131397,104930,Snohomish United ECNL B2011/12,South Valley United Soccer Club ECNL RL B2011/12,,,Surf Sports Park - Field #10
+boys,U15,4433,ECNL Boys San Diego,1144316,2026-10-10 10:05,132185,133170,Beach Futbol Club ECNL B2011/12,La Roca FC ECNL B2011/12,,,Surf Sports Park - Field #11
+boys,U15,4433,ECNL Boys San Diego,1144317,2026-10-10 10:05,132008,94965,Santa Rosa United ECNL B2011/12,Rebels SC ECNL RL B2011/12,,,Surf Sports Park - Field #12
+boys,U14,4433,ECNL Boys San Diego,1144230,2026-10-10 11:30,84813,132945,River Islands Surf - ECNL B12/13,Legends FC (CA) ECNL B2012/13,,,Surf Sports Park - Field #02
+boys,U14,4433,ECNL Boys San Diego,1144231,2026-10-10 11:30,133557,135010,CDA Slammers FC ECNL B2012/13,3RSC ECNL B2012/13,,,Surf Sports Park - Field #03
+boys,U14,4433,ECNL Boys San Diego,1144232,2026-10-10 11:30,78674,99062,West Coast FC ECNL B2012/13,San Juan SC ECNL B2012/13,,,Surf Sports Park - Field #01
+boys,U14,4433,ECNL Boys San Diego,1144233,2026-10-10 11:30,98785,98188,Association FC ECNL B12/13,Washington Premier ECNL B2012/13,,,Surf Sports Park - Field #04
+boys,U15,4433,ECNL Boys San Diego,1144266,2026-10-10 11:30,134469,132862,Sporting California USA ECNL B2011/12,CCV STARS ECNL B2011/12,,,Surf Sports Park - Field #05
+boys,U15,4433,ECNL Boys San Diego,1144267,2026-10-10 11:30,82821,131174,1974 Newark FC ECNL B2011/12,Sting ECNL B2011/12,,,Surf Sports Park - Field #07
+boys,U15,4433,ECNL Boys San Diego,1144268,2026-10-10 11:30,40071,71813,Santa Clara Sporting ECNL B2011/12,Seattle United ECNL B2011/12,,,Surf Sports Park - Field #06
+boys,U15,4433,ECNL Boys San Diego,1144269,2026-10-10 11:30,132455,81001,San Diego Surf Soccer Club ECNL B2011/12,River Islands Surf - ECNL B11/12,,,Surf Sports Park - Field #08
+boys,U14,4433,ECNL Boys San Diego,1144242,2026-10-10 11:50,99148,92619,MVLA ECNL B2012/13,XF ECNL B2012/13 2,,,Surf Sports Park - Field #09
+boys,U14,4433,ECNL Boys San Diego,1144243,2026-10-10 11:50,130991,94668,Pateadores ECNL B2012/13,Columbia Premier SC ECNL B2012/13,,,Surf Sports Park - Field #10
+boys,U14,4433,ECNL Boys San Diego,1144244,2026-10-10 11:50,131698,99066,Legends FC - Del Mar ECNL B2012/13,Placer United ECNL B2012/13,,,Surf Sports Park - Field #11
+boys,U14,4433,ECNL Boys San Diego,1144245,2026-10-10 11:50,131243,132858,San Francisco Elite Academy ECNL B2012/13,CCV STARS ECNL B2012/13,,,Surf Sports Park - Field #12
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140111,2026-10-10 12:00,131411,133913,Charlotte SA ECNL B2013/14,Fort Lauderdale United FC ECNL B2013/14,,,nCino Sports Park - Field #04
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140112,2026-10-10 12:00,112978,119581,NC Fusion ECNL B2013/14,Atlanta Fire United ECNL B2013/14,,,nCino Sports Park - Field #05
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140113,2026-10-10 12:00,132354,115685,NCFC Youth Academy ECNL B2013/14,Maryland United FC ECNL B2013/14,,,nCino Sports Park - Field #10
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140114,2026-10-10 12:00,133818,81319,Richmond United ECNL B2013/14,Ohio Premier ECNL B2013/14,,,nCino Sports Park - Field #11
+boys,U13,4433,ECNL Boys San Diego,1144182,2026-10-10 13:15,121192,96695,San Juan SC ECNL B2013/14,Rebels SC ECNL B2013/14,,,Surf Sports Park - Field #05
+boys,U13,4433,ECNL Boys San Diego,1144183,2026-10-10 13:15,134467,94143,Sporting California USA ECNL B2013/14,Washington Premier ECNL B2013/14,,,Surf Sports Park - Field #08
+boys,U13,4433,ECNL Boys San Diego,1144184,2026-10-10 13:15,131427,114181,SDSC Surf ECNL B2013/14,1974 Newark FC ECNL B2013/14,,,Surf Sports Park - Field #07
+boys,U13,4433,ECNL Boys San Diego,1144185,2026-10-10 13:15,99191,101929,River Islands Surf - ECNL B13/14,Columbia Premier SC ECNL B2013/14,,,Surf Sports Park - Field #06
+boys,U15,4433,ECNL Boys San Diego,1144254,2026-10-10 13:15,132944,90777,Legends FC (CA) ECNL B2011/12,HTX ECNL B2011/12,,,Surf Sports Park - Field #01
+boys,U15,4433,ECNL Boys San Diego,1144255,2026-10-10 13:15,132472,95093,Mustang Soccer ECNL B2011/12,Solar SC Academy ECNL B2011/12,,,Surf Sports Park - Field #02
+boys,U15,4433,ECNL Boys San Diego,1144256,2026-10-10 13:15,97487,81573,COSC ECNL B2011/12,Avalanche ECNL B2011/12,,,Surf Sports Park - Field #03
+boys,U15,4433,ECNL Boys San Diego,1144257,2026-10-10 13:15,133675,131678,LAFC So Cal ECNL B2011/12,Gretna Elite Academy ECNL B2011/12,,,Surf Sports Park - Field #04
+boys,U15,4433,ECNL Boys San Diego,1144290,2026-10-10 13:35,69638,71873,LA Breakers ECNL B2011/12,Columbia Premier SC ECNL B2011/12,,,Surf Sports Park - Field #09
+boys,U15,4433,ECNL Boys San Diego,1144291,2026-10-10 13:35,104319,60621,Folsom Lake Surf ECNL B2011/12,SOLAR SC ECNL B2011/12,,,Surf Sports Park - Field #10
+boys,U15,4433,ECNL Boys San Diego,1144292,2026-10-10 13:35,90731,97085,Davis Legacy ECNL B2011/12,El Paso Locomotive FC- ECNL B11/12,,,Surf Sports Park - Field #11
+boys,U15,4433,ECNL Boys San Diego,1144293,2026-10-10 13:35,130986,131735,Pateadores ECNL B2011/12,Los Gatos United Soccer Club ECNL B2011/12,,,Surf Sports Park - Field #12
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140123,2026-10-10 14:00,94751,134498,Scorpions SC ECNL B2013/14,RNY FC Youth ECNL B2013/14,,,nCino Sports Park - Field #04
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140124,2026-10-10 14:00,135510,121217,Beach FC (VA) ECNL B2013/14,South Carolina United ECNL B2013/14,,,nCino Sports Park - Field #05
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140125,2026-10-10 14:00,131814,134254,Wilmington Hammerheads FC ECNL B2013/14,Potomac Soccer Association ECNL B2013/14,,,nCino Sports Park - Field #10
+boys,U13,4435,ECNL Boys North Carolina - Fall,1140126,2026-10-10 14:00,132030,129032,NCFC Youth ECNL B2013/14,South Carolina Surf ECNL B2013/14,,,nCino Sports Park - Field #11
+boys,U13,4433,ECNL Boys San Diego,1144158,2026-10-10 15:00,113204,132946,Association FC ECNL B13/14,Legends FC (CA) ECNL B2013/14,,,Surf Sports Park - Field #02
+boys,U13,4433,ECNL Boys San Diego,1144159,2026-10-10 15:00,131240,133558,San Francisco Elite Academy ECNL B2013/14,CDA Slammers FC ECNL B2013/14,,,Surf Sports Park - Field #03
+boys,U13,4433,ECNL Boys San Diego,1144160,2026-10-10 15:00,94795,104617,LA Breakers ECNL B2013/14,XF ECNL B2013/14 1,,,Surf Sports Park - Field #04
+boys,U13,4433,ECNL Boys San Diego,1144161,2026-10-10 15:00,109540,134419,Placer United ECNL B2013/14,Arizona Arsenal ECNL B2013/14,,,Surf Sports Park - Field #01
+boys,U15,4433,ECNL Boys San Diego,1144278,2026-10-10 15:00,133556,79870,CDA Slammers FC ECNL B2011/12,Atlanta Fire United ECNL B2011/12,,,Surf Sports Park - Field #05
+boys,U15,4433,ECNL Boys San Diego,1144279,2026-10-10 15:00,93951,133097,Association FC ECNL B11/12,Real Colorado Academy ECNL B2011/12,,,Surf Sports Park - Field #06
+boys,U15,4433,ECNL Boys San Diego,1144280,2026-10-10 15:00,131257,134422,San Francisco Elite Academy ECNL B2011/12,Arizona Arsenal ECNL B2011/12,,,Surf Sports Park - Field #07
+boys,U15,4433,ECNL Boys San Diego,1144281,2026-10-10 15:00,94964,84685,Rebels SC ECNL B2011/12,Marin FC ECNL B2011/12,,,Surf Sports Park - Field #08
+boys,U13,4433,ECNL Boys San Diego,1144194,2026-10-10 16:45,125866,126632,Davis Legacy ECNL B2013/14,Pateadores ECNL B2013/14,,,Surf Sports Park - Field #08
+boys,U13,4433,ECNL Boys San Diego,1144195,2026-10-10 16:45,135009,104729,3RSC ECNL B2013/14,COSC ECNL B2013/14,,,Surf Sports Park - Field #07
+boys,U13,4433,ECNL Boys San Diego,1144196,2026-10-10 16:45,131696,92623,Legends FC - Del Mar ECNL B2013/14,XF ECNL B2013/14 2,,,Surf Sports Park - Field #06
+boys,U13,4433,ECNL Boys San Diego,1144197,2026-10-10 16:45,132467,132855,Mustang Soccer ECNL B2013/14,CCV STARS ECNL B2013/14,,,Surf Sports Park - Field #05
+boys,U13,4433,ECNL Boys San Diego,1144170,2026-10-10 21:45,133678,112149,LAFC So Cal ECNL B2013/14,El Camino FC Salinas - ECNL B2013/14,,,Surf Sports Park - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1110937,2026-08-21 08:00,78082,111880,Matchfit Surf ECNL G2013/14,WNY Flash ECNL G2013/14,3,1,PDA Soccer Complex - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1110938,2026-08-21 08:00,135477,64208,Penn Fusion Soccer Academy ECNL G2013/14,World Class FC ECNL G2013/14,1,1,PDA Soccer Complex - Field #02
+girls,U13,4415,ECNL Girls New Jersey,1110939,2026-08-21 08:00,134968,134190,Philadelphia Ukranian Nationals ECNL G2013/14,Michigan Hawks ECNL G2013/14,0,1,PDA Soccer Complex - Field #03
+girls,U13,4415,ECNL Girls New Jersey,1110940,2026-08-21 08:00,128076,94540,PDA Blue ECNL G2013/14,FC Stars Blue ECNL G2013/14,0,4,PDA Soccer Complex - Field #04
+girls,U14,4415,ECNL Girls New Jersey,1111185,2026-08-21 09:50,128078,134816,PDA Blue ECNL G2012/13,East Meadow Soccer Club ECNL G2012/13,3,1,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111186,2026-08-21 09:50,134967,71192,Philadelphia Ukranian Nationals ECNL G2012/13,WNY Flash ECNL G2012/13,5,1,PDA Soccer Complex - Field #02
+girls,U14,4415,ECNL Girls New Jersey,1111187,2026-08-21 09:50,43460,134178,Matchfit Surf ECNL G2012/13,Michigan Hawks ECNL G2012/13,1,4,PDA Soccer Complex - Field #03
+girls,U14,4415,ECNL Girls New Jersey,1111188,2026-08-21 09:50,128279,64207,PDA White ECNL G2012/13,World Class FC ECNL G2012/13,4,1,PDA Soccer Complex - Field #04
+girls,U13,4415,ECNL Girls New Jersey,1111173,2026-08-21 11:40,128277,132000,PDA White ECNL G2013/14,Team Boca ECNL G2013/14,1,2,PDA Soccer Complex - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1111174,2026-08-21 11:40,115686,82242,Maryland United FC ECNL G2013/14,FC Stars White ECNL G2013/14,0,5,PDA Soccer Complex - Field #02
+girls,U13,4415,ECNL Girls New Jersey,1111175,2026-08-21 11:40,134818,134195,East Meadow Soccer Club ECNL G2013/14,Michigan Hawks Magic ECNL G2013/14,2,0,PDA Soccer Complex - Field #03
+girls,U13,4415,ECNL Girls New Jersey,1111176,2026-08-21 11:40,131588,112272,HEX FC Bucks ECNL G2013/14,Tampa Bay United ECNL G2013/14,2,3,PDA Soccer Complex - Field #04
+girls,U14,4415,ECNL Girls New Jersey,1111197,2026-08-21 13:30,70655,131999,FC Stars Blue ECNL G2012/13,Team Boca ECNL G2012/13,2,0,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111198,2026-08-21 13:30,95035,134182,Maryland United FC ECNL G2012/13,Michigan Hawks Magic ECNL G2012/13,7,1,PDA Soccer Complex - Field #02
+girls,U14,4415,ECNL Girls New Jersey,1111199,2026-08-21 13:30,135481,112271,Penn Fusion Soccer Academy ECNL G2012/13,Tampa Bay United ECNL G2012/13,4,0,PDA Soccer Complex - Field #03
+girls,U14,4415,ECNL Girls New Jersey,1111200,2026-08-21 13:30,81913,131592,FC Stars White ECNL G2012/13,HEX FC Bucks ECNL G2012/13,1,0,PDA Soccer Complex - Field #04
+girls,U14,4415,ECNL Girls New Jersey,1111189,2026-08-22 08:00,128078,134967,PDA Blue ECNL G2012/13,Philadelphia Ukranian Nationals ECNL G2012/13,1,2,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111190,2026-08-22 08:00,134178,128279,Michigan Hawks ECNL G2012/13,PDA White ECNL G2012/13,0,1,PDA Soccer Complex - Field #02
+girls,U14,4415,ECNL Girls New Jersey,1111193,2026-08-22 08:00,134816,71192,East Meadow Soccer Club ECNL G2012/13,WNY Flash ECNL G2012/13,1,2,PDA Soccer Complex - Field #03
+girls,U14,4415,ECNL Girls New Jersey,1111194,2026-08-22 08:00,43460,64207,Matchfit Surf ECNL G2012/13,World Class FC ECNL G2012/13,4,0,PDA Soccer Complex - Field #04
+girls,U14,4415,ECNL Girls New Jersey,1111201,2026-08-22 09:50,70655,95035,FC Stars Blue ECNL G2012/13,Maryland United FC ECNL G2012/13,1,0,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111202,2026-08-22 09:50,135481,81913,Penn Fusion Soccer Academy ECNL G2012/13,FC Stars White ECNL G2012/13,1,0,PDA Soccer Complex - Field #02
+girls,U14,4415,ECNL Girls New Jersey,1111205,2026-08-22 09:50,131999,134182,Team Boca ECNL G2012/13,Michigan Hawks Magic ECNL G2012/13,3,1,PDA Soccer Complex - Field #03
+girls,U14,4415,ECNL Girls New Jersey,1111206,2026-08-22 09:50,112271,131592,Tampa Bay United ECNL G2012/13,HEX FC Bucks ECNL G2012/13,0,4,PDA Soccer Complex - Field #04
+girls,U13,4415,ECNL Girls New Jersey,1111177,2026-08-22 13:30,132000,82242,Team Boca ECNL G2013/14,FC Stars White ECNL G2013/14,0,4,PDA Soccer Complex - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1111178,2026-08-22 13:30,134818,112272,East Meadow Soccer Club ECNL G2013/14,Tampa Bay United ECNL G2013/14,1,2,PDA Soccer Complex - Field #02
+girls,U13,4415,ECNL Girls New Jersey,1111181,2026-08-22 13:30,128277,115686,PDA White ECNL G2013/14,Maryland United FC ECNL G2013/14,1,0,PDA Soccer Complex - Field #03
+girls,U13,4415,ECNL Girls New Jersey,1111182,2026-08-22 13:30,134195,131588,Michigan Hawks Magic ECNL G2013/14,HEX FC Bucks ECNL G2013/14,1,0,PDA Soccer Complex - Field #04
+girls,U13,4415,ECNL Girls New Jersey,1110941,2026-08-22 15:20,78082,64208,Matchfit Surf ECNL G2013/14,World Class FC ECNL G2013/14,3,1,PDA Soccer Complex - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1110942,2026-08-22 15:20,134190,94540,Michigan Hawks ECNL G2013/14,FC Stars Blue ECNL G2013/14,1,0,PDA Soccer Complex - Field #02
+girls,U13,4415,ECNL Girls New Jersey,1110945,2026-08-22 15:20,111880,135477,WNY Flash ECNL G2013/14,Penn Fusion Soccer Academy ECNL G2013/14,1,2,PDA Soccer Complex - Field #03
+girls,U13,4415,ECNL Girls New Jersey,1110946,2026-08-22 15:20,134968,128076,Philadelphia Ukranian Nationals ECNL G2013/14,PDA Blue ECNL G2013/14,0,0,PDA Soccer Complex - Field #04
+girls,U13,4415,ECNL Girls New Jersey,1111179,2026-08-23 08:00,82242,112272,FC Stars White ECNL G2013/14,Tampa Bay United ECNL G2013/14,1,1,PDA Soccer Complex - Field #01
+girls,U13,4415,ECNL Girls New Jersey,1111180,2026-08-23 08:00,132000,131588,Team Boca ECNL G2013/14,HEX FC Bucks ECNL G2013/14,2,2,Morningside Farm - Field #11
+girls,U13,4415,ECNL Girls New Jersey,1111183,2026-08-23 08:00,128277,134195,PDA White ECNL G2013/14,Michigan Hawks Magic ECNL G2013/14,3,0,Morningside Farm - Field #12
+girls,U13,4415,ECNL Girls New Jersey,1111184,2026-08-23 08:00,115686,134818,Maryland United FC ECNL G2013/14,East Meadow Soccer Club ECNL G2013/14,1,2,Morningside Farm - Field #13
+girls,U13,4415,ECNL Girls New Jersey,1110943,2026-08-23 11:00,78082,134190,Matchfit Surf ECNL G2013/14,Michigan Hawks ECNL G2013/14,5,1,PDA Soccer Complex - Field #05
+girls,U14,4415,ECNL Girls New Jersey,1111203,2026-08-23 11:00,70655,135481,FC Stars Blue ECNL G2012/13,Penn Fusion Soccer Academy ECNL G2012/13,2,0,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111204,2026-08-23 11:00,95035,81913,Maryland United FC ECNL G2012/13,FC Stars White ECNL G2012/13,0,1,Morningside Farm - Field #15
+girls,U14,4415,ECNL Girls New Jersey,1111207,2026-08-23 11:00,131999,131592,Team Boca ECNL G2012/13,HEX FC Bucks ECNL G2012/13,0,0,PDA Soccer Complex - Field #07
+girls,U14,4415,ECNL Girls New Jersey,1111208,2026-08-23 11:00,134182,112271,Michigan Hawks Magic ECNL G2012/13,Tampa Bay United ECNL G2012/13,1,2,PDA Soccer Complex - Field #08
+girls,U14,4415,ECNL Girls New Jersey,1111191,2026-08-23 12:30,134967,128279,Philadelphia Ukranian Nationals ECNL G2012/13,PDA White ECNL G2012/13,1,5,PDA Soccer Complex - Field #03
+girls,U14,4415,ECNL Girls New Jersey,1111192,2026-08-23 12:30,128078,134178,PDA Blue ECNL G2012/13,Michigan Hawks ECNL G2012/13,2,0,PDA Soccer Complex - Field #01
+girls,U14,4415,ECNL Girls New Jersey,1111195,2026-08-23 12:30,71192,43460,WNY Flash ECNL G2012/13,Matchfit Surf ECNL G2012/13,0,2,PDA Soccer Complex - Field #02
+girls,U14,4415,ECNL Girls New Jersey,1111196,2026-08-23 12:30,134816,64207,East Meadow Soccer Club ECNL G2012/13,World Class FC ECNL G2012/13,0,3,PDA Soccer Complex - Field #07
+girls,U13,4415,ECNL Girls New Jersey,1110944,2026-08-23 14:00,64208,128076,World Class FC ECNL G2013/14,PDA Blue ECNL G2013/14,1,0,PDA Soccer Complex - Field #05
+girls,U13,4415,ECNL Girls New Jersey,1110947,2026-08-23 14:00,135477,94540,Penn Fusion Soccer Academy ECNL G2013/14,FC Stars Blue ECNL G2013/14,2,0,PDA Soccer Complex - Field #07
+girls,U13,4415,ECNL Girls New Jersey,1110948,2026-08-23 14:00,111880,134968,WNY Flash ECNL G2013/14,Philadelphia Ukranian Nationals ECNL G2013/14,3,0,PDA Soccer Complex - Field #08
+girls,U13,4418,ECNL Girls St. Louis,1136932,2026-09-11 08:00,133462,131343,Tennessee SC ECNL G2013/14,Kansas City Athletics ECNL G2013/14,3,2,SLYSA Complex - Field #04
+girls,U13,4418,ECNL Girls St. Louis,1136933,2026-09-11 08:00,96490,136035,FC Dallas Youth ECNL G2013/14,Eclipse Select Soccer Club ECNL G2013/14,3,4,SLYSA Complex - Field #03
+girls,U13,4418,ECNL Girls St. Louis,1136934,2026-09-11 08:00,134824,69943,St. Louis Scott Gallagher Navy ECNL G2013/14,Ohio Elite SA ECNL G2013/14,3,1,SLYSA Complex - Field #01
+girls,U13,4418,ECNL Girls St. Louis,1136935,2026-09-11 08:00,115320,82333,Nationals SC ECNL G2013/14,Indy Eleven ECNL G2013/14,3,1,SLYSA Complex - Field #02
+girls,U13,4418,ECNL Girls St. Louis,1136944,2026-09-11 08:00,131346,134818,Liverpool FC MI ECNL G2013/14,East Meadow Soccer Club ECNL G2013/14,0,3,SLYSA Complex - Field #05
+girls,U13,4418,ECNL Girls St. Louis,1136945,2026-09-11 08:00,134825,131839,St. Louis Scott Gallagher Green ECNL G2013/14,DKSC ECNL G2013/14,1,3,SLYSA Complex - Field #06
+girls,U13,4418,ECNL Girls St. Louis,1136946,2026-09-11 08:00,81294,127995,FC Pride Elite ECNL G2013/14,Chicago Inter ECNL G2013/14,1,0,SLYSA Complex - Field #07
+girls,U13,4418,ECNL Girls St. Louis,1136947,2026-09-11 08:00,81549,131574,Cleveland Force SC ECNL G2013/14,Sporting Blue Valley ECNL G2013/14,5,3,SLYSA Complex - Field #09
+girls,U14,4418,ECNL Girls St. Louis,1139143,2026-09-11 08:00,115480,134912,Boise Thorns ECNL G2012/13,NM Rapids SC ECNL RL G2012/13,5,3,SLYSA Complex - Field #10
+girls,U14,4418,ECNL Girls St. Louis,1139144,2026-09-11 08:00,82513,108213,FC Wisconsin ECNL G2012/13,GTFC Impact ECNL G2012/13,1,4,SLYSA Complex - Field #11
+girls,U14,4418,ECNL Girls St. Louis,1139145,2026-09-11 08:00,114381,96864,Missouri Rush ECNL G2012/13,FC Dallas Youth ECNL RL G2012/13,1,1,SLYSA Complex - Field #12
+girls,U14,4418,ECNL Girls St. Louis,1139146,2026-09-11 08:00,78763,132998,West Side Alliance ECNL G2012/13,Racing Louisville Academy ECNL G2012/13,0,2,SLYSA Complex - Field #14
+girls,U13,4418,ECNL Girls St. Louis,1137112,2026-09-11 11:30,129323,134911,West Side Alliance ECNL G2013/14,NM Rapids SC ECNL RL G2013/14,4,2,SLYSA Complex - Field #01
+girls,U13,4418,ECNL Girls St. Louis,1137113,2026-09-11 11:30,131930,108214,Missouri Rush ECNL G2013/14,GTFC Impact ECNL G2013/14,2,2,SLYSA Complex - Field #02
+girls,U13,4418,ECNL Girls St. Louis,1137114,2026-09-11 11:30,84109,132995,FC Wisconsin ECNL G2013/14,Racing Louisville Academy ECNL G2013/14,5,4,SLYSA Complex - Field #03
+girls,U13,4418,ECNL Girls St. Louis,1137115,2026-09-11 11:30,132621,131784,Boise Thorns ECNL G2013/14,Gretna Elite Academy ECNL G2013/14,1,1,SLYSA Complex - Field #04
+girls,U14,4418,ECNL Girls St. Louis,1139119,2026-09-11 11:30,115991,116235,FC Dallas Youth ECNL G2012/13,Kansas City Athletics ECNL G2012/13,2,1,SLYSA Complex - Field #10
+girls,U14,4418,ECNL Girls St. Louis,1139120,2026-09-11 11:30,133463,136036,Tennessee SC ECNL G2012/13,Eclipse Select Soccer Club ECNL G2012/13,0,3,SLYSA Complex - Field #12
+girls,U14,4418,ECNL Girls St. Louis,1139121,2026-09-11 11:30,134836,72343,St. Louis Scott Gallagher Navy ECNL G2012/13,Indy Eleven ECNL G2012/13,2,1,SLYSA Complex - Field #14
+girls,U14,4418,ECNL Girls St. Louis,1139122,2026-09-11 11:30,115103,69457,Nationals SC ECNL G2012/13,Ohio Elite SA ECNL G2012/13,6,0,SLYSA Complex - Field #11
+girls,U14,4418,ECNL Girls St. Louis,1139131,2026-09-11 11:30,127994,134816,Chicago Inter ECNL G2012/13,East Meadow Soccer Club ECNL G2012/13,2,2,SLYSA Complex - Field #15
+girls,U14,4418,ECNL Girls St. Louis,1139132,2026-09-11 11:30,131580,114045,Sporting Blue Valley ECNL G 2012/13,DKSC ECNL G2012/13,0,6,SLYSA Complex - Field #16
+girls,U14,4418,ECNL Girls St. Louis,1139133,2026-09-11 11:30,71387,134837,Cleveland Force SC ECNL G2012/13,St. Louis Scott Gallagher Green ECNL G2012/13,4,2,SLYSA Complex - Field #18
+girls,U14,4418,ECNL Girls St. Louis,1139134,2026-09-11 11:30,68813,104671,FC Pride Elite ECNL G2012/13,Liverpool FC MI ECNL G2012/13,1,0,SLYSA Complex - Field #17
+girls,U14,4418,ECNL Girls St. Louis,1139123,2026-09-12 08:00,115991,136036,FC Dallas Youth ECNL G2012/13,Eclipse Select Soccer Club ECNL G2012/13,3,2,SLYSA Complex - Field #01
+girls,U14,4418,ECNL Girls St. Louis,1139124,2026-09-12 08:00,134836,115103,St. Louis Scott Gallagher Navy ECNL G2012/13,Nationals SC ECNL G2012/13,2,3,SLYSA Complex - Field #02
+girls,U14,4418,ECNL Girls St. Louis,1139127,2026-09-12 08:00,116235,133463,Kansas City Athletics ECNL G2012/13,Tennessee SC ECNL G2012/13,1,1,SLYSA Complex - Field #03
+girls,U14,4418,ECNL Girls St. Louis,1139128,2026-09-12 08:00,72343,69457,Indy Eleven ECNL G2012/13,Ohio Elite SA ECNL G2012/13,4,2,SLYSA Complex - Field #04
+girls,U14,4418,ECNL Girls St. Louis,1139135,2026-09-12 08:00,134816,114045,East Meadow Soccer Club ECNL G2012/13,DKSC ECNL G2012/13,1,3,SLYSA Complex - Field #05
+girls,U14,4418,ECNL Girls St. Louis,1139136,2026-09-12 08:00,71387,68813,Cleveland Force SC ECNL G2012/13,FC Pride Elite ECNL G2012/13,3,0,SLYSA Complex - Field #06
+girls,U14,4418,ECNL Girls St. Louis,1139139,2026-09-12 08:00,127994,131580,Chicago Inter ECNL G2012/13,Sporting Blue Valley ECNL G 2012/13,3,2,SLYSA Complex - Field #07
+girls,U14,4418,ECNL Girls St. Louis,1139140,2026-09-12 08:00,134837,104671,St. Louis Scott Gallagher Green ECNL G2012/13,Liverpool FC MI ECNL G2012/13,0,2,SLYSA Complex - Field #09
+girls,U14,4418,ECNL Girls St. Louis,1139147,2026-09-12 08:00,115480,108213,Boise Thorns ECNL G2012/13,GTFC Impact ECNL G2012/13,1,1,SLYSA Complex - Field #10
+girls,U14,4418,ECNL Girls St. Louis,1139148,2026-09-12 08:00,96864,132998,FC Dallas Youth ECNL RL G2012/13,Racing Louisville Academy ECNL G2012/13,3,1,SLYSA Complex - Field #11
+girls,U14,4418,ECNL Girls St. Louis,1139151,2026-09-12 08:00,134912,82513,NM Rapids SC ECNL RL G2012/13,FC Wisconsin ECNL G2012/13,1,5,SLYSA Complex - Field #12
+girls,U14,4418,ECNL Girls St. Louis,1139152,2026-09-12 08:00,114381,78763,Missouri Rush ECNL G2012/13,West Side Alliance ECNL G2012/13,4,2,SLYSA Complex - Field #14
+girls,U13,4418,ECNL Girls St. Louis,1136936,2026-09-12 11:30,133462,136035,Tennessee SC ECNL G2013/14,Eclipse Select Soccer Club ECNL G2013/14,0,1,SLYSA Complex - Field #10
+girls,U13,4418,ECNL Girls St. Louis,1136937,2026-09-12 11:30,134824,115320,St. Louis Scott Gallagher Navy ECNL G2013/14,Nationals SC ECNL G2013/14,1,2,SLYSA Complex - Field #11
+girls,U13,4418,ECNL Girls St. Louis,1136940,2026-09-12 11:30,131343,96490,Kansas City Athletics ECNL G2013/14,FC Dallas Youth ECNL G2013/14,1,6,SLYSA Complex - Field #12
+girls,U13,4418,ECNL Girls St. Louis,1136941,2026-09-12 11:30,69943,82333,Ohio Elite SA ECNL G2013/14,Indy Eleven ECNL G2013/14,1,2,SLYSA Complex - Field #14
+girls,U13,4418,ECNL Girls St. Louis,1136948,2026-09-12 11:30,134818,131839,East Meadow Soccer Club ECNL G2013/14,DKSC ECNL G2013/14,1,2,SLYSA Complex - Field #15
+girls,U13,4418,ECNL Girls St. Louis,1136949,2026-09-12 13:15,81294,81549,FC Pride Elite ECNL G2013/14,Cleveland Force SC ECNL G2013/14,3,4,SLYSA Complex - Field #17
+girls,U13,4418,ECNL Girls St. Louis,1136952,2026-09-12 13:15,131346,134825,Liverpool FC MI ECNL G2013/14,St. Louis Scott Gallagher Green ECNL G2013/14,0,5,SLYSA Complex - Field #15
+girls,U13,4418,ECNL Girls St. Louis,1136953,2026-09-12 13:15,127995,131574,Chicago Inter ECNL G2013/14,Sporting Blue Valley ECNL G2013/14,2,3,SLYSA Complex - Field #16
+girls,U13,4418,ECNL Girls St. Louis,1137116,2026-09-12 13:15,129323,131930,West Side Alliance ECNL G2013/14,Missouri Rush ECNL G2013/14,0,1,SLYSA Complex - Field #01
+girls,U13,4418,ECNL Girls St. Louis,1137117,2026-09-12 13:15,84109,131784,FC Wisconsin ECNL G2013/14,Gretna Elite Academy ECNL G2013/14,1,1,SLYSA Complex - Field #02
+girls,U13,4418,ECNL Girls St. Louis,1137120,2026-09-12 13:15,134911,108214,NM Rapids SC ECNL RL G2013/14,GTFC Impact ECNL G2013/14,1,3,SLYSA Complex - Field #03
+girls,U13,4418,ECNL Girls St. Louis,1137121,2026-09-12 13:15,132995,132621,Racing Louisville Academy ECNL G2013/14,Boise Thorns ECNL G2013/14,1,0,SLYSA Complex - Field #04
+girls,U13,4418,ECNL Girls St. Louis,1136950,2026-09-13 08:00,131839,81549,DKSC ECNL G2013/14,Cleveland Force SC ECNL G2013/14,6,1,SLYSA Complex - Field #18
+girls,U13,4418,ECNL Girls St. Louis,1136951,2026-09-13 08:00,134818,81294,East Meadow Soccer Club ECNL G2013/14,FC Pride Elite ECNL G2013/14,1,2,SLYSA Complex - Field #06
+girls,U13,4418,ECNL Girls St. Louis,1136954,2026-09-13 08:00,134825,131574,St. Louis Scott Gallagher Green ECNL G2013/14,Sporting Blue Valley ECNL G2013/14,1,2,SLYSA Complex - Field #04
+girls,U13,4418,ECNL Girls St. Louis,1136955,2026-09-13 08:00,131346,127995,Liverpool FC MI ECNL G2013/14,Chicago Inter ECNL G2013/14,0,3,SLYSA Complex - Field #05
+girls,U13,4418,ECNL Girls St. Louis,1137118,2026-09-13 08:00,131930,84109,Missouri Rush ECNL G2013/14,FC Wisconsin ECNL G2013/14,3,3,SLYSA Complex - Field #17
+girls,U13,4418,ECNL Girls St. Louis,1137119,2026-09-13 08:00,129323,131784,West Side Alliance ECNL G2013/14,Gretna Elite Academy ECNL G2013/14,0,1,SLYSA Complex - Field #09
+girls,U13,4418,ECNL Girls St. Louis,1137122,2026-09-13 08:00,108214,132995,GTFC Impact ECNL G2013/14,Racing Louisville Academy ECNL G2013/14,5,0,SLYSA Complex - Field #10
+girls,U13,4418,ECNL Girls St. Louis,1137123,2026-09-13 08:00,134911,132621,NM Rapids SC ECNL RL G2013/14,Boise Thorns ECNL G2013/14,,,SLYSA Complex - Field #07
+girls,U14,4418,ECNL Girls St. Louis,1139125,2026-09-13 08:00,115991,115103,FC Dallas Youth ECNL G2012/13,Nationals SC ECNL G2012/13,2,0,SLYSA Complex - Field #14
+girls,U14,4418,ECNL Girls St. Louis,1139126,2026-09-13 08:00,133463,134836,Tennessee SC ECNL G2012/13,St. Louis Scott Gallagher Navy ECNL G2012/13,2,4,SLYSA Complex - Field #02
+girls,U14,4418,ECNL Girls St. Louis,1139129,2026-09-13 08:00,116235,72343,Kansas City Athletics ECNL G2012/13,Indy Eleven ECNL G2012/13,1,3,SLYSA Complex - Field #03
+girls,U14,4418,ECNL Girls St. Louis,1139130,2026-09-13 08:00,136036,69457,Eclipse Select Soccer Club ECNL G2012/13,Ohio Elite SA ECNL G2012/13,0,3,SLYSA Complex - Field #01
+girls,U14,4418,ECNL Girls St. Louis,1139138,2026-09-13 09:30,134816,68813,East Meadow Soccer Club ECNL G2012/13,FC Pride Elite ECNL G2012/13,2,2,SLYSA Complex - Field #07
+girls,U13,4418,ECNL Girls St. Louis,1136938,2026-09-13 11:00,136035,115320,Eclipse Select Soccer Club ECNL G2013/14,Nationals SC ECNL G2013/14,1,1,SLYSA Complex - Field #15
+girls,U13,4418,ECNL Girls St. Louis,1136939,2026-09-13 11:00,133462,134824,Tennessee SC ECNL G2013/14,St. Louis Scott Gallagher Navy ECNL G2013/14,1,3,SLYSA Complex - Field #07
+girls,U13,4418,ECNL Girls St. Louis,1136942,2026-09-13 11:00,96490,82333,FC Dallas Youth ECNL G2013/14,Indy Eleven ECNL G2013/14,10,0,SLYSA Complex - Field #09
+girls,U13,4418,ECNL Girls St. Louis,1136943,2026-09-13 11:00,131343,69943,Kansas City Athletics ECNL G2013/14,Ohio Elite SA ECNL G2013/14,4,2,SLYSA Complex - Field #05
+girls,U14,4418,ECNL Girls St. Louis,1139149,2026-09-13 11:00,108213,96864,GTFC Impact ECNL G2012/13,FC Dallas Youth ECNL RL G2012/13,1,1,SLYSA Complex - Field #18
+girls,U14,4418,ECNL Girls St. Louis,1139150,2026-09-13 11:00,115480,132998,Boise Thorns ECNL G2012/13,Racing Louisville Academy ECNL G2012/13,0,0,SLYSA Complex - Field #06
+girls,U14,4418,ECNL Girls St. Louis,1139153,2026-09-13 11:00,82513,114381,FC Wisconsin ECNL G2012/13,Missouri Rush ECNL G2012/13,0,1,SLYSA Complex - Field #01
+girls,U14,4418,ECNL Girls St. Louis,1139154,2026-09-13 11:00,134912,78763,NM Rapids SC ECNL RL G2012/13,West Side Alliance ECNL G2012/13,1,3,SLYSA Complex - Field #16
+girls,U14,4418,ECNL Girls St. Louis,1139137,2026-09-13 14:00,114045,71387,DKSC ECNL G2012/13,Cleveland Force SC ECNL G2012/13,1,0,SLYSA Complex - Field #18
+girls,U14,4418,ECNL Girls St. Louis,1139141,2026-09-13 14:00,127994,104671,Chicago Inter ECNL G2012/13,Liverpool FC MI ECNL G2012/13,2,2,SLYSA Complex - Field #16
+girls,U14,4418,ECNL Girls St. Louis,1139142,2026-09-13 14:00,131580,134837,Sporting Blue Valley ECNL G 2012/13,St. Louis Scott Gallagher Green ECNL G2012/13,0,0,SLYSA Complex - Field #01
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140062,2026-10-10 08:00,131830,94747,NCFC Youth NC Courage ECNL G2013/14,Scorpions SC ECNL G2013/14,,,nCino Sports Park - Field #04
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140063,2026-10-10 08:00,81322,120529,Ohio Premier ECNL G2013/14,United Futbol Academy ECNL G2013/14,,,nCino Sports Park - Field #05
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140064,2026-10-10 08:00,133050,132885,VDA ECNL G2013/14,FC DELCO ECNL G2013/14,,,nCino Sports Park - Field #10
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140065,2026-10-10 08:00,133824,131501,Richmond United ECNL G2013/14,GSA ECNL G2013/14,,,nCino Sports Park - Field #11
+girls,U14,4434,ECNL Girls San Diego,1141584,2026-10-10 08:20,133029,84876,Legends FC (CA) ECNL G2012/13,MVLA ECNL G2012/13,,,Surf Sports Park - Field #09
+girls,U14,4434,ECNL Girls San Diego,1141585,2026-10-10 08:20,129673,106265,Portland Thorns ECNL G2012/13,Placer United ECNL G2012/13,,,Surf Sports Park - Field #10
+girls,U14,4434,ECNL Girls San Diego,1141586,2026-10-10 08:20,131924,103791,Beach Futbol Club ECNL G2012/13,San Juan SC ECNL G2012/13,,,Surf Sports Park - Field #11
+girls,U14,4434,ECNL Girls San Diego,1141587,2026-10-10 08:20,132462,90882,San Diego Surf Soccer Club ECNL G2012/13,Eastside FC ECNL G2012/13,,,Surf Sports Park - Field #12
+girls,U15,4434,ECNL Girls San Diego,1142187,2026-10-10 08:20,85099,113580,Utah Royals FC-AZ ECNL G2011/12,COSC ECNL G2011/12,,,Surf Sports Park - Field #13
+girls,U15,4434,ECNL Girls San Diego,1142188,2026-10-10 08:20,133027,71847,Legends FC (CA) ECNL G2011/12,Colorado Storm ECNL G2011/12,,,Surf Sports Park - Field #14
+girls,U15,4434,ECNL Girls San Diego,1142189,2026-10-10 08:20,94955,68030,Rebels SC ECNL G2011/12,Placer United ECNL G2011/12,,,Surf Sports Park - Field #15
+girls,U15,4434,ECNL Girls San Diego,1142190,2026-10-10 08:20,25917,116000,Eagles SC ECNL G2011/12,Sting Black ECNL G2011/12,,,Surf Sports Park - Field #16
+girls,U14,4434,ECNL Girls San Diego,1141596,2026-10-10 08:40,135886,104961,So Cal Blues ECNL G2012/13,Mustang SC ECNL G2012/13,,,Surf Sports Park - Field #17
+girls,U14,4434,ECNL Girls San Diego,1141597,2026-10-10 08:40,90258,103936,Utah Royals FC-AZ ECNL G2012/13,Avalanche ECNL G2012/13,,,Surf Sports Park - Field #18
+girls,U14,4434,ECNL Girls San Diego,1141598,2026-10-10 08:40,133714,115151,LAFC So Cal ECNL G2012/13,Bay Area Surf - ECNL G2012/13,,,Surf Sports Park - Field #19
+girls,U14,4434,ECNL Girls San Diego,1141599,2026-10-10 08:40,79075,130048,LA Breakers ECNL G2012/2013,Oregon Surf ECNL G2012/13,,,Surf Sports Park - Field #20
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140074,2026-10-10 10:00,106034,133345,CESA Liberty ECNL G2013/14,AC Florida West ECNL RL G2013/14,,,nCino Sports Park - Field #04
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140075,2026-10-10 10:00,132215,112976,South Carolina United ECNL G2013/14,NC Fusion ECNL G2013/14,,,nCino Sports Park - Field #05
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140076,2026-10-10 10:00,127664,132023,Atlanta Fire United ECNL G2013/14,NCFC Youth ECNL G2013/14,,,nCino Sports Park - Field #10
+girls,U13,4436,ECNL Girls North Carolina - Fall,1140077,2026-10-10 10:00,34961,134657,Florida Kraze Krush ECNL G2013/14,Wilmington Hammerheads ECNL G2013/14,,,nCino Sports Park - Field #11
+girls,U15,4434,ECNL Girls San Diego,1141656,2026-10-10 10:05,84686,69022,LA Breakers ECNL G2011/2012,Force ECNL G2011/12,,,Surf Sports Park - Field #13
+girls,U15,4434,ECNL Girls San Diego,1141657,2026-10-10 10:05,133713,63606,LAFC So Cal ECNL G2011/12,Pleasanton RAGE ECNL G2011/12,,,Surf Sports Park - Field #14
+girls,U15,4434,ECNL Girls San Diego,1141658,2026-10-10 10:05,134384,90732,Arizona Arsenal ECNL G2011/12,Davis Legacy ECNL G2011/12,,,Surf Sports Park - Field #15
+girls,U15,4434,ECNL Girls San Diego,1141659,2026-10-10 10:05,130972,92794,Pateadores ECNL G2011/12,Marin FC ECNL G2011/12,,,Surf Sports Park - Field #16
+girls,U14,4434,ECNL Girls San Diego,1142199,2026-10-10 10:25,126748,110984,Pateadores ECNL G2012/13,Davis Legacy ECNL G2012/13,,,Surf Sports Park - Field #17
+girls,U14,4434,ECNL Girls San Diego,1142200,2026-10-10 10:25,134082,131819,Sporting California USA ECNL G2012/13,Gretna Elite Academy ECNL G2012/13,,,Surf Sports Park - Field #18
+girls,U14,4434,ECNL Girls San Diego,1142201,2026-10-10 10:25,90410,114556,Rebels SC ECNL G2012/13,COSC ECNL G2012/13,,,Surf Sports Park - Field #19
+girls,U14,4434,ECNL Girls San Diego,1142202,2026-10-10 10:25,131709,111254,Legends FC - Del Mar ECNL G2012/13,Colorado Storm ECNL G2012/13,,,Surf Sports Park - Field #20
+girls,U15,4434,ECNL Girls San Diego,1141632,2026-10-10 11:50,132461,95449,San Diego Surf Soccer Club ECNL G2011/12,Bay Area Surf - ECNL G2011/12,,,Surf Sports Park - Field #13
+girls,U15,4434,ECNL Girls San Diego,1141633,2026-10-10 11:50,81125,29444,Phoenix Rising FC ECNL G2011/12,Mustang SC ECNL G2011/12,,,Surf Sports Park - Field #14
+girls,U15,4434,ECNL Girls San Diego,1141634,2026-10-10 11:50,135889,55325,So Cal Blues ECNL G2011/12,MVLA ECNL G2011/12,,,Surf Sports Park - Field #15
+girls,U15,4434,ECNL Girls San Diego,1141635,2026-10-10 11:50,131923,84677,Beach Futbol Club ECNL G2011/12,San Juan SC ECNL G2011/12,,,Surf Sports Park - Field #16
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140086,2026-10-10 12:00,130288,87758,NCFC Youth NC Courage ECNL G2012/13,CESA Liberty ECNL G2012/13,,,nCino Sports Park - Field #06
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140087,2026-10-10 12:00,80685,131500,Ohio Premier ECNL G2012/13,GSA ECNL G2012/13,,,nCino Sports Park - Field #07
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140088,2026-10-10 12:00,133823,94408,Richmond United ECNL G2012/13,FC DELCO ECNL G2012/13,,,nCino Sports Park - Field #08
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140089,2026-10-10 12:00,113303,106035,VDA ECNL G2012/13,Florida Kraze Krush ECNL G2012/13,,,nCino Sports Park - Field #09
+girls,U14,4434,ECNL Girls San Diego,1141620,2026-10-10 12:10,64010,44316,Eagles SC ECNL G2012/13,Pleasanton RAGE ECNL G2012/13,,,Surf Sports Park - Field #17
+girls,U14,4434,ECNL Girls San Diego,1141621,2026-10-10 12:10,134144,90652,La Roca FC ECNL G2012/13,Colorado Rush ECNL G2012/13,,,Surf Sports Park - Field #18
+girls,U14,4434,ECNL Girls San Diego,1141622,2026-10-10 12:10,134386,82675,Arizona Arsenal ECNL G2012/13,Marin FC ECNL G2012/13,,,Surf Sports Park - Field #19
+girls,U14,4434,ECNL Girls San Diego,1141623,2026-10-10 12:10,99201,82859,Phoenix Rising FC ECNL G2012/13,Stanislaus Surf - ECNL G2012/13,,,Surf Sports Park - Field #20
+girls,U15,4434,ECNL Girls San Diego,1141668,2026-10-10 13:35,131712,129048,Legends FC - Del Mar ECNL G2011/12,South Carolina Surf ECNL G2011/12,,,Surf Sports Park - Field #13
+girls,U15,4434,ECNL Girls San Diego,1141669,2026-10-10 13:35,134084,133409,Sporting California USA ECNL G2011/12,San Francisco Elite Academy ECNL RL G2011/12,,,Surf Sports Park - Field #14
+girls,U15,4434,ECNL Girls San Diego,1141670,2026-10-10 13:35,95047,135890,Colorado Rush ECNL G2011/12,So Cal Blues ECNL RL G2011/12,,,Surf Sports Park - Field #15
+girls,U15,4434,ECNL Girls San Diego,1141671,2026-10-10 13:35,132702,82858,Lonestar ATX Red ECNL G2011/12,Stanislaus Surf - ECNL G2011/12,,,Surf Sports Park - Field #16
+girls,U13,4434,ECNL Girls San Diego,1141560,2026-10-10 13:55,90259,126188,Utah Royals FC-AZ ECNL G2013/14,Davis Legacy ECNL G2013/14,,,Surf Sports Park - Field #17
+girls,U13,4434,ECNL Girls San Diego,1141561,2026-10-10 13:55,131706,134157,Legends FC - Del Mar ECNL G2013/14,La Roca FC ECNL G2013/14,,,Surf Sports Park - Field #18
+girls,U13,4434,ECNL Girls San Diego,1141562,2026-10-10 13:55,126631,135939,Pateadores ECNL G2013/14,Bay Area Surf - ECNL G2013/14,,,Surf Sports Park - Field #19
+girls,U13,4434,ECNL Girls San Diego,1141563,2026-10-10 13:55,90147,90917,Rebels SC ECNL G2013/14,Oregon Surf ECNL G2013/14,,,Surf Sports Park - Field #20
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140098,2026-10-10 14:00,105642,98907,United Futbol Academy ECNL G2012/13,NCFC Youth ECNL G2012/13,,,nCino Sports Park - Field #06
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140099,2026-10-10 14:00,131999,94742,Team Boca ECNL G2012/13,Scorpions SC ECNL G2012/13,,,nCino Sports Park - Field #07
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140100,2026-10-10 14:00,79849,134658,Atlanta Fire United ECNL G2012/13,Wilmington Hammerheads ECNL G2012/13,,,nCino Sports Park - Field #08
+girls,U14,4436,ECNL Girls North Carolina - Fall,1140101,2026-10-10 14:00,98643,95059,South Carolina United ECNL G2012/13,NC Fusion ECNL G2012/13,,,nCino Sports Park - Field #09
+girls,U13,4434,ECNL Girls San Diego,1141536,2026-10-10 15:20,132463,97182,San Diego Surf Soccer Club ECNL G2013/14,MVLA ECNL G2013/14,,,Surf Sports Park - Field #09
+girls,U13,4434,ECNL Girls San Diego,1141537,2026-10-10 15:20,133032,99088,Legends FC (CA) ECNL G2013/14,Washington Premier ECNL G2013/14,,,Surf Sports Park - Field #10
+girls,U13,4434,ECNL Girls San Diego,1141538,2026-10-10 15:20,131925,111781,Beach Futbol Club ECNL G2013/14,San Juan SC ECNL G2013/14,,,Surf Sports Park - Field #11
+girls,U13,4434,ECNL Girls San Diego,1141539,2026-10-10 15:20,112900,99660,Slammers FC HB Koge ECNL G2013/14,XF ECNL G2013/14,,,Surf Sports Park - Field #12
+girls,U13,4434,ECNL Girls San Diego,1141548,2026-10-10 15:20,107988,103790,SLAMMERS FC ECNL G2013/14,Mustang SC ECNL G2013/14,,,Surf Sports Park - Field #13
+girls,U13,4434,ECNL Girls San Diego,1141549,2026-10-10 15:20,133854,90863,LA Breakers ECNL G2013/2014,Eastside FC ECNL G2013/14,,,Surf Sports Park - Field #14
+girls,U13,4434,ECNL Girls San Diego,1141550,2026-10-10 15:20,135883,127576,So Cal Blues ECNL G2013/14,Avalanche ECNL G2013/14,,,Surf Sports Park - Field #15
+girls,U13,4434,ECNL Girls San Diego,1141551,2026-10-10 15:20,129674,106267,Portland Thorns ECNL G2013/14,Placer United ECNL G2013/14,,,Surf Sports Park - Field #16
+girls,U13,4434,ECNL Girls San Diego,1142211,2026-10-10 15:40,134070,55311,Sporting California USA ECNL G2013/14,Pleasanton RAGE ECNL G2013/14,,,Surf Sports Park - Field #19
+girls,U13,4434,ECNL Girls San Diego,1142212,2026-10-10 15:40,121185,132370,Phoenix Rising FC ECNL G2013/14,Colorado Storm ECNL G2013/14,,,Surf Sports Park - Field #17
+girls,U13,4434,ECNL Girls San Diego,1142213,2026-10-10 15:40,134387,116964,Arizona Arsenal ECNL G2013/14,COSC ECNL G2013/14,,,Surf Sports Park - Field #20
+girls,U13,4434,ECNL Girls San Diego,1142214,2026-10-10 15:40,63947,132180,Eagles SC ECNL G2013/14,Colorado Rush ECNL G2013/14,,,Surf Sports Park - Field #18

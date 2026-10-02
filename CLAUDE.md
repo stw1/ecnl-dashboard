@@ -111,6 +111,18 @@ League Cup winners can't be predicted, so those spots go to the team in the tabl
   log-loss 0.99 → 0.95 (boys 2025-26), 0.99 → 0.94 (girls 2025-26), 0.96 → 0.91 (girls 2024-25), and correct picks went
   from about 50% to 55%. The model's conference strengths track the raw goal difference per game in those games.
 
+## National-event games on team pages
+- `national.current()` also writes `data/national_games.csv`: every game at this season's national events involving an
+  ECNL conference team, played or upcoming, with the event name, time and venue. refresh.py puts them in each bracket's
+  `flex` slot (a name kept from MLS NEXT "Flex" games). Venue = "event name · field", and opponents outside ECNL
+  conferences are named via `DATA.xnames`. Past season pages get that season's cross-conference games from
+  `data/history/cross.csv`. Unplayed ones dated before today are dropped.
+- They show with a "National" tag in results, upcoming games, the My team card (separate W-D-L), team pages
+  (schedule, form, "National events" record), club pages and the calendar. Never in the league table.
+- Predictions (`predictG` in the template): neutral field (no home edge). Against another conference, each team's rating
+  inside its conference plus its conference's strength (`crossModel`, `DATA.confAdj`). No prediction when the opponent
+  isn't in an ECNL conference. Games between two teams of the same conference also feed that conference's ratings.
+
 ## Model (template JS, search for "fit penalised Poisson model")
 Poisson goals model with attack and defense ratings per team, ridge priors (σ 0.35, centered on last season's
 rating when there is one), home edge, and a Dixon-Coles low-score adjustment. The season sim plays out every remaining
