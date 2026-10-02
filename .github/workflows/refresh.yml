@@ -30,7 +30,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -z "$(git status --porcelain -- data/boys_games.csv data/girls_games.csv)" ]; then
+          if [ -z "$(git status --porcelain -- data/boys_games.csv data/girls_games.csv data/cross.csv)" ]; then
             echo "No new scores or schedule changes."
             exit 0
           fi

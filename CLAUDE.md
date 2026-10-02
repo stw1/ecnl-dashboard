@@ -1,37 +1,85 @@
 # ECNL Boys & Girls dashboard
 
-Public site: https://stw1.github.io/ecnl-dashboard/ (repo stw1/ecnl-dashboard, GitHub Pages from main).
-`index.html` = ECNL Boys, `girls.html` = ECNL Girls. Both are built from `template/dashboard_template.html`
-by `scripts/refresh.py`. Don't edit the HTML pages by hand; edit the template and rebuild.
+Personal project (Stephen). Public site: https://stw1.github.io/ecnl-dashboard/ (Boys) and `girls.html` (Girls).
+The repo is stw1/ecnl-dashboard, served by GitHub Pages from the `main` branch root. Each page holds every conference
+and age group (U13 to U18/19) and shows one at a time: standings, postseason chances, who beat who, power rankings,
+results, predictions, national rankings, club and team pages, plus past seasons back to 2020-21. First-time visitors
+land on U14 Northwest. It's adapted from the MLS NEXT dashboard (stw1/mlsnext-dashboard) and shares its model and
+template. That template's Flex and MLS Cup code paths are unused here.
 
-- `python3 scripts/refresh.py`: live fetch from the public TotalGlobalSports API (api.athleteone.com/api/Event), then rebuild
-- `python3 scripts/refresh.py --offline`: rebuild from `data/` only
-- `.github/workflows/refresh.yml` runs this on Sat/Sun and Mon/Tue and commits when `data/*_games.csv` changes
+**Never edit the built `.html` pages by hand.** Edit `template/dashboard_template.html` or the scripts, then rebuild.
 
-The data is one TGS "event" per conference (`LEAGUES` in refresh.py). Update the event ids and `SEASON` every August.
-Some conferences split an age group into flights that still play each other. Those flights are merged into one
-bracket, and each team's flight is shown as a group tag. Kickoff times are local to the field, as TGS publishes them.
-Clubs are grouped by TGS club id. The template is adapted from the MLS NEXT dashboard (stw1/mlsnext-dashboard).
-Its Flex, Cup and past-season code paths are unused here.
+## Layout
+```
+template/dashboard_template.html   the page: all model, simulation and rendering logic is inline JS; data goes in DATA
+scripts/refresh.py                 fetch this season from TGS -> data/ -> build every page (stdlib only)
+scripts/postseason.py              ECNL's official postseason qualification rules per conference and age group
+scripts/history.py                 one-off download of past seasons -> data/history/
+scripts/pastseasons.py             past-season data, team history ("same players"), last-season priors
+scripts/national.py                cross-conference games from national events and playoffs
+scripts/confstrength.py            conference strength for the national rankings (+ --evaluate backtest)
+scripts/ratings.py                 Python copy of the goals model (fit, probs, fit_conf)
+scripts/priors.py                  backtest that chose the last-season prior setting
+data/{boys,girls}_games.csv        this season's games (blank scores = not played); *_brackets.json teams, clubs, groups
+data/cross.csv                     this season's cross-conference games; data/national_events.json their event ids
+data/meta.json                     snapshot date and season
+data/history/                      past seasons' games and brackets, cross.csv, confadj_<gender>.json (cache)
+index.html, girls.html             this season (Boys, Girls)
+season-<season>.html, girls-season-<season>.html   finished seasons (same template, DATA.past set)
+.github/workflows/refresh.yml      weekend auto-refresh
+manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from icon.svg with qlmanage + sips)
+```
 
-Postseason: `scripts/postseason.py` holds ECNL's official qualification rules per conference and age group,
-copied from the season's Boys and Girls postseason PDFs on theecnl.com. These cover Champions League spots,
-group winners, wildcards, play-ins, and the girls' North American Cup and Showcase Cups. `check()` asserts that the
-Champions League spots add up to the documents' field sizes, and every build runs it. Replace the tables every season.
-The template simulates each season with these rules. It simulates wildcard partner conferences side by side and
-tags each team with where it would go if the season ended today.
+## Common tasks
+- **Update with new scores:** `python3 scripts/refresh.py`. This fetches both genders, collects this season's
+  cross-conference games and rebuilds all 14 pages, in about 6 minutes.
+- **Rebuild without network** (for example, after editing the template): `python3 scripts/refresh.py --offline` (about 8 s).
+- **Auto-refresh:** `.github/workflows/refresh.yml` runs refresh.py on Sat & Sun (~1, 5, 9 pm Pacific) and Mon & Tue
+  (~9 am). It commits and pushes only when the games or cross-conference files change. Run it by hand with
+  `gh workflow run refresh.yml -R stw1/ecnl-dashboard`. GitHub pauses scheduled workflows after 60 days with no commits.
+- **Publish by hand:** `git pull` first (the bot commits too), then commit and push. Pages redeploys in about a minute.
+- **Links:** `?age=U15&conf=southwest` (conference lowercased, spaces become dashes), `&team=seattle-united`
+  highlights a team, `&show=<team id>` opens a team page, `?age=U14&conf=national` shows national rankings, and
+  `?club=<club-name>` shows a club page.
+- **Testing:** the preview server reads a copy outside iCloud (`.claude/launch.json` "ecnl-dashboard", port 8792). Copy
+  the built pages to it and load every bracket in iframes, checking for console errors.
+
+## Every August (new season)
+1. Scan TGS event ids (get-event-details-by-eventID) for "ECNL Boys|Girls <conference> <season>". Put them in
+   `refresh.LEAGUES` and set `refresh.SEASON`.
+2. Add the season that just ended to `history.EVENTS`, then run `python3 scripts/history.py`. Move this season's
+   `data/cross.csv` rows into `data/history/cross.csv` (or rerun `scripts/national.py`), and delete
+   `data/history/confadj_*.json` so it's recomputed.
+3. Replace the tables in `scripts/postseason.py` from the new Boys and Girls postseason PDFs on theecnl.com.
+   `postseason.check()` must pass.
+4. Reset `national.CURRENT` and `data/national_events.json` to the new season's first national event id.
+
+## Data source (TotalGlobalSports / AthleteOne, public JSON, no key)
+- `api.athleteone.com/api/Event/get-event-details-by-eventID/{event}` gives the name ("ECNL Boys Northwest 2026-27").
+  `.../get-event-schedule-or-standings/{event}` lists divisions and flights. `.../get-schedules-by-flight/{event}/{flight}/0`
+  returns games: matchID, gameDate (local to the field, no time zone), team and club ids and names, scores
+  (null = not played), complex, venue and friendly.
+- One event per conference. Some conferences split an age group into flights. Flights that play each other become one
+  bracket, with each team's flight as a group tag. Flights that never meet become separate brackets ("Northeast North").
+- Feed quirks handled: friendlies and "TBD" opponents dropped, placeholder dates (0001-01-01) dropped, and midnight
+  kickoffs mean the time isn't set ("time TBD"). Unplayed games dated before today show as "waiting for a score",
+  not as upcoming, but are still simulated.
+- Team names are cleaned by `refresh.team_label` ("XF ECNL B2013/14 2" becomes "XF 2"). Clubs are grouped by TGS club id.
+
+## Postseason
+`scripts/postseason.py` copies the 2026-27 Boys and Girls postseason PDFs from theecnl.com. It covers Champions League
+spots, the top teams in each group, cross-conference wildcards, play-ins, and the girls' North American Cup and
+Showcase Cups. `check()` asserts that the Champions League spots add up to the documents' field sizes, and every build
+runs it. The page simulates each season with these rules, with wildcard partner conferences simulated side by side.
+It shows chances per tier, lines in the standings, and a tag for where each team would go if the season ended today.
+League Cup winners can't be predicted, so those spots go to the team in the table.
 
 ## Past seasons (2020-21 to 2025-26)
-- `scripts/history.py` downloads each past season's conference games from TGS into `data/history/<gender>_<season>.csv`
-  and `_brackets.json`. It's a one-off (about 3 min per season and gender), not part of the weekend refresh. TGS has full
-  conference seasons from 2020-21 on; its older ECNL "conference" events are empty. The event ids are listed in
-  `history.EVENTS`, found by scanning get-event-details-by-eventID. Next August, add the season that just ended.
+- `scripts/history.py` downloads each past season, about 3 min per season and gender. TGS has full conference seasons
+  only from 2020-21; its older ECNL "conference" events are empty.
 - Age groups appear as "BU13", birth years ("B2010" in 2022-23 = U13) or "U13 Boys". `refresh.age_of` converts all
-  three and skips U11/U12 and composite squads. Some conference names changed: "Norcal" is now Northern Cal, and
-  "Northeast" (later split into New England and North Atlantic) is kept as is. Flights that never play each other
-  become separate brackets ("Northeast North"); flights that do are merged with group tags.
-- refresh.py builds `season-<season>.html` (Boys) and `girls-season-<season>.html` from these files on every run. They
-  use the same template with `DATA.past` set. The season picker and the Boys|Girls switch link the matching pages.
+  three and skips U11/U12 and composite squads. "Norcal" becomes Northern Cal; "Northeast" (later split into New
+  England and North Atlantic) is kept as is.
 - Team history (`pastseasons.team_history`, shown as "Same players, earlier seasons"): each season, step back one age
   group. Match by TGS team id when it carried over (about half do), else the same club id with the same cleaned team
   name, else the club's only team at that age. About 89% of this season's U14+ teams match.
@@ -42,16 +90,26 @@ tags each team with where it would go if the season ended today.
 
 ## National rankings: conference strength
 - Conferences meet only at ECNL national events (Phoenix, Florida, Las Vegas, ...) and the playoffs. `scripts/national.py`
-  keeps those games when both teams are in that season's conference brackets (same TGS team ids, same age group,
-  different conferences): past seasons go to `data/history/cross.csv` (one-off, about 1,100–2,900 per season and gender),
-  this season to `data/cross.csv`, which refresh.py updates on every live run (about 2 min). Add new national event ids
-  to `national.CURRENT` as they appear (scan get-event-details-by-eventID past the last known id).
+  keeps a game when both teams are in that season's conference brackets (same TGS team ids, same age group,
+  different conferences). There are about 1,100–2,900 per past season and gender. This season's go to `data/cross.csv`
+  on every live refresh. New national events are found automatically: ids after the last known one are checked by name
+  and remembered in `data/national_events.json`.
 - `scripts/confstrength.py`: per age group, a joint fit (`ratings.fit_conf`: attack = conference + team effect) of
   conference games plus cross-conference games. Conference effects start from last season's same age group
-  (`WEIGHT = 1.0`). Past seasons are cached in `data/history/confadj_<gender>.json`; delete it after adding a season.
-  Embedded as `DATA.confAdj[age] = {mu, conf: [attack, defense]}`. The page's national rating is
-  exp(mu + att + ca) − exp(mu − def − cd), and the national page lists each conference's strength.
+  (`WEIGHT = 1.0`). Past seasons are cached in `data/history/confadj_<gender>.json`. Embedded as
+  `DATA.confAdj[age] = {mu, conf: [attack, defense]}`. The national rating is exp(mu + att + ca) − exp(mu − def − cd),
+  and the national page lists each conference's strength.
 - Backtest (`confstrength.py --evaluate`, predicting each month's cross-conference games from earlier ones):
-  log-loss 0.99 → 0.95 (boys 2025-26), 0.99 → 0.94 (girls 2025-26), 0.96 → 0.91 (girls 2024-25). Correct picks went
-  from about 50% to 55%. Last season alone helps; this season's games plus last season's is best. The model's
-  conference strengths track the raw goal difference per game in those games.
+  log-loss 0.99 → 0.95 (boys 2025-26), 0.99 → 0.94 (girls 2025-26), 0.96 → 0.91 (girls 2024-25), and correct picks went
+  from about 50% to 55%. The model's conference strengths track the raw goal difference per game in those games.
+
+## Model (template JS, search for "fit penalised Poisson model")
+Poisson goals model with attack and defense ratings per team, ridge priors (σ 0.35, centered on last season's
+rating when there is one), home edge, and a Dixon-Coles low-score adjustment. The season sim plays out every remaining
+game 10,000 times and ranks by points per game (ECNL's rule), then GD and GF per game. "How accurate are the
+predictions?" is a walk-forward backtest of the current model.
+
+## Conventions
+- Each page is a single self-contained HTML file with all data embedded and no external scripts.
+- Kickoff times are stored and shown local to the field ("YYYY-MM-DD HH:MM"). The calendar export uses floating local times.
+- Python 3.9+ standard library only (the workflow uses 3.12).
