@@ -39,3 +39,19 @@ tags each team with where it would go if the season ended today.
   of its cohort match (one age younger) and its same-age match last season. `scripts/priors.py` replays past seasons:
   2025-26 log-loss boys 0.863 → 0.842, girls 0.826 → 0.773. On 2026-27's first games (the school-year switch season),
   correct picks went from 52% to 59% (boys) and 55% to 65% (girls).
+
+## National rankings: conference strength
+- Conferences meet only at ECNL national events (Phoenix, Florida, Las Vegas, ...) and the playoffs. `scripts/national.py`
+  keeps those games when both teams are in that season's conference brackets (same TGS team ids, same age group,
+  different conferences): past seasons go to `data/history/cross.csv` (one-off, about 1,100–2,900 per season and gender),
+  this season to `data/cross.csv`, which refresh.py updates on every live run (about 2 min). Add new national event ids
+  to `national.CURRENT` as they appear (scan get-event-details-by-eventID past the last known id).
+- `scripts/confstrength.py`: per age group, a joint fit (`ratings.fit_conf`: attack = conference + team effect) of
+  conference games plus cross-conference games. Conference effects start from last season's same age group
+  (`WEIGHT = 1.0`). Past seasons are cached in `data/history/confadj_<gender>.json`; delete it after adding a season.
+  Embedded as `DATA.confAdj[age] = {mu, conf: [attack, defense]}`. The page's national rating is
+  exp(mu + att + ca) − exp(mu − def − cd), and the national page lists each conference's strength.
+- Backtest (`confstrength.py --evaluate`, predicting each month's cross-conference games from earlier ones):
+  log-loss 0.99 → 0.95 (boys 2025-26), 0.99 → 0.94 (girls 2025-26), 0.96 → 0.91 (girls 2024-25). Correct picks went
+  from about 50% to 55%. Last season alone helps; this season's games plus last season's is best. The model's
+  conference strengths track the raw goal difference per game in those games.

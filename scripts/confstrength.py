@@ -12,7 +12,7 @@ import argparse, collections, math, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ratings
 
-WEIGHT, PRIOR_AGE = 0.5, "same"   # chosen by --evaluate (see CLAUDE.md)
+WEIGHT, PRIOR_AGE = 1.0, "same"   # chosen by --evaluate (see CLAUDE.md): this season's cross games + last season x1
 PREV_AGE = {"U14": "U13", "U15": "U14", "U16": "U15", "U17": "U16", "U18/19": "U17"}
 
 def conf_games(brackets, games, age):
@@ -45,6 +45,25 @@ def effects(gender, season, brackets, games, cross, prev=None, w=WEIGHT):
         m = fit_age(gs + cg, tc, prior_for(prev, age, w))
         out[age] = {"mu": round(m["mu"], 4), **{c: [round(m["ca"][c], 4), round(m["cd"][c], 4)] for c in m["ca"]}}
     return out
+
+def season_effects(gender):
+    """{season: effects} for every past season, each starting from the season before it; cached in
+    data/history/confadj_<gender>.json (delete the file to recompute, e.g. after adding a season)."""
+    import json, pastseasons as P, national
+    path = f"{national.ROOT}/data/history/confadj_{gender}.json"
+    if os.path.exists(path):
+        return json.load(open(path))
+    cross = national.read(f"{national.ROOT}/data/history/cross.csv")
+    out, raw = {}, {}
+    for s in sorted(P.seasons(gender)):
+        b, g = P.load(gender, s)
+        raw[s] = effects(gender, s, b, g, cross, None, 0)          # the season on its own (prior for the next one)
+        prev = raw.get(f"{int(s[:4]) - 1}-{s[2:4]}")
+        out[s] = effects(gender, s, b, g, cross, prev) if prev else raw[s]
+        print(f"conference strength {gender} {s}", flush=True)
+    res = {"final": out, "alone": raw}
+    json.dump(res, open(path, "w"), separators=(",", ":"))
+    return res
 
 def neutral_probs(m, h, a):
     return ratings.probs(dict(m, home=0.0), h, a)

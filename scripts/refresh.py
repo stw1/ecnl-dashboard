@@ -12,7 +12,7 @@ Data: the public TotalGlobalSports API behind public.totalglobalsports.com (no k
   Event/get-schedules-by-flight/{event}/{flight}/0      every game of one age group in one conference
 Kickoff times are local to the field (that's how TGS publishes them). Python 3.9+ standard library only.
 """
-import argparse, csv, json, os, re, sys, time, urllib.request
+import argparse, collections, csv, json, os, re, sys, time, urllib.request
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -217,14 +217,24 @@ def build(gender, brackets, games, meta):
     data["seasons"] = seasons
     data["hist"] = pastseasons.team_history(gender, brackets) if past else {}
     add_priors(gender, data, brackets, past[0] if past else None)
+    # conference strength from games between conferences: this season's so far, starting from last season's
+    import confstrength, national
+    eff = confstrength.season_effects(gender)
+    cross = national.read(f"{ROOT}/data/cross.csv")
+    data["confAdj"] = confstrength.effects(gender, SEASON, brackets, games, cross, eff["alone"].get(past[0]) if past else None)
+    data["confPrior"] = bool(past)
+    data["crossN"] = dict(collections.Counter(r["age"] for r in cross if r["gender"] == gender))
     size = write_page(gender, data, SEASON)
     played = sum(1 for g in games if str(g["home_score"]) != "")
     print(f"Built {page_file(gender)} ({size//1024} KB): {len(brackets)} brackets, {sum(len(b['teams']) for b in brackets)} teams, "
           f"{played}/{len(games)} games played, history for {len(data['hist'])} teams")
+    hist_cross = national.read(f"{ROOT}/data/history/cross.csv")
     for i, s in enumerate(past):  # finished seasons: same template with DATA.past set
         pb, pg = pastseasons.load(gender, s)
         d = page_data(gender, pb, pg, max(g["start"][:10] for g in pg), s)
-        d.update(seasons=seasons, past=pastseasons.label(s), hist=pastseasons.team_history(gender, pb, before=s))
+        d.update(seasons=seasons, past=pastseasons.label(s), hist=pastseasons.team_history(gender, pb, before=s),
+                 confAdj=eff["final"].get(s), confPrior=i + 1 < len(past), crossN=dict(collections.Counter(r["age"] for r in hist_cross
+                                                                               if r["gender"] == gender and r["season"] == s)))
         add_priors(gender, d, pb, past[i + 1] if i + 1 < len(past) else None)  # the replayed accuracy starts from the season before
         size = write_page(gender, d, s)
         print(f"Built {page_file(gender, s)} ({size//1024} KB): {len(pb)} brackets")
@@ -238,12 +248,17 @@ if __name__ == "__main__":
     meta = {"snapshot": datetime.now(ZoneInfo(a.tz)).date().isoformat(), "season": SEASON}
     if a.offline:
         meta = json.load(open(f"{ROOT}/data/meta.json"))
+    got = {}
     for gender in LEAGUES:
         if a.offline:
-            brackets, games = load(gender)
+            got[gender] = load(gender)
         else:
-            brackets, games = fetch(gender)
-            if not brackets:
+            got[gender] = fetch(gender)
+            if not got[gender][0]:
                 sys.exit(f"No {gender} brackets found - check LEAGUES event ids")
-            save(gender, brackets, games, meta)
+            save(gender, *got[gender], meta)
+    if not a.offline:  # games between conferences at this season's national events (for the national rankings)
+        import national
+        national.current({g: v[0] for g, v in got.items()})
+    for gender, (brackets, games) in got.items():
         build(gender, brackets, games, meta)

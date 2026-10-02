@@ -10,7 +10,7 @@ rankings use (scripts/confstrength.py).
 A game is kept when both teams are in that season's ECNL conference brackets (same TGS team ids), in the same age
 group, and in different conferences. The season comes from the game date (August to July).
 """
-import csv, json, os, sys
+import csv, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import refresh
 
@@ -81,10 +81,31 @@ def read(path):
     with open(path) as f:
         return list(csv.DictReader(f))
 
+NATIONAL_NAME = re.compile(r"^(ECNL|Boys ECNL|Girls ECNL)\b")
+NOT_NATIONAL = re.compile(r"\bRL\b|regional|pre-ecnl|league cup|alliance|quality|school|\bQA\b|conference|champions cup|"
+                          r"texas cup|\d{4}-\d{2}\s*$|registration|composite", re.I)
+
+def discover(known, ahead=120):
+    """New national events: TGS ids keep growing, so look at the ids after the last known one."""
+    found, last = [], max(known)
+    for ev in range(last + 1, last + ahead):
+        try:
+            name = (refresh.get(f"{refresh.API}/get-event-details-by-eventID/{ev}", tries=1) or {}).get("name") or ""
+        except Exception:
+            continue
+        if NATIONAL_NAME.match(name.strip()) and not NOT_NATIONAL.search(name):
+            found.append(ev); print(f"  new national event {ev}: {name.strip()}", flush=True)
+    return found
+
 def current(brackets_by_gender):
-    """This season's cross-conference games so far -> data/cross.csv (called by refresh.py)."""
+    """This season's cross-conference games so far -> data/cross.csv (called by refresh.py). Newly listed national
+    events are found by id and remembered in data/national_events.json."""
+    path = f"{ROOT}/data/national_events.json"
+    events = json.load(open(path)) if os.path.exists(path) else list(CURRENT)
+    events = sorted(set(events) | set(discover(events)))
+    json.dump(events, open(path, "w"))
     index = {refresh.SEASON: {t: (g, b["age"], b["conf"]) for g, bs in brackets_by_gender.items() for b in bs for t in b["teams"]}}
-    rows = collect(CURRENT, index)
+    rows = collect(events, index)
     write(f"{ROOT}/data/cross.csv", rows)
     return rows
 

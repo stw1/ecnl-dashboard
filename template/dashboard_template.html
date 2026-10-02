@@ -92,6 +92,7 @@ table tbody tr.me td,table tbody tr.me:hover td{background:#fef9c3}table tbody t
 @media(prefers-color-scheme:dark){.t-cl{background:#134e4a;color:#99f6e4}.t-pi{background:#0c4a6e;color:#bae6fd}.t-nac{background:#1e3a8a;color:#bfdbfe}.t-sa{background:#78350f;color:#fde68a}.t-sb{background:#334155;color:#e2e8f0}}
 table.st td.team.zt-cl{box-shadow:inset 3px 0 #14b8a6}table.st td.team.zt-pi{box-shadow:inset 3px 0 #38bdf8}table.st td.team.zt-nac{box-shadow:inset 3px 0 #3b82f6}table.st td.team.zt-sa{box-shadow:inset 3px 0 #f59e0b}table.st td.team.zt-sb{box-shadow:inset 3px 0 #94a3b8}table.st td.team.zt-wc{box-shadow:inset 3px 0 #94a3b8}
 @media(max-width:700px){#standings .pchip,#natTable .pchip{display:none}}
+.cstr{margin-top:8px;line-height:1.9}.cstr span{display:inline-block;margin-right:12px;white-space:nowrap}
 .postkey{display:block;width:100%;line-height:1.7}.postkey .pchip{margin:0 4px 0 0}
 .grp-tag{display:inline-block;font-size:10px;font-weight:600;color:var(--mut);border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-left:6px;vertical-align:1px}
 .ftag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#ede9fe;color:#5b21b6;border-radius:4px;padding:1px 5px;margin-left:6px;vertical-align:1px}
@@ -284,8 +285,8 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="sub">Each weekend is re-predicted using only the games played before it, then compared with what actually happened, so the model never gets to peek at the result. "Too close to call" counts as a draw pick. With only a few weekends played, these numbers will be rough.</div>
 <div id="acc"></div><button class="btn" id="accMore"></button></div>
 <div class="card" id="s-nat" style="display:none"><h2 id="natTitle"></h2>
-<div class="sub">Every team in this age group, ranked by the model's rating: the goal margin per game it would expect against an average team <b>in its own conference</b>, adjusted for the opponents each team has actually played<span id="natFlex"></span>. Ratings are pulled toward average when a team has played only a few games, so a hot start counts for less than a long run.</div>
-<div class="note" style="display:block;margin:0 0 14px"><b>Read this as "how dominant is each team in its own conference".</b> Conferences don't play each other in the regular season, so no result tells us whether one conference is stronger than another. This list treats every conference as equally strong. <span id="natPpp"></span></div>
+<div class="sub">Every team in this age group, ranked by the model's rating: the goal margin per game it would expect against an average team <b id="natVs">in its own conference</b>, adjusted for the opponents each team has actually played<span id="natFlex"></span>. Ratings are pulled toward average when a team has played only a few games, so a hot start counts for less than a long run.</div>
+<div class="note" id="natNote" style="display:block;margin:0 0 14px"><b>Read this as "how dominant is each team in its own conference".</b> Conferences don't play each other in the regular season, so no result tells us whether one conference is stronger than another. This list treats every conference as equally strong. <span id="natPpp"></span></div>
 <div class="pctl"><label>Conference <select id="natConf"></select></label><span class="mut" id="natCount" style="font-size:12.5px"></span></div>
 <div class="scroll"><table class="st nat" id="natTable"></table></div>
 <div id="natPppWrap"></div>
@@ -302,6 +303,7 @@ footer{padding:4px 24px 30px;color:var(--mut);font-size:12px}
 <div class="cols">
 <div><h3>Team ratings</h3><p>Each team gets an <b>attack</b> and a <b>defense</b> rating, fit to every completed game with a Poisson goals model, the standard approach for predicting soccer scores. Expected goals for the home side = league average × home edge × home attack × away defense weakness, and likewise for the away side. Home teams currently get <span id="hadv"></span> more goals in the model.<span id="priorTxt"> Each team starts the season from last season's rating, at three-quarters strength: the average of the same players one age group younger and the club's team at this age. This season's results take over as games are played. Replaying this season so far, it lifts correct picks from 52% to 59% (boys) and 55% to 65% (girls).</span></p></div>
 <div><h3>From ratings to odds</h3><p>From the two expected-goal numbers the model works out the chance of every scoreline (0–0, 1–0, 2–1, …), which gives the win, draw and loss chances and the most likely score. A small Dixon-Coles adjustment makes 0–0 and 1–1 a bit more likely (and 1–0 and 0–1 a bit less), because plain Poisson models under-predict draws; its strength is estimated from the results so far (currently <span id="rho"></span>). The pick is the more likely winner, or "too close to call" when the two are within 5 points; the margin is the expected goal difference, rounded. The projected finish plays out every remaining game 10,000 times using those chances.</p></div>
+<div><h3>National rankings</h3><p>Conferences don't play each other in the regular season, but they meet at ECNL national events (Phoenix, Florida, Las Vegas and others) and the playoffs. Those games set each conference's strength, starting from last season's and updated as this season's events are played. A team's national rating is its rating inside its conference plus its conference's strength. Checked on past seasons, this predicted games between conferences better than treating every conference as equal (correct picks about 50% → 55%).</p></div>
 <div><h3>Postseason chances</h3><p>Each simulated season ends with ECNL's official 2026–27 qualification rules for that conference and age group: how many teams reach the Champions League (ECNL National Playoffs) and, for the girls, the North American Cup and Showcase Cups. That includes the top teams in each group, wildcards and play-ins. A wildcard spot goes to whichever of two conferences' teams has more points per game, so the two conferences' seasons are simulated side by side. League Cup winners can't be predicted from this data, so a spot that the League Cup winner can take is treated as going to the team in the table.</p></div>
 <div><h3>What it leaves out</h3><p>Not included: roster changes, injuries, travel, weather, out-of-conference events, and the fact that youth results are noisy. Treat these numbers as a guide, not a guarantee.</p></div>
 </div></div>
@@ -792,7 +794,7 @@ function drawTeam(c){const b=B,t=srows.find(r=>r.c===c),pr=power.findIndex(p=>p.
   k("League",t?`${t.pts} pts`:"–",t?`${wdl(L)} · ${t.ppm.toFixed(2)} per game · GD ${t.gd>0?"+":""}${t.gd}`:"")+
   (F.n?k("MLS NEXT Flex",wdl(F),`${F.n} game${F.n>1?"s":""} · goals ${F.gf}–${F.ga} (not in the table)`):"")+
   k("Power ranking",`${ordn(pr)} of ${N}`,`model: scores ${pw.gf.toFixed(1)}, concedes ${pw.ga.toFixed(1)} per game`)+
-  (nat?k("National",`${ordn(nat)} of ${natList.length}`,ppp?"among Pro Player Pathway teams":"within-conference rating, all conferences"):"")+
+  (nat?k("National",`${ordn(nat)} of ${natList.length}`,ppp?"among Pro Player Pathway teams":CADJ[b.age]?"all conferences, with conference strength":"within-conference rating, all conferences"):"")+
   (PAST||!t?"":k("Projected finish",`${t.proj.toFixed(0)} pts`,`1st ${pct(t.p1)}`))+
   (PAST||!t||!HASPOST?"":k("Postseason",`${pct(t.pcl)} <span style="font-size:13px;font-weight:600">${esc(tierShort("cl"))}</span>`,`chance of a ${tierName("cl")} spot${OTHERT.length?` · any postseason ${pct(t.pany)}`:""} · today: ${todayWords(t.today)}`));
  const following=myTeam===c;
@@ -884,9 +886,13 @@ function drawClub(){const teams=DATA.brackets.flatMap(b=>Object.entries(b.teams)
 
 // National rankings: fit every conference of the age group separately (they never play each other), then list
 // all teams by rating. Pro Player Pathway conferences get their own table: they are a separate pool.
+// DATA.confAdj[age] = {mu, conf: [attack, defense]}: conference strength from games between conferences (national events,
+// playoffs), so a team's national rating is its rating inside its conference plus its conference's strength
+const CADJ=DATA.confAdj||{};
+const natNet=(o,c)=>{const A=CADJ[o.b.age],k=A&&A[o.b.conf],i=o.IX[c];return k?Math.exp(A.mu+o.m.att[i]+k[0])-Math.exp(A.mu-o.m.def[i]-k[1]):netOf(o,c)};
 function natRows(age){return DATA.brackets.filter(b=>b.age===age).flatMap(b=>{const o=bracketInfo(b),T=Object.fromEntries(o.tb.map(t=>[t.c,t]));
  return o.ids.map(c=>{const t=T[c],nf=o.fx.filter(g=>g.h===c||g.a===c).length;
-  return{c,b,n:b.teams[c],mp:t.mp,w:t.w,d:t.d,l:t.l,gf:t.gf,ga:t.ga,pts:t.pts,ppm:t.ppm,gdpg:t.mp?t.gd/t.mp:0,net:netOf(o,c),nf,rated:t.mp+nf>0,crk:o.tb.indexOf(t)+1,cn:o.ids.length}})})}
+  return{c,b,n:b.teams[c],mp:t.mp,w:t.w,d:t.d,l:t.l,gf:t.gf,ga:t.ga,pts:t.pts,ppm:t.ppm,gdpg:t.mp?t.gd/t.mp:0,net:natNet(o,c),nf,rated:t.mp+nf>0,crk:o.tb.indexOf(t)+1,cn:o.ids.length}})})}
 let natK="net",natDir=-1;
 function drawNational(){const age=B.age,rows=natRows(age),reg=rows.filter(r=>r.b.conf===baseConf(r.b.conf)),ppp=rows.filter(r=>r.b.conf!==baseConf(r.b.conf));
  const followed=new Set(DATA.brackets.filter(b=>b.age===age).map(b=>{try{return localStorage.getItem(`myteam:${TPRE}${age} ${b.conf} Conference`)}catch(e){return null}}).filter(Boolean));
@@ -900,6 +906,10 @@ function drawNational(){const age=B.age,rows=natRows(age),reg=rows.filter(r=>r.b
    `<td class="t">${x.rated?`<span class="dv"><i class="n"><b style="width:${x.net<0?w:0}%"></b></i><i class="p"><b style="width:${x.net>0?w:0}%"></b></i></span><span class="net ${x.net>=0?"pos":"neg"}">${x.net>0?"+":""}${x.net.toFixed(2)}</span>`:'<span class="mut">No games yet</span>'}</td></tr>`}).join("")+"</tbody>"};
  const fc=$("natConf").value,shown=fc?reg.filter(x=>slugC(x.b.conf)===fc):reg;
  $("natTitle").textContent=`${age} national rankings`;
+ const A=CADJ[age];if(A){const cs=Object.keys(A).filter(k=>k!=="mu").map(c=>({c,v:Math.exp(A.mu+A[c][0])-Math.exp(A.mu-A[c][1])})),avg=cs.reduce((x,y)=>x+y.v,0)/cs.length;
+  cs.sort((x,y)=>y.v-x.v);$("natVs").textContent="in an average conference";
+  $("natNote").innerHTML=`<b>Conference strength is included.</b> Conferences don't meet in the regular season, but they do at ECNL national events and the playoffs: ${(DATA.crossN||{})[age]?`${DATA.crossN[age].toLocaleString()} ${age} games between conferences ${PAST?"that season":"so far this season"}`:`no ${age} games between conferences yet this season`}${DATA.confPrior?PAST?", starting from the season before":", starting from last season's results":""}. Each team's rating is its rating inside its conference plus its conference's strength.`+
+   `<div class="cstr"><b>${age} conference strength</b> (goals per game vs an average conference): ${cs.map(x=>`<span>${esc(x.c)} <b class="${x.v-avg>=0?"pos":"neg"}">${x.v-avg>=0?"+":"−"}${Math.abs(x.v-avg).toFixed(2)}</b></span>`).join("")}</div> <span id="natPpp"></span>`}
  $("natTiers").textContent=Object.keys(TIERS).filter(k=>k!=="cl").map(k=>`, ${tierShort(k)} = ${tierName(k)}`).join("");
  $("natFlex").textContent=reg.some(x=>x.nf)?", including MLS NEXT Flex games":"";
  $("natCount").textContent=`${shown.length} teams${fc?"":` in ${new Set(reg.map(x=>x.b.conf)).size} conferences`}`;
