@@ -163,6 +163,17 @@ predictions?" is a walk-forward backtest of the current model.
   W-D-L, points per game and goals, each linked to that season's team page. A line compares last season with now and
   gives the best finish. "In other age groups" lists the club's other teams (matched by club id).
 
+## Movement arrows and "Your teams" banner (ported from MLS NEXT)
+- ▲/▼ arrows show how many places a team moved since its conference's latest week of games (`movesOf`: the table just
+  before that Monday-to-Sunday week). They appear in standings, team pages ("up 2 places after the weekend of …"), club
+  pages and the national ranking (`natBefore`: ratings and conference strength refit on the earlier games). The week is
+  per conference, not site-wide like MLS NEXT, because ECNL also plays midweek: one Wednesday game elsewhere mustn't
+  hide last weekend's moves. Arrows only show when that week is the current or previous one, and not on past seasons.
+- A banner at the top of current-season pages, "Your teams after the weekend of …", lists the followed teams (this
+  browser's `myteam:` keys) with their moves. It can be dismissed until the next week (`notif:off`).
+- Bracket pages also get an "Insights →" link in the section bar. The age tabs no longer carry the followed team into
+  other age groups.
+
 ## Calendars, feedback, analytics
 - **Calendars:** `refresh.write_calendars` writes `cal/<team id>.ics` for every team this season: league and national-event
   games, results in the title once played, times local to the field (floating), and a fixed DTSTAMP so a file only
