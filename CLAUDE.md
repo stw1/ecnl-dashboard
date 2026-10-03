@@ -45,6 +45,9 @@ manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from 
   `checkstandings.py`, which fails the run (GitHub emails) if any table stops matching ECNL's. Run it by hand with
   `gh workflow run refresh.yml -R stw1/ecnl-dashboard`. GitHub pauses scheduled workflows after 60 days with no commits.
 - **Publish by hand:** `git pull` first (the bot commits too), then commit and push. Pages redeploys in about a minute.
+  If you push while an auto-refresh is running, its push is rejected. The workflow then resets to the latest main, keeps
+  the scores it just downloaded, rebuilds them with `--offline` and pushes again (up to 3 tries). This happened on
+  2026-10-03, before the retry existed: the run failed and GitHub emailed.
 - **Links:** `?age=U15&conf=southwest` (conference lowercased, spaces become dashes), `&team=seattle-united`
   highlights a team, `&show=<team id>` opens a team page, `?age=U14&conf=national` shows national rankings,
   `?age=U14&conf=insights` shows Insights, and `?club=<club-name>` shows a club page.
