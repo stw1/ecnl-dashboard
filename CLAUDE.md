@@ -80,7 +80,10 @@ manifest.webmanifest, icon.svg, *.png   home-screen icons (regenerate PNGs from 
   order in each flight with `Event/get-standings-by-div-and-flight/{division}/{flight}/{event}`. The workflow runs it as a
   warning-only step. ECNL's order is points per game, then head-to-head for two tied teams, then **total** goal
   difference and total goals scored. On 2026-10-02 every record and position matched for all 1,812 teams. Rerun after
-  changing table logic.
+  changing table logic. The check doesn't fail on timing: teams with a game in the last 48 hours, or with more games in
+  ECNL's table than ours (a score posted after our download), are listed as pending. ECNL occasionally leaves out
+  head-to-head (Girls U13 Southwest, 2026-10-03: 323 of 324 tied pairs followed it). Its order then still fits points
+  per game, goal difference and goals, so the check reports it without failing.
 - Two-division conferences (a third or more of the games between divisions) are one bracket with group tags. Flights that
   rarely meet are separate conferences (`refresh.FLIGHT_CONF`). Girls 2020-22 "Northwest" is really Northern Cal (Bay Area),
   Northwest (Pacific) and Mountain.
