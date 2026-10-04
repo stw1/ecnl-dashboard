@@ -4353,7 +4353,7 @@ U15,Northern Cal,1099472,2026-09-27 13:00,84676,84679,Placer United ECNL B2011/1
 U15,Northern Cal,1099466,2026-09-27 15:00,84681,40071,MVLA ECNL B2011/12,Santa Clara Sporting ECNL B2011/12,0,3,Foothill College - Top Hill Soccer Field,294,2548,MVLA,Santa Clara Sporting
 U15,Northern Cal,1099448,2026-09-27 16:00,91719,90731,El Camino FC Salinas ECNL B2011/12,Davis Legacy ECNL B2011/12,3,3,Salinas Regional Soccer Complex - Turf #2,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
 U15,Northern Cal,1099490,2026-10-03 11:00,81001,132649,River Islands Surf ECNL B2011/12,Napa United ECNL B2011/12,1,1,River Islands Sports Park - Field 2,3777,2907,Valley Surf | America,Napa United
-U15,Northern Cal,1099484,2026-10-03 15:30,84676,82821,Placer United ECNL B2011/12,1974 Newark FC ECNL B2011/12,,,Placer Valley Soccer Complex - Field 5,3054,4342,Placer United Soccer Club,1974 Newark FC
+U15,Northern Cal,1099484,2026-10-03 15:30,84676,82821,Placer United ECNL B2011/12,1974 Newark FC ECNL B2011/12,1,0,Placer Valley Soccer Complex - Field 5,3054,4342,Placer United Soccer Club,1974 Newark FC
 U15,Northern Cal,1099496,2026-10-04 10:00,93951,91719,Association FC ECNL B11/12,El Camino FC Salinas ECNL B2011/12,,,Alden E. Oliver Sports Park - Field 1,3065,4063,Association Football Club,El Camino FC Salinas
 U15,Northern Cal,1099526,2026-10-04 10:00,132008,132472,Santa Rosa United ECNL B2011/12,Mustang Soccer ECNL B2011/12,,,Trione Fields - Trione East,91,69,Santa Rosa United Soccer,Mustang Soccer
 U15,Northern Cal,1099514,2026-10-04 11:00,131257,131735,San Francisco Elite Academy ECNL B2011/12,Los Gatos United Soccer Club ECNL B2011/12,,,Pollicita Middle School - Soccer Field,1040,3231,San Francisco Elite Academy,Los Gatos United Soccer Club
@@ -4690,7 +4690,7 @@ U15,Southwest,1086550,2026-10-03 11:00,69638,94916,LA Breakers FC ECNL B2011/12,
 U15,Southwest,1086554,2026-10-03 13:00,133675,132944,LAFC So Cal ECNL B2011/12,Legends FC (CA) ECNL B2011/12,,,Oak Park High School - Stadium,82,61,LAFC So Cal,Legends FC (CA)
 U15,Southwest,1086562,2026-10-03 13:00,134469,131409,Sporting California USA ECNL B2011/12,SDSC Surf ECNL B2011/12,,,San Bernardino Valley College - Turf,13,86,Sporting California USA,SDSC Surf
 U15,Southwest,1086546,2026-10-03 15:15,133556,132455,CDA Slammers FC ECNL B2011/12,San Diego Surf ECNL B2011/12,,,Santiago High School - Stadium,3360,87,CDA Slammers FC,San Diego Surf Soccer Club
-U15,Southwest,1086558,2026-10-03 16:00,131700,94646,Legends FC Del Mar ECNL B2011/12,LV Heat Surf SC ECNL B2011/12,,,SilverLakes Complex - Field 21,39,57,Legends FC - Del Mar,LV Heat Surf SC
+U15,Southwest,1086558,2026-10-03 16:00,131700,94646,Legends FC Del Mar ECNL B2011/12,LV Heat Surf SC ECNL B2011/12,1,1,SilverLakes Complex - Field 21,39,57,Legends FC - Del Mar,LV Heat Surf SC
 U15,Southwest,1087022,2026-10-04 08:00,133556,94646,CDA Slammers FC ECNL B2011/12,LV Heat Surf SC ECNL B2011/12,,,Silver Lakes Sports Complex (Norco) - Field 23,3360,57,CDA Slammers FC,LV Heat Surf SC
 U15,Southwest,1086566,2026-10-04 09:00,132185,131409,Beach Futbol Club (CA) ECNL B2011/12,SDSC Surf ECNL B2011/12,,,El Camino College - Stadium,16,86,Beach Futbol Club,SDSC Surf
 U15,Southwest,1086726,2026-10-04 11:00,69638,132455,LA Breakers FC ECNL B2011/12,San Diego Surf ECNL B2011/12,,,Bell Gardens Sports Complex - Field 4,2289,87,LA Breakers FC,San Diego Surf Soccer Club
@@ -5172,7 +5172,7 @@ U16,Heartland,1057287,2026-09-19 14:00,136137,134706,Sporting Nebraska FC ECNL B
 U16,Heartland,1057295,2026-09-20 09:00,131679,134706,Gretna Elite Academy ECNL B2010/11,Arkansas Comets FC ECNL B2010/11,6,1,Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1,373,3585,Gretna Elite Academy,Arkansas Comets FC
 U16,Heartland,1057299,2026-09-20 13:00,136137,80773,Sporting Nebraska FC ECNL B2010/11,OK Energy FC ECNL B2010/11,1,3,CHI Nebraska MultiSport Complex - Field 11,1726,2133,Sporting Nebraska FC,Oklahoma Energy FC
 U16,Heartland,1057291,2026-09-25 19:30,132391,131216,Sporting Iowa Central ECNL B2010/11,VSA Rush ECNL B2010/11,3,0,Hy-Vee Multiplex - Green #1,3483,3723,Sporting Iowa Central,VSA Rush
-U16,Heartland,1057307,2026-10-03,136137,131216,Sporting Nebraska FC ECNL B2010/11,VSA Rush ECNL B2010/11,,,,1726,3723,Sporting Nebraska FC,VSA Rush
+U16,Heartland,1057307,2026-10-03,136137,131216,Sporting Nebraska FC ECNL B2010/11,VSA Rush ECNL B2010/11,2,2,,1726,3723,Sporting Nebraska FC,VSA Rush
 U16,Heartland,1057311,2026-10-03 13:00,134706,80773,Arkansas Comets FC ECNL B2010/11,OK Energy FC ECNL B2010/11,1,1,Brunner & Lay Soccer Complex - Field 2,3585,2133,Arkansas Comets FC,Oklahoma Energy FC
 U16,Heartland,1057303,2026-10-03 15:00,131679,132391,Gretna Elite Academy ECNL B2010/11,Sporting Iowa Central ECNL B2010/11,3,0,Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1,373,3483,Gretna Elite Academy,Sporting Iowa Central
 U16,Heartland,1057319,2026-10-04 08:00,136137,132391,Sporting Nebraska FC ECNL B2010/11,Sporting Iowa Central ECNL B2010/11,,,Bellevue University - Field 1,1726,3483,Sporting Nebraska FC,Sporting Iowa Central
@@ -5800,7 +5800,7 @@ U16,Northern Cal,1099459,2026-09-27 11:00,132473,131260,Mustang Soccer ECNL B201
 U16,Northern Cal,1099447,2026-09-27 12:00,79980,81188,El Camino FC Salinas ECNL B2010/11,Davis Legacy ECNL B2010/11,1,1,Salinas Regional Soccer Complex - Turf #1,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
 U16,Northern Cal,1099453,2026-09-27 12:00,131737,80637,Los Gatos United Soccer Club ECNL B2010/11,Association FC ECNL B10/11,0,1,Monta Vista High School - Stadium,3231,3065,Los Gatos United Soccer Club,Association Football Club
 U16,Northern Cal,1099489,2026-10-03 09:00,71303,132650,River Islands Surf ECNL B2010/11,Napa United ECNL B2010/11,,,River Islands Sports Park - Field 2 (11v11),3777,2907,Valley Surf | America,Napa United
-U16,Northern Cal,1099483,2026-10-03 16:00,71880,81051,Placer United ECNL B2010/11,1974 Newark FC ECNL B2010/11,,,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
+U16,Northern Cal,1099483,2026-10-03 16:00,71880,81051,Placer United ECNL B2010/11,1974 Newark FC ECNL B2010/11,1,0,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
 U16,Northern Cal,1099519,2026-10-04 09:00,82111,71814,San Juan SC ECNL B2010/11,MVLA ECNL B2010/11,,,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,294,San Juan Soccer Club,MVLA
 U16,Northern Cal,1099501,2026-10-04 12:00,81188,39821,Davis Legacy ECNL B2010/11,COSC ECNL B2010/11,,,Davis Legacy Soccer Complex - Field 14,1425,1470,Davis Legacy Soccer Club,California Odyssey Soccer Club
 U16,Northern Cal,1099513,2026-10-04 12:00,131260,131737,San Francisco Elite Academy ECNL B2010/11,Los Gatos United Soccer Club ECNL B2010/11,,,University of San Francisco - Negoesco Stadium,1040,3231,San Francisco Elite Academy,Los Gatos United Soccer Club
@@ -6063,7 +6063,7 @@ U16,Southeast,1065308,2026-09-26 13:00,82200,134164,South Carolina United ECNL B
 U16,Southeast,1065312,2026-09-27 11:00,69002,134164,CESA Triumph ECNL B2010/11,NTH NASA ECNL B2010/11,1,0,Mesa Soccer Complex - Field 3,380,329,Carolina Elite Soccer Academy,NASA Tophat
 U16,Southeast,1065316,2026-09-27 11:00,82200,79892,South Carolina United ECNL B2010/11,Atlanta Fire United ECNL B2010/11,1,3,Southeastern Freight Lines Complex - Field 3,1689,14,South Carolina United FC,Atlanta Fire United
 U16,Southeast,1065100,2026-09-27 17:00,81342,81338,Concorde Fire Premier ECNL B2010/11,Concorde Fire Platinum ECNL B2010/11,2,1,Georgia Sports Park - field 2,30,30,Concorde Fire,Concorde Fire
-U16,Southeast,1065104,2026-10-03 13:00,134164,129029,NTH NASA ECNL B2010/11,South Carolina Surf ECNL B2010/11,,,Franklin Gateway Sports Complex - Field 3,329,3644,NASA Tophat,South Carolina Surf SC
+U16,Southeast,1065104,2026-10-03 13:00,134164,129029,NTH NASA ECNL B2010/11,South Carolina Surf ECNL B2010/11,3,1,Franklin Gateway Sports Complex - Field 3,329,3644,NASA Tophat,South Carolina Surf SC
 U16,Southeast,1065108,2026-10-04 10:00,79892,129029,Atlanta Fire United ECNL B2010/11,South Carolina Surf ECNL B2010/11,,,Pinecrest Academy - Turf,14,3644,Atlanta Fire United,South Carolina Surf SC
 U16,Southeast,1065114,2026-10-04 14:00,81338,71649,Concorde Fire Platinum ECNL B2010/11,United Futbol Academy ECNL B2010/11,,,Georgia Sports Park - field 2,30,3407,Concorde Fire,United Futbol Academy
 U16,Southeast,1065120,2026-10-04 14:00,81342,131802,Concorde Fire Premier ECNL B2010/11,GSA ECNL B2010/11,,,Georgia Sports Park - field 4,30,56,Concorde Fire,Gwinnett Soccer Academy
@@ -6138,7 +6138,7 @@ U16,Southwest,1086561,2026-10-03 09:00,134470,131408,Sporting California USA ECN
 U16,Southwest,1086545,2026-10-03 11:30,133555,132454,CDA Slammers FC ECNL B2010/11,San Diego Surf ECNL B2010/11,,,Santiago High School - Stadium,3360,87,CDA Slammers FC,San Diego Surf Soccer Club
 U16,Southwest,1086549,2026-10-03 13:00,82178,59706,LA Breakers FC ECNL B2010/11,West Coast FC ECNL B2010/11,,,Bell Gardens Sports Complex - Field 4,2289,113,LA Breakers FC,West Coast F.C.
 U16,Southwest,1086553,2026-10-03 14:45,133673,132941,LAFC So Cal ECNL B2010/11,Legends FC (CA) ECNL B2010/11,,,Oak Park High School - Stadium,82,61,LAFC So Cal,Legends FC (CA)
-U16,Southwest,1086557,2026-10-03 16:00,131702,48236,Legends FC Del Mar ECNL B2010/11,LV Heat Surf SC ECNL B2010/11,,,SilverLakes Complex - Field 20,39,57,Legends FC - Del Mar,LV Heat Surf SC
+U16,Southwest,1086557,2026-10-03 16:00,131702,48236,Legends FC Del Mar ECNL B2010/11,LV Heat Surf SC ECNL B2010/11,1,2,SilverLakes Complex - Field 20,39,57,Legends FC - Del Mar,LV Heat Surf SC
 U16,Southwest,1087021,2026-10-04 08:00,133555,48236,CDA Slammers FC ECNL B2010/11,LV Heat Surf SC ECNL B2010/11,,,Silver Lakes Sports Complex (Norco) - Field 24,3360,57,CDA Slammers FC,LV Heat Surf SC
 U16,Southwest,1086565,2026-10-04 13:00,132184,131408,Beach Futbol Club (CA) ECNL B2010/11,SDSC Surf ECNL B2010/11,,,El Camino College - Athletic Field,16,86,Beach Futbol Club,SDSC Surf
 U16,Southwest,1086725,2026-10-04 13:00,82178,132454,LA Breakers FC ECNL B2010/11,San Diego Surf ECNL B2010/11,,,Bell Gardens Sports Complex - Field 4,2289,87,LA Breakers FC,San Diego Surf Soccer Club
@@ -8694,7 +8694,7 @@ U18/19,Northern Cal,1099439,2026-09-27 14:00,69843,80748,COSC ECNL B2008/09,Fols
 U18/19,Northern Cal,1099445,2026-09-27 14:00,70357,60302,El Camino FC Salinas ECNL B2008/09,Davis Legacy ECNL B2008/09,1,4,Salinas Regional Soccer Complex - Turf #1,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
 U18/19,Northern Cal,1099451,2026-09-27 14:00,131741,80633,Los Gatos United Soccer Club ECNL B2008/09,Association FC ECNL B08/09,3,2,Monta Vista High School - Stadium,3231,3065,Los Gatos United Soccer Club,Association Football Club
 U18/19,Northern Cal,1099487,2026-10-03 09:00,71301,132652,River Islands Surf ECNL B2008/09,Napa United ECNL B2008/09,,,River Islands Sports Park - FIeld 1 (11v11),3777,2907,Valley Surf | America,Napa United
-U18/19,Northern Cal,1099481,2026-10-03 14:00,59933,80778,Placer United ECNL B2008/09,1974 Newark FC ECNL B2008/09,,,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
+U18/19,Northern Cal,1099481,2026-10-03 14:00,59933,80778,Placer United ECNL B2008/09,1974 Newark FC ECNL B2008/09,4,1,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
 U18/19,Northern Cal,1099517,2026-10-04 13:00,60204,35860,San Juan SC ECNL B08/09,MVLA ECNL B2008/09,,,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,294,San Juan Soccer Club,MVLA
 U18/19,Northern Cal,1099505,2026-10-04 13:15,47721,56319,Marin FC ECNL B2008/09,Santa Clara Sporting ECNL B2008/09,,,Terra Linda High School - Stadium,1585,2548,Marin FC,Santa Clara Sporting
 U18/19,Northern Cal,1099499,2026-10-04 14:00,60302,69843,Davis Legacy ECNL B2008/09,COSC ECNL B2008/09,,,Davis Legacy Soccer Complex - Field 14,1425,1470,Davis Legacy Soccer Club,California Odyssey Soccer Club

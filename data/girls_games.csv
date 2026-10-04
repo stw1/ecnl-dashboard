@@ -1686,7 +1686,7 @@ U14,Northern Cal,1095079,2026-10-03 09:00,103791,104961,San Juan SC ECNL G2012/1
 U14,Northern Cal,1094689,2026-10-03 10:30,84876,44316,MVLA ECNL G2012/13,Pleasanton RAGE ECNL G2012/13,3,0,Graham Middle School - Turf,294,80,MVLA,Pleasanton Rage
 U14,Northern Cal,1094665,2026-10-03 12:00,110984,115151,Davis Legacy ECNL G2012/13,Bay Area Surf - ECNL G2012/13,1,5,Davis Legacy Soccer Complex - Field 9,1425,3986,Davis Legacy Soccer Club,Bay Area Surf
 U14,Northern Cal,1094659,2026-10-03 13:00,114556,106265,COSC ECNL G2012/13,Placer United ECNL G2012/13,1,2,Edison High School Fields - field 2,1470,3054,California Odyssey Soccer Club,Placer United Soccer Club
-U14,Northern Cal,1094677,2026-10-03 15:15,82675,132202,Marin FC ECNL G2012/13,Santa Rosa United ECNL G2012/13,,,College of Marin - Stadium,1585,91,Marin FC,Santa Rosa United Soccer
+U14,Northern Cal,1094677,2026-10-03 15:15,82675,132202,Marin FC ECNL G2012/13,Santa Rosa United ECNL G2012/13,0,0,College of Marin - Stadium,1585,91,Marin FC,Santa Rosa United Soccer
 U14,Northern Cal,1094695,2026-10-17,115151,114556,Bay Area Surf - ECNL G2012/13,COSC ECNL G2012/13,,,,3986,1470,Bay Area Surf,California Odyssey Soccer Club
 U14,Northern Cal,1094707,2026-10-17 10:00,106265,84876,Placer United ECNL G2012/13,MVLA ECNL G2012/13,,,Placer Valley Soccer Complex - Field 5,3054,294,Placer United Soccer Club,MVLA
 U14,Northern Cal,1094713,2026-10-17 13:00,44316,104961,Pleasanton RAGE ECNL G2012/13,Mustang SC ECNL G2012/13,,,Val Vista - Field 3,80,69,Pleasanton Rage,Mustang Soccer
@@ -3709,7 +3709,7 @@ U16,Northern Cal,1094621,2026-09-27 16:00,74987,81251,Bay Area Surf - ECNL G2010
 U16,Northern Cal,1094681,2026-10-03,31529,77003,Mustang SC ECNL G2010/11,San Juan SC ECNL G2010/11,,,,69,88,Mustang Soccer,San Juan Soccer Club
 U16,Northern Cal,1095077,2026-10-03 09:00,77003,31529,San Juan SC ECNL G2010/11,Mustang SC ECNL G2010/11,0,0,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,69,San Juan Soccer Club,Mustang Soccer
 U16,Northern Cal,1094657,2026-10-03 11:00,88375,81251,COSC ECNL G2010/11,Placer United ECNL G2010/11,0,1,Edison High School Fields - field 1,1470,3054,California Odyssey Soccer Club,Placer United Soccer Club
-U16,Northern Cal,1094675,2026-10-03 11:00,82192,132204,Marin FC ECNL G2010/11,Santa Rosa United ECNL G2010/11,,,Marin Academy - Field 1,1585,91,Marin FC,Santa Rosa United Soccer
+U16,Northern Cal,1094675,2026-10-03 11:00,82192,132204,Marin FC ECNL G2010/11,Santa Rosa United ECNL G2010/11,7,0,Marin Academy - Field 1,1585,91,Marin FC,Santa Rosa United Soccer
 U16,Northern Cal,1094663,2026-10-03 12:00,81189,74987,Davis Legacy ECNL G2010/11,Bay Area Surf - ECNL G2010/11,2,6,Davis Legacy Soccer Complex - Field 10,1425,3986,Davis Legacy Soccer Club,Bay Area Surf
 U16,Northern Cal,1094669,2026-10-03 13:00,62271,82857,Force (CA) ECNL G2010/11,Stanislaus Surf - ECNL G2010/11,7,0,De Anza College - Soccer Field,2510,2246,Force,Stanislaus Surf Soccer Club
 U16,Northern Cal,1094687,2026-10-03 15:00,55477,44313,MVLA ECNL G2010/11,Pleasanton RAGE ECNL G2010/11,1,0,Foothill College - Top Hill Soccer Field,294,80,MVLA,Pleasanton Rage
@@ -4704,7 +4704,7 @@ U17,Northern Cal,1094680,2026-10-03,83526,32669,Mustang SC ECNL G2009/10,San Jua
 U17,Northern Cal,1094668,2026-10-03 11:00,60044,68540,Force (CA) ECNL G2009/10,Stanislaus Surf - ECNL G2009/10,7,0,De Anza College - Soccer Field,2510,2246,Force,Stanislaus Surf Soccer Club
 U17,Northern Cal,1094686,2026-10-03 11:00,33633,44309,MVLA ECNL G2009/10,Pleasanton RAGE ECNL G2009/10,,,Foothill College - Top Hill Soccer Field,294,80,MVLA,Pleasanton Rage
 U17,Northern Cal,1094656,2026-10-03 13:00,64375,68832,COSC ECNL G2009/10,Placer United ECNL G2009/10,1,1,Edison High School Fields - field 1,1470,3054,California Odyssey Soccer Club,Placer United Soccer Club
-U17,Northern Cal,1094674,2026-10-03 13:15,62042,132205,Marin FC ECNL G2009/10,Santa Rosa United ECNL G2009/10,,,College of Marin - Stadium,1585,91,Marin FC,Santa Rosa United Soccer
+U17,Northern Cal,1094674,2026-10-03 13:15,62042,132205,Marin FC ECNL G2009/10,Santa Rosa United ECNL G2009/10,4,0,College of Marin - Stadium,1585,91,Marin FC,Santa Rosa United Soccer
 U17,Northern Cal,1094662,2026-10-03 14:00,69625,69036,Davis Legacy ECNL G2009/10,Bay Area Surf - ECNL G2009/10,0,5,Davis Legacy Soccer Complex - Field 9,1425,3986,Davis Legacy Soccer Club,Bay Area Surf
 U17,Northern Cal,1094692,2026-10-17,69036,64375,Bay Area Surf - ECNL G2009/10,COSC ECNL G2009/10,,,,3986,1470,Bay Area Surf,California Odyssey Soccer Club
 U17,Northern Cal,1094710,2026-10-17 09:00,44309,83526,Pleasanton RAGE ECNL G2009/10,Mustang SC ECNL G2009/10,,,Val Vista - Field 2,80,69,Pleasanton Rage,Mustang Soccer
