@@ -176,7 +176,9 @@ predictions?" is a walk-forward backtest of the current model.
   per conference, not site-wide like MLS NEXT, because ECNL also plays midweek: one Wednesday game elsewhere mustn't
   hide last weekend's moves. Arrows only show when that week is the current or previous one, and not on past seasons.
 - A banner at the top of current-season pages, "Your teams after the weekend of …", lists the followed teams (this
-  browser's `myteam:` keys) with their moves. It can be dismissed until the next week (`notif:off`).
+  browser's `myteam:` keys) with their moves. It can be dismissed until the next week (`notif:off`). When all the
+  followed teams are one club, it names the club once ("Your Mustang teams …"). On phones the banner has two columns,
+  the standings show a small triangle inside the rank instead of the tag, and wrapped team names line up.
 - Bracket pages also get an "Insights →" link in the section bar. The age tabs no longer carry the followed team into
   other age groups.
 
