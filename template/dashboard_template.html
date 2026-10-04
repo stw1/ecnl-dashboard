@@ -96,6 +96,9 @@ table tbody tr.me td,table tbody tr.me:hover td{background:#fef9c3}table tbody t
 table.st td.team.zt-cl{box-shadow:inset 3px 0 #14b8a6}table.st td.team.zt-pi{box-shadow:inset 3px 0 #38bdf8}table.st td.team.zt-nac{box-shadow:inset 3px 0 #3b82f6}table.st td.team.zt-sa{box-shadow:inset 3px 0 #f59e0b}table.st td.team.zt-sb{box-shadow:inset 3px 0 #94a3b8}table.st td.team.zt-wc{box-shadow:inset 3px 0 #94a3b8}
 @media(max-width:700px){#standings .pchip,#natTable .pchip{display:none}}
 .cstr{margin-top:8px;line-height:1.9}.cstr span{display:inline-block;margin-right:12px;white-space:nowrap}
+.insg li.me{background:#fef9c3;border-radius:6px;padding:2px 6px;margin-left:-6px}.ifol b{background:#fef9c3;color:#713f12;padding:1px 6px;border-radius:5px;font-weight:600}.st.wkt tr.sel td{background:rgba(37,99,235,.1);font-weight:600}
+@media(prefers-color-scheme:dark){.insg li.me{background:#3a3210}.ifol b{background:#3a3210;color:#fde68a}}
+@media(max-width:700px){.st.wkt td a{display:inline-block;padding:9px 0}}
 .insw-h{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;justify-content:space-between}.insw-h h2{margin:0}#insWk{padding:5px 8px;font:inherit;font-size:13px;border:1px solid var(--line);border-radius:7px;background:var(--card);color:var(--ink)}
 .insg{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}.insg .card h3{margin:0 0 2px;font-size:15px}.insg ol{margin:8px 0 0;padding-left:20px}.insg li{margin:5px 0;font-size:13.5px;line-height:1.45}.insg li .mut{font-size:12px}
 @media(max-width:900px){.insg{grid-template-columns:1fr}}
@@ -1033,8 +1036,14 @@ function drawNotif(){const el=$("notif");if(!el||PAST)return;const W=lastWeek();
 const isoD=D=>`${D.getFullYear()}-${String(D.getMonth()+1).padStart(2,"0")}-${String(D.getDate()).padStart(2,"0")}`;
 const mondayOf=d=>{const D=day(d);D.setDate(D.getDate()-(D.getDay()+6)%7);return isoD(D)};
 const addDays=(iso,n)=>{const D=day(iso);D.setDate(D.getDate()+n);return isoD(D)};
-function stateBefore(o,cut){const pl=o.pl.filter(g=>g.dt.slice(0,10)<cut),fx=ratable(o.fxAll,o.b.teams).filter(g=>g.dt.slice(0,10)<cut);
- return{b:o.b,ids:o.ids,IX:o.IX,gs:o.gs,pl,fx,fuAll:o.gs.filter(g=>g.hs===null||g.dt.slice(0,10)>=cut),m:fit(pl.concat(fx),o.IX,o.ids.length,priorArr(o.b,o.ids)),tb:table(pl,o.ids)}}
+function stateBefore(o,cut){const C=o._sb||(o._sb={});if(C[cut])return C[cut];const pl=o.pl.filter(g=>g.dt.slice(0,10)<cut),fx=ratable(o.fxAll,o.b.teams).filter(g=>g.dt.slice(0,10)<cut);
+ return{b:o.b,ids:o.ids,IX:o.IX,gs:o.gs,pl,fx,fuAll:o.gs.filter(g=>g.hs===null||g.dt.slice(0,10)>=cut),m:fit(pl.concat(fx),o.IX,o.ids.length,priorArr(o.b,o.ids)),tb:table(pl,o.ids)};return C[cut]}
+// teams this browser follows (highlighted in Insights)
+const followedSet=()=>new Set(DATA.brackets.map(b=>{try{return localStorage.getItem(`myteam:${TPRE}${b.age} ${b.conf} Conference`)}catch(e){return null}}).filter(c=>c&&BOF[c]));
+const netOfM=(m,o,c)=>{const i=o.IX[c];return Math.exp(m.mu+m.att[i])-Math.exp(m.mu-m.def[i])};
+const pickOk=(p,g)=>{const r=g.hs>g.as?"H":g.hs<g.as?"A":"D",k=Math.abs(p.pH-p.pA)<.05?"D":p.pH>p.pA?"H":"A";return r===k};
+const insCards=(id,list)=>{$(id).innerHTML=list.map(x=>`<div class="card"><h3>${x.t}</h3>${x.sub?`<div class="sub" style="margin:0">${x.sub}</div>`:""}${x.html||`<ol>${x.items.map(i=>`<li>${i}</li>`).join("")}</ol>`}</div>`).join("");
+ $(id).querySelectorAll("li [data-fol]").forEach(a=>a.closest("li").classList.add("me"))};
 let insWk=0;
 function drawWeekend(os){const W=[];
  const mons=[...new Set(os.flatMap(o=>o.pl.map(g=>mondayOf(g.dt))))].sort().reverse();
@@ -1042,10 +1051,10 @@ function drawWeekend(os){const W=[];
  $("insWk").innerHTML=mons.map((m,i)=>`<option value="${i}"${i===insWk?" selected":""}>${fmtDay(m).replace(/^\w+, /,"")} – ${fmtDay(addDays(m,6)).replace(/^\w+, /,"")}${i?"":" (latest)"}</option>`).join("");
  $("insWk").onchange=e=>{insWk=+e.target.value;drawWeekend(os)};
  const mon=mons[insWk],next=addDays(mon,7),inW=g=>{const d=g.dt.slice(0,10);return d>=mon&&d<next};
- const who=(b,c)=>`<a href="${showUrl(b,c)}">${esc(nm(c))}</a> <span class="mut">${esc(baseConf(b.conf))}</span>`,add=(t,sub,items)=>{if(items.length)W.push({t,sub,items})};
+ const FOL=followedSet(),who=(b,c)=>`<a href="${showUrl(b,c)}"${FOL.has(c)?" data-fol":""}>${esc(nm(c))}</a> <span class="mut">${esc(baseConf(b.conf))}</span>`,add=(t,sub,items)=>{if(items.length)W.push({t,sub,items})};
  const st=os.map(o=>{const pre=stateBefore(o,mon),post=stateBefore(o,next),wk=o.pl.filter(inW);return{o,pre,post,wk}}).filter(x=>x.wk.length);
  const all=st.flatMap(x=>x.wk.map(g=>({x,g,p:predict(g.h,g.a,x.pre.m)})));
- const right=all.filter(({g,p})=>{const r=g.hs>g.as?"H":g.hs<g.as?"A":"D",k=Math.abs(p.pH-p.pA)<.05?"D":p.pH>p.pA?"H":"A";return r===k}).length,goals=all.reduce((a,{g})=>a+g.hs+g.as,0);
+ const right=all.filter(({g,p})=>pickOk(p,g)).length,goals=all.reduce((a,{g})=>a+g.hs+g.as,0);
  const md=d=>fmtDay(d).replace(/^\w+, /,"");$("insWkTitle").textContent=`Week of ${md(mon)} – ${md(addDays(mon,6))}`;
  $("insWkSub").innerHTML=`${all.length} ${B.age} conference game${all.length===1?"":"s"} in ${st.length} conference${st.length===1?"":"s"}, ${goals} goals (${(goals/(all.length||1)).toFixed(1)} a game). Predicting each one from only the games before that week, the model called <b>${right} of ${all.length}</b> results (${pct(right/(all.length||1))}). Pick an earlier week above.`;
  // upsets by the odds going in, and the biggest wins
@@ -1071,11 +1080,33 @@ function drawWeekend(os){const W=[];
  const seen=new Set(),rec={};for(const o of os)for(const g of o.fxAll){if(g.hs===null||!inW(g)||seen.has(g.id))continue;const ch=BOF[g.h],ca=BOF[g.a];if(!ch||!ca||ch.age!==ca.age||ch.conf===ca.conf)continue;seen.add(g.id);
   for(const[c,f,a]of[[ch.conf,g.hs,g.as],[ca.conf,g.as,g.hs]]){const r=rec[c]||(rec[c]={w:0,d:0,l:0,gf:0,ga:0});r.gf+=f;r.ga+=a;r[f>a?"w":f<a?"l":"d"]++}}
  add("At national events","Each conference's record against the others at that week's showcases.",Object.entries(rec).map(([c,r])=>({c,...r,n:r.w+r.d+r.l,p:(3*r.w+r.d)/(r.w+r.d+r.l)})).filter(r=>r.n>=3).sort((p,q)=>q.p-p.p||(q.gf-q.ga)-(p.gf-p.ga)).slice(0,8).map(r=>`<b>${esc(r.c)}</b>: ${r.w}-${r.d}-${r.l}, goals ${r.gf}–${r.ga}`));
- $("insWeek").innerHTML=W.map(x=>`<div class="card"><h3>${x.t}</h3>${x.sub?`<div class="sub" style="margin:0">${x.sub}</div>`:""}<ol>${x.items.map(i=>`<li>${i}</li>`).join("")}</ol></div>`).join("")}
+ // new conference leaders
+ add("New conference leaders","A different team in 1st after this week.",st.filter(x=>x.post.tb[0]&&x.post.tb[0].mp>=2&&x.pre.tb[0]&&x.pre.tb[0].mp&&x.pre.tb[0].c!==x.post.tb[0].c)
+  .map(x=>`${who(x.o.b,x.post.tb[0].c)} took 1st from <a href="${showUrl(x.o.b,x.pre.tb[0].c)}">${esc(nm(x.pre.tb[0].c))}</a> <span class="mut">(${x.post.tb[0].pts} pts from ${x.post.tb[0].mp})</span>`));
+ // ratings before and after the week: results much better or worse than the model expected
+ const rat=st.flatMap(x=>[...new Set(x.wk.flatMap(g=>[g.h,g.a]))].map(c=>({b:x.o.b,c,d:netOfM(x.post.m,x.o,c)-netOfM(x.pre.m,x.o,c),na:netOfM(x.post.m,x.o,c)})));
+ const rRow=x=>`${who(x.b,x.c)}: ${x.d>0?"+":""}${x.d.toFixed(2)} <span class="mut">(rating now ${x.na>0?"+":""}${x.na.toFixed(2)} goals a game vs an average ${esc(baseConf(x.b.conf))} team)</span>`;
+ add("Beat expectations","The biggest rises in the model's rating from this week's results, often against strong opponents.",rat.filter(x=>x.d>.05).sort((p,q)=>q.d-p.d).slice(0,6).map(rRow));
+ add("Below expectations","The biggest drops in rating this week.",rat.filter(x=>x.d<-.05).sort((p,q)=>p.d-q.d).slice(0,6).map(rRow));
+ // games to watch next week (latest week only): top-four teams meeting each other
+ if(!insWk&&!PAST){const fu=os.flatMap(o=>o.fu.map(g=>({g,o}))),nw=fu.map(x=>mondayOf(x.g.dt)).filter(w=>w>=mondayOf(SNAP)).sort()[0];
+  const rk=new Map(os.flatMap(o=>o.tb.map((t,i)=>[t.c,{r:i+1,mp:t.mp}])));
+  const nx=fu.filter(x=>mondayOf(x.g.dt)===nw&&rk.get(x.g.h)?.mp&&rk.get(x.g.a)?.mp&&rk.get(x.g.h).r<=4&&rk.get(x.g.a).r<=4)
+   .map(x=>({...x,rh:rk.get(x.g.h).r,ra:rk.get(x.g.a).r,p:predict(x.g.h,x.g.a,x.o.m)})).sort((p,q)=>(p.rh+p.ra)-(q.rh+q.ra)||Math.abs(p.p.pH-p.p.pA)-Math.abs(q.p.pH-q.p.pA)).slice(0,8);
+  add("Games to watch","The next week of games: top-four teams meeting each other, by table position.",nx.map(x=>`${who(x.o.b,x.g.h)} vs <a href="${showUrl(x.o.b,x.g.a)}"${FOL.has(x.g.a)?" data-fol":""}>${esc(nm(x.g.a))}</a> · ${fmtDay(x.g.dt)} <span class="mut">(${ordn(x.rh)} vs ${ordn(x.ra)}; model: ${pct(x.p.pH)} / draw ${pct(x.p.pD)} / ${pct(x.p.pA)})</span>`))}
+ // week by week: every week of the season, each game predicted from the games before its week
+ const rows=mons.slice().reverse().map(m=>{const nx2=addDays(m,7),gs=os.flatMap(o=>o.pl.filter(g=>{const d=g.dt.slice(0,10);return d>=m&&d<nx2}).map(g=>({o,g})));
+  const pr=gs.map(({o,g})=>({g,p:predict(g.h,g.a,stateBefore(o,m).m)})),n=gs.length||1;
+  return{m,n:gs.length,gpg:gs.reduce((a,{g})=>a+g.hs+g.as,0)/n,hw:gs.filter(({g})=>g.hs>g.as).length/n,dr:gs.filter(({g})=>g.hs===g.as).length/n,
+   acc:pr.filter(x=>pickOk(x.p,x.g)).length/n,ups:pr.filter(({g,p})=>g.hs!==g.as&&(g.hs>g.as?p.pH:p.pA)<.25).length}});
+ W.push({t:"Week by week",sub:"Every week of the season so far. Tap a week to see it.",html:`<div class="scroll"><table class="st wkt"><thead><tr><th class="t">Week</th><th>Games</th><th title="Goals per game">Goals/G</th><th class="xs-hide">Home wins</th><th class="xs-hide">Draws</th><th title="Results the model called, predicting from the games before that week">Picks right</th><th title="Winners given under 25%">Upsets</th></tr></thead><tbody>`+
+  rows.map(x=>`<tr${x.m===mon?' class="sel"':""}><td class="t"><a href="#s-insw" data-wk="${mons.indexOf(x.m)}">${md(x.m)}</a></td><td>${x.n}</td><td>${x.gpg.toFixed(1)}</td><td class="xs-hide">${pct(x.hw)}</td><td class="xs-hide">${pct(x.dr)}</td><td>${pct(x.acc)}</td><td>${x.ups}</td></tr>`).join("")+`</tbody></table></div>`});
+ insCards("insWeek",W);
+ $("insWeek").querySelectorAll("[data-wk]").forEach(a=>a.onclick=()=>{insWk=+a.dataset.wk;drawWeekend(os)})}
 // Insights (?conf=insights): interesting facts about one age group across every conference
 function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).map(bracketInfo),H=DATA.hist||{},S=[],MIN=3;drawWeekend(os);
  const T=os.flatMap(o=>o.tb.map((t,i)=>({o,b:o.b,c:t.c,t,rk:i+1,n:o.ids.length}))),act=T.filter(x=>x.t.mp>=MIN);
- const who=x=>`<a href="${showUrl(x.b,x.c)}">${esc(nm(x.c))}</a> <span class="mut">${esc(baseConf(x.b.conf))}</span>`;
+ const FOL=followedSet(),who=x=>`<a href="${showUrl(x.b,x.c)}"${FOL.has(x.c)?" data-fol":""}>${esc(nm(x.c))}</a> <span class="mut">${esc(baseConf(x.b.conf))}</span>`;
  const ppg=t=>t.mp?t.pts/t.mp:0,rec=t=>`${t.w}-${t.d}-${t.l}`,f2=x=>x.toFixed(2),add=(t,sub,items)=>{if(items.length)S.push({t,sub,items})};
  $("insTitle").textContent=`${age} insights`;
  $("insSub").innerHTML=`Things that stand out in ${PAST?"the":"this"} ${PAST||"season"} across all ${os.length} ${age} conferences. Teams need ${MIN}+ games to count. Pick another age group above, or open a team for its details.`;
@@ -1093,10 +1124,17 @@ function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).
  // goals
  add("Goal machines","Most goals scored per game.",act.slice().sort((p,q)=>q.t.gf/q.t.mp-p.t.gf/p.t.mp).slice(0,5).map(x=>`${who(x)}: ${(x.t.gf/x.t.mp).toFixed(1)} per game (${x.t.gf} in ${x.t.mp})`));
  add("Hardest to score against","Fewest goals conceded per game.",act.slice().sort((p,q)=>p.t.ga/p.t.mp-q.t.ga/q.t.mp).slice(0,5).map(x=>`${who(x)}: ${(x.t.ga/x.t.mp).toFixed(2)} per game (${x.t.ga} in ${x.t.mp})`));
+ // rising three seasons running: two seasons ago -> last season -> now, by share of the table
+ const pctl=(r,n)=>n>1?1-(r-1)/(n-1):1;
+ add("Rising three seasons running","The same players climbed their table two seasons in a row and are higher again now.",T.filter(x=>x.t.mp>=2).map(x=>{const h=H[x.c]||[];if(h.length<2)return null;
+  const a=pctl(h[1][3],h[1][4]),b2=pctl(h[0][3],h[0][4]),c2=pctl(x.rk,x.n);return a<b2&&b2<c2&&c2-a>=.3?{...x,h,gain:c2-a}:null}).filter(Boolean).sort((p,q)=>q.gain-p.gain).slice(0,6)
+  .map(x=>`${who(x)}: ${ordn(x.h[1][3])} of ${x.h[1][4]} (${x.h[1][1]}) → ${ordn(x.h[0][3])} of ${x.h[0][4]} (${x.h[0][1]}) → ${ordn(x.rk)} of ${x.n} now`));
  // upsets: results the model's current ratings found least likely
  const ups=[];for(const o of os)for(const g of o.pl){if(g.hs===g.as)continue;const p=predict(g.h,g.a,o.m),hw=g.hs>g.as,pw=hw?p.pH:p.pA;if(pw<.25)ups.push({o,g,pw,w:hw?g.h:g.a,l:hw?g.a:g.h})}
  add("Biggest upsets","Wins the model gives the lowest chance, using each team's current rating.",ups.sort((p,q)=>p.pw-q.pw).slice(0,6).map(u=>{const x={b:u.o.b,c:u.w},sc=`${Math.max(u.g.hs,u.g.as)}–${Math.min(u.g.hs,u.g.as)}`;
   return`${who(x)} beat <a href="${showUrl(u.o.b,u.l)}">${esc(nm(u.l))}</a> ${sc} · ${fmtDay(u.g.dt)} <span class="mut">(${pct(u.pw)} chance)</span>`}));
+ // most goals in one game
+ add("Most goals in a game","",os.flatMap(o=>o.pl.map(g=>({o,g}))).sort((p,q)=>(q.g.hs+q.g.as)-(p.g.hs+p.g.as)).slice(0,5).map(({o,g})=>`${who({b:o.b,c:g.h})} ${g.hs}–${g.as} <a href="${showUrl(o.b,g.a)}">${esc(nm(g.a))}</a> · ${fmtDay(g.dt)} <span class="mut">(${g.hs+g.as} goals)</span>`));
  // national events
  const nat=T.map(x=>{const gs=x.o.fxAll.filter(g=>g.hs!==null&&(g.h===x.c||g.a===x.c));if(gs.length<3)return null;let w=0,d=0,l=0,gf=0,ga=0;
   for(const g of gs){const f=g.h===x.c?g.hs:g.as,a=g.h===x.c?g.as:g.hs;gf+=f;ga+=a;if(f>a)w++;else if(f<a)l++;else d++}return{...x,w,d,l,gf,ga,n:gs.length,p:(3*w+d)/gs.length}}).filter(Boolean);
@@ -1112,7 +1150,9 @@ function drawInsights(){const age=B.age,os=DATA.brackets.filter(b=>b.age===age).
  // clubs across all age groups (this gender)
  const cl={};for(const b of DATA.brackets){const gs=parseGames(b).filter(g=>g.hs!==null),tb=table(gs,Object.keys(b.teams));tb.forEach((t,i)=>{if(!t.mp)return;const id=clubSlug(b,t.c),k=cl[id]||(cl[id]={name:clubName(b,t.c),slug:id,n:0,pos:0,pts:0,mp:0});k.n++;k.pos+=tb.length>1?i/(tb.length-1):0;k.pts+=t.pts;k.mp+=t.mp})}
  add("Strongest clubs across age groups","Average table position over all of a club's teams (4+ teams), U13 to U18/19.",Object.values(cl).filter(k=>k.n>=4).sort((p,q)=>p.pos/p.n-q.pos/q.n).slice(0,6).map(k=>`<a href="?club=${k.slug}">${esc(k.name)}</a>: ${k.n} teams, ${(k.pts/k.mp).toFixed(2)} pts/game, average in the top ${Math.max(1,Math.round(k.pos/k.n*100))}%`));
- $("insGrid").innerHTML=S.map(x=>`<div class="card"><h3>${x.t}</h3>${x.sub?`<div class="sub" style="margin:0">${x.sub}</div>`:""}<ol>${x.items.map(i=>`<li>${i}</li>`).join("")}</ol></div>`).join("")||`<div class="card"><div class="empty">Not enough games yet. Check back after a few weekends.</div></div>`}
+ if(S.length)insCards("insGrid",S);else $("insGrid").innerHTML=`<div class="card"><div class="empty">Not enough games yet. Check back after a few weekends.</div></div>`;
+ const fn=[...FOL].map(c=>`${short(c)} ${BOF[c].age}`);
+ if(fn.length)$("insSub").insertAdjacentHTML("beforeend",` <span class="ifol"><b>Highlighted</b> = teams you follow (${esc(fn.slice(0,6).join(", "))}${fn.length>6?"…":""}). Follow a team on its team page.</span>`)}
 function drawAll(){drawMy();drawStand();drawH2H();drawPower();drawResults();drawPreds();drawAcc()}
 $("myTeam").onchange=e=>{myTeam=e.target.value;pin=null;try{localStorage.setItem(MYKEY,myTeam)}catch(err){}syncUrl();drawAll();drawTabs()};
 // share this exact view: the phone share sheet where there is one, else copy the link

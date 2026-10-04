@@ -164,7 +164,13 @@ predictions?" is a walk-forward backtest of the current model.
   the model's record that week (predicted from only the earlier games), upsets by the odds going in, the biggest wins,
   table climbers and fallers, first wins and ended unbeaten or perfect runs, Champions League chance changes (season sim
   before vs after, this season only) and each conference's record at that week's national events. Everything comes
-  from game dates, so there's no stored history to keep.
+  from game dates, so there's no stored history to keep. The week also has new conference leaders, beat and below
+  expectations (rating change from that week's results), games to watch (top-four meetings in the next week of games,
+  latest week only), and a week-by-week table (games, goals per game, home wins, draws, picks right, upsets; tap a row to
+  open that week). Season so far adds "Rising three seasons running" (share of the table up two seasons in a row and
+  again now, +30% overall) and "Most goals in a game". Followed teams are highlighted throughout, with a note naming
+  them (`followedSet`). States are cached per bracket and cut date (`stateBefore`). Built from the MLS NEXT dashboard's
+  Insights.
 - **Team pages: "Previous seasons"** lists this season and every earlier one for the same players: finish (with a bar),
   W-D-L, points per game and goals, each linked to that season's team page. A line compares last season with now and
   gives the best finish. "In other age groups" lists the club's other teams (matched by club id).
