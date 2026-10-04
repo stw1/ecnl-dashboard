@@ -59,7 +59,7 @@ UID:ecnl-1068324-133318@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261004T110000
 DURATION:PT2H
-SUMMARY:U13 Florida Premier FC South vs Doral Soccer Club
+SUMMARY:U13 Florida Premier FC South vs Doral Soccer Club (W 2–1)
 LOCATION:Lakewood Ranch Park - Field 1
 DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U13&conf=florida&show=133318
@@ -105,10 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068636-133318@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T150000
+DURATION:PT2H
 SUMMARY:U13 Florida Premier FC South at Palm Beach United
-DESCRIPTION:ECNL Boys · U13 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&show=133318
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133318
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
  how=133318
 END:VEVENT

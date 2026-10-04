@@ -105,22 +105,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068631-34896@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T110000
+DURATION:PT2H
 SUMMARY:U18/19 Palm Beach United vs Florida Premier FC South
-DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
- //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
- 896
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
  a&show=34896
 END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068649-34896@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261101
+DTSTART:20261101T110000
+DURATION:PT2H
 SUMMARY:U18/19 Palm Beach United vs Florida Premier FC
-DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
- //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=34
- 896
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=34896
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
  a&show=34896
 END:VEVENT

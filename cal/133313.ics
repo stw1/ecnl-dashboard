@@ -59,7 +59,7 @@ UID:ecnl-1068319-133313@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261004T090000
 DURATION:PT2H
-SUMMARY:U18/19 Florida Premier FC South vs Doral Soccer Club
+SUMMARY:U18/19 Florida Premier FC South vs Doral Soccer Club (L 1–2)
 LOCATION:Lakewood Ranch Park - Field 1
 DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
  ard/index.html?age=U18/19&conf=florida&show=133313
@@ -105,11 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068631-133313@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T110000
+DURATION:PT2H
 SUMMARY:U18/19 Florida Premier FC South at Palm Beach United
-DESCRIPTION:ECNL Boys · U18/19 Florida · kickoff time not set yet\nhttps:
- //stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florida&show=13
- 3313
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=133313
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
  a&show=133313
 END:VEVENT

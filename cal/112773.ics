@@ -117,10 +117,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068653-112773@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261101
+DTSTART:20261101T150000
+DURATION:PT2H
 SUMMARY:U14 Florida Premier FC at Palm Beach United
-DESCRIPTION:ECNL Boys · U14 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=112773
+LOCATION:Gardens North County District Park - Field 8
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=112773
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
  how=112773
 END:VEVENT

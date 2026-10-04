@@ -59,7 +59,7 @@ UID:ecnl-1068322-133316@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261004T130000
 DURATION:PT2H
-SUMMARY:U15 Florida Premier FC South vs Doral Soccer Club
+SUMMARY:U15 Florida Premier FC South vs Doral Soccer Club (L 0–1)
 LOCATION:Lakewood Ranch Park - Field 1
 DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U15&conf=florida&show=133316
@@ -105,10 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068634-133316@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T130000
+DURATION:PT2H
 SUMMARY:U15 Florida Premier FC South at Palm Beach United
-DESCRIPTION:ECNL Boys · U15 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&show=133316
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=133316
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
  how=133316
 END:VEVENT

@@ -103,20 +103,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068634-69990@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T130000
+DURATION:PT2H
 SUMMARY:U15 Palm Beach United vs Florida Premier FC South
-DESCRIPTION:ECNL Boys · U15 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&show=69990
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69990
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
  how=69990
 END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068652-69990@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261101
+DTSTART:20261101T130000
+DURATION:PT2H
 SUMMARY:U15 Palm Beach United vs Florida Premier FC
-DESCRIPTION:ECNL Boys · U15 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&show=69990
+LOCATION:Gardens North County District Park - Field 9
+DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U15&conf=florida&show=69990
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s
  how=69990
 END:VEVENT
