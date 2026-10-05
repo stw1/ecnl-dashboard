@@ -105,10 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107050-131794@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261010
+DTSTART:20261010T110000
+DURATION:PT2H
 SUMMARY:U13 DKSC vs FC Westlake
-DESCRIPTION:ECNL Boys · U13 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&show=131794
+LOCATION:Clark East Field - Field 1
+DESCRIPTION:ECNL Boys · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U13&conf=texas&show=131794
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=texas&sho
  w=131794
 END:VEVENT

@@ -20,11 +20,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064736-56272@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270130
+DTSTART:20270130T140000
+DURATION:PT2H
 SUMMARY:U18/19 Cleveland Force SC at Pittsburgh Riverhounds
-DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
- &show=56272
+LOCATION:Montour Junction Sports Complex - Indoor
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=56272
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
  alley&show=56272
 END:VEVENT
@@ -155,11 +156,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064944-56272@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270509
+DTSTART:20270509T143000
+DURATION:PT2H
 SUMMARY:U18/19 Cleveland Force SC at Ohio Elite SA
-DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
- &show=56272
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=56272
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
  alley&show=56272
 END:VEVENT

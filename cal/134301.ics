@@ -68,10 +68,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1083776-134301@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261017
+DTSTART:20261017T130000
+DURATION:PT2H
 SUMMARY:U14 Rockford Raptors FC vs Michigan Hawks Magic
-DESCRIPTION:ECNL Girls · U14 Midwest · kickoff time not set yet\nhttps://
- stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&show=134301
+LOCATION:Mercyhealth Sportscore Two - Field - TBA (11v11)
+DESCRIPTION:ECNL Girls · U14 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U14&conf=midwest&show=134301
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=midwest&s
  how=134301
 END:VEVENT

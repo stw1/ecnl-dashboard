@@ -121,7 +121,7 @@ DTSTAMP:20260801T000000Z
 DTSTART:20261017T160000
 DURATION:PT2H
 SUMMARY:U14 FC Wichita at Gretna Elite Academy
-LOCATION:Gretna High School - Soccer Field
+LOCATION:CHI Nebraska MultiSport Complex - field 7
 DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
  rd/index.html?age=U14&conf=heartland&show=136407
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
@@ -130,22 +130,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1057087-136407@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261018
+DTSTART:20261018T110000
+DURATION:PT2H
 SUMMARY:U14 FC Wichita at Sporting Nebraska FC
-DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
- /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1364
- 07
+LOCATION:CHI Nebraska MultiSport Complex - Field 11
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136407
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
  &show=136407
 END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1057105-136407@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T170000
+DURATION:PT2H
 SUMMARY:U14 FC Wichita at Sporting Iowa Central
-DESCRIPTION:ECNL Boys · U14 Heartland · kickoff time not set yet\nhttps:/
- /stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland&show=1364
- 07
+LOCATION:Hy-Vee Multiplex - Green #1
+DESCRIPTION:ECNL Boys · U14 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U14&conf=heartland&show=136407
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=heartland
  &show=136407
 END:VEVENT

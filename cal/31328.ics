@@ -106,7 +106,7 @@ UID:ecnl-1095075-31328@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261003T110000
 DURATION:PT2H
-SUMMARY:U18/19 Mustang SC at San Juan SC
+SUMMARY:U18/19 Mustang SC at San Juan SC (L 2–3)
 LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
 DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
  dashboard/girls.html?age=U18/19&conf=northern-cal&show=31328
@@ -164,11 +164,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1094799-31328@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T090000
+DURATION:PT2H
 SUMMARY:U18/19 Mustang SC at Bay Area Surf -
-DESCRIPTION:ECNL Girls · U18/19 Northern Cal · kickoff time not set yet\n
- https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northern-
- cal&show=31328
+LOCATION:Willow Glen High School - Football Stadium
+DESCRIPTION:ECNL Girls · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-
+ dashboard/girls.html?age=U18/19&conf=northern-cal&show=31328
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=northe
  rn-cal&show=31328
 END:VEVENT

@@ -71,18 +71,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=112987
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1078761-112987@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260926T120000
-DURATION:PT2H
-SUMMARY:U14 PSA Monmouth at SJEB FC
-LOCATION:Tuckahoe Farm - Field 1
-DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
- shboard/index.html?age=U14&conf=north-atlantic&show=112987
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
- antic&show=112987
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1078773-112987@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261003T163000
@@ -275,6 +263,18 @@ SUMMARY:U14 PSA Monmouth vs Delaware FC
 DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
  tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
  &show=112987
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=112987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078761-112987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270502T103000
+DURATION:PT2H
+SUMMARY:U14 PSA Monmouth vs SJEB FC
+LOCATION:The Ranney School - Field 2 - Upper
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=112987
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=112987
 END:VEVENT

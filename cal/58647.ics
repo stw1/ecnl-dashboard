@@ -105,11 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1067924-58647@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T093000
+DURATION:PT2H
 SUMMARY:U18/19 Liverpool FC MI at FC Wisconsin
-DESCRIPTION:ECNL Girls · U18/19 Midwest · kickoff time not set yet\nhttps
- ://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwest&show=5
- 8647
+LOCATION:Chicago Inter Complex - Field 4
+DESCRIPTION:ECNL Girls · U18/19 Midwest\nhttps://stw1.github.io/ecnl-dashb
+ oard/girls.html?age=U18/19&conf=midwest&show=58647
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=midwes
  t&show=58647
 END:VEVENT

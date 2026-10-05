@@ -55,34 +55,26 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
  show=131250
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1106995-131250@stw1.github.io
+UID:ecnl-1107055-131250@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261003T160000
+DTSTART:20261010T110000
 DURATION:PT2H
-SUMMARY:U18/19 FC Westlake at HTX
-LOCATION:Bear Branch Sportsfields - Field 3
+SUMMARY:U18/19 FC Westlake at DKSC
+LOCATION:Clark East Field - Field 2
 DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
  d/index.html?age=U18/19&conf=texas&show=131250
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
  show=131250
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1107055-131250@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261010
-SUMMARY:U18/19 FC Westlake at DKSC
-DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
- stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=131250
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
- show=131250
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107145-131250@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T130000
+DURATION:PT2H
 SUMMARY:U18/19 FC Westlake at Sting
-DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
- stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=131250
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=131250
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
  show=131250
 END:VEVENT
@@ -105,6 +97,18 @@ DTSTART:20261018T150000
 DURATION:PT2H
 SUMMARY:U18/19 FC Westlake vs SOLAR SC
 LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=131250
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=131250
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106995-131250@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T140000
+DURATION:PT2H
+SUMMARY:U18/19 FC Westlake at HTX
+LOCATION:Bear Branch Sportsfields - Field 3
 DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
  d/index.html?age=U18/19&conf=texas&show=131250
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&

@@ -14,7 +14,7 @@ U13,Far West,1075508,2026-09-27 09:00,113973,116425,Idaho Rush ECNL B2013/14,FC 
 U13,Far West,1075433,2026-09-27 14:00,112351,130839,Eugene Metro FC ECNL B2013/14,Capital FC ECNL B2013/2014,0,2,Lane Community College - Soccer Field,4330,3956,Eugene Metro FC,Capital FC
 U13,Far West,1075509,2026-10-03 09:00,113973,132627,Idaho Rush ECNL B2013/14,Boise Timbers ECNL B2013/14,2,1,Optimist Sports Complex - field 16,1813,51,Idaho Rush Soccer Club,Boise Timbers | Thorns
 U13,Far West,1075579,2026-10-03 09:30,132509,130839,United PDX ECNL B2013/14,Capital FC ECNL B2013/2014,1,2,University of Oregon Portland - NE Complex - Field 1,2536,3956,United PDX,Capital FC
-U13,Far West,1075434,2026-10-03 10:00,112351,116425,Eugene Metro FC ECNL B2013/14,FC Portland ECNL B2013/14,,,Bob Keefer - Field 1,4330,603,Eugene Metro FC,FC Portland Academy
+U13,Far West,1075434,2026-10-03 10:00,112351,116425,Eugene Metro FC ECNL B2013/14,FC Portland ECNL B2013/14,2,3,Bob Keefer - Field 1,4330,603,Eugene Metro FC,FC Portland Academy
 U13,Far West,1075544,2026-10-04 09:00,133424,116425,Oregon Premier FC ECNL B2013/14,FC Portland ECNL B2013/14,0,1,Hazelia - Field 1,2937,603,Oregon Premier FC,FC Portland Academy
 U13,Far West,1075505,2026-10-10 09:00,113973,130839,Idaho Rush ECNL B2013/14,Capital FC ECNL B2013/2014,,,Optimist Sports Complex - field 16,1813,3956,Idaho Rush Soccer Club,Capital FC
 U13,Far West,1075582,2026-10-10 11:00,132509,116425,United PDX ECNL B2013/14,FC Portland ECNL B2013/14,,,University of Oregon Portland - NE Complex - Field 1,2536,603,United PDX,FC Portland Academy
@@ -222,7 +222,7 @@ U13,Heartland,1057048,2026-09-27 11:00,94446,133992,OK Energy FC ECNL B2013/14,K
 U13,Heartland,1057052,2026-10-03 09:00,131944,132386,Missouri Rush ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,0,2,Missouri Rush Sports Park - Field 1,1730,3483,Missouri Rush,Sporting Iowa Central
 U13,Heartland,1057054,2026-10-03 13:00,117735,131213,St. Louis Stars SC ECNL B2013/14,VSA Rush ECNL B2013/14,2,0,Sport 360 Soccer Zone - Field 1,5147,3723,St. Louis Stars SC,VSA Rush
 U13,Heartland,1142272,2026-10-03 15:00,134703,94446,Arkansas Comets FC ECNL B2013/14,OK Energy FC ECNL B2013/14,2,2,Brunner & Lay Soccer Complex - Field 2,3585,2133,Arkansas Comets FC,Oklahoma Energy FC
-U13,Heartland,1057058,2026-10-04 09:00,131944,131213,Missouri Rush ECNL B2013/14,VSA Rush ECNL B2013/14,,,Missouri Rush Sports Park - Field 1,1730,3723,Missouri Rush,VSA Rush
+U13,Heartland,1057058,2026-10-04 09:00,131944,131213,Missouri Rush ECNL B2013/14,VSA Rush ECNL B2013/14,1,3,Missouri Rush Sports Park - Field 1,1730,3723,Missouri Rush,VSA Rush
 U13,Heartland,1057060,2026-10-04 09:00,117735,132386,St. Louis Stars SC ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,3,0,Sport 360 Soccer Zone - Field 1,5147,3483,St. Louis Stars SC,Sporting Iowa Central
 U13,Heartland,1057016,2026-10-06 20:00,136332,133992,Union KC Soccer Club ECNL B2013/14,Kansas City Athletics ECNL B2013/14,,,Paragon Star - Field 4,3480,2330,Union KC Soccer Club,KC Athletics
 U13,Heartland,1057068,2026-10-10 11:00,117735,136410,St. Louis Stars SC ECNL B2013/14,FC Wichita ECNL B2013/14,,,Sport 360 Soccer Zone - Field 1,5147,3486,St. Louis Stars SC,FC Wichita
@@ -234,22 +234,22 @@ U13,Heartland,1057072,2026-10-11 09:00,131213,134703,VSA Rush ECNL B2013/14,Arka
 U13,Heartland,1057074,2026-10-11 09:00,131944,136410,Missouri Rush ECNL B2013/14,FC Wichita ECNL B2013/14,,,Missouri Rush Sports Park - Field 1,1730,3486,Missouri Rush,FC Wichita
 U13,Heartland,1057076,2026-10-11 11:00,117735,116871,St. Louis Stars SC ECNL B2013/14,Kansas Rush ECNL B2013/14,,,Sport 360 Soccer Zone - Field 1,5147,3696,St. Louis Stars SC,Kansas Rush
 U13,Heartland,1057080,2026-10-17,136140,116871,Sporting Nebraska FC ECNL B2013/14,Kansas Rush ECNL B2013/14,,,,1726,3696,Sporting Nebraska FC,Kansas Rush
-U13,Heartland,1057078,2026-10-17 14:00,131674,136410,Gretna Elite Academy ECNL B2013/14,FC Wichita ECNL B2013/14,,,Gretna High School - Soccer Field,373,3486,Gretna Elite Academy,FC Wichita
+U13,Heartland,1057078,2026-10-17 14:00,131674,136410,Gretna Elite Academy ECNL B2013/14,FC Wichita ECNL B2013/14,,,CHI Nebraska MultiSport Complex - field 7,373,3486,Gretna Elite Academy,FC Wichita
 U13,Heartland,1057082,2026-10-17 14:00,136332,132386,Union KC Soccer Club ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,,,Lee's Summit High School - Stadium Field,3480,3483,Union KC Soccer Club,Sporting Iowa Central
 U13,Heartland,1057084,2026-10-17 14:15,133992,131213,Kansas City Athletics ECNL B2013/14,VSA Rush ECNL B2013/14,,,KC Current Training Facility - Field 1,2330,3723,KC Athletics,VSA Rush
-U13,Heartland,1057088,2026-10-18,136140,136410,Sporting Nebraska FC ECNL B2013/14,FC Wichita ECNL B2013/14,,,,1726,3486,Sporting Nebraska FC,FC Wichita
 U13,Heartland,1057092,2026-10-18,133992,132386,Kansas City Athletics ECNL B2013/14,Sporting Iowa Central ECNL B2013/14,,,,2330,3483,KC Athletics,Sporting Iowa Central
+U13,Heartland,1057088,2026-10-18 09:00,136140,136410,Sporting Nebraska FC ECNL B2013/14,FC Wichita ECNL B2013/14,,,CHI Nebraska MultiSport Complex - Field 11,1726,3486,Sporting Nebraska FC,FC Wichita
 U13,Heartland,1057090,2026-10-18 09:00,136332,131213,Union KC Soccer Club ECNL B2013/14,VSA Rush ECNL B2013/14,,,Lee's Summit High School - Stadium Field,3480,3723,Union KC Soccer Club,VSA Rush
 U13,Heartland,1057086,2026-10-18 09:30,131674,116871,Gretna Elite Academy ECNL B2013/14,Kansas Rush ECNL B2013/14,,,CHI Nebraska MultiSport Complex - field 12,373,3696,Gretna Elite Academy,Kansas Rush
 U13,Heartland,1057094,2026-10-24 12:00,131944,133992,Missouri Rush ECNL B2013/14,Kansas City Athletics ECNL B2013/14,,,Missouri Rush Sports Park - Field 3,1730,2330,Missouri Rush,KC Athletics
 U13,Heartland,1057096,2026-10-24 13:00,117735,136332,St. Louis Stars SC ECNL B2013/14,Union KC Soccer Club ECNL B2013/14,,,Sport 360 Soccer Zone - Field 1,5147,3480,St. Louis Stars SC,Union KC Soccer Club
 U13,Heartland,1057098,2026-10-25 09:00,131944,136332,Missouri Rush ECNL B2013/14,Union KC Soccer Club ECNL B2013/14,,,Missouri Rush Sports Park - Field 1,1730,3480,Missouri Rush,Union KC Soccer Club
 U13,Heartland,1057100,2026-10-25 11:00,117735,133992,St. Louis Stars SC ECNL B2013/14,Kansas City Athletics ECNL B2013/14,,,Sport 360 Soccer Zone - Field 1,5147,2330,St. Louis Stars SC,KC Athletics
-U13,Heartland,1057106,2026-10-31,132386,136410,Sporting Iowa Central ECNL B2013/14,FC Wichita ECNL B2013/14,,,,3483,3486,Sporting Iowa Central,FC Wichita
 U13,Heartland,1057110,2026-10-31 09:00,94446,131944,OK Energy FC ECNL B2013/14,Missouri Rush ECNL B2013/14,,,Edmond Soccer Club - ESC 4,2133,1730,Oklahoma Energy FC,Missouri Rush
 U13,Heartland,1057102,2026-10-31 13:00,136332,131674,Union KC Soccer Club ECNL B2013/14,Gretna Elite Academy ECNL B2013/14,,,Paragon Star - Field 2,3480,373,Union KC Soccer Club,Gretna Elite Academy
 U13,Heartland,1057112,2026-10-31 13:00,134703,117735,Arkansas Comets FC ECNL B2013/14,St. Louis Stars SC ECNL B2013/14,,,NOKC Soccer Fields - Field 4,3585,5147,Arkansas Comets FC,St. Louis Stars SC
 U13,Heartland,1057104,2026-10-31 14:45,133992,136140,Kansas City Athletics ECNL B2013/14,Sporting Nebraska FC ECNL B2013/14,,,Paragon Star Soccer Complex - Field 9,2330,1726,KC Athletics,Sporting Nebraska FC
+U13,Heartland,1057106,2026-10-31 15:00,132386,136410,Sporting Iowa Central ECNL B2013/14,FC Wichita ECNL B2013/14,,,Hy-Vee Multiplex - Green #1,3483,3486,Sporting Iowa Central,FC Wichita
 U13,Heartland,1057108,2026-10-31 15:00,131213,116871,VSA Rush ECNL B2013/14,Kansas Rush ECNL B2013/14,,,VSA Timberline Soccer Complex - Field 1,3723,3696,VSA Rush,Kansas Rush
 U13,Heartland,1057114,2026-11-01 09:00,136332,136140,Union KC Soccer Club ECNL B2013/14,Sporting Nebraska FC ECNL B2013/14,,,Paragon Star - Field 2,3480,1726,Union KC Soccer Club,Sporting Nebraska FC
 U13,Heartland,1057118,2026-11-01 09:00,132386,116871,Sporting Iowa Central ECNL B2013/14,Kansas Rush ECNL B2013/14,,,Hy-Vee Multiplex - White #1,3483,3696,Sporting Iowa Central,Kansas Rush
@@ -360,7 +360,7 @@ U13,Mid-America,1056648,2026-10-03,134632,135571,FC Alliance TN ECNL B2013/14,Ch
 U13,Mid-America,1056654,2026-10-03 09:00,134057,133189,Mississippi Rush United ECNL B2013/14,Lobos Rush ECNL B2013/14,,,Jackson Futbol Club - Field 4,4327,2235,Mississippi Rush,Lobos Rush
 U13,Mid-America,1056650,2026-10-03 10:30,134786,131974,Tennessee SC ECNL B2013/14,Coastal Rush ECNL B2013/14,2,0,Independence High School - Stadium,1354,4319,Tennessee SC,Coastal Rush
 U13,Mid-America,1056646,2026-10-03 11:00,132266,131461,Tennessee United SC ECNL B2013/14,Alabama FC ECNL B2013/14,0,1,Drakes Creek Park (DCP) - Field 9,4565,18,Tennessee United SC,Alabama FC
-U13,Mid-America,1056656,2026-10-04 08:00,134786,131461,Tennessee SC ECNL B2013/14,Alabama FC ECNL B2013/14,3,3,HYSA - Field 9,1354,18,Tennessee SC,Alabama FC
+U13,Mid-America,1056656,2026-10-04 08:00,134786,131461,Tennessee SC ECNL B2013/14,Alabama FC ECNL B2013/14,2,2,HYSA - Field 9,1354,18,Tennessee SC,Alabama FC
 U13,Mid-America,1056658,2026-10-04 09:00,132266,131974,Tennessee United SC ECNL B2013/14,Coastal Rush ECNL B2013/14,1,7,Drakes Creek Park (DCP) - Field 9,4565,4319,Tennessee United SC,Coastal Rush
 U13,Mid-America,1056660,2026-10-04 11:00,134057,133864,Mississippi Rush United ECNL B2013/14,Germantown Legends ECNL B2013/14,,,Freedom Ridge Park - Stadium,4327,3589,Mississippi Rush,Germantown Legends
 U13,Mid-America,1056664,2026-10-10 11:00,131461,131558,Alabama FC ECNL B2013/14,Louisiana Fire SC ECNL B2013/14,,,Dunnavant Valley Fields (DVF) - Field #1,18,5213,Alabama FC,Louisiana Fire SC
@@ -511,7 +511,7 @@ U13,Mid-Atlantic,1109367,2026-10-25 13:00,133051,135351,VDA ECNL B2013/14,Fairfa
 U13,Mid-Atlantic,1109495,2026-10-25 13:00,132030,134669,NCFC Youth ECNL B2013/14,Wilmington Hammerheads ECNL B2013/14,,,WRAL - Field 11,22,2181,NCFC Youth,Wilmington Hammerheads
 U13,Mid-Atlantic,1109425,2026-10-25 17:00,131386,131411,Charlotte SA Academy ECNL B2013/14,Charlotte SA ECNL B2013/14,,,Orthocarolina Complex - Field 5,26,26,Charlotte Soccer Academy,Charlotte Soccer Academy
 U13,Mid-Atlantic,1109375,2026-10-31 11:00,132394,133818,Skyline Elite ECNL B2013/14,Richmond United ECNL B2013/14,,,Charlottesville High School - Grass Field,3739,417,Skyline Elite,Richmond United
-U13,Mid-Atlantic,1109371,2026-10-31 12:00,132030,132527,NCFC Youth ECNL B2013/14,Highland FC ECNL B2013/14,,,WRAL - Field 22,22,4012,NCFC Youth,Highland FC
+U13,Mid-Atlantic,1109371,2026-10-31 12:00,132030,132527,NCFC Youth ECNL B2013/14,Highland FC ECNL B2013/14,,,WRAL - Field 21,22,4012,NCFC Youth,Highland FC
 U13,Mid-Atlantic,1109373,2026-10-31 12:00,133051,132354,VDA ECNL B2013/14,NCFC Youth Academy ECNL B2013/14,,,Long Park - Field 5,1785,22,Virginia Development Academy,NCFC Youth
 U13,Mid-Atlantic,1109369,2026-10-31 13:00,134669,131386,Wilmington Hammerheads ECNL B2013/14,Charlotte SA Academy ECNL B2013/14,,,NCINO Sports Park - Field 7,2181,26,Wilmington Hammerheads,Charlotte Soccer Academy
 U13,Mid-Atlantic,1109377,2026-11-01 11:00,134669,132527,Wilmington Hammerheads ECNL B2013/14,Highland FC ECNL B2013/14,,,NCINO Sports Park - Field 6,2181,4012,Wilmington Hammerheads,Highland FC
@@ -560,9 +560,9 @@ U13,Mid-Atlantic,1109467,2027-02-14 09:00,132030,133818,NCFC Youth ECNL B2013/14
 U13,Mid-Atlantic,1109463,2027-02-14 13:00,134669,135510,Wilmington Hammerheads ECNL B2013/14,Beach FC (VA) ECNL B2013/14,,,NCINO Sports Park - Field 6,2181,628,Wilmington Hammerheads,Beach FC
 U13,Mid-Atlantic,1109469,2027-02-20,134210,132030,Arlington Soccer Association ECNL B2013/14,NCFC Youth ECNL B2013/14,,,,525,22,Arlington Soccer Association,NCFC Youth
 U13,Mid-Atlantic,1109473,2027-02-20,132394,131386,Skyline Elite ECNL B2013/14,Charlotte SA Academy ECNL B2013/14,,,,3739,26,Skyline Elite,Charlotte Soccer Academy
-U13,Mid-Atlantic,1109477,2027-02-20,135351,134669,Fairfax Virginia Union ECNL B2013/14,Wilmington Hammerheads ECNL B2013/14,,,,4603,2181,Fairfax Virginia Union,Wilmington Hammerheads
 U13,Mid-Atlantic,1109479,2027-02-20 10:00,133051,132527,VDA ECNL B2013/14,Highland FC ECNL B2013/14,,,Long Park - Field 5,1785,4012,Virginia Development Academy,Highland FC
 U13,Mid-Atlantic,1109475,2027-02-20 12:00,133818,131411,Richmond United ECNL B2013/14,Charlotte SA ECNL B2013/14,,,Striker Park - Field 2,417,26,Richmond United,Charlotte Soccer Academy
+U13,Mid-Atlantic,1109477,2027-02-20 13:00,135351,134669,Fairfax Virginia Union ECNL B2013/14,Wilmington Hammerheads ECNL B2013/14,,,WT Woodson High School - Aux Turf,4603,2181,Fairfax Virginia Union,Wilmington Hammerheads
 U13,Mid-Atlantic,1109471,2027-02-20 15:00,135510,112978,Beach FC (VA) ECNL B2013/14,NC Fusion ECNL B2013/14,,,Hampton Roads Soccer Complex - Field 15,628,71,Beach FC,NC Fusion
 U13,Mid-Atlantic,1109481,2027-02-21,134210,134669,Arlington Soccer Association ECNL B2013/14,Wilmington Hammerheads ECNL B2013/14,,,,525,2181,Arlington Soccer Association,Wilmington Hammerheads
 U13,Mid-Atlantic,1109489,2027-02-21,132394,132527,Skyline Elite ECNL B2013/14,Highland FC ECNL B2013/14,,,,3739,4012,Skyline Elite,Highland FC
@@ -630,7 +630,7 @@ U13,Midwest,1071209,2026-09-20 11:15,134416,80548,MN Thunder Academy ECNL B2013/
 U13,Midwest,1071213,2026-10-03 08:30,136052,136276,Eclipse Select Soccer Club ECNL B2013/14,Chicago Magic Soccer Club ECNL B2013/14,0,2,Oak Brook Park District - Turf,43,2106,Eclipse Select Soccer Club,Chicago Magic Soccer Club
 U13,Midwest,1071215,2026-10-03 10:00,134341,134135,Rockford Raptors FC ECNL B2013/14,FC Wisconsin ECNL B2013/14,3,2,Mercyhealth Sportscore Two - Field - TBA (11v11),2017,1797,Rockford Raptors FC,FC Wisconsin Boys
 U13,Midwest,1071219,2026-10-04 10:00,134341,136276,Rockford Raptors FC ECNL B2013/14,Chicago Magic Soccer Club ECNL B2013/14,0,3,Mercyhealth Sportscore Two - Field - TBA (11v11),2017,2106,Rockford Raptors FC,Chicago Magic Soccer Club
-U13,Midwest,1071217,2026-10-04 14:00,136052,134135,Eclipse Select Soccer Club ECNL B2013/14,FC Wisconsin ECNL B2013/14,,,Oak Brook Park District - Turf,43,1797,Eclipse Select Soccer Club,FC Wisconsin Boys
+U13,Midwest,1071217,2026-10-04 14:00,136052,134135,Eclipse Select Soccer Club ECNL B2013/14,FC Wisconsin ECNL B2013/14,1,2,Oak Brook Park District - Turf,43,1797,Eclipse Select Soccer Club,FC Wisconsin Boys
 U13,Midwest,1071221,2026-10-10 09:00,128622,120684,Chicago Inter ECNL B2013/14,St Croix ECNL B2013/14,,,Chicago Inter Complex - Field 3,2167,893,Chicago Inter,St. Croix
 U13,Midwest,1071223,2026-10-10 09:00,80548,134416,Indiana Elite FC ECNL B2013/14,MN Thunder Academy ECNL B2013/14,,,Elite Sports Complex - Field 2,2257,67,Indiana Elite F.C.,Minnesota Thunder Academy
 U13,Midwest,1071205,2026-10-10 12:00,136276,134341,Chicago Magic Soccer Club ECNL B2013/14,Rockford Raptors FC ECNL B2013/14,,,Wheeling High School - Stadium,2106,2017,Chicago Magic Soccer Club,Rockford Raptors FC
@@ -930,7 +930,6 @@ U13,North Atlantic,1078744,2026-09-19 11:45,134943,133136,Match Fit Surf ECNL B2
 U13,North Atlantic,1078750,2026-09-19 12:00,134254,91703,Potomac Soccer Association ECNL B2013/14,Pipeline SC ECNL B2013/14,0,1,Maryland Soccerplex - Field 15,1940,3405,Potomac Soccer Association,Pipeline SC
 U13,North Atlantic,1078748,2026-09-19 12:15,134992,112981,Philadelphia Ukrainian Nationals ECNL B2013/14,PSA Monmouth ECNL B2013/14,0,1,Ukrainian AMerican Sports Center - Field 6,1345,4338,Philadelphia Ukrainian Nationals,Princeton SA
 U13,North Atlantic,1078768,2026-09-20 09:00,115685,134194,Maryland United FC ECNL B2013/14,Delaware FC ECNL B2013/14,3,0,Liberty Sports Park - Field 6,419,2701,Maryland United Football Club,Delaware Football Club
-U13,North Atlantic,1078760,2026-09-26 10:00,88601,112981,SJEB FC ECNL B2013/14,PSA Monmouth ECNL B2013/14,,,Tuckahoe Farm - Field 1,4355,4338,SJEB FC,Princeton SA
 U13,North Atlantic,1078758,2026-09-26 11:00,115685,133136,Maryland United FC ECNL B2013/14,STA ECNL B2013/14,4,3,Indian Creek - Field 1,419,428,Maryland United Football Club,STA
 U13,North Atlantic,1078754,2026-09-26 12:00,131025,91703,Baltimore Celtic ECNL B2013/14,Pipeline SC ECNL B2013/14,0,6,Boys Latin School of Maryland - LeBrun,494,3405,Baltimore Celtic Soccer Club,Pipeline SC
 U13,North Atlantic,1078762,2026-09-26 12:30,113141,135474,World Class FC ECNL B2013/14,Penn Fusion Soccer Academy ECNL B2013/14,,,Orangetown Soccer Complex - Field 1,116,79,World Class FC,Penn Fusion Soccer Academy
@@ -961,9 +960,9 @@ U13,North Atlantic,1078722,2026-10-25 10:30,134992,113141,Philadelphia Ukrainian
 U13,North Atlantic,1078720,2026-10-25 11:30,135474,131025,Penn Fusion Soccer Academy ECNL B2013/14,Baltimore Celtic ECNL B2013/14,,,USTC - Field 3,79,494,Penn Fusion Soccer Academy,Baltimore Celtic Soccer Club
 U13,North Atlantic,1078808,2026-10-25 11:30,112981,115685,PSA Monmouth ECNL B2013/14,Maryland United FC ECNL B2013/14,,,The Ranney School - Field 1 - Stadium,4338,419,Princeton SA,Maryland United Football Club
 U13,North Atlantic,1078726,2026-10-25 13:30,133136,134194,STA ECNL B2013/14,Delaware FC ECNL B2013/14,,,Central Park - Field 1,428,2701,STA,Delaware Football Club
-U13,North Atlantic,1078810,2026-10-31,131025,113141,Baltimore Celtic ECNL B2013/14,World Class FC ECNL B2013/14,,,,494,116,Baltimore Celtic Soccer Club,World Class FC
 U13,North Atlantic,1078816,2026-10-31 10:00,91703,115685,Pipeline SC ECNL B2013/14,Maryland United FC ECNL B2013/14,,,Notre Dame Prepatory School - Field 1,3405,419,Pipeline SC,Maryland United Football Club
 U13,North Atlantic,1078814,2026-10-31 11:30,135474,88601,Penn Fusion Soccer Academy ECNL B2013/14,SJEB FC ECNL B2013/14,,,Scott Auto Field - Field 1,79,4355,Penn Fusion Soccer Academy,SJEB FC
+U13,North Atlantic,1078810,2026-10-31 12:30,131025,113141,Baltimore Celtic ECNL B2013/14,World Class FC ECNL B2013/14,,,Glenelg Country School - Turf,494,116,Baltimore Celtic Soccer Club,World Class FC
 U13,North Atlantic,1078818,2026-11-01 10:30,133136,134992,STA ECNL B2013/14,Philadelphia Ukrainian Nationals ECNL B2013/14,,,Central Park - Field 2,428,1345,STA,Philadelphia Ukrainian Nationals
 U13,North Atlantic,1078824,2026-11-07 11:00,115685,134992,Maryland United FC ECNL B2013/14,Philadelphia Ukrainian Nationals ECNL B2013/14,,,Indian Creek - Field 1,419,1345,Maryland United Football Club,Philadelphia Ukrainian Nationals
 U13,North Atlantic,1078822,2026-11-07 11:15,134943,88601,Match Fit Surf ECNL B2013/14,SJEB FC ECNL B2013/14,,,Monmouth Regional High School - North,64,4355,Match Fit Surf,SJEB FC
@@ -1032,6 +1031,7 @@ U13,North Atlantic,1078948,2027-05-01,134254,133136,Potomac Soccer Association E
 U13,North Atlantic,1078950,2027-05-01,112981,134194,PSA Monmouth ECNL B2013/14,Delaware FC ECNL B2013/14,,,,4338,2701,Princeton SA,Delaware Football Club
 U13,North Atlantic,1078952,2027-05-01,113141,131025,World Class FC ECNL B2013/14,Baltimore Celtic ECNL B2013/14,,,,116,494,World Class FC,Baltimore Celtic Soccer Club
 U13,North Atlantic,1078954,2027-05-02,134943,134992,Match Fit Surf ECNL B2013/14,Philadelphia Ukrainian Nationals ECNL B2013/14,,,,64,1345,Match Fit Surf,Philadelphia Ukrainian Nationals
+U13,North Atlantic,1078760,2027-05-02 09:00,112981,88601,PSA Monmouth ECNL B2013/14,SJEB FC ECNL B2013/14,,,The Ranney School - Field 2 - Upper,4338,4355,Princeton SA,SJEB FC
 U13,North Atlantic,1078872,2027-05-08,115685,134254,Maryland United FC ECNL B2013/14,Potomac Soccer Association ECNL B2013/14,,,,419,1940,Maryland United Football Club,Potomac Soccer Association
 U13,North Atlantic,1078956,2027-05-08,131025,133136,Baltimore Celtic ECNL B2013/14,STA ECNL B2013/14,,,,494,428,Baltimore Celtic Soccer Club,STA
 U13,North Atlantic,1078958,2027-05-08,91703,113141,Pipeline SC ECNL B2013/14,World Class FC ECNL B2013/14,,,,3405,116,Pipeline SC,World Class FC
@@ -1117,8 +1117,8 @@ U13,Northern Cal,1099660,2026-11-01 09:00,99191,104729,River Islands Surf ECNL B
 U13,Northern Cal,1099672,2026-11-01 09:00,121192,113204,San Juan SC ECNL B2013/14,Association FC ECNL B13/14,,,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,3065,San Juan Soccer Club,Association Football Club
 U13,Northern Cal,1099636,2026-11-01 10:00,112093,113198,Folsom Lake Surf ECNL B2013/14,MVLA ECNL B2013/14,,,Econome Family Park - Field 1,3989,294,Folsom Lake Surf,MVLA
 U13,Northern Cal,1099642,2026-11-01 10:00,131730,132467,Los Gatos United Soccer Club ECNL B2013/14,Mustang Soccer ECNL B2013/14,,,Monta Vista High School - Lower Field,3231,69,Los Gatos United Soccer Club,Mustang Soccer
-U13,Northern Cal,1099666,2026-11-01 11:00,125796,131240,Santa Clara Sporting ECNL B2013/14,San Francisco Elite Academy ECNL B2013/14,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U13,Northern Cal,1099630,2026-11-01 12:00,112149,132647,El Camino FC Salinas ECNL B2013/14,Napa United ECNL B2013/14,,,Salinas Regional Soccer Complex - Turf #2,4063,2907,El Camino FC Salinas,Napa United
+U13,Northern Cal,1099666,2026-11-01 19:00,125796,131240,Santa Clara Sporting ECNL B2013/14,San Francisco Elite Academy ECNL B2013/14,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U13,Northern Cal,1099678,2026-11-07 12:00,113204,109540,Association FC ECNL B13/14,Placer United ECNL B2013/14,,,Alden E. Oliver Sports Park - Field 1,3065,3054,Association Football Club,Placer United Soccer Club
 U13,Northern Cal,1099702,2026-11-08 09:00,112093,114289,Folsom Lake Surf ECNL B2013/14,Marin FC ECNL B2013/14,,,Folsom Lake College - Falcon Soccer Stadium,3989,1585,Folsom Lake Surf,Marin FC
 U13,Northern Cal,1099714,2026-11-08 09:00,131240,121192,San Francisco Elite Academy ECNL B2013/14,San Juan SC ECNL B2013/14,,,Pollicita Middle School - Soccer Field,1040,88,San Francisco Elite Academy,San Juan Soccer Club
@@ -1127,8 +1127,8 @@ U13,Northern Cal,1099690,2026-11-08 10:00,125866,113198,Davis Legacy ECNL B2013/
 U13,Northern Cal,1099696,2026-11-08 10:00,112149,132467,El Camino FC Salinas ECNL B2013/14,Mustang Soccer ECNL B2013/14,,,Salinas Regional Soccer Complex - Turf #2,4063,69,El Camino FC Salinas,Mustang Soccer
 U13,Northern Cal,1099708,2026-11-08 10:00,131730,114181,Los Gatos United Soccer Club ECNL B2013/14,1974 Newark FC ECNL B2013/14,,,Monta Vista High School - Lower Field,3231,4342,Los Gatos United Soccer Club,1974 Newark FC
 U13,Northern Cal,1099720,2026-11-08 12:00,132006,125796,Santa Rosa United ECNL B2013/14,Santa Clara Sporting ECNL B2013/14,,,Trione Fields - Trione East,91,2548,Santa Rosa United Soccer,Santa Clara Sporting
+U13,Northern Cal,1099762,2026-11-14 10:00,131240,109540,San Francisco Elite Academy ECNL B2013/14,Placer United ECNL B2013/14,,,Skyline College - Lower Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U13,Northern Cal,1099744,2026-11-15,132467,104729,Mustang Soccer ECNL B2013/14,COSC ECNL B2013/14,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U13,Northern Cal,1099762,2026-11-15,131240,109540,San Francisco Elite Academy ECNL B2013/14,Placer United ECNL B2013/14,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U13,Northern Cal,1099750,2026-11-15 09:00,113198,113204,MVLA ECNL B2013/14,Association FC ECNL B13/14,,,Graham Middle School - Turf,294,3065,MVLA,Association Football Club
 U13,Northern Cal,1099756,2026-11-15 09:00,125796,99191,Santa Clara Sporting ECNL B2013/14,River Islands Surf ECNL B2013/14,,,Santa Clara Youth Soccer Park - Field 2,2548,3777,Santa Clara Sporting,Valley Surf | America
 U13,Northern Cal,1099726,2026-11-15 10:00,114181,112093,1974 Newark FC ECNL B2013/14,Folsom Lake Surf ECNL B2013/14,,,Newark Sportsfield Park - SFT #1 11v11,4342,3989,1974 Newark FC,Folsom Lake Surf
@@ -1645,23 +1645,22 @@ U13,Texas,1107002,2026-10-03 09:00,131620,133287,San Antonio City SC ECNL B2013/
 U13,Texas,1106978,2026-10-03 10:00,69769,131794,Albion Hurricanes FC ECNL B2013/14,DKSC ECNL B2013/14,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
 U13,Texas,1106996,2026-10-03 11:00,111245,133289,SAFC ECNL B2013/14,Lonestar ATX Royal ECNL B2013/14,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U13,Texas,1107008,2026-10-03 15:00,131316,131178,RISE SC ECNL B2013/14,Sting ECNL B2013/14,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
-U13,Texas,1106990,2026-10-03 16:00,127474,131244,HTX ECNL B2013/14,FC Westlake ECNL B2013/14,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U13,Texas,1107014,2026-10-04 09:00,69769,131178,Albion Hurricanes FC ECNL B2013/14,Sting ECNL B2013/14,,,Campbell Road Sports Park - Field 5,10,36,Albion Hurricanes FC,Sting Soccer Club
 U13,Texas,1107026,2026-10-04 09:00,131316,131794,RISE SC ECNL B2013/14,DKSC ECNL B2013/14,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
 U13,Texas,1107038,2026-10-04 09:00,131620,133289,San Antonio City SC ECNL B2013/14,Lonestar ATX Royal ECNL B2013/14,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U13,Texas,1106984,2026-10-04 11:00,94444,132251,OK Energy FC Academy B2013/14,FC Dallas Youth Red ECNL B2013/14,1,2,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U13,Texas,1107032,2026-10-04 11:00,76663,134128,SOLAR SC ECNL B2013/14,Dallas Texans ECNL B2013/14,1,2,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
 U13,Texas,1107044,2026-10-04 11:00,111245,133287,SAFC ECNL B2013/14,Lonestar ATX Red ECNL B2013/14,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
-U13,Texas,1107050,2026-10-10,131794,131244,DKSC ECNL B2013/14,FC Westlake ECNL B2013/14,,,,35,3234,DKSC,FC Westlake
 U13,Texas,1107104,2026-10-10,72944,76663,Solar SC Academy ECNL B2013/14,SOLAR SC ECNL B2013/14,,,,101,101,Solar SC,Solar SC
 U13,Texas,1107056,2026-10-10 09:00,134128,133551,Dallas Texans ECNL B2013/14,Dallas Texans Academy ECNL B2013/14,,,Frisco High School - Field 1,37,37,Dallas Texans,Dallas Texans
+U13,Texas,1107050,2026-10-10 11:00,131794,131244,DKSC ECNL B2013/14,FC Westlake ECNL B2013/14,,,Clark East Field - Field 1,35,3234,DKSC,FC Westlake
 U13,Texas,1107062,2026-10-10 11:00,133289,132251,Lonestar ATX Royal ECNL B2013/14,FC Dallas Youth Red ECNL B2013/14,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U13,Texas,1107092,2026-10-10 11:00,94444,131620,OK Energy FC Academy B2013/14,San Antonio City SC ECNL B2013/14,,,North Oklahoma City FC - NOKC Red 5,2133,2519,Oklahoma Energy FC,San Antonio City SC
 U13,Texas,1107080,2026-10-10 13:00,133287,132250,Lonestar ATX Red ECNL B2013/14,FC Dallas Youth White ECNL B2013/14,,,Vista Ridge High School (Ranger Field) - Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U13,Texas,1107086,2026-10-10 13:00,131178,127474,Sting ECNL B2013/14,HTX ECNL B2013/14,,,Sting National Training Center - Field 3,36,2258,Sting Soccer Club,HTX
 U13,Texas,1107098,2026-10-10 13:00,130552,111245,Tulsa SC ECNL B2013/14,SAFC ECNL B2013/14,,,Jenks Sports Complex - Field 2,106,4304,Tulsa Soccer Club,San Antonio FC
-U13,Texas,1107140,2026-10-11,131178,131244,Sting ECNL B2013/14,FC Westlake ECNL B2013/14,,,,36,3234,Sting Soccer Club,FC Westlake
 U13,Texas,1107122,2026-10-11 09:00,133287,132251,Lonestar ATX Red ECNL B2013/14,FC Dallas Youth Red ECNL B2013/14,,,Burger Activity Center - Field 2,62,47,Lonestar ATX,FC Dallas Youth
+U13,Texas,1107140,2026-10-11 09:00,131178,131244,Sting ECNL B2013/14,FC Westlake ECNL B2013/14,,,Sting National Training Center - Championship Field,36,3234,Sting Soccer Club,FC Westlake
 U13,Texas,1107146,2026-10-11 09:00,94444,111245,OK Energy FC Academy B2013/14,SAFC ECNL B2013/14,,,North Oklahoma City FC - NOKC Red 5,2133,4304,Oklahoma Energy FC,San Antonio FC
 U13,Texas,1107110,2026-10-11 11:00,131794,127474,DKSC ECNL B2013/14,HTX ECNL B2013/14,,,Clark East Field - Field 1,35,2258,DKSC,HTX
 U13,Texas,1107128,2026-10-11 11:00,133289,132250,Lonestar ATX Royal ECNL B2013/14,FC Dallas Youth White ECNL B2013/14,,,Glenn High School - Field 2,62,47,Lonestar ATX,FC Dallas Youth
@@ -1707,6 +1706,7 @@ U13,Texas,1107386,2026-11-01 09:00,134128,133289,Dallas Texans ECNL B2013/14,Lon
 U13,Texas,1107356,2026-11-01 11:00,132250,94444,FC Dallas Youth White ECNL B2013/14,OK Energy FC Academy B2013/14,,,Toyota Soccer Center - Field 10,47,2133,FC Dallas Youth,Oklahoma Energy FC
 U13,Texas,1107770,2026-11-01 13:00,131620,69769,San Antonio City SC ECNL B2013/14,Albion Hurricanes FC ECNL B2013/14,,,Specht Soccer Complex - Field 1,2519,10,San Antonio City SC,Albion Hurricanes FC
 U13,Texas,1107374,2026-11-01 13:30,133099,131794,Real Colorado Academy ECNL B2013/14,DKSC ECNL B2013/14,,,Real Colorado Soccer Complex - RCSC 1,81,35,Real Colorado,DKSC
+U13,Texas,1106990,2026-11-01 14:00,127474,131244,HTX ECNL B2013/14,FC Westlake ECNL B2013/14,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U13,Texas,1107398,2026-11-07,72944,131794,Solar SC Academy ECNL B2013/14,DKSC ECNL B2013/14,,,,101,35,Solar SC,DKSC
 U13,Texas,1107422,2026-11-07,111245,132250,SAFC ECNL B2013/14,FC Dallas Youth White ECNL B2013/14,,,,4304,47,San Antonio FC,FC Dallas Youth
 U13,Texas,1107434,2026-11-07,76663,131178,SOLAR SC ECNL B2013/14,Sting ECNL B2013/14,,,,101,36,Solar SC,Sting Soccer Club
@@ -2017,21 +2017,21 @@ U14,Heartland,1057069,2026-10-11 10:00,132388,80820,Sporting Iowa Central ECNL B
 U14,Heartland,1057073,2026-10-11 10:45,114374,136407,Missouri Rush ECNL B2012/13,FC Wichita ECNL B2012/13,,,Missouri Rush Sports Park - Field 1,1730,3486,Missouri Rush,FC Wichita
 U14,Heartland,1057079,2026-10-17,136139,98221,Sporting Nebraska FC ECNL B2012/13,Kansas Rush ECNL B2012/13,,,,1726,3696,Sporting Nebraska FC,Kansas Rush
 U14,Heartland,1057083,2026-10-17 12:30,116233,131214,Kansas City Athletics ECNL B2012/13,VSA Rush ECNL B2012/13,,,KC Current Training Facility - Field 1,2330,3723,KC Athletics,VSA Rush
-U14,Heartland,1057077,2026-10-17 16:00,131675,136407,Gretna Elite Academy ECNL B2012/13,FC Wichita ECNL B2012/13,,,Gretna High School - Soccer Field,373,3486,Gretna Elite Academy,FC Wichita
+U14,Heartland,1057077,2026-10-17 16:00,131675,136407,Gretna Elite Academy ECNL B2012/13,FC Wichita ECNL B2012/13,,,CHI Nebraska MultiSport Complex - field 7,373,3486,Gretna Elite Academy,FC Wichita
 U14,Heartland,1057081,2026-10-17 16:00,136336,132388,Union KC Soccer Club ECNL B2012/13,Sporting Iowa Central ECNL B2012/13,,,Lee's Summit High School - Stadium Field,3480,3483,Union KC Soccer Club,Sporting Iowa Central
-U14,Heartland,1057087,2026-10-18,136139,136407,Sporting Nebraska FC ECNL B2012/13,FC Wichita ECNL B2012/13,,,,1726,3486,Sporting Nebraska FC,FC Wichita
 U14,Heartland,1057091,2026-10-18,116233,132388,Kansas City Athletics ECNL B2012/13,Sporting Iowa Central ECNL B2012/13,,,,2330,3483,KC Athletics,Sporting Iowa Central
+U14,Heartland,1057087,2026-10-18 11:00,136139,136407,Sporting Nebraska FC ECNL B2012/13,FC Wichita ECNL B2012/13,,,CHI Nebraska MultiSport Complex - Field 11,1726,3486,Sporting Nebraska FC,FC Wichita
 U14,Heartland,1057089,2026-10-18 11:00,136336,131214,Union KC Soccer Club ECNL B2012/13,VSA Rush ECNL B2012/13,,,Lee's Summit High School - Stadium Field,3480,3723,Union KC Soccer Club,VSA Rush
 U14,Heartland,1057085,2026-10-18 11:30,131675,98221,Gretna Elite Academy ECNL B2012/13,Kansas Rush ECNL B2012/13,,,CHI Nebraska MultiSport Complex - field 12,373,3696,Gretna Elite Academy,Kansas Rush
 U14,Heartland,1057095,2026-10-24 11:00,112785,136336,St. Louis Stars SC ECNL B2012/13,Union KC Soccer Club ECNL B2012/13,,,Sport 360 Soccer Zone - Field 1,5147,3480,St. Louis Stars SC,Union KC Soccer Club
 U14,Heartland,1057093,2026-10-24 13:45,114374,116233,Missouri Rush ECNL B2012/13,Kansas City Athletics ECNL B2012/13,,,Missouri Rush Sports Park - Field 3,1730,2330,Missouri Rush,KC Athletics
 U14,Heartland,1057099,2026-10-25 09:00,112785,116233,St. Louis Stars SC ECNL B2012/13,Kansas City Athletics ECNL B2012/13,,,Sport 360 Soccer Zone - Field 1,5147,2330,St. Louis Stars SC,KC Athletics
 U14,Heartland,1057097,2026-10-25 10:45,114374,136336,Missouri Rush ECNL B2012/13,Union KC Soccer Club ECNL B2012/13,,,Missouri Rush Sports Park - Field 1,1730,3480,Missouri Rush,Union KC Soccer Club
-U14,Heartland,1057105,2026-10-31,132388,136407,Sporting Iowa Central ECNL B2012/13,FC Wichita ECNL B2012/13,,,,3483,3486,Sporting Iowa Central,FC Wichita
 U14,Heartland,1057109,2026-10-31 11:00,80820,114374,OK Energy FC ECNL B2012/13,Missouri Rush ECNL B2012/13,,,Edmond Soccer Club - ESC 4,2133,1730,Oklahoma Energy FC,Missouri Rush
 U14,Heartland,1057103,2026-10-31 13:00,116233,136139,Kansas City Athletics ECNL B2012/13,Sporting Nebraska FC ECNL B2012/13,,,Paragon Star Soccer Complex - Field 9,2330,1726,KC Athletics,Sporting Nebraska FC
 U14,Heartland,1057101,2026-10-31 15:00,136336,131675,Union KC Soccer Club ECNL B2012/13,Gretna Elite Academy ECNL B2012/13,,,Paragon Star - Field 2,3480,373,Union KC Soccer Club,Gretna Elite Academy
 U14,Heartland,1057111,2026-10-31 15:00,134704,112785,Arkansas Comets FC ECNL B2012/13,St. Louis Stars SC ECNL B2012/13,,,NOKC Soccer Fields - Field 4,3585,5147,Arkansas Comets FC,St. Louis Stars SC
+U14,Heartland,1057105,2026-10-31 17:00,132388,136407,Sporting Iowa Central ECNL B2012/13,FC Wichita ECNL B2012/13,,,Hy-Vee Multiplex - Green #1,3483,3486,Sporting Iowa Central,FC Wichita
 U14,Heartland,1057107,2026-10-31 17:00,131214,98221,VSA Rush ECNL B2012/13,Kansas Rush ECNL B2012/13,,,VSA Timberline Soccer Complex - Field 1,3723,3696,VSA Rush,Kansas Rush
 U14,Heartland,1057115,2026-11-01 10:00,116233,131675,Kansas City Athletics ECNL B2012/13,Gretna Elite Academy ECNL B2012/13,,,Paragon Star Soccer Complex - Field 9,2330,373,KC Athletics,Gretna Elite Academy
 U14,Heartland,1057113,2026-11-01 11:00,136336,136139,Union KC Soccer Club ECNL B2012/13,Sporting Nebraska FC ECNL B2012/13,,,Paragon Star - Field 2,3480,1726,Union KC Soccer Club,Sporting Nebraska FC
@@ -2294,7 +2294,7 @@ U14,Mid-Atlantic,1109496,2026-10-25 11:00,112372,134671,NCFC Youth ECNL B2012/13
 U14,Mid-Atlantic,1109426,2026-10-25 18:45,131387,131412,Charlotte SA Academy ECNL B2012/13,Charlotte SA ECNL B2012/13,,,Orthocarolina Complex - Field 5,26,26,Charlotte Soccer Academy,Charlotte Soccer Academy
 U14,Mid-Atlantic,1109370,2026-10-31 11:00,134671,131387,Wilmington Hammerheads ECNL B2012/13,Charlotte SA Academy ECNL B2012/13,,,NCINO Sports Park - Field 7,2181,26,Wilmington Hammerheads,Charlotte Soccer Academy
 U14,Mid-Atlantic,1109376,2026-10-31 13:00,117887,133817,Skyline Elite ECNL B2012/13,Richmond United ECNL B2012/13,,,Charlottesville High School - Grass Field,3739,417,Skyline Elite,Richmond United
-U14,Mid-Atlantic,1109372,2026-10-31 14:00,112372,83743,NCFC Youth ECNL B2012/13,Highland FC ECNL B2012/13,,,WRAL - Field 22,22,4012,NCFC Youth,Highland FC
+U14,Mid-Atlantic,1109372,2026-10-31 14:00,112372,83743,NCFC Youth ECNL B2012/13,Highland FC ECNL B2012/13,,,WRAL - Field 21,22,4012,NCFC Youth,Highland FC
 U14,Mid-Atlantic,1109374,2026-10-31 14:00,113304,113820,VDA ECNL B2012/13,NCFC Youth Academy ECNL B2012/13,,,Long Park - Field 5,1785,22,Virginia Development Academy,NCFC Youth
 U14,Mid-Atlantic,1109378,2026-11-01 09:00,134671,83743,Wilmington Hammerheads ECNL B2012/13,Highland FC ECNL B2012/13,,,NCINO Sports Park - Field 6,2181,4012,Wilmington Hammerheads,Highland FC
 U14,Mid-Atlantic,1109392,2026-11-01 09:00,112372,131387,NCFC Youth ECNL B2012/13,Charlotte SA Academy ECNL B2012/13,,,WRAL - Field 4,22,26,NCFC Youth,Charlotte Soccer Academy
@@ -2342,10 +2342,10 @@ U14,Mid-Atlantic,1109464,2027-02-14 11:00,134671,135511,Wilmington Hammerheads E
 U14,Mid-Atlantic,1109468,2027-02-14 11:00,112372,133817,NCFC Youth ECNL B2012/13,Richmond United ECNL B2012/13,,,WRAL - Field 5,22,417,NCFC Youth,Richmond United
 U14,Mid-Atlantic,1109470,2027-02-20,134204,112372,Arlington Soccer Association ECNL B2012/13,NCFC Youth ECNL B2012/13,,,,525,22,Arlington Soccer Association,NCFC Youth
 U14,Mid-Atlantic,1109474,2027-02-20,117887,131387,Skyline Elite ECNL B2012/13,Charlotte SA Academy ECNL B2012/13,,,,3739,26,Skyline Elite,Charlotte Soccer Academy
-U14,Mid-Atlantic,1109478,2027-02-20,135352,134671,Fairfax Virginia Union ECNL B2012/13,Wilmington Hammerheads ECNL B2012/13,,,,4603,2181,Fairfax Virginia Union,Wilmington Hammerheads
 U14,Mid-Atlantic,1109476,2027-02-20 10:00,133817,131412,Richmond United ECNL B2012/13,Charlotte SA ECNL B2012/13,,,Striker Park - Field 2,417,26,Richmond United,Charlotte Soccer Academy
 U14,Mid-Atlantic,1109480,2027-02-20 12:00,113304,83743,VDA ECNL B2012/13,Highland FC ECNL B2012/13,,,Long Park - Field 5,1785,4012,Virginia Development Academy,Highland FC
 U14,Mid-Atlantic,1109472,2027-02-20 13:00,135511,95057,Beach FC (VA) ECNL B2012/13,NC Fusion ECNL B2012/13,,,Hampton Roads Soccer Complex - Field 15,628,71,Beach FC,NC Fusion
+U14,Mid-Atlantic,1109478,2027-02-20 15:00,135352,134671,Fairfax Virginia Union ECNL B2012/13,Wilmington Hammerheads ECNL B2012/13,,,WT Woodson High School - Aux Turf,4603,2181,Fairfax Virginia Union,Wilmington Hammerheads
 U14,Mid-Atlantic,1109482,2027-02-21,134204,134671,Arlington Soccer Association ECNL B2012/13,Wilmington Hammerheads ECNL B2012/13,,,,525,2181,Arlington Soccer Association,Wilmington Hammerheads
 U14,Mid-Atlantic,1109490,2027-02-21,117887,83743,Skyline Elite ECNL B2012/13,Highland FC ECNL B2012/13,,,,3739,4012,Skyline Elite,Highland FC
 U14,Mid-Atlantic,1109492,2027-02-21 09:00,133817,95057,Richmond United ECNL B2012/13,NC Fusion ECNL B2012/13,,,Striker Park - Field 2,417,71,Richmond United,NC Fusion
@@ -2409,7 +2409,7 @@ U14,Midwest,1071200,2026-09-19 18:00,134197,134342,FC Wisconsin ECNL B2012/13,Ro
 U14,Midwest,1071208,2026-09-20 10:30,134197,136053,FC Wisconsin ECNL B2012/13,Eclipse Select Soccer Club ECNL B2012/13,0,1,FC Wisconsin Soccer Park - Val Olla #01,1797,43,FC Wisconsin Boys,Eclipse Select Soccer Club
 U14,Midwest,1071212,2026-09-20 11:00,98194,128620,St Croix ECNL B2012/13,Chicago Inter ECNL B2012/13,4,0,Stillwater Area High School - Field 1,893,2167,St. Croix,Chicago Inter
 U14,Midwest,1071210,2026-09-20 13:00,134418,80550,MN Thunder Academy ECNL B2012/13,Indiana Elite FC ECNL B2012/13,2,0,Academy of Holy Angels - South Turf 1 (11v11),67,2257,Minnesota Thunder Academy,Indiana Elite F.C.
-U14,Midwest,1071214,2026-10-03 10:00,136053,136277,Eclipse Select Soccer Club ECNL B2012/13,Chicago Magic Soccer Club ECNL B2012/13,,,Oak Brook Park District - Turf,43,2106,Eclipse Select Soccer Club,Chicago Magic Soccer Club
+U14,Midwest,1071214,2026-10-03 10:00,136053,136277,Eclipse Select Soccer Club ECNL B2012/13,Chicago Magic Soccer Club ECNL B2012/13,4,2,Oak Brook Park District - Turf,43,2106,Eclipse Select Soccer Club,Chicago Magic Soccer Club
 U14,Midwest,1071216,2026-10-03 12:00,134342,134197,Rockford Raptors FC ECNL B2012/13,FC Wisconsin ECNL B2012/13,2,1,Mercyhealth Sportscore Two - Field - TBA (11v11),2017,1797,Rockford Raptors FC,FC Wisconsin Boys
 U14,Midwest,1071220,2026-10-04 12:00,134342,136277,Rockford Raptors FC ECNL B2012/13,Chicago Magic Soccer Club ECNL B2012/13,1,1,Mercyhealth Sportscore Two - Field - TBA (11v11),2017,2106,Rockford Raptors FC,Chicago Magic Soccer Club
 U14,Midwest,1071218,2026-10-04 15:30,136053,134197,Eclipse Select Soccer Club ECNL B2012/13,FC Wisconsin ECNL B2012/13,4,0,Oak Brook Park District - Turf,43,1797,Eclipse Select Soccer Club,FC Wisconsin Boys
@@ -2713,7 +2713,6 @@ U14,North Atlantic,1078745,2026-09-19 13:30,134942,133137,Match Fit Surf ECNL B2
 U14,North Atlantic,1078751,2026-09-19 13:45,134261,91715,Potomac Soccer Association ECNL B2012/13,Pipeline SC ECNL B2012/13,2,2,Maryland Soccerplex - Field 15,1940,3405,Potomac Soccer Association,Pipeline SC
 U14,North Atlantic,1078769,2026-09-20 10:30,95034,134192,Maryland United FC ECNL B2012/13,Delaware FC ECNL B2012/13,2,0,Liberty Sports Park - Field 6,419,2701,Maryland United Football Club,Delaware Football Club
 U14,North Atlantic,1078755,2026-09-26 10:30,112320,91715,Baltimore Celtic ECNL B2012/13,Pipeline SC ECNL B2012/13,0,5,Boys Latin School of Maryland - LeBrun,494,3405,Baltimore Celtic Soccer Club,Pipeline SC
-U14,North Atlantic,1078761,2026-09-26 12:00,94432,112987,SJEB FC ECNL B2012/13,PSA Monmouth ECNL B2012/13,,,Tuckahoe Farm - Field 1,4355,4338,SJEB FC,Princeton SA
 U14,North Atlantic,1078759,2026-09-26 12:45,95034,133137,Maryland United FC ECNL B2012/13,STA ECNL B2012/13,5,1,Indian Creek - Field 1,419,428,Maryland United Football Club,STA
 U14,North Atlantic,1078763,2026-09-26 14:00,94610,135479,World Class FC ECNL B2012/13,Penn Fusion Soccer Academy ECNL B2012/13,,,Orangetown Soccer Complex - Field 5,116,79,World Class FC,Penn Fusion Soccer Academy
 U14,North Atlantic,1078779,2026-09-27 13:00,135479,95034,Penn Fusion Soccer Academy ECNL B2012/13,Maryland United FC ECNL B2012/13,,,Scott Auto Field - Field 1,79,419,Penn Fusion Soccer Academy,Maryland United Football Club
@@ -2743,7 +2742,7 @@ U14,North Atlantic,1078723,2026-10-25 12:00,134990,94610,Philadelphia Ukrainian 
 U14,North Atlantic,1078721,2026-10-25 13:00,135479,112320,Penn Fusion Soccer Academy ECNL B2012/13,Baltimore Celtic ECNL B2012/13,,,USTC - Field 3,79,494,Penn Fusion Soccer Academy,Baltimore Celtic Soccer Club
 U14,North Atlantic,1078809,2026-10-25 13:00,112987,95034,PSA Monmouth ECNL B2012/13,Maryland United FC ECNL B2012/13,,,The Ranney School - Field 1 - Stadium,4338,419,Princeton SA,Maryland United Football Club
 U14,North Atlantic,1078727,2026-10-25 15:30,133137,134192,STA ECNL B2012/13,Delaware FC ECNL B2012/13,,,Central Park - Field 1,428,2701,STA,Delaware Football Club
-U14,North Atlantic,1078811,2026-10-31,112320,94610,Baltimore Celtic ECNL B2012/13,World Class FC ECNL B2012/13,,,,494,116,Baltimore Celtic Soccer Club,World Class FC
+U14,North Atlantic,1078811,2026-10-31 11:00,112320,94610,Baltimore Celtic ECNL B2012/13,World Class FC ECNL B2012/13,,,Glenelg Country School - Turf,494,116,Baltimore Celtic Soccer Club,World Class FC
 U14,North Atlantic,1078817,2026-10-31 12:00,91715,95034,Pipeline SC ECNL B2012/13,Maryland United FC ECNL B2012/13,,,Notre Dame Prepatory School - Field 1,3405,419,Pipeline SC,Maryland United Football Club
 U14,North Atlantic,1078815,2026-10-31 13:00,135479,94432,Penn Fusion Soccer Academy ECNL B2012/13,SJEB FC ECNL B2012/13,,,Scott Auto Field - Field 1,79,4355,Penn Fusion Soccer Academy,SJEB FC
 U14,North Atlantic,1078819,2026-11-01 12:30,133137,134990,STA ECNL B2012/13,Philadelphia Ukrainian Nationals ECNL B2012/13,,,Central Park - Field 2,428,1345,STA,Philadelphia Ukrainian Nationals
@@ -2814,6 +2813,7 @@ U14,North Atlantic,1078949,2027-05-01,134261,133137,Potomac Soccer Association E
 U14,North Atlantic,1078951,2027-05-01,112987,134192,PSA Monmouth ECNL B2012/13,Delaware FC ECNL B2012/13,,,,4338,2701,Princeton SA,Delaware Football Club
 U14,North Atlantic,1078953,2027-05-01,94610,112320,World Class FC ECNL B2012/13,Baltimore Celtic ECNL B2012/13,,,,116,494,World Class FC,Baltimore Celtic Soccer Club
 U14,North Atlantic,1078955,2027-05-02,134942,134990,Match Fit Surf ECNL B2012/13,Philadelphia Ukrainian Nationals ECNL B2012/13,,,,64,1345,Match Fit Surf,Philadelphia Ukrainian Nationals
+U14,North Atlantic,1078761,2027-05-02 10:30,112987,94432,PSA Monmouth ECNL B2012/13,SJEB FC ECNL B2012/13,,,The Ranney School - Field 2 - Upper,4338,4355,Princeton SA,SJEB FC
 U14,North Atlantic,1078873,2027-05-08,95034,134261,Maryland United FC ECNL B2012/13,Potomac Soccer Association ECNL B2012/13,,,,419,1940,Maryland United Football Club,Potomac Soccer Association
 U14,North Atlantic,1078957,2027-05-08,112320,133137,Baltimore Celtic ECNL B2012/13,STA ECNL B2012/13,,,,494,428,Baltimore Celtic Soccer Club,STA
 U14,North Atlantic,1078959,2027-05-08,91715,94610,Pipeline SC ECNL B2012/13,World Class FC ECNL B2012/13,,,,3405,116,Pipeline SC,World Class FC
@@ -2869,7 +2869,7 @@ U14,Northern Cal,1099461,2026-09-27 11:00,132470,131243,Mustang Soccer ECNL B201
 U14,Northern Cal,1099473,2026-09-27 11:00,99066,99062,Placer United ECNL B2012/13,San Juan SC ECNL B2012/13,2,0,Placer Valley Soccer Complex - Field 5,3054,88,Placer United Soccer Club,San Juan Soccer Club
 U14,Northern Cal,1099443,2026-09-27 12:00,70860,111815,COSC ECNL B2012/13,Folsom Lake Surf ECNL B2012/13,4,0,Clovis High School - Field 1,1470,3989,California Odyssey Soccer Club,Folsom Lake Surf
 U14,Northern Cal,1099449,2026-09-27 14:00,99057,103014,El Camino FC Salinas ECNL B2012/13,Davis Legacy ECNL B2012/13,1,0,Salinas Regional Soccer Complex - Turf #2,4063,1425,El Camino FC Salinas,Davis Legacy Soccer Club
-U14,Northern Cal,1099491,2026-10-03 13:00,84813,132648,River Islands Surf ECNL B2012/13,Napa United ECNL B2012/13,,,River Islands Sports Park - Field 2 (11v11),3777,2907,Valley Surf | America,Napa United
+U14,Northern Cal,1099491,2026-10-03 13:00,84813,132648,River Islands Surf ECNL B2012/13,Napa United ECNL B2012/13,1,1,River Islands Sports Park - Field 2 (11v11),3777,2907,Valley Surf | America,Napa United
 U14,Northern Cal,1099485,2026-10-03 13:30,99066,99123,Placer United ECNL B2012/13,1974 Newark FC ECNL B2012/13,1,0,Placer Valley Soccer Complex - Field 5,3054,4342,Placer United Soccer Club,1974 Newark FC
 U14,Northern Cal,1099527,2026-10-04 10:00,132007,132470,Santa Rosa United ECNL B2012/13,Mustang Soccer ECNL B2012/13,2,3,Trione Fields - Trione West,91,69,Santa Rosa United Soccer,Mustang Soccer
 U14,Northern Cal,1099521,2026-10-04 11:00,99062,99148,San Juan SC ECNL B2012/13,MVLA ECNL B2012/13,3,2,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,294,San Juan Soccer Club,MVLA
@@ -2894,13 +2894,13 @@ U14,Northern Cal,1099599,2026-10-25 12:00,70860,132007,COSC ECNL B2012/13,Santa 
 U14,Northern Cal,1099605,2026-10-25 12:00,103014,99062,Davis Legacy ECNL B2012/13,San Juan SC ECNL B2012/13,,,Davis Legacy Soccer Complex - Field 11,1425,88,Davis Legacy Soccer Club,San Juan Soccer Club
 U14,Northern Cal,1099611,2026-10-25 12:00,111815,99066,Folsom Lake Surf ECNL B2012/13,Placer United ECNL B2012/13,,,Davis Legacy Soccer Complex - Field 14,3989,3054,Folsom Lake Surf,Placer United Soccer Club
 U14,Northern Cal,1099659,2026-11-01 09:00,84813,70860,River Islands Surf ECNL B2012/13,COSC ECNL B2012/13,,,River Islands Sports Park - Field 2,3777,1470,Valley Surf | America,California Odyssey Soccer Club
-U14,Northern Cal,1099665,2026-11-01 09:00,103708,131243,Santa Clara Sporting ECNL B2012/13,San Francisco Elite Academy ECNL B2012/13,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U14,Northern Cal,1099641,2026-11-01 10:00,131733,132470,Los Gatos United Soccer Club ECNL B2012/13,Mustang Soccer ECNL B2012/13,,,Monta Vista High School - Stadium,3231,69,Los Gatos United Soccer Club,Mustang Soccer
 U14,Northern Cal,1099653,2026-11-01 11:00,99066,103014,Placer United ECNL B2012/13,Davis Legacy ECNL B2012/13,,,Placer Valley Soccer Complex - Field 5,3054,1425,Placer United Soccer Club,Davis Legacy Soccer Club
 U14,Northern Cal,1099671,2026-11-01 11:00,99062,98785,San Juan SC ECNL B2012/13,Association FC ECNL B12/13,,,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,3065,San Juan Soccer Club,Association Football Club
 U14,Northern Cal,1099635,2026-11-01 11:30,111815,99148,Folsom Lake Surf ECNL B2012/13,MVLA ECNL B2012/13,,,Econome Family Park - Field 1,3989,294,Folsom Lake Surf,MVLA
 U14,Northern Cal,1099647,2026-11-01 13:00,103177,99123,Marin FC ECNL B2012/13,1974 Newark FC ECNL B2012/13,,,College of Marin - Stadium,1585,4342,Marin FC,1974 Newark FC
 U14,Northern Cal,1099629,2026-11-01 14:00,99057,132648,El Camino FC Salinas ECNL B2012/13,Napa United ECNL B2012/13,,,Salinas Regional Soccer Complex - Turf #2,4063,2907,El Camino FC Salinas,Napa United
+U14,Northern Cal,1099665,2026-11-01 15:00,103708,131243,Santa Clara Sporting ECNL B2012/13,San Francisco Elite Academy ECNL B2012/13,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U14,Northern Cal,1099677,2026-11-07 14:00,98785,99066,Association FC ECNL B12/13,Placer United ECNL B2012/13,,,Alden E. Oliver Sports Park - Field 1,3065,3054,Association Football Club,Placer United Soccer Club
 U14,Northern Cal,1099707,2026-11-08 10:00,131733,99123,Los Gatos United Soccer Club ECNL B2012/13,1974 Newark FC ECNL B2012/13,,,Monta Vista High School - Stadium,3231,4342,Los Gatos United Soccer Club,1974 Newark FC
 U14,Northern Cal,1099719,2026-11-08 10:00,132007,103708,Santa Rosa United ECNL B2012/13,Santa Clara Sporting ECNL B2012/13,,,Trione Fields - Trione West,91,2548,Santa Rosa United Soccer,Santa Clara Sporting
@@ -2909,8 +2909,8 @@ U14,Northern Cal,1099683,2026-11-08 12:00,70860,132648,COSC ECNL B2012/13,Napa U
 U14,Northern Cal,1099689,2026-11-08 12:00,103014,99148,Davis Legacy ECNL B2012/13,MVLA ECNL B2012/13,,,Davis Legacy Soccer Complex - Field 9,1425,294,Davis Legacy Soccer Club,MVLA
 U14,Northern Cal,1099695,2026-11-08 12:00,99057,132470,El Camino FC Salinas ECNL B2012/13,Mustang Soccer ECNL B2012/13,,,Salinas Regional Soccer Complex - Turf #2,4063,69,El Camino FC Salinas,Mustang Soccer
 U14,Northern Cal,1099713,2026-11-08 15:00,131243,99062,San Francisco Elite Academy ECNL B2012/13,San Juan SC ECNL B2012/13,,,Pollicita Middle School - Soccer Field,1040,88,San Francisco Elite Academy,San Juan Soccer Club
+U14,Northern Cal,1099761,2026-11-14 14:00,131243,99066,San Francisco Elite Academy ECNL B2012/13,Placer United ECNL B2012/13,,,Skyline College - Lower Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U14,Northern Cal,1099743,2026-11-15,132470,70860,Mustang Soccer ECNL B2012/13,COSC ECNL B2012/13,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U14,Northern Cal,1099761,2026-11-15,131243,99066,San Francisco Elite Academy ECNL B2012/13,Placer United ECNL B2012/13,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U14,Northern Cal,1099767,2026-11-15 10:00,132007,99062,Santa Rosa United ECNL B2012/13,San Juan SC ECNL B2012/13,,,Trione Fields - Trione West,91,88,Santa Rosa United Soccer,San Juan Soccer Club
 U14,Northern Cal,1099749,2026-11-15 10:40,99148,98785,MVLA ECNL B2012/13,Association FC ECNL B12/13,,,Graham Middle School - Turf,294,3065,MVLA,Association Football Club
 U14,Northern Cal,1099725,2026-11-15 12:00,99123,111815,1974 Newark FC ECNL B2012/13,Folsom Lake Surf ECNL B2012/13,,,Newark Sportsfield Park - SFT #1 11v11,4342,3989,1974 Newark FC,Folsom Lake Surf
@@ -3427,24 +3427,23 @@ U14,Texas,1107003,2026-10-03 11:00,131621,133285,San Antonio City SC ECNL B2012/
 U14,Texas,1106979,2026-10-03 12:00,57176,114023,Albion Hurricanes FC ECNL B2012/13,DKSC ECNL B2012/13,,,Campbell Road Sports Park - Field 1,10,35,Albion Hurricanes FC,DKSC
 U14,Texas,1106997,2026-10-03 13:00,95141,133286,SAFC ECNL B2012/13,Lonestar ATX Royal ECNL B2012/13,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U14,Texas,1107009,2026-10-03 13:00,131315,131176,RISE SC ECNL B2012/13,Sting ECNL B2012/13,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
-U14,Texas,1106991,2026-10-03 14:00,111928,131245,HTX ECNL B2012/13,FC Westlake ECNL B2012/13,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U14,Texas,1107015,2026-10-04 09:00,57176,131176,Albion Hurricanes FC ECNL B2012/13,Sting ECNL B2012/13,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U14,Texas,1107027,2026-10-04 11:00,131315,114023,RISE SC ECNL B2012/13,DKSC ECNL B2012/13,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
 U14,Texas,1107039,2026-10-04 11:00,131621,133286,San Antonio City SC ECNL B2012/13,Lonestar ATX Royal ECNL B2012/13,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U14,Texas,1106985,2026-10-04 13:00,80818,116038,OK Energy FC Academy B2012/13,FC Dallas Youth Red ECNL B2012/13,2,7,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U14,Texas,1107045,2026-10-04 13:00,95141,133285,SAFC ECNL B2012/13,Lonestar ATX Red ECNL B2012/13,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U14,Texas,1107033,2026-10-04 15:00,76665,134125,SOLAR SC ECNL B2012/13,Dallas Texans ECNL B2012/13,2,0,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
-U14,Texas,1107051,2026-10-10,114023,131245,DKSC ECNL B2012/13,FC Westlake ECNL B2012/13,,,,35,3234,DKSC,FC Westlake
 U14,Texas,1107105,2026-10-10,113987,76665,Solar SC Academy ECNL B2012/13,SOLAR SC ECNL B2012/13,,,,101,101,Solar SC,Solar SC
 U14,Texas,1107063,2026-10-10 11:00,133286,116038,Lonestar ATX Royal ECNL B2012/13,FC Dallas Youth Red ECNL B2012/13,,,Burger Activity Center - Field 2,62,47,Lonestar ATX,FC Dallas Youth
 U14,Texas,1107081,2026-10-10 11:00,133285,116040,Lonestar ATX Red ECNL B2012/13,FC Dallas Youth White ECNL B2012/13,,,Vista Ridge High School (Ranger Field) - Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U14,Texas,1107087,2026-10-10 11:00,131176,111928,Sting ECNL B2012/13,HTX ECNL B2012/13,,,Sting National Training Center - Championship Field,36,2258,Sting Soccer Club,HTX
 U14,Texas,1107099,2026-10-10 11:00,130555,95141,Tulsa SC ECNL B2012/13,SAFC ECNL B2012/13,,,Jenks Sports Complex - Field 1,106,4304,Tulsa Soccer Club,San Antonio FC
+U14,Texas,1107051,2026-10-10 13:00,114023,131245,DKSC ECNL B2012/13,FC Westlake ECNL B2012/13,,,Clark East Field - Field 1,35,3234,DKSC,FC Westlake
 U14,Texas,1107057,2026-10-10 13:00,134125,134051,Dallas Texans ECNL B2012/13,Dallas Texans Academy ECNL B2012/13,,,Frisco High School - Field 1,37,37,Dallas Texans,Dallas Texans
 U14,Texas,1107093,2026-10-10 15:00,80818,131621,OK Energy FC Academy B2012/13,San Antonio City SC ECNL B2012/13,,,North Oklahoma City FC - NOKC Red 2,2133,2519,Oklahoma Energy FC,San Antonio City SC
-U14,Texas,1107141,2026-10-11,131176,131245,Sting ECNL B2012/13,FC Westlake ECNL B2012/13,,,,36,3234,Sting Soccer Club,FC Westlake
 U14,Texas,1107111,2026-10-11 09:00,114023,111928,DKSC ECNL B2012/13,HTX ECNL B2012/13,,,Clark East Field - Field 1,35,2258,DKSC,HTX
 U14,Texas,1107129,2026-10-11 09:00,133286,116040,Lonestar ATX Royal ECNL B2012/13,FC Dallas Youth White ECNL B2012/13,,,Glenn High School - Field 2,62,47,Lonestar ATX,FC Dallas Youth
+U14,Texas,1107141,2026-10-11 09:00,131176,131245,Sting ECNL B2012/13,FC Westlake ECNL B2012/13,,,Sting National Training Center - Field 3,36,3234,Sting Soccer Club,FC Westlake
 U14,Texas,1107123,2026-10-11 11:00,133285,116038,Lonestar ATX Red ECNL B2012/13,FC Dallas Youth Red ECNL B2012/13,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U14,Texas,1107147,2026-10-11 11:00,80818,95141,OK Energy FC Academy B2012/13,SAFC ECNL B2012/13,,,North Oklahoma City FC - NOKC Red 2,2133,4304,Oklahoma Energy FC,San Antonio FC
 U14,Texas,1107153,2026-10-11 13:00,130555,131621,Tulsa SC ECNL B2012/13,San Antonio City SC ECNL B2012/13,,,Jenks Sports Complex - Field 2,106,2519,Tulsa Soccer Club,San Antonio City SC
@@ -3488,6 +3487,7 @@ U14,Texas,1107381,2026-11-01 11:00,134051,133285,Dallas Texans Academy ECNL B201
 U14,Texas,1107387,2026-11-01 11:00,134125,133286,Dallas Texans ECNL B2012/13,Lonestar ATX Royal ECNL B2012/13,,,Beacon Park - field 4,37,62,Dallas Texans,Lonestar ATX
 U14,Texas,1107771,2026-11-01 11:00,131621,57176,San Antonio City SC ECNL B2012/13,Albion Hurricanes FC ECNL B2012/13,,,Specht Soccer Complex - Field 2,2519,10,San Antonio City SC,Albion Hurricanes FC
 U14,Texas,1107375,2026-11-01 11:15,133098,114023,Real Colorado Academy ECNL B2012/13,DKSC ECNL B2012/13,,,Real Colorado Soccer Complex - RCSC 1,81,35,Real Colorado,DKSC
+U14,Texas,1106991,2026-11-01 12:00,111928,131245,HTX ECNL B2012/13,FC Westlake ECNL B2012/13,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U14,Texas,1107357,2026-11-01 15:00,116040,80818,FC Dallas Youth White ECNL B2012/13,OK Energy FC Academy B2012/13,,,Toyota Soccer Center - Field 10,47,2133,FC Dallas Youth,Oklahoma Energy FC
 U14,Texas,1107399,2026-11-07,113987,114023,Solar SC Academy ECNL B2012/13,DKSC ECNL B2012/13,,,,101,35,Solar SC,DKSC
 U14,Texas,1107423,2026-11-07,95141,116040,SAFC ECNL B2012/13,FC Dallas Youth White ECNL B2012/13,,,,4304,47,San Antonio FC,FC Dallas Youth
@@ -4380,10 +4380,10 @@ U15,Northern Cal,1099652,2026-11-01 09:00,84676,90731,Placer United ECNL B2011/1
 U15,Northern Cal,1099646,2026-11-01 11:00,84685,82821,Marin FC ECNL B2011/12,1974 Newark FC ECNL B2011/12,,,College of Marin - Stadium,1585,4342,Marin FC,1974 Newark FC
 U15,Northern Cal,1099658,2026-11-01 11:00,81001,97487,River Islands Surf ECNL B2011/12,COSC ECNL B2011/12,,,River Islands Sports Park - Field 2,3777,1470,Valley Surf | America,California Odyssey Soccer Club
 U15,Northern Cal,1099640,2026-11-01 12:00,131735,132472,Los Gatos United Soccer Club ECNL B2011/12,Mustang Soccer ECNL B2011/12,,,Monta Vista High School - Stadium,3231,69,Los Gatos United Soccer Club,Mustang Soccer
-U15,Northern Cal,1099664,2026-11-01 13:00,40071,131257,Santa Clara Sporting ECNL B2011/12,San Francisco Elite Academy ECNL B2011/12,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U15,Northern Cal,1099670,2026-11-01 13:00,84679,93951,San Juan SC ECNL B2011/12,Association FC ECNL B11/12,,,Tiemann Law Firm Fields at San Juan Soccer Complex - Black Field,88,3065,San Juan Soccer Club,Association Football Club
 U15,Northern Cal,1099634,2026-11-01 13:15,104319,84681,Folsom Lake Surf ECNL B2011/12,MVLA ECNL B2011/12,,,Econome Family Park - Field 1,3989,294,Folsom Lake Surf,MVLA
 U15,Northern Cal,1099628,2026-11-01 16:00,91719,132649,El Camino FC Salinas ECNL B2011/12,Napa United ECNL B2011/12,,,Salinas Regional Soccer Complex - Turf #2,4063,2907,El Camino FC Salinas,Napa United
+U15,Northern Cal,1099664,2026-11-01 17:00,40071,131257,Santa Clara Sporting ECNL B2011/12,San Francisco Elite Academy ECNL B2011/12,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U15,Northern Cal,1099676,2026-11-07 13:00,93951,84676,Association FC ECNL B11/12,Placer United ECNL B2011/12,,,Witter Sports Complex - Stadium,3065,3054,Association Football Club,Placer United Soccer Club
 U15,Northern Cal,1099712,2026-11-08 11:00,131257,84679,San Francisco Elite Academy ECNL B2011/12,San Juan SC ECNL B2011/12,,,Pollicita Middle School - Soccer Field,1040,88,San Francisco Elite Academy,San Juan Soccer Club
 U15,Northern Cal,1099706,2026-11-08 12:00,131735,82821,Los Gatos United Soccer Club ECNL B2011/12,1974 Newark FC ECNL B2011/12,,,Monta Vista High School - Stadium,3231,4342,Los Gatos United Soccer Club,1974 Newark FC
@@ -4392,8 +4392,8 @@ U15,Northern Cal,1099682,2026-11-08 14:00,97487,132649,COSC ECNL B2011/12,Napa U
 U15,Northern Cal,1099688,2026-11-08 14:00,90731,84681,Davis Legacy ECNL B2011/12,MVLA ECNL B2011/12,,,Davis Legacy Soccer Complex - Field 9,1425,294,Davis Legacy Soccer Club,MVLA
 U15,Northern Cal,1099694,2026-11-08 14:00,91719,132472,El Camino FC Salinas ECNL B2011/12,Mustang Soccer ECNL B2011/12,,,Salinas Regional Soccer Complex - Turf #2,4063,69,El Camino FC Salinas,Mustang Soccer
 U15,Northern Cal,1099718,2026-11-08 14:00,132008,40071,Santa Rosa United ECNL B2011/12,Santa Clara Sporting ECNL B2011/12,,,Trione Fields - Trione East,91,2548,Santa Rosa United Soccer,Santa Clara Sporting
+U15,Northern Cal,1099760,2026-11-14 12:00,131257,84676,San Francisco Elite Academy ECNL B2011/12,Placer United ECNL B2011/12,,,Skyline College - Lower Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U15,Northern Cal,1099742,2026-11-15,132472,97487,Mustang Soccer ECNL B2011/12,COSC ECNL B2011/12,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U15,Northern Cal,1099760,2026-11-15,131257,84676,San Francisco Elite Academy ECNL B2011/12,Placer United ECNL B2011/12,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U15,Northern Cal,1099748,2026-11-15 09:00,84681,93951,MVLA ECNL B2011/12,Association FC ECNL B11/12,,,Foothill College - Top Hill Soccer Field,294,3065,MVLA,Association Football Club
 U15,Northern Cal,1099754,2026-11-15 11:00,40071,81001,Santa Clara Sporting ECNL B2011/12,River Islands Surf ECNL B2011/12,,,Santa Clara Youth Soccer Park - Field 2,2548,3777,Santa Clara Sporting,Valley Surf | America
 U15,Northern Cal,1099724,2026-11-15 14:00,82821,104319,1974 Newark FC ECNL B2011/12,Folsom Lake Surf ECNL B2011/12,,,Newark Sportsfield Park - SFT #1 11v11,4342,3989,1974 Newark FC,Folsom Lake Surf
@@ -4532,7 +4532,7 @@ U15,Ohio Valley,1064697,2026-12-20 08:30,54743,69759,FC Pride Elite ECNL B2011/1
 U15,Ohio Valley,1064693,2026-12-20 09:00,133353,94413,Louisville City Academy ECNL B2011/12,Nationals SC ECNL B2011/12,,,Lynn Family Sports Vision & Training Facility - Field 3,3475,1713,LouCity / Racing Youth Academy,Nationals
 U15,Ohio Valley,1064725,2026-12-20 09:00,69465,61876,Ohio Elite SA ECNL B2011/12,WNY Flash ECNL B2011/12,,,Seven Hills School - Lower Field,75,343,Ohio Elite Soccer Academy,WNY Flash Academy
 U15,Ohio Valley,1064729,2026-12-20 15:45,71994,134496,Ohio Premier ECNL B2011/12,RNY FC Youth ECNL B2011/12,,,OP Training Facility - Field 2,437,4867,Ohio Premier,RNY FC Youth
-U15,Ohio Valley,1064733,2027-01-30,69759,59145,Pittsburgh Riverhounds ECNL B2011/12,Cleveland Force SC ECNL B2011/12,,,,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
+U15,Ohio Valley,1064733,2027-01-30 08:30,69759,59145,Pittsburgh Riverhounds ECNL B2011/12,Cleveland Force SC ECNL B2011/12,,,Montour Junction Sports Complex - Indoor,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
 U15,Ohio Valley,1064737,2027-02-06 09:00,69465,69759,Ohio Elite SA ECNL B2011/12,Pittsburgh Riverhounds ECNL B2011/12,,,Seven Hills School - Lower Field,75,538,Ohio Elite Soccer Academy,Pittsburgh Riverhounds
 U15,Ohio Valley,1064741,2027-02-06 15:45,71994,54743,Ohio Premier ECNL B2011/12,FC Pride Elite ECNL B2011/12,,,OP Training Facility - Field 2,437,1501,Ohio Premier,FC Pride
 U15,Ohio Valley,1064749,2027-02-07 10:00,69465,54743,Ohio Elite SA ECNL B2011/12,FC Pride Elite ECNL B2011/12,,,Seven Hills School - Lower Field,75,1501,Ohio Elite Soccer Academy,FC Pride
@@ -4585,7 +4585,7 @@ U15,Ohio Valley,1064913,2027-05-01 15:45,71994,69465,Ohio Premier ECNL B2011/12,
 U15,Ohio Valley,1064925,2027-05-02 15:45,71994,133353,Ohio Premier ECNL B2011/12,Louisville City Academy ECNL B2011/12,,,OP Training Facility - Field 2,437,3475,Ohio Premier,LouCity / Racing Youth Academy
 U15,Ohio Valley,1064933,2027-05-08 10:00,69465,94413,Ohio Elite SA ECNL B2011/12,Nationals SC ECNL B2011/12,,,Ohio Elite Training Center - Field 9,75,1713,Ohio Elite Soccer Academy,Nationals
 U15,Ohio Valley,1064937,2027-05-08 15:45,71994,59145,Ohio Premier ECNL B2011/12,Cleveland Force SC ECNL B2011/12,,,OP Training Facility - Field 1,437,3478,Ohio Premier,Cleveland Force SC
-U15,Ohio Valley,1064941,2027-05-09,69465,59145,Ohio Elite SA ECNL B2011/12,Cleveland Force SC ECNL B2011/12,,,,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
+U15,Ohio Valley,1064941,2027-05-09 09:00,69465,59145,Ohio Elite SA ECNL B2011/12,Cleveland Force SC ECNL B2011/12,,,Ohio Elite Training Center - Field 9,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U15,Ohio Valley,1064945,2027-05-09 15:45,71994,94413,Ohio Premier ECNL B2011/12,Nationals SC ECNL B2011/12,,,OP Training Facility - Field 2,437,1713,Ohio Premier,Nationals
 U15,Ohio Valley,1064949,2027-05-15,54743,133353,FC Pride Elite ECNL B2011/12,Louisville City Academy ECNL B2011/12,,,,1501,3475,FC Pride,LouCity / Racing Youth Academy
 U15,Ohio Valley,1064953,2027-05-15,59145,61876,Cleveland Force SC ECNL B2011/12,WNY Flash ECNL B2011/12,,,,3478,343,Cleveland Force SC,WNY Flash Academy
@@ -4878,21 +4878,19 @@ U15,Texas,1107004,2026-10-03 09:00,131622,133282,San Antonio City SC ECNL B2011/
 U15,Texas,1106998,2026-10-03 11:00,81510,133283,SAFC ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U15,Texas,1107010,2026-10-03 11:00,131313,131174,RISE SC ECNL B2011/12,Sting ECNL B2011/12,,,South Campus - Field 4,1772,36,RISE Soccer Club,Sting Soccer Club
 U15,Texas,1106980,2026-10-03 14:00,81909,94512,Albion Hurricanes FC ECNL B2011/12,DKSC ECNL B2011/12,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
-U15,Texas,1106992,2026-10-03 14:00,90777,131247,HTX ECNL B2011/12,FC Westlake ECNL B2011/12,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U15,Texas,1107028,2026-10-04 09:00,131313,94512,RISE SC ECNL B2011/12,DKSC ECNL B2011/12,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
 U15,Texas,1107040,2026-10-04 09:00,131622,133283,San Antonio City SC ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U15,Texas,1106986,2026-10-04 11:00,94439,94653,OK Energy FC Academy B2011/12,FC Dallas Youth Red ECNL B2011/12,5,0,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U15,Texas,1107016,2026-10-04 11:00,81909,131174,Albion Hurricanes FC ECNL B2011/12,Sting ECNL B2011/12,,,Campbell Road Sports Park - Field 5,10,36,Albion Hurricanes FC,Sting Soccer Club
 U15,Texas,1107046,2026-10-04 11:00,81510,133282,SAFC ECNL B2011/12,Lonestar ATX Red ECNL B2011/12,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U15,Texas,1107034,2026-10-04 13:00,60621,134124,SOLAR SC ECNL B2011/12,Dallas Texans ECNL B2011/12,3,2,Beacon Park & Z - Field 3,101,37,Solar SC,Dallas Texans
-U15,Texas,1107052,2026-10-10,94512,131247,DKSC ECNL B2011/12,FC Westlake ECNL B2011/12,,,,35,3234,DKSC,FC Westlake
 U15,Texas,1107106,2026-10-10,95093,60621,Solar SC Academy ECNL B2011/12,SOLAR SC ECNL B2011/12,,,,101,101,Solar SC,Solar SC
 U15,Texas,1107058,2026-10-10 11:00,134124,134033,Dallas Texans ECNL B2011/12,Dallas Texans Academy ECNL B2011/12,,,Frisco High School - Field 1,37,37,Dallas Texans,Dallas Texans
 U15,Texas,1107094,2026-10-10 11:00,94439,131622,OK Energy FC Academy B2011/12,San Antonio City SC ECNL B2011/12,,,North Oklahoma City FC - NOKC Red 2,2133,2519,Oklahoma Energy FC,San Antonio City SC
 U15,Texas,1107100,2026-10-10 11:00,130558,81510,Tulsa SC ECNL B2011/12,SAFC ECNL B2011/12,,,Jenks Sports Complex - Field 2,106,4304,Tulsa Soccer Club,San Antonio FC
 U15,Texas,1107064,2026-10-10 13:00,133283,94653,Lonestar ATX Royal ECNL B2011/12,FC Dallas Youth Red ECNL B2011/12,,,Burger Activity Center - Field 2,62,47,Lonestar ATX,FC Dallas Youth
+U15,Texas,1107052,2026-10-10 15:00,94512,131247,DKSC ECNL B2011/12,FC Westlake ECNL B2011/12,,,Clark East Field - Field 1,35,3234,DKSC,FC Westlake
 U15,Texas,1107112,2026-10-11,94512,90777,DKSC ECNL B2011/12,HTX ECNL B2011/12,,,,35,2258,DKSC,HTX
-U15,Texas,1107142,2026-10-11,131174,131247,Sting ECNL B2011/12,FC Westlake ECNL B2011/12,,,,36,3234,Sting Soccer Club,FC Westlake
 U15,Texas,1107124,2026-10-11 09:00,133282,94653,Lonestar ATX Red ECNL B2011/12,FC Dallas Youth Red ECNL B2011/12,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U15,Texas,1107148,2026-10-11 09:00,94439,81510,OK Energy FC Academy B2011/12,SAFC ECNL B2011/12,,,North Oklahoma City FC - NOKC Red 2,2133,4304,Oklahoma Energy FC,San Antonio FC
 U15,Texas,1107154,2026-10-11 09:00,130558,131622,Tulsa SC ECNL B2011/12,San Antonio City SC ECNL B2011/12,,,Jenks Sports Complex - Field 2,106,2519,Tulsa Soccer Club,San Antonio City SC
@@ -4932,6 +4930,7 @@ U15,Texas,1107340,2026-10-31 13:30,81412,94512,Colorado Storm ECNL B2011/12,DKSC
 U15,Texas,1107346,2026-10-31 14:00,134033,133283,Dallas Texans Academy ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,Beacon Park - field 6,37,62,Dallas Texans,Lonestar ATX
 U15,Texas,1107352,2026-10-31 14:00,134124,133282,Dallas Texans ECNL B2011/12,Lonestar ATX Red ECNL B2011/12,,,Beacon Park - field 4,37,62,Dallas Texans,Lonestar ATX
 U15,Texas,1107376,2026-11-01 09:00,133097,94512,Real Colorado Academy ECNL B2011/12,DKSC ECNL B2011/12,,,Real Colorado Soccer Complex - RCSC 1,81,35,Real Colorado,DKSC
+U15,Texas,1106992,2026-11-01 12:00,90777,131247,HTX ECNL B2011/12,FC Westlake ECNL B2011/12,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U15,Texas,1107382,2026-11-01 13:00,134033,133282,Dallas Texans Academy ECNL B2011/12,Lonestar ATX Red ECNL B2011/12,,,Beacon Park - field 6,37,62,Dallas Texans,Lonestar ATX
 U15,Texas,1107388,2026-11-01 13:00,134124,133283,Dallas Texans ECNL B2011/12,Lonestar ATX Royal ECNL B2011/12,,,Beacon Park - field 4,37,62,Dallas Texans,Lonestar ATX
 U15,Texas,1107370,2026-11-01 13:30,81412,131174,Colorado Storm ECNL B2011/12,Sting ECNL B2011/12,,,Stargate Charter School - Field 1,29,36,Colorado Storm,Sting Soccer Club
@@ -4970,6 +4969,7 @@ U15,Texas,1107556,2026-12-12,81510,81412,SAFC ECNL B2011/12,Colorado Storm ECNL 
 U15,Texas,1107088,2026-12-12 11:00,131174,90777,Sting ECNL B2011/12,HTX ECNL B2011/12,,,Sting National Training Center - Championship Field,36,2258,Sting Soccer Club,HTX
 U15,Texas,1107568,2026-12-12 15:00,131622,133097,San Antonio City SC ECNL B2011/12,Real Colorado Academy ECNL B2011/12,,,Specht Soccer Complex - Field 1,2519,81,San Antonio City SC,Real Colorado
 U15,Texas,1107580,2026-12-13,81510,133097,SAFC ECNL B2011/12,Real Colorado Academy ECNL B2011/12,,,,4304,81,San Antonio FC,Real Colorado
+U15,Texas,1107142,2026-12-13 11:00,131174,131247,Sting ECNL B2011/12,FC Westlake ECNL B2011/12,,,Sting National Training Center - Championship Field,36,3234,Sting Soccer Club,FC Westlake
 U15,Texas,1107022,2027-01-15 09:00,133097,81412,Real Colorado Academy ECNL B2011/12,Colorado Storm ECNL B2011/12,,,Real Colorado Soccer Complex - RCSC 1,81,29,Real Colorado,Colorado Storm
 U15,Texas,1107562,2027-02-07 15:00,94660,130558,FC Dallas Youth White ECNL B2011/12,Tulsa SC ECNL B2011/12,,,Toyota Soccer Center - Field 11,47,106,FC Dallas Youth,Tulsa Soccer Club
 U15,Texas,1107586,2027-02-21 13:00,130558,94653,Tulsa SC ECNL B2011/12,FC Dallas Youth Red ECNL B2011/12,,,Jenks Sports Complex - Field 2,106,47,Tulsa Soccer Club,FC Dallas Youth
@@ -5829,7 +5829,7 @@ U16,Northern Cal,1099669,2026-11-01 11:00,82111,80637,San Juan SC ECNL B2010/11,
 U16,Northern Cal,1099627,2026-11-01 12:00,79980,132650,El Camino FC Salinas ECNL B2010/11,Napa United ECNL B2010/11,,,Salinas Regional Soccer Complex - Turf #1,4063,2907,El Camino FC Salinas,Napa United
 U16,Northern Cal,1099639,2026-11-01 12:00,131737,132473,Los Gatos United Soccer Club ECNL B2010/11,Mustang Soccer ECNL B2010/11,,,Monta Vista High School - Lower Field,3231,69,Los Gatos United Soccer Club,Mustang Soccer
 U16,Northern Cal,1099657,2026-11-01 13:00,71303,39821,River Islands Surf ECNL B2010/11,COSC ECNL B2010/11,,,River Islands Sports Park - Field 2,3777,1470,Valley Surf | America,California Odyssey Soccer Club
-U16,Northern Cal,1099663,2026-11-01 13:00,81675,131260,Santa Clara Sporting ECNL B2010/11,San Francisco Elite Academy ECNL B2010/11,,,Santa Clara Youth Soccer Park - Field 1,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
+U16,Northern Cal,1099663,2026-11-01 13:00,81675,131260,Santa Clara Sporting ECNL B2010/11,San Francisco Elite Academy ECNL B2010/11,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U16,Northern Cal,1099645,2026-11-01 15:00,71821,81051,Marin FC ECNL B2010/11,1974 Newark FC ECNL B2010/11,,,College of Marin - Stadium,1585,4342,Marin FC,1974 Newark FC
 U16,Northern Cal,1099675,2026-11-07 16:00,80637,71880,Association FC ECNL B10/11,Placer United ECNL B2010/11,,,Alden E. Oliver Sports Park - Field 1,3065,3054,Association Football Club,Placer United Soccer Club
 U16,Northern Cal,1099681,2026-11-08 10:00,39821,132650,COSC ECNL B2010/11,Napa United ECNL B2010/11,,,Clovis Community College Soccer Field - field 1,1470,2907,California Odyssey Soccer Club,Napa United
@@ -5839,8 +5839,8 @@ U16,Northern Cal,1099705,2026-11-08 12:00,131737,81051,Los Gatos United Soccer C
 U16,Northern Cal,1099717,2026-11-08 12:00,132010,81675,Santa Rosa United ECNL B2010/11,Santa Clara Sporting ECNL B2010/11,,,Trione Fields - Trione West,91,2548,Santa Rosa United Soccer,Santa Clara Sporting
 U16,Northern Cal,1099711,2026-11-08 14:00,131260,82111,San Francisco Elite Academy ECNL B2010/11,San Juan SC ECNL B2010/11,,,University of San Francisco - Negoesco Stadium,1040,88,San Francisco Elite Academy,San Juan Soccer Club
 U16,Northern Cal,1099699,2026-11-08 16:00,89718,71821,Folsom Lake Surf ECNL B2010/11,Marin FC ECNL B2010/11,,,Folsom Lake College - Falcon Soccer Stadium,3989,1585,Folsom Lake Surf,Marin FC
+U16,Northern Cal,1099759,2026-11-14 12:15,131260,71880,San Francisco Elite Academy ECNL B2010/11,Placer United ECNL B2010/11,,,Skyline College - Upper Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U16,Northern Cal,1099741,2026-11-15,132473,39821,Mustang Soccer ECNL B2010/11,COSC ECNL B2010/11,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U16,Northern Cal,1099759,2026-11-15,131260,71880,San Francisco Elite Academy ECNL B2010/11,Placer United ECNL B2010/11,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U16,Northern Cal,1099723,2026-11-15 10:00,81051,89718,1974 Newark FC ECNL B2010/11,Folsom Lake Surf ECNL B2010/11,,,Newark Sportsfield Park - SFT #2 11v11,4342,3989,1974 Newark FC,Folsom Lake Surf
 U16,Northern Cal,1099765,2026-11-15 12:00,132010,82111,Santa Rosa United ECNL B2010/11,San Juan SC ECNL B2010/11,,,Trione Fields - Trione West,91,88,Santa Rosa United Soccer,San Juan Soccer Club
 U16,Northern Cal,1099735,2026-11-15 13:00,71821,81188,Marin FC ECNL B2010/11,Davis Legacy ECNL B2010/11,,,Redwood High School - Ghilotti,1585,1425,Marin FC,Davis Legacy Soccer Club
@@ -5980,7 +5980,7 @@ U16,Ohio Valley,1064694,2026-12-20 09:00,133354,82740,Louisville City Academy EC
 U16,Ohio Valley,1064698,2026-12-20 10:15,54744,60738,FC Pride Elite ECNL B2010/11,Pittsburgh Riverhounds ECNL B2010/11,,,FC Pride Performance Center - Field 1,1501,538,FC Pride,Pittsburgh Riverhounds
 U16,Ohio Valley,1064726,2026-12-20 10:45,69464,36939,Ohio Elite SA ECNL B2010/11,WNY Flash ECNL B2010/11,,,Seven Hills School - Lower Field,75,343,Ohio Elite Soccer Academy,WNY Flash Academy
 U16,Ohio Valley,1064730,2026-12-20 14:00,71993,134495,Ohio Premier ECNL B2010/11,RNY FC Youth ECNL B2010/11,,,OP Training Facility - Field 2,437,4867,Ohio Premier,RNY FC Youth
-U16,Ohio Valley,1064734,2027-01-30,60738,59143,Pittsburgh Riverhounds ECNL B2010/11,Cleveland Force SC ECNL B2010/11,,,,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
+U16,Ohio Valley,1064734,2027-01-30 10:15,60738,59143,Pittsburgh Riverhounds ECNL B2010/11,Cleveland Force SC ECNL B2010/11,,,Montour Junction Sports Complex - Indoor,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
 U16,Ohio Valley,1064738,2027-02-06 10:45,69464,60738,Ohio Elite SA ECNL B2010/11,Pittsburgh Riverhounds ECNL B2010/11,,,Seven Hills School - Lower Field,75,538,Ohio Elite Soccer Academy,Pittsburgh Riverhounds
 U16,Ohio Valley,1064742,2027-02-06 14:00,71993,54744,Ohio Premier ECNL B2010/11,FC Pride Elite ECNL B2010/11,,,OP Training Facility - Field 2,437,1501,Ohio Premier,FC Pride
 U16,Ohio Valley,1064750,2027-02-07 11:45,69464,54744,Ohio Elite SA ECNL B2010/11,FC Pride Elite ECNL B2010/11,,,Seven Hills School - Lower Field,75,1501,Ohio Elite Soccer Academy,FC Pride
@@ -6033,7 +6033,7 @@ U16,Ohio Valley,1064914,2027-05-01 14:00,71993,69464,Ohio Premier ECNL B2010/11,
 U16,Ohio Valley,1064926,2027-05-02 14:00,71993,133354,Ohio Premier ECNL B2010/11,Louisville City Academy ECNL B2010/11,,,OP Training Facility - Field 2,437,3475,Ohio Premier,LouCity / Racing Youth Academy
 U16,Ohio Valley,1064934,2027-05-08 11:45,69464,82740,Ohio Elite SA ECNL B2010/11,Nationals SC ECNL B2010/11,,,Ohio Elite Training Center - Field 9,75,1713,Ohio Elite Soccer Academy,Nationals
 U16,Ohio Valley,1064938,2027-05-08 14:00,71993,59143,Ohio Premier ECNL B2010/11,Cleveland Force SC ECNL B2010/11,,,OP Training Facility - Field 1,437,3478,Ohio Premier,Cleveland Force SC
-U16,Ohio Valley,1064942,2027-05-09,69464,59143,Ohio Elite SA ECNL B2010/11,Cleveland Force SC ECNL B2010/11,,,,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
+U16,Ohio Valley,1064942,2027-05-09 10:45,69464,59143,Ohio Elite SA ECNL B2010/11,Cleveland Force SC ECNL B2010/11,,,Ohio Elite Training Center - Field 9,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U16,Ohio Valley,1064946,2027-05-09 14:00,71993,82740,Ohio Premier ECNL B2010/11,Nationals SC ECNL B2010/11,,,OP Training Facility - Field 2,437,1713,Ohio Premier,Nationals
 U16,Ohio Valley,1064950,2027-05-15,54744,133354,FC Pride Elite ECNL B2010/11,Louisville City Academy ECNL B2010/11,,,,1501,3475,FC Pride,LouCity / Racing Youth Academy
 U16,Ohio Valley,1064954,2027-05-15,59143,36939,Cleveland Force SC ECNL B2010/11,WNY Flash ECNL B2010/11,,,,3478,343,Cleveland Force SC,WNY Flash Academy
@@ -6324,27 +6324,26 @@ U16,Texas,1106963,2026-09-27 13:00,133280,80772,Lonestar ATX Red ECNL B2010/11,O
 U16,Texas,1106951,2026-09-27 15:00,131171,134123,Sting ECNL B2010/11,Dallas Texans ECNL B2010/11,2,0,Sting National Training Center - Championship Field,36,37,Sting Soccer Club,Dallas Texans
 U16,Texas,1106981,2026-10-03 10:00,48117,81106,Albion Hurricanes FC ECNL B2010/11,DKSC ECNL B2010/11,,,Campbell Road Sports Park - Field 1,10,35,Albion Hurricanes FC,DKSC
 U16,Texas,1107005,2026-10-03 11:00,131623,133280,San Antonio City SC ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
-U16,Texas,1106993,2026-10-03 12:00,80547,131248,HTX ECNL B2010/11,FC Westlake ECNL B2010/11,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U16,Texas,1107011,2026-10-03 13:00,131312,131171,RISE SC ECNL B2010/11,Sting ECNL B2010/11,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
 U16,Texas,1106999,2026-10-03 15:00,81511,133281,SAFC ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
 U16,Texas,1107017,2026-10-04 11:00,48117,131171,Albion Hurricanes FC ECNL B2010/11,Sting ECNL B2010/11,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U16,Texas,1107041,2026-10-04 11:00,131623,133281,San Antonio City SC ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U16,Texas,1107029,2026-10-04 13:00,131312,81106,RISE SC ECNL B2010/11,DKSC ECNL B2010/11,,,South Campus - Field 1,1772,35,RISE Soccer Club,DKSC
 U16,Texas,1106987,2026-10-04 15:00,80772,69605,OK Energy FC Academy B2010/11,FC Dallas Youth Red ECNL B2010/11,3,2,North Oklahoma City FC - NOKC Red 2,2133,47,Oklahoma Energy FC,FC Dallas Youth
-U16,Texas,1107035,2026-10-04 15:00,69285,134123,SOLAR SC ECNL B2010/11,Dallas Texans ECNL B2010/11,,,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
+U16,Texas,1107035,2026-10-04 15:00,69285,134123,SOLAR SC ECNL B2010/11,Dallas Texans ECNL B2010/11,3,0,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U16,Texas,1107047,2026-10-04 15:00,81511,133280,SAFC ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,STAR Soccer Complex - Field 3,4304,62,San Antonio FC,Lonestar ATX
-U16,Texas,1107053,2026-10-10,81106,131248,DKSC ECNL B2010/11,FC Westlake ECNL B2010/11,,,,35,3234,DKSC,FC Westlake
 U16,Texas,1107107,2026-10-10,82752,69285,Solar SC Academy ECNL B2010/11,SOLAR SC ECNL B2010/11,,,,101,101,Solar SC,Solar SC
 U16,Texas,1107059,2026-10-10 09:00,134123,134028,Dallas Texans ECNL B2010/11,Dallas Texans Academy ECNL B2010/11,,,Memorial High School - Field 1,37,37,Dallas Texans,Dallas Texans
 U16,Texas,1107083,2026-10-10 11:00,133280,69608,Lonestar ATX Red ECNL B2010/11,FC Dallas Youth White ECNL B2010/11,,,Bible Stadium - Field 1,62,47,Lonestar ATX,FC Dallas Youth
+U16,Texas,1107053,2026-10-10 13:00,81106,131248,DKSC ECNL B2010/11,FC Westlake ECNL B2010/11,,,Clark East Field - Field 2,35,3234,DKSC,FC Westlake
 U16,Texas,1107065,2026-10-10 13:00,133281,69605,Lonestar ATX Royal ECNL B2010/11,FC Dallas Youth Red ECNL B2010/11,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U16,Texas,1107089,2026-10-10 13:00,131171,80547,Sting ECNL B2010/11,HTX ECNL B2010/11,,,Sting National Training Center - Championship Field,36,2258,Sting Soccer Club,HTX
 U16,Texas,1107095,2026-10-10 13:00,80772,131623,OK Energy FC Academy B2010/11,San Antonio City SC ECNL B2010/11,,,North Oklahoma City FC - NOKC Red 2,2133,2519,Oklahoma Energy FC,San Antonio City SC
 U16,Texas,1107101,2026-10-10 15:00,130561,81511,Tulsa SC ECNL B2010/11,SAFC ECNL B2010/11,,,Jenks Sports Complex - Field 2,106,4304,Tulsa Soccer Club,San Antonio FC
-U16,Texas,1107143,2026-10-11,131171,131248,Sting ECNL B2010/11,FC Westlake ECNL B2010/11,,,,36,3234,Sting Soccer Club,FC Westlake
 U16,Texas,1107131,2026-10-11 09:00,133281,69608,Lonestar ATX Royal ECNL B2010/11,FC Dallas Youth White ECNL B2010/11,,,Glenn High School - Field 3,62,47,Lonestar ATX,FC Dallas Youth
 U16,Texas,1107155,2026-10-11 09:00,130561,131623,Tulsa SC ECNL B2010/11,San Antonio City SC ECNL B2010/11,,,Jenks Sports Complex - Field 1,106,2519,Tulsa Soccer Club,San Antonio City SC
 U16,Texas,1107125,2026-10-11 11:00,133280,69605,Lonestar ATX Red ECNL B2010/11,FC Dallas Youth Red ECNL B2010/11,,,Burger Activity Center - Field 2,62,47,Lonestar ATX,FC Dallas Youth
+U16,Texas,1107143,2026-10-11 11:00,131171,131248,Sting ECNL B2010/11,FC Westlake ECNL B2010/11,,,Sting National Training Center - Championship Field,36,3234,Sting Soccer Club,FC Westlake
 U16,Texas,1107113,2026-10-11 13:00,81106,80547,DKSC ECNL B2010/11,HTX ECNL B2010/11,,,Clark East Field - Field 2,35,2258,DKSC,HTX
 U16,Texas,1107149,2026-10-11 13:00,80772,81511,OK Energy FC Academy B2010/11,SAFC ECNL B2010/11,,,North Oklahoma City FC - NOKC Red 2,2133,4304,Oklahoma Energy FC,San Antonio FC
 U16,Texas,1106873,2026-10-14 20:00,133280,133281,Lonestar ATX Red ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,Round Rock MultiPurpose Complex - Field 7,62,62,Lonestar ATX,Lonestar ATX
@@ -6383,6 +6382,7 @@ U16,Texas,1107353,2026-10-31 12:00,134123,133280,Dallas Texans ECNL B2010/11,Lon
 U16,Texas,1107341,2026-10-31 13:30,81111,81106,Colorado Storm ECNL B2010/11,DKSC ECNL B2010/11,,,Stargate Charter School - Field 2,29,35,Colorado Storm,DKSC
 U16,Texas,1107365,2026-10-31 13:30,133095,131171,Real Colorado Academy ECNL B2010/11,Sting ECNL B2010/11,,,Real Colorado Soccer Complex - RCSC Grass,81,36,Real Colorado,Sting Soccer Club
 U16,Texas,1107383,2026-11-01 09:00,134028,133280,Dallas Texans Academy ECNL B2010/11,Lonestar ATX Red ECNL B2010/11,,,Beacon Park - field 7,37,62,Dallas Texans,Lonestar ATX
+U16,Texas,1106993,2026-11-01 10:00,80547,131248,HTX ECNL B2010/11,FC Westlake ECNL B2010/11,,,Bear Branch Sportsfields - Field 1,2258,3234,HTX,FC Westlake
 U16,Texas,1107389,2026-11-01 11:00,134123,133281,Dallas Texans ECNL B2010/11,Lonestar ATX Royal ECNL B2010/11,,,Beacon Park - field 5,37,62,Dallas Texans,Lonestar ATX
 U16,Texas,1107371,2026-11-01 11:15,81111,131171,Colorado Storm ECNL B2010/11,Sting ECNL B2010/11,,,Stargate Charter School - Field 2,29,36,Colorado Storm,Sting Soccer Club
 U16,Texas,1107359,2026-11-01 13:00,69608,80772,FC Dallas Youth White ECNL B2010/11,OK Energy FC Academy B2010/11,,,Toyota Soccer Center - Field 11,47,2133,FC Dallas Youth,Oklahoma Energy FC
@@ -6624,7 +6624,7 @@ U17,Heartland,1057306,2026-10-03,136136,131217,Sporting Nebraska FC ECNL B2009/1
 U17,Heartland,1057302,2026-10-03 13:00,131680,132392,Gretna Elite Academy ECNL B2009/10,Sporting Iowa Central ECNL B2009/10,2,1,Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 2,373,3483,Gretna Elite Academy,Sporting Iowa Central
 U17,Heartland,1057310,2026-10-03 13:00,134707,69198,Arkansas Comets FC ECNL B2009/10,OK Energy FC ECNL B2009/10,2,2,Brunner & Lay Soccer Complex - Field 1,3585,2133,Arkansas Comets FC,Oklahoma Energy FC
 U17,Heartland,1057314,2026-10-04 09:30,131680,131217,Gretna Elite Academy ECNL B2009/10,VSA Rush ECNL B2009/10,0,1,Pinnacle Bank Soccer Complex ( Gretna Soccer Compl - Field 1,373,3723,Gretna Elite Academy,VSA Rush
-U17,Heartland,1057318,2026-10-04 12:00,136136,132392,Sporting Nebraska FC ECNL B2009/10,Sporting Iowa Central ECNL B2009/10,,,Bellevue University - Field 1,1726,3483,Sporting Nebraska FC,Sporting Iowa Central
+U17,Heartland,1057318,2026-10-04 12:00,136136,132392,Sporting Nebraska FC ECNL B2009/10,Sporting Iowa Central ECNL B2009/10,1,0,Bellevue University - Field 1,1726,3483,Sporting Nebraska FC,Sporting Iowa Central
 U17,Heartland,1057326,2026-10-10 15:00,131217,69198,VSA Rush ECNL B2009/10,OK Energy FC ECNL B2009/10,,,VSA Timberline Soccer Complex - Field 2,3723,2133,VSA Rush,Oklahoma Energy FC
 U17,Heartland,1057322,2026-10-10 16:00,132392,134707,Sporting Iowa Central ECNL B2009/10,Arkansas Comets FC ECNL B2009/10,,,Hy-Vee Multiplex - Green #2,3483,3585,Sporting Iowa Central,Arkansas Comets FC
 U17,Heartland,1057330,2026-10-11 08:00,132392,69198,Sporting Iowa Central ECNL B2009/10,OK Energy FC ECNL B2009/10,,,Hy-Vee Multiplex - Green #2,3483,2133,Sporting Iowa Central,Oklahoma Energy FC
@@ -7273,7 +7273,7 @@ U17,Northern Cal,1099596,2026-10-25 14:00,33942,132012,COSC ECNL B2009/10,Santa 
 U17,Northern Cal,1099644,2026-11-01 09:00,62040,81050,Marin FC ECNL B2009/10,1974 Newark FC ECNL B2009/10,,,San Rafael High School - Stadium,1585,4342,Marin FC,1974 Newark FC
 U17,Northern Cal,1099668,2026-11-01 09:00,69483,80634,San Juan SC ECNL B2009/10,Association FC ECNL B09/10,,,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,3065,San Juan Soccer Club,Association Football Club
 U17,Northern Cal,1099656,2026-11-01 11:00,71302,33942,River Islands Surf ECNL B2009/10,COSC ECNL B2009/10,,,River Islands Sports Park - Field 1,3777,1470,Valley Surf | America,California Odyssey Soccer Club
-U17,Northern Cal,1099662,2026-11-01 11:00,64799,131263,Santa Clara Sporting ECNL B2009/10,San Francisco Elite Academy ECNL B2009/10,,,Santa Clara Youth Soccer Park - Field 1,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
+U17,Northern Cal,1099662,2026-11-01 11:00,64799,131263,Santa Clara Sporting ECNL B2009/10,San Francisco Elite Academy ECNL B2009/10,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U17,Northern Cal,1099632,2026-11-01 12:00,93678,24504,Folsom Lake Surf ECNL B2009/10,MVLA ECNL B2009/10,,,Folsom Lake College - Falcon Soccer Stadium,3989,294,Folsom Lake Surf,MVLA
 U17,Northern Cal,1099650,2026-11-01 13:00,68833,69627,Placer United ECNL B2009/10,Davis Legacy ECNL B2009/10,,,Placer Valley Soccer Complex - Field 6,3054,1425,Placer United Soccer Club,Davis Legacy Soccer Club
 U17,Northern Cal,1099626,2026-11-01 14:00,70362,132651,El Camino FC Salinas ECNL B2009/10,Napa United ECNL B2009/10,,,Salinas Regional Soccer Complex - Turf #1,4063,2907,El Camino FC Salinas,Napa United
@@ -7286,8 +7286,8 @@ U17,Northern Cal,1099680,2026-11-08 14:00,33942,132651,COSC ECNL B2009/10,Napa U
 U17,Northern Cal,1099698,2026-11-08 14:00,93678,62040,Folsom Lake Surf ECNL B2009/10,Marin FC ECNL B2009/10,,,Folsom Lake College - Falcon Soccer Stadium,3989,1585,Folsom Lake Surf,Marin FC
 U17,Northern Cal,1099704,2026-11-08 14:00,131739,81050,Los Gatos United Soccer Club ECNL B2009/10,1974 Newark FC ECNL B2009/10,,,Monta Vista High School - Lower Field,3231,4342,Los Gatos United Soccer Club,1974 Newark FC
 U17,Northern Cal,1099716,2026-11-08 14:00,132012,64799,Santa Rosa United ECNL B2009/10,Santa Clara Sporting ECNL B2009/10,,,Trione Fields - Trione West,91,2548,Santa Rosa United Soccer,Santa Clara Sporting
+U17,Northern Cal,1099758,2026-11-14 10:00,131263,68833,San Francisco Elite Academy ECNL B2009/10,Placer United ECNL B2009/10,,,Skyline College - Upper Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U17,Northern Cal,1099740,2026-11-15,132474,33942,Mustang Soccer ECNL B2009/10,COSC ECNL B2009/10,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U17,Northern Cal,1099758,2026-11-15,131263,68833,San Francisco Elite Academy ECNL B2009/10,Placer United ECNL B2009/10,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U17,Northern Cal,1099734,2026-11-15 09:00,62040,69627,Marin FC ECNL B2009/10,Davis Legacy ECNL B2009/10,,,College of Marin - Stadium,1585,1425,Marin FC,Davis Legacy Soccer Club
 U17,Northern Cal,1099746,2026-11-15 11:00,24504,80634,MVLA ECNL B2009/10,Association FC ECNL B09/10,,,Foothill College - Top Hill Soccer Field,294,3065,MVLA,Association Football Club
 U17,Northern Cal,1099752,2026-11-15 11:00,64799,71302,Santa Clara Sporting ECNL B2009/10,River Islands Surf ECNL B2009/10,,,Santa Clara Youth Soccer Park - Field 1,2548,3777,Santa Clara Sporting,Valley Surf | America
@@ -7427,7 +7427,7 @@ U17,Ohio Valley,1064727,2026-12-20,69455,36928,Ohio Elite SA ECNL B2009/10,WNY F
 U17,Ohio Valley,1064695,2026-12-20 11:00,133355,70531,Louisville City Academy ECNL B2009/10,Nationals SC ECNL B2009/10,,,Lynn Family Sports Vision & Training Facility - Field 3,3475,1713,LouCity / Racing Youth Academy,Nationals
 U17,Ohio Valley,1064699,2026-12-20 12:00,54745,60739,FC Pride Elite ECNL B2009/10,Pittsburgh Riverhounds ECNL B2009/10,,,FC Pride Performance Center - Field 1,1501,538,FC Pride,Pittsburgh Riverhounds
 U17,Ohio Valley,1064731,2026-12-20 12:00,68979,134494,Ohio Premier ECNL B2009/10,RNY FC Youth ECNL B2009/10,,,OP Training Facility - Field 2,437,4867,Ohio Premier,RNY FC Youth
-U17,Ohio Valley,1064735,2027-01-30,60739,59141,Pittsburgh Riverhounds ECNL B2009/10,Cleveland Force SC ECNL B2009/10,,,,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
+U17,Ohio Valley,1064735,2027-01-30 12:00,60739,59141,Pittsburgh Riverhounds ECNL B2009/10,Cleveland Force SC ECNL B2009/10,,,Montour Junction Sports Complex - Indoor,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
 U17,Ohio Valley,1064743,2027-02-06 12:00,68979,54745,Ohio Premier ECNL B2009/10,FC Pride Elite ECNL B2009/10,,,OP Training Facility - Field 2,437,1501,Ohio Premier,FC Pride
 U17,Ohio Valley,1064739,2027-02-06 12:30,69455,60739,Ohio Elite SA ECNL B2009/10,Pittsburgh Riverhounds ECNL B2009/10,,,Seven Hills School - Lower Field,75,538,Ohio Elite Soccer Academy,Pittsburgh Riverhounds
 U17,Ohio Valley,1064747,2027-02-07 12:00,68979,60739,Ohio Premier ECNL B2009/10,Pittsburgh Riverhounds ECNL B2009/10,,,OP Training Facility - Field 2,437,538,Ohio Premier,Pittsburgh Riverhounds
@@ -7480,8 +7480,8 @@ U17,Ohio Valley,1064915,2027-05-01 12:00,68979,69455,Ohio Premier ECNL B2009/10,
 U17,Ohio Valley,1064927,2027-05-02 12:00,68979,133355,Ohio Premier ECNL B2009/10,Louisville City Academy ECNL B2009/10,,,OP Training Facility - Field 2,437,3475,Ohio Premier,LouCity / Racing Youth Academy
 U17,Ohio Valley,1064939,2027-05-08 12:00,68979,59141,Ohio Premier ECNL B2009/10,Cleveland Force SC ECNL B2009/10,,,OP Training Facility - Field 1,437,3478,Ohio Premier,Cleveland Force SC
 U17,Ohio Valley,1064935,2027-05-08 13:30,69455,70531,Ohio Elite SA ECNL B2009/10,Nationals SC ECNL B2009/10,,,Ohio Elite Training Center - Field 9,75,1713,Ohio Elite Soccer Academy,Nationals
-U17,Ohio Valley,1064943,2027-05-09,69455,59141,Ohio Elite SA ECNL B2009/10,Cleveland Force SC ECNL B2009/10,,,,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U17,Ohio Valley,1064947,2027-05-09 12:00,68979,70531,Ohio Premier ECNL B2009/10,Nationals SC ECNL B2009/10,,,OP Training Facility - Field 2,437,1713,Ohio Premier,Nationals
+U17,Ohio Valley,1064943,2027-05-09 12:30,69455,59141,Ohio Elite SA ECNL B2009/10,Cleveland Force SC ECNL B2009/10,,,Ohio Elite Training Center - Field 9,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U17,Ohio Valley,1064951,2027-05-15,54745,133355,FC Pride Elite ECNL B2009/10,Louisville City Academy ECNL B2009/10,,,,1501,3475,FC Pride,LouCity / Racing Youth Academy
 U17,Ohio Valley,1064955,2027-05-15,59141,36928,Cleveland Force SC ECNL B2009/10,WNY Flash ECNL B2009/10,,,,3478,343,Cleveland Force SC,WNY Flash Academy
 U17,Ohio Valley,1064959,2027-05-15,70531,134494,Nationals SC ECNL B2009/10,RNY FC Youth ECNL B2009/10,,,,1713,4867,Nationals,RNY FC Youth
@@ -7771,7 +7771,6 @@ U17,Texas,1106964,2026-09-27 11:00,133277,62605,Lonestar ATX Red ECNL B2009/10,O
 U17,Texas,1106952,2026-09-27 13:00,131167,134119,Sting ECNL B2009/10,Dallas Texans ECNL B2009/10,4,1,Sting National Training Center - Championship Field,36,37,Sting Soccer Club,Dallas Texans
 U17,Texas,1107012,2026-10-03 11:00,131311,131167,RISE SC ECNL B2009/10,Sting ECNL B2009/10,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
 U17,Texas,1106982,2026-10-03 12:00,48116,68922,Albion Hurricanes FC ECNL B2009/10,DKSC ECNL B2009/10,,,Campbell Road Sports Park - Field 2,10,35,Albion Hurricanes FC,DKSC
-U17,Texas,1106994,2026-10-03 12:00,68820,131249,HTX ECNL B2009/10,FC Westlake ECNL B2009/10,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U17,Texas,1107006,2026-10-03 13:00,131624,133277,San Antonio City SC ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U17,Texas,1107000,2026-10-03 15:00,81512,133279,SAFC ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U17,Texas,1107030,2026-10-04 11:00,131311,68922,RISE SC ECNL B2009/10,DKSC ECNL B2009/10,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
@@ -7780,15 +7779,14 @@ U17,Texas,1107018,2026-10-04 13:00,48116,131167,Albion Hurricanes FC ECNL B2009/
 U17,Texas,1107036,2026-10-04 13:00,59418,134119,SOLAR SC ECNL B2009/10,Dallas Texans ECNL B2009/10,0,2,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U17,Texas,1107042,2026-10-04 13:00,131624,133279,San Antonio City SC ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,Specht Soccer Complex - Field 1,2519,62,San Antonio City SC,Lonestar ATX
 U17,Texas,1107048,2026-10-04 13:00,81512,133277,SAFC ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
-U17,Texas,1107054,2026-10-10,68922,131249,DKSC ECNL B2009/10,FC Westlake ECNL B2009/10,,,,35,3234,DKSC,FC Westlake
 U17,Texas,1107108,2026-10-10,82751,59418,Solar SC Academy ECNL B2009/10,SOLAR SC ECNL B2009/10,,,,101,101,Solar SC,Solar SC
 U17,Texas,1107060,2026-10-10 11:00,134119,134027,Dallas Texans ECNL B2009/10,Dallas Texans Academy ECNL B2009/10,,,Memorial High School - Field 1,37,37,Dallas Texans,Dallas Texans
 U17,Texas,1107084,2026-10-10 13:00,133277,69544,Lonestar ATX Red ECNL B2009/10,FC Dallas Youth White ECNL B2009/10,,,Bible Stadium - Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U17,Texas,1107096,2026-10-10 13:00,62605,131624,OK Energy FC Academy B2009/10,San Antonio City SC ECNL B2009/10,,,North Oklahoma City FC - NOKC Red 5,2133,2519,Oklahoma Energy FC,San Antonio City SC
 U17,Texas,1107102,2026-10-10 13:00,130564,81512,Tulsa SC ECNL B2009/10,SAFC ECNL B2009/10,,,Jenks Sports Complex - Field 1,106,4304,Tulsa Soccer Club,San Antonio FC
+U17,Texas,1107054,2026-10-10 15:00,68922,131249,DKSC ECNL B2009/10,FC Westlake ECNL B2009/10,,,Clark East Field - Field 2,35,3234,DKSC,FC Westlake
 U17,Texas,1107066,2026-10-10 15:00,133279,69576,Lonestar ATX Royal ECNL B2009/10,FC Dallas Youth Red ECNL B2009/10,,,Burger Activity Center - Field 2,62,47,Lonestar ATX,FC Dallas Youth
-U17,Texas,1107144,2026-10-11,131167,131249,Sting ECNL B2009/10,FC Westlake ECNL B2009/10,,,,36,3234,Sting Soccer Club,FC Westlake
-U17,Texas,1107114,2026-10-11 09:00,68922,68820,DKSC ECNL B2009/10,HTX ECNL B2009/10,,,Clark East Field - Field 2,35,2258,DKSC,HTX
+U17,Texas,1107114,2026-10-11 11:00,68922,68820,DKSC ECNL B2009/10,HTX ECNL B2009/10,,,Clark East Field - Field 2,35,2258,DKSC,HTX
 U17,Texas,1107132,2026-10-11 11:00,133279,69544,Lonestar ATX Royal ECNL B2009/10,FC Dallas Youth White ECNL B2009/10,,,Glenn High School - Field 3,62,47,Lonestar ATX,FC Dallas Youth
 U17,Texas,1107150,2026-10-11 11:00,62605,81512,OK Energy FC Academy B2009/10,SAFC ECNL B2009/10,,,North Oklahoma City FC - NOKC Red 5,2133,4304,Oklahoma Energy FC,San Antonio FC
 U17,Texas,1107156,2026-10-11 11:00,130564,131624,Tulsa SC ECNL B2009/10,San Antonio City SC ECNL B2009/10,,,Jenks Sports Complex - Field 1,106,2519,Tulsa Soccer Club,San Antonio City SC
@@ -7828,6 +7826,7 @@ U17,Texas,1107342,2026-10-31 09:00,69487,68922,Colorado Storm ECNL B2009/10,DKSC
 U17,Texas,1107348,2026-10-31 10:00,134027,133279,Dallas Texans Academy ECNL B2009/10,Lonestar ATX Royal ECNL B2009/10,,,Beacon Park - field 7,37,62,Dallas Texans,Lonestar ATX
 U17,Texas,1107354,2026-10-31 10:00,134119,133277,Dallas Texans ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,Beacon Park - field 5,37,62,Dallas Texans,Lonestar ATX
 U17,Texas,1107366,2026-10-31 11:15,133094,131167,Real Colorado Academy ECNL B2009/10,Sting ECNL B2009/10,,,Real Colorado Soccer Complex - RCSC Grass,81,36,Real Colorado,Sting Soccer Club
+U17,Texas,1106994,2026-11-01 10:00,68820,131249,HTX ECNL B2009/10,FC Westlake ECNL B2009/10,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U17,Texas,1107360,2026-11-01 11:00,69544,62605,FC Dallas Youth White ECNL B2009/10,OK Energy FC Academy B2009/10,,,Toyota Soccer Center - Field 11,47,2133,FC Dallas Youth,Oklahoma Energy FC
 U17,Texas,1107384,2026-11-01 11:00,134027,133277,Dallas Texans Academy ECNL B2009/10,Lonestar ATX Red ECNL B2009/10,,,Beacon Park - field 7,37,62,Dallas Texans,Lonestar ATX
 U17,Texas,1107774,2026-11-01 11:00,131624,48116,San Antonio City SC ECNL B2009/10,Albion Hurricanes FC ECNL B2009/10,,,Specht Soccer Complex - Field 1,2519,10,San Antonio City SC,Albion Hurricanes FC
@@ -7865,6 +7864,7 @@ U17,Texas,1107558,2026-12-12,81512,69487,SAFC ECNL B2009/10,Colorado Storm ECNL 
 U17,Texas,1107570,2026-12-12 11:00,131624,133094,San Antonio City SC ECNL B2009/10,Real Colorado Academy ECNL B2009/10,,,Specht Soccer Complex - Field 2,2519,81,San Antonio City SC,Real Colorado
 U17,Texas,1107090,2026-12-12 13:00,131167,68820,Sting ECNL B2009/10,HTX ECNL B2009/10,,,Sting National Training Center - Championship Field,36,2258,Sting Soccer Club,HTX
 U17,Texas,1107582,2026-12-13,81512,133094,SAFC ECNL B2009/10,Real Colorado Academy ECNL B2009/10,,,,4304,81,San Antonio FC,Real Colorado
+U17,Texas,1107144,2026-12-13 13:00,131167,131249,Sting ECNL B2009/10,FC Westlake ECNL B2009/10,,,Sting National Training Center - Championship Field,36,3234,Sting Soccer Club,FC Westlake
 U17,Texas,1107024,2027-01-15 11:15,133094,69487,Real Colorado Academy ECNL B2009/10,Colorado Storm ECNL B2009/10,,,Real Colorado Soccer Complex - RCSC Grass,81,29,Real Colorado,Colorado Storm
 U17,Texas,1107564,2027-02-07 11:00,69544,130564,FC Dallas Youth White ECNL B2009/10,Tulsa SC ECNL B2009/10,,,Toyota Soccer Center - Field 11,47,106,FC Dallas Youth,Tulsa Soccer Club
 U17,Texas,1107588,2027-02-21 13:00,130564,69576,Tulsa SC ECNL B2009/10,FC Dallas Youth Red ECNL B2009/10,,,Jenks Sports Complex - Field 1,106,47,Tulsa Soccer Club,FC Dallas Youth
@@ -7965,7 +7965,7 @@ U18/19,Florida,1068421,2026-09-20 09:00,34896,46908,Palm Beach United ECNL B2008
 U18/19,Florida,1068409,2026-09-20 12:00,133319,48695,AC Florida West ECNL B2008/09,Parkland Soccer Club ECNL B2008/09,1,6,North Collier Regional Park - Field 3,3384,3387,AC Florida West,Parkland Soccer Club
 U18/19,Florida,1068403,2026-09-26 11:00,114353,68942,Doral Soccer Club ECNL B2008/09,Athletic Club Florida ECNL B2008/09,3,1,Morgan Levy Park Doral - Field 1,2237,2329,Doral SC,Athletic Club Florida
 U18/19,Florida,1068427,2026-09-26 11:00,133900,34971,Fort Lauderdale United FC ECNL B2008/09,Florida Kraze Krush ECNL B2008/09,1,1,Miami Dolphins Training Facility @ NOVA Southeaste - Field 1,1925,379,Fort Lauderdale United FC,Florida Kraze Krush
-U18/19,Florida,1068439,2026-09-26 11:00,44614,133313,Space Coast United ECNL B2008/09,Florida Premier FC South ECNL B2008/09,2,1,SCU - Viera Regional Park Soccer Fields - Field 3,1919,2731,Space Coast United,Florida Premier FC
+U18/19,Florida,1068439,2026-09-26 11:00,44614,133313,Space Coast United ECNL B2008/09,Florida Premier FC South ECNL B2008/09,1,2,SCU - Viera Regional Park Soccer Fields - Field 3,1919,2731,Space Coast United,Florida Premier FC
 U18/19,Florida,1068433,2026-09-26 16:00,46908,47874,Sporting SA JAX ECNL B2008/09,Florida Premier FC ECNL B2008/09,2,5,Indian Trails Sports Complex - Field 3,1353,2731,Sporting SA,Florida Premier FC
 U18/19,Florida,1068457,2026-09-27 11:00,44614,47874,Space Coast United ECNL B2008/09,Florida Premier FC ECNL B2008/09,1,4,SCU - Viera Regional Park Soccer Fields - Field 3,1919,2731,Space Coast United,Florida Premier FC
 U18/19,Florida,1068463,2026-09-27 14:00,46908,133313,Sporting SA JAX ECNL B2008/09,Florida Premier FC South ECNL B2008/09,1,0,Indian Trails Sports Complex - Field 3,1353,2731,Sporting SA,Florida Premier FC
@@ -8191,7 +8191,7 @@ U18/19,Mid-America,1059681,2026-09-26 12:00,134637,134780,FC Alliance TN ECNL B2
 U18/19,Mid-America,1059685,2026-09-27 13:00,135576,134780,Chattanooga Red Wolves SC ECNL B2008/09,Tennessee SC ECNL B2008/09,1,2,Camp Jordan Sports Complex - field 3,3232,1354,Chattanooga Red Wolves SC,Tennessee SC
 U18/19,Mid-America,1059689,2026-09-27 13:00,134637,132271,FC Alliance TN ECNL B2008/09,Tennessee United SC ECNL B2008/09,1,1,Tommy Shumpert - Field 1,1693,4565,FC Alliance TN,Tennessee United SC
 U18/19,Mid-America,1059701,2026-10-03 09:00,134780,131969,Tennessee SC ECNL B2008/09,Coastal Rush ECNL B2008/09,3,1,Independence High School - Soccer Field,1354,4319,Tennessee SC,Coastal Rush
-U18/19,Mid-America,1059697,2026-10-03 11:00,134637,135576,FC Alliance TN ECNL B2008/09,Chattanooga Red Wolves SC ECNL B2008/09,,,Mayor Bob Leonard Park - Field 1,1693,3232,FC Alliance TN,Chattanooga Red Wolves SC
+U18/19,Mid-America,1059697,2026-10-03 11:00,134637,135576,FC Alliance TN ECNL B2008/09,Chattanooga Red Wolves SC ECNL B2008/09,0,1,Mayor Bob Leonard Park - Field 1,1693,3232,FC Alliance TN,Chattanooga Red Wolves SC
 U18/19,Mid-America,1059709,2026-10-03 11:00,134078,135526,Mississippi Rush United ECNL B2008/09,Lobos Rush ECNL B2008/09,,,Jackson Futbol Club - Field 5,4327,2235,Mississippi Rush,Lobos Rush
 U18/19,Mid-America,1059693,2026-10-03 15:00,132271,58878,Tennessee United SC ECNL B2008/09,Alabama FC ECNL B2008/09,0,2,Drakes Creek Park (DCP) - Field 4,4565,18,Tennessee United SC,Alabama FC
 U18/19,Mid-America,1059721,2026-10-04 09:00,134078,83080,Mississippi Rush United ECNL B2008/09,Germantown Legends ECNL B2008/09,,,Freedom Ridge Park - Stadium,4327,3589,Mississippi Rush,Germantown Legends
@@ -8696,10 +8696,10 @@ U18/19,Northern Cal,1099451,2026-09-27 14:00,131741,80633,Los Gatos United Socce
 U18/19,Northern Cal,1099487,2026-10-03 09:00,71301,132652,River Islands Surf ECNL B2008/09,Napa United ECNL B2008/09,,,River Islands Sports Park - FIeld 1 (11v11),3777,2907,Valley Surf | America,Napa United
 U18/19,Northern Cal,1099481,2026-10-03 14:00,59933,80778,Placer United ECNL B2008/09,1974 Newark FC ECNL B2008/09,4,1,Placer Valley Soccer Complex - Field 4,3054,4342,Placer United Soccer Club,1974 Newark FC
 U18/19,Northern Cal,1099517,2026-10-04 13:00,60204,35860,San Juan SC ECNL B08/09,MVLA ECNL B2008/09,2,0,Tiemann Law Firm Fields at San Juan Soccer Complex - White Field,88,294,San Juan Soccer Club,MVLA
-U18/19,Northern Cal,1099505,2026-10-04 13:15,47721,56319,Marin FC ECNL B2008/09,Santa Clara Sporting ECNL B2008/09,,,Terra Linda High School - Stadium,1585,2548,Marin FC,Santa Clara Sporting
+U18/19,Northern Cal,1099505,2026-10-04 13:15,47721,56319,Marin FC ECNL B2008/09,Santa Clara Sporting ECNL B2008/09,3,4,Terra Linda High School - Stadium,1585,2548,Marin FC,Santa Clara Sporting
 U18/19,Northern Cal,1099499,2026-10-04 14:00,60302,69843,Davis Legacy ECNL B2008/09,COSC ECNL B2008/09,1,2,Davis Legacy Soccer Complex - Field 14,1425,1470,Davis Legacy Soccer Club,California Odyssey Soccer Club
 U18/19,Northern Cal,1099523,2026-10-04 14:00,132013,132475,Santa Rosa United ECNL B2008/09,Mustang Soccer ECNL B2008/09,0,1,Trione Fields - Trione East,91,69,Santa Rosa United Soccer,Mustang Soccer
-U18/19,Northern Cal,1099511,2026-10-04 14:30,131265,131741,San Francisco Elite Academy ECNL B2008/09,Los Gatos United Soccer Club ECNL B2008/09,,,University of San Francisco - Negoesco Stadium,1040,3231,San Francisco Elite Academy,Los Gatos United Soccer Club
+U18/19,Northern Cal,1099511,2026-10-04 14:30,131265,131741,San Francisco Elite Academy ECNL B2008/09,Los Gatos United Soccer Club ECNL B2008/09,1,1,University of San Francisco - Negoesco Stadium,1040,3231,San Francisco Elite Academy,Los Gatos United Soccer Club
 U18/19,Northern Cal,1099493,2026-10-04 15:00,80633,70357,Association FC ECNL B08/09,El Camino FC Salinas ECNL B2008/09,3,3,Witter Sports Complex - Stadium,3065,4063,Association Football Club,El Camino FC Salinas
 U18/19,Northern Cal,1099559,2026-10-18,132475,71301,Mustang Soccer ECNL B2008/09,River Islands Surf ECNL B2008/09,,,,69,3777,Mustang Soccer,Valley Surf | America
 U18/19,Northern Cal,1099565,2026-10-18 09:00,59933,35860,Placer United ECNL B2008/09,MVLA ECNL B2008/09,,,Placer Valley Soccer Complex - Field 6,3054,294,Placer United Soccer Club,MVLA
@@ -8717,7 +8717,7 @@ U18/19,Northern Cal,1099589,2026-10-25 12:00,80778,132475,1974 Newark FC ECNL B2
 U18/19,Northern Cal,1099595,2026-10-25 12:00,69843,132013,COSC ECNL B2008/09,Santa Rosa United ECNL B2008/09,,,Clovis Community College Soccer Field - field 1,1470,91,California Odyssey Soccer Club,Santa Rosa United Soccer
 U18/19,Northern Cal,1099601,2026-10-25 14:00,60302,60204,Davis Legacy ECNL B2008/09,San Juan SC ECNL B08/09,,,Davis Legacy Soccer Complex - Field 12,1425,88,Davis Legacy Soccer Club,San Juan Soccer Club
 U18/19,Northern Cal,1099607,2026-10-25 14:00,80748,59933,Folsom Lake Surf ECNL B2008/09,Placer United ECNL B2008/09,,,Davis Legacy Soccer Complex - Field 13,3989,3054,Folsom Lake Surf,Placer United Soccer Club
-U18/19,Northern Cal,1099661,2026-11-01 09:00,56319,131265,Santa Clara Sporting ECNL B2008/09,San Francisco Elite Academy ECNL B2008/09,,,Santa Clara Youth Soccer Park - Field 1,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
+U18/19,Northern Cal,1099661,2026-11-01 09:00,56319,131265,Santa Clara Sporting ECNL B2008/09,San Francisco Elite Academy ECNL B2008/09,,,Santa Clara Youth Soccer Park - Field 2,2548,1040,Santa Clara Sporting,San Francisco Elite Academy
 U18/19,Northern Cal,1099643,2026-11-01 11:00,47721,80778,Marin FC ECNL B2008/09,1974 Newark FC ECNL B2008/09,,,San Rafael High School - Stadium,1585,4342,Marin FC,1974 Newark FC
 U18/19,Northern Cal,1099649,2026-11-01 13:00,59933,60302,Placer United ECNL B2008/09,Davis Legacy ECNL B2008/09,,,Placer Valley Soccer Complex - Field 5,3054,1425,Placer United Soccer Club,Davis Legacy Soccer Club
 U18/19,Northern Cal,1099655,2026-11-01 13:00,71301,69843,River Islands Surf ECNL B2008/09,COSC ECNL B2008/09,,,River Islands Sports Park - Field 1,3777,1470,Valley Surf | America,California Odyssey Soccer Club
@@ -8733,8 +8733,8 @@ U18/19,Northern Cal,1099691,2026-11-08 14:00,70357,132475,El Camino FC Salinas E
 U18/19,Northern Cal,1099703,2026-11-08 14:00,131741,80778,Los Gatos United Soccer Club ECNL B2008/09,1974 Newark FC ECNL B2008/09,,,Monta Vista High School - Stadium,3231,4342,Los Gatos United Soccer Club,1974 Newark FC
 U18/19,Northern Cal,1099709,2026-11-08 16:00,131265,60204,San Francisco Elite Academy ECNL B2008/09,San Juan SC ECNL B08/09,,,University of San Francisco - Negoesco Stadium,1040,88,San Francisco Elite Academy,San Juan Soccer Club
 U18/19,Northern Cal,1099697,2026-11-08 17:45,80748,47721,Folsom Lake Surf ECNL B2008/09,Marin FC ECNL B2008/09,,,Folsom Lake College - Falcon Soccer Stadium,3989,1585,Folsom Lake Surf,Marin FC
+U18/19,Northern Cal,1099757,2026-11-14 14:30,131265,59933,San Francisco Elite Academy ECNL B2008/09,Placer United ECNL B2008/09,,,Skyline College - Upper Field,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U18/19,Northern Cal,1099739,2026-11-15,132475,69843,Mustang Soccer ECNL B2008/09,COSC ECNL B2008/09,,,,69,1470,Mustang Soccer,California Odyssey Soccer Club
-U18/19,Northern Cal,1099757,2026-11-15,131265,59933,San Francisco Elite Academy ECNL B2008/09,Placer United ECNL B2008/09,,,,1040,3054,San Francisco Elite Academy,Placer United Soccer Club
 U18/19,Northern Cal,1099751,2026-11-15 09:00,56319,71301,Santa Clara Sporting ECNL B2008/09,River Islands Surf ECNL B2008/09,,,Santa Clara Youth Soccer Park - Field 1,2548,3777,Santa Clara Sporting,Valley Surf | America
 U18/19,Northern Cal,1099727,2026-11-15 10:00,70357,131741,El Camino FC Salinas ECNL B2008/09,Los Gatos United Soccer Club ECNL B2008/09,,,Salinas Regional Soccer Complex - Turf #1,4063,3231,El Camino FC Salinas,Los Gatos United Soccer Club
 U18/19,Northern Cal,1099763,2026-11-15 10:00,132013,60204,Santa Rosa United ECNL B2008/09,San Juan SC ECNL B08/09,,,Trione Fields - Trione East,91,88,Santa Rosa United Soccer,San Juan Soccer Club
@@ -8874,7 +8874,7 @@ U18/19,Ohio Valley,1064732,2026-12-20 10:00,60138,134493,Ohio Premier ECNL B2008
 U18/19,Ohio Valley,1064696,2026-12-20 11:00,133356,60176,Louisville City Academy ECNL B2008/09,Nationals SC ECNL B2008/09,,,Lynn Family Sports Vision & Training Facility - Field 4,3475,1713,LouCity / Racing Youth Academy,Nationals
 U18/19,Ohio Valley,1064700,2026-12-20 14:00,59991,4271,FC Pride Elite ECNL B2008/09,Pittsburgh Riverhounds ECNL B2008/09,,,FC Pride Performance Center - Field 1,1501,538,FC Pride,Pittsburgh Riverhounds
 U18/19,Ohio Valley,1064728,2026-12-20 14:30,60424,12949,Ohio Elite SA ECNL B2008/09,WNY Flash ECNL B2008/09,,,Seven Hills School - Lower Field,75,343,Ohio Elite Soccer Academy,WNY Flash Academy
-U18/19,Ohio Valley,1064736,2027-01-30,4271,56272,Pittsburgh Riverhounds ECNL B2008/09,Cleveland Force SC ECNL B2008/09,,,,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
+U18/19,Ohio Valley,1064736,2027-01-30 14:00,4271,56272,Pittsburgh Riverhounds ECNL B2008/09,Cleveland Force SC ECNL B2008/09,,,Montour Junction Sports Complex - Indoor,538,3478,Pittsburgh Riverhounds,Cleveland Force SC
 U18/19,Ohio Valley,1064744,2027-02-06 10:00,60138,59991,Ohio Premier ECNL B2008/09,FC Pride Elite ECNL B2008/09,,,OP Training Facility - Field 2,437,1501,Ohio Premier,FC Pride
 U18/19,Ohio Valley,1064740,2027-02-06 14:30,60424,4271,Ohio Elite SA ECNL B2008/09,Pittsburgh Riverhounds ECNL B2008/09,,,Seven Hills School - Lower Field,75,538,Ohio Elite Soccer Academy,Pittsburgh Riverhounds
 U18/19,Ohio Valley,1064752,2027-02-07,60424,59991,Ohio Elite SA ECNL B2008/09,FC Pride Elite ECNL B2008/09,,,,75,1501,Ohio Elite Soccer Academy,FC Pride
@@ -8927,8 +8927,8 @@ U18/19,Ohio Valley,1064916,2027-05-01 10:00,60138,60424,Ohio Premier ECNL B2008/
 U18/19,Ohio Valley,1064928,2027-05-02 10:00,60138,133356,Ohio Premier ECNL B2008/09,Louisville City Academy ECNL B2008/09,,,OP Training Facility - Field 2,437,3475,Ohio Premier,LouCity / Racing Youth Academy
 U18/19,Ohio Valley,1064940,2027-05-08 10:00,60138,56272,Ohio Premier ECNL B2008/09,Cleveland Force SC ECNL B2008/09,,,OP Training Facility - Field 1,437,3478,Ohio Premier,Cleveland Force SC
 U18/19,Ohio Valley,1064936,2027-05-08 15:30,60424,60176,Ohio Elite SA ECNL B2008/09,Nationals SC ECNL B2008/09,,,Ohio Elite Training Center - Field 9,75,1713,Ohio Elite Soccer Academy,Nationals
-U18/19,Ohio Valley,1064944,2027-05-09,60424,56272,Ohio Elite SA ECNL B2008/09,Cleveland Force SC ECNL B2008/09,,,,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U18/19,Ohio Valley,1064948,2027-05-09 10:00,60138,60176,Ohio Premier ECNL B2008/09,Nationals SC ECNL B2008/09,,,OP Training Facility - Field 2,437,1713,Ohio Premier,Nationals
+U18/19,Ohio Valley,1064944,2027-05-09 14:30,60424,56272,Ohio Elite SA ECNL B2008/09,Cleveland Force SC ECNL B2008/09,,,Ohio Elite Training Center - Field 9,75,3478,Ohio Elite Soccer Academy,Cleveland Force SC
 U18/19,Ohio Valley,1064952,2027-05-15,59991,133356,FC Pride Elite ECNL B2008/09,Louisville City Academy ECNL B2008/09,,,,1501,3475,FC Pride,LouCity / Racing Youth Academy
 U18/19,Ohio Valley,1064956,2027-05-15,56272,12949,Cleveland Force SC ECNL B2008/09,WNY Flash ECNL B2008/09,,,,3478,343,Cleveland Force SC,WNY Flash Academy
 U18/19,Ohio Valley,1064960,2027-05-15,60176,134493,Nationals SC ECNL B2008/09,RNY FC Youth ECNL B2008/09,,,,1713,4867,Nationals,RNY FC Youth
@@ -9219,7 +9219,6 @@ U18/19,Texas,1107001,2026-10-03 13:00,81514,133276,SAFC ECNL B2008/09,Lonestar A
 U18/19,Texas,1107007,2026-10-03 13:00,131625,133275,San Antonio City SC ECNL B2008/09,Lonestar ATX Red ECNL B2008/09,,,Specht Soccer Complex - Field 2,2519,62,San Antonio City SC,Lonestar ATX
 U18/19,Texas,1106983,2026-10-03 14:00,46865,58707,Albion Hurricanes FC ECNL B2008/09,DKSC ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,35,Albion Hurricanes FC,DKSC
 U18/19,Texas,1107013,2026-10-03 15:00,131310,131163,RISE SC ECNL B2008/09,Sting ECNL B2008/09,,,South Campus - Field 1,1772,36,RISE Soccer Club,Sting Soccer Club
-U18/19,Texas,1106995,2026-10-03 16:00,58597,131250,HTX ECNL B2008/09,FC Westlake ECNL B2008/09,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U18/19,Texas,1107037,2026-10-04 11:00,46793,134118,SOLAR SC ECNL B2008/09,Dallas Texans ECNL B2008/09,1,0,Beacon Park & Z - Field 2,101,37,Solar SC,Dallas Texans
 U18/19,Texas,1107019,2026-10-04 13:00,46865,131163,Albion Hurricanes FC ECNL B2008/09,Sting ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,36,Albion Hurricanes FC,Sting Soccer Club
 U18/19,Texas,1107031,2026-10-04 13:00,131310,58707,RISE SC ECNL B2008/09,DKSC ECNL B2008/09,,,South Campus - Field 4,1772,35,RISE Soccer Club,DKSC
@@ -9227,16 +9226,16 @@ U18/19,Texas,1107043,2026-10-04 13:00,131625,133276,San Antonio City SC ECNL B20
 U18/19,Texas,1106989,2026-10-04 15:00,59604,59581,OK Energy FC Academy B2008/09,FC Dallas Youth Red ECNL B2008/09,2,3,North Oklahoma City FC - NOKC Red 5,2133,47,Oklahoma Energy FC,FC Dallas Youth
 U18/19,Texas,1107049,2026-10-04 15:00,81514,133275,SAFC ECNL B2008/09,Lonestar ATX Red ECNL B2008/09,,,STAR Soccer Complex - Field 2,4304,62,San Antonio FC,Lonestar ATX
 U18/19,Texas,1106857,2026-10-07 20:00,46865,131310,Albion Hurricanes FC ECNL B2008/09,RISE SC ECNL B2008/09,,,Campbell Road Sports Park - Field 1,10,1772,Albion Hurricanes FC,RISE Soccer Club
-U18/19,Texas,1107055,2026-10-10,58707,131250,DKSC ECNL B2008/09,FC Westlake ECNL B2008/09,,,,35,3234,DKSC,FC Westlake
 U18/19,Texas,1107109,2026-10-10,60698,46793,Solar SC Academy ECNL B2008/09,SOLAR SC ECNL B2008/09,,,,101,101,Solar SC,Solar SC
+U18/19,Texas,1107055,2026-10-10 11:00,58707,131250,DKSC ECNL B2008/09,FC Westlake ECNL B2008/09,,,Clark East Field - Field 2,35,3234,DKSC,FC Westlake
 U18/19,Texas,1107061,2026-10-10 13:00,134118,134025,Dallas Texans ECNL B2008/09,Dallas Texans Academy ECNL B2008/09,,,Memorial High School - Field 1,37,37,Dallas Texans,Dallas Texans
 U18/19,Texas,1107067,2026-10-10 15:00,133276,59581,Lonestar ATX Royal ECNL B2008/09,FC Dallas Youth Red ECNL B2008/09,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
 U18/19,Texas,1107091,2026-10-10 15:00,131163,58597,Sting ECNL B2008/09,HTX ECNL B2008/09,,,Sting National Training Center - Championship Field,36,2258,Sting Soccer Club,HTX
 U18/19,Texas,1107097,2026-10-10 15:00,59604,131625,OK Energy FC Academy B2008/09,San Antonio City SC ECNL B2008/09,,,North Oklahoma City FC - NOKC Red 5,2133,2519,Oklahoma Energy FC,San Antonio City SC
 U18/19,Texas,1107103,2026-10-10 15:00,130567,81514,Tulsa SC ECNL B2008/09,SAFC ECNL B2008/09,,,Jenks Sports Complex - Field 1,106,4304,Tulsa Soccer Club,San Antonio FC
-U18/19,Texas,1107145,2026-10-11,131163,131250,Sting ECNL B2008/09,FC Westlake ECNL B2008/09,,,,36,3234,Sting Soccer Club,FC Westlake
-U18/19,Texas,1107115,2026-10-11 11:00,58707,58597,DKSC ECNL B2008/09,HTX ECNL B2008/09,,,Clark East Field - Field 2,35,2258,DKSC,HTX
+U18/19,Texas,1107115,2026-10-11 09:00,58707,58597,DKSC ECNL B2008/09,HTX ECNL B2008/09,,,Clark East Field - Field 2,35,2258,DKSC,HTX
 U18/19,Texas,1107127,2026-10-11 13:00,133275,59581,Lonestar ATX Red ECNL B2008/09,FC Dallas Youth Red ECNL B2008/09,,,Burger Activity Center - Stadium Field 1,62,47,Lonestar ATX,FC Dallas Youth
+U18/19,Texas,1107145,2026-10-11 13:00,131163,131250,Sting ECNL B2008/09,FC Westlake ECNL B2008/09,,,Sting National Training Center - Championship Field,36,3234,Sting Soccer Club,FC Westlake
 U18/19,Texas,1107151,2026-10-11 13:00,59604,81514,OK Energy FC Academy B2008/09,SAFC ECNL B2008/09,,,North Oklahoma City FC - NOKC Red 5,2133,4304,Oklahoma Energy FC,San Antonio FC
 U18/19,Texas,1107157,2026-10-11 13:00,130567,131625,Tulsa SC ECNL B2008/09,San Antonio City SC ECNL B2008/09,,,Jenks Sports Complex - Field 1,106,2519,Tulsa Soccer Club,San Antonio City SC
 U18/19,Texas,1106875,2026-10-15 19:30,133275,133276,Lonestar ATX Red ECNL B2008/09,Lonestar ATX Royal ECNL B2008/09,,,Round Rock MultiPurpose Complex - Field 7,62,62,Lonestar ATX,Lonestar ATX
@@ -9279,6 +9278,7 @@ U18/19,Texas,1107391,2026-11-01 09:00,134118,133276,Dallas Texans ECNL B2008/09,
 U18/19,Texas,1107361,2026-11-01 13:00,48488,59604,FC Dallas Youth White ECNL B2008/09,OK Energy FC Academy B2008/09,,,Toyota Soccer Center - Field 11,47,2133,FC Dallas Youth,Oklahoma Energy FC
 U18/19,Texas,1107385,2026-11-01 13:00,134025,133275,Dallas Texans Academy ECNL B2008/09,Lonestar ATX Red ECNL B2008/09,,,Beacon Park - field 7,37,62,Dallas Texans,Lonestar ATX
 U18/19,Texas,1107373,2026-11-01 13:30,59851,131163,Colorado Storm ECNL B2008/09,Sting ECNL B2008/09,,,Stargate Charter School - Field 2,29,36,Colorado Storm,Sting Soccer Club
+U18/19,Texas,1106995,2026-11-01 14:00,58597,131250,HTX ECNL B2008/09,FC Westlake ECNL B2008/09,,,Bear Branch Sportsfields - Field 3,2258,3234,HTX,FC Westlake
 U18/19,Texas,1107775,2026-11-01 15:00,131625,46865,San Antonio City SC ECNL B2008/09,Albion Hurricanes FC ECNL B2008/09,,,Specht Soccer Complex - Field 2,2519,10,San Antonio City SC,Albion Hurricanes FC
 U18/19,Texas,1107403,2026-11-07,60698,58707,Solar SC Academy ECNL B2008/09,DKSC ECNL B2008/09,,,,101,35,Solar SC,DKSC
 U18/19,Texas,1107427,2026-11-07,81514,48488,SAFC ECNL B2008/09,FC Dallas Youth White ECNL B2008/09,,,,4304,47,San Antonio FC,FC Dallas Youth

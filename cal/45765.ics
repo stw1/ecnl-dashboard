@@ -138,11 +138,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1133058-45765@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270425
+DTSTART:20270425T123000
+DURATION:PT2H
 SUMMARY:U16 FC Pride Elite vs Cleveland Force SC
-DESCRIPTION:ECNL Girls · U16 Ohio Valley · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-valley&show
- =45765
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U16 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U16&conf=ohio-valley&show=45765
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=ohio-vall
  ey&show=45765
 END:VEVENT

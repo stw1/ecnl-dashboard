@@ -117,10 +117,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107145-131163@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T130000
+DURATION:PT2H
 SUMMARY:U18/19 Sting vs FC Westlake
-DESCRIPTION:ECNL Boys · U18/19 Texas · kickoff time not set yet\nhttps://
- stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&show=131163
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=131163
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
  show=131163
 END:VEVENT

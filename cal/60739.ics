@@ -45,11 +45,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064735-60739@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270130
+DTSTART:20270130T120000
+DURATION:PT2H
 SUMMARY:U17 Pittsburgh Riverhounds vs Cleveland Force SC
-DESCRIPTION:ECNL Boys · U17 Ohio Valley · kickoff time not set yet\nhttps
- ://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-valley&show=
- 60739
+LOCATION:Montour Junction Sports Complex - Indoor
+DESCRIPTION:ECNL Boys · U17 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U17&conf=ohio-valley&show=60739
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=ohio-vall
  ey&show=60739
 END:VEVENT

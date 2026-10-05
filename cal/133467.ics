@@ -44,11 +44,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1073346-133467@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270227
+DTSTART:20270227T143000
+DURATION:PT2H
 SUMMARY:U18/19 Tennessee SC vs Cleveland Force SC
-DESCRIPTION:ECNL Girls · U18/19 Ohio Valley · kickoff time not set yet\nh
- ttps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-valle
- y&show=133467
+LOCATION:Richard Siegel Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-d
+ ashboard/girls.html?age=U18/19&conf=ohio-valley&show=133467
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=ohio-v
  alley&show=133467
 END:VEVENT

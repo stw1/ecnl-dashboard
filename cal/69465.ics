@@ -173,11 +173,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064941-69465@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270509
+DTSTART:20270509T090000
+DURATION:PT2H
 SUMMARY:U15 Ohio Elite SA vs Cleveland Force SC
-DESCRIPTION:ECNL Boys · U15 Ohio Valley · kickoff time not set yet\nhttps
- ://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-valley&show=
- 69465
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U15&conf=ohio-valley&show=69465
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=ohio-vall
  ey&show=69465
 END:VEVENT

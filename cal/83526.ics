@@ -152,11 +152,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1094800-83526@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T142500
+DURATION:PT2H
 SUMMARY:U17 Mustang SC at Bay Area Surf -
-DESCRIPTION:ECNL Girls · U17 Northern Cal · kickoff time not set yet\nhtt
- ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-cal&sh
- ow=83526
+LOCATION:Willow Glen High School - Football Stadium
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=83526
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
  cal&show=83526
 END:VEVENT
@@ -230,12 +231,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1095076-83526@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270502
+DTSTART:20270502T150000
+DURATION:PT2H
 SUMMARY:U17 Mustang SC at San Juan SC
 LOCATION:Tiemann Law Firm Fields at San Juan Soccer Complex - White Field
-DESCRIPTION:ECNL Girls · U17 Northern Cal · kickoff time not set yet\nhtt
- ps://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-cal&sh
- ow=83526
+DESCRIPTION:ECNL Girls · U17 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U17&conf=northern-cal&show=83526
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U17&conf=northern-
  cal&show=83526
 END:VEVENT

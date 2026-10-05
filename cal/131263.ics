@@ -97,7 +97,7 @@ DTSTAMP:20260801T000000Z
 DTSTART:20261101T110000
 DURATION:PT2H
 SUMMARY:U17 San Francisco Elite Academy at Santa Clara Sporting
-LOCATION:Santa Clara Youth Soccer Park - Field 1
+LOCATION:Santa Clara Youth Soccer Park - Field 2
 DESCRIPTION:ECNL Boys · U17 Northern Cal\nhttps://stw1.github.io/ecnl-dash
  board/index.html?age=U17&conf=northern-cal&show=131263
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=northern-
@@ -118,11 +118,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1099758-131263@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART:20261114T100000
+DURATION:PT2H
 SUMMARY:U17 San Francisco Elite Academy vs Placer United
-DESCRIPTION:ECNL Boys · U17 Northern Cal · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=northern-cal&sho
- w=131263
+LOCATION:Skyline College - Upper Field
+DESCRIPTION:ECNL Boys · U17 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U17&conf=northern-cal&show=131263
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=northern-
  cal&show=131263
 END:VEVENT

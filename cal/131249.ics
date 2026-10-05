@@ -55,34 +55,14 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
  w=131249
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1106994-131249@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T120000
-DURATION:PT2H
-SUMMARY:U17 FC Westlake at HTX
-LOCATION:Bear Branch Sportsfields - Field 3
-DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
- ndex.html?age=U17&conf=texas&show=131249
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
- w=131249
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107054-131249@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261010
+DTSTART:20261010T150000
+DURATION:PT2H
 SUMMARY:U17 FC Westlake at DKSC
-DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=131249
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
- w=131249
-END:VEVENT
-BEGIN:VEVENT
-UID:ecnl-1107144-131249@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
-SUMMARY:U17 FC Westlake at Sting
-DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=131249
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=131249
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
  w=131249
 END:VEVENT
@@ -105,6 +85,18 @@ DTSTART:20261018T110000
 DURATION:PT2H
 SUMMARY:U17 FC Westlake vs SOLAR SC
 LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=131249
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=131249
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106994-131249@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T100000
+DURATION:PT2H
+SUMMARY:U17 FC Westlake at HTX
+LOCATION:Bear Branch Sportsfields - Field 3
 DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U17&conf=texas&show=131249
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
@@ -153,6 +145,18 @@ DTSTART:20261115T110000
 DURATION:PT2H
 SUMMARY:U17 FC Westlake vs RISE SC
 LOCATION:Westlake High School Stadium - Chaparral Stadium - Field 1
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=131249
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
+ w=131249
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107144-131249@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T130000
+DURATION:PT2H
+SUMMARY:U17 FC Westlake at Sting
+LOCATION:Sting National Training Center - Championship Field
 DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U17&conf=texas&show=131249
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho

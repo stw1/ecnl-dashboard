@@ -55,18 +55,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
  show=58597
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1106995-58597@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T160000
-DURATION:PT2H
-SUMMARY:U18/19 HTX vs FC Westlake
-LOCATION:Bear Branch Sportsfields - Field 3
-DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
- d/index.html?age=U18/19&conf=texas&show=58597
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
- show=58597
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107091-58597@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261010T150000
@@ -81,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107115-58597@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261011T110000
+DTSTART:20261011T090000
 DURATION:PT2H
 SUMMARY:U18/19 HTX at DKSC
 LOCATION:Clark East Field - Field 2
@@ -121,6 +109,18 @@ DTSTART:20261024T100000
 DURATION:PT2H
 SUMMARY:U18/19 HTX vs Albion Hurricanes FC
 LOCATION:Bear Branch Sportsfields - Field 7
+DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
+ d/index.html?age=U18/19&conf=texas&show=58597
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
+ show=58597
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106995-58597@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T140000
+DURATION:PT2H
+SUMMARY:U18/19 HTX vs FC Westlake
+LOCATION:Bear Branch Sportsfields - Field 3
 DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
  d/index.html?age=U18/19&conf=texas&show=58597
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&

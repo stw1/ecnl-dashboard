@@ -211,11 +211,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1109477-134669@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270220
+DTSTART:20270220T130000
+DURATION:PT2H
 SUMMARY:U13 Wilmington Hammerheads at Fairfax Virginia Union
-DESCRIPTION:ECNL Boys · U13 Mid-Atlantic · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlantic&sho
- w=134669
+LOCATION:WT Woodson High School - Aux Turf
+DESCRIPTION:ECNL Boys · U13 Mid-Atlantic\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=mid-atlantic&show=134669
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-atlan
  tic&show=134669
 END:VEVENT

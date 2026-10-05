@@ -117,11 +117,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1099757-59933@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART:20261114T143000
+DURATION:PT2H
 SUMMARY:U18/19 Placer United at San Francisco Elite Academy
-DESCRIPTION:ECNL Boys · U18/19 Northern Cal · kickoff time not set yet\nh
- ttps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northern-c
- al&show=59933
+LOCATION:Skyline College - Upper Field
+DESCRIPTION:ECNL Boys · U18/19 Northern Cal\nhttps://stw1.github.io/ecnl-d
+ ashboard/index.html?age=U18/19&conf=northern-cal&show=59933
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=northe
  rn-cal&show=59933
 END:VEVENT

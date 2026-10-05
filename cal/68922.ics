@@ -105,17 +105,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107054-68922@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261010
+DTSTART:20261010T150000
+DURATION:PT2H
 SUMMARY:U17 DKSC vs FC Westlake
-DESCRIPTION:ECNL Boys · U17 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&show=68922
+LOCATION:Clark East Field - Field 2
+DESCRIPTION:ECNL Boys · U17 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U17&conf=texas&show=68922
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=texas&sho
  w=68922
 END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107114-68922@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261011T090000
+DTSTART:20261011T110000
 DURATION:PT2H
 SUMMARY:U17 DKSC vs HTX
 LOCATION:Clark East Field - Field 2

@@ -115,16 +115,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
  w=131174
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1107142-131174@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
-SUMMARY:U15 Sting vs FC Westlake
-DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=131174
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
- w=131174
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107184-131174@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261017T110000
@@ -198,6 +188,18 @@ DTSTAMP:20260801T000000Z
 DTSTART:20261212T110000
 DURATION:PT2H
 SUMMARY:U15 Sting vs HTX
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131174
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131174
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107142-131174@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U15 Sting vs FC Westlake
 LOCATION:Sting National Training Center - Championship Field
 DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U15&conf=texas&show=131174

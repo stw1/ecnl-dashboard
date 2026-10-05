@@ -1907,8 +1907,8 @@
    "134640": "FC Alliance TN ECNL G2011/12",
    "95897": "Indy Eleven ECNL G2011/12",
    "59612": "FC Pride Elite ECNL G2011/12",
-   "60141": "Cleveland Force SC ECNL G2011/12",
    "61433": "Internationals SC ECNL G2011/2012",
+   "60141": "Cleveland Force SC ECNL G2011/12",
    "108211": "GTFC Impact ECNL G2011/12",
    "71333": "Ohio Premier ECNL G2011/12",
    "61753": "WNY Flash ECNL G2011/12",
@@ -1939,13 +1939,13 @@
     "1501",
     "FC Pride"
    ],
-   "60141": [
-    "3478",
-    "Cleveland Force SC"
-   ],
    "61433": [
     "58",
     "Internationals SC"
+   ],
+   "60141": [
+    "3478",
+    "Cleveland Force SC"
    ],
    "108211": [
     "4008",
@@ -1971,8 +1971,8 @@
    "134640": "South",
    "95897": "South",
    "59612": "South",
-   "60141": "North",
    "61433": "North",
+   "60141": "North",
    "108211": "North",
    "71333": "North",
    "61753": "North",
@@ -2655,8 +2655,8 @@
    "45765": "FC Pride Elite ECNL G2010/11",
    "134641": "FC Alliance TN ECNL G2010/11",
    "133465": "Tennessee SC ECNL G2010/11",
-   "60170": "Cleveland Force SC ECNL G2010/11",
    "54724": "Internationals SC ECNL G2010/2011",
+   "60170": "Cleveland Force SC ECNL G2010/11",
    "108210": "GTFC Impact ECNL G2010/11",
    "65017": "Ohio Premier ECNL G2010/11",
    "82213": "Pittsburgh Riverhounds ECNL G2010/11",
@@ -2687,13 +2687,13 @@
     "1354",
     "Tennessee SC"
    ],
-   "60170": [
-    "3478",
-    "Cleveland Force SC"
-   ],
    "54724": [
     "58",
     "Internationals SC"
+   ],
+   "60170": [
+    "3478",
+    "Cleveland Force SC"
    ],
    "108210": [
     "4008",
@@ -2719,8 +2719,8 @@
    "45765": "South",
    "134641": "South",
    "133465": "South",
-   "60170": "North",
    "54724": "North",
+   "60170": "North",
    "108210": "North",
    "65017": "North",
    "82213": "North",
@@ -3403,8 +3403,8 @@
    "45767": "FC Pride Elite ECNL G2009/10",
    "134642": "FC Alliance TN ECNL G2009/10",
    "133466": "Tennessee SC ECNL G2009/10",
-   "46986": "Cleveland Force SC ECNL G2009/10",
    "47002": "Internationals SC ECNL G2009/2010",
+   "46986": "Cleveland Force SC ECNL G2009/10",
    "108209": "GTFC Impact ECNL G2009/10",
    "65018": "Ohio Premier ECNL G2009/10",
    "60737": "Pittsburgh Riverhounds ECNL G2009/10",
@@ -3435,13 +3435,13 @@
     "1354",
     "Tennessee SC"
    ],
-   "46986": [
-    "3478",
-    "Cleveland Force SC"
-   ],
    "47002": [
     "58",
     "Internationals SC"
+   ],
+   "46986": [
+    "3478",
+    "Cleveland Force SC"
    ],
    "108209": [
     "4008",
@@ -3467,8 +3467,8 @@
    "45767": "South",
    "134642": "South",
    "133466": "South",
-   "46986": "North",
    "47002": "North",
+   "46986": "North",
    "108209": "North",
    "65018": "North",
    "60737": "North",

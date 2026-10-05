@@ -117,10 +117,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107143-131171@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T110000
+DURATION:PT2H
 SUMMARY:U16 Sting vs FC Westlake
-DESCRIPTION:ECNL Boys · U16 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&show=131171
+LOCATION:Sting National Training Center - Championship Field
+DESCRIPTION:ECNL Boys · U16 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U16&conf=texas&show=131171
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U16&conf=texas&sho
  w=131171
 END:VEVENT

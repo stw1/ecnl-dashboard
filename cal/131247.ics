@@ -55,34 +55,14 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
  w=131247
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1106992-131247@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T140000
-DURATION:PT2H
-SUMMARY:U15 FC Westlake at HTX
-LOCATION:Bear Branch Sportsfields - Field 3
-DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
- ndex.html?age=U15&conf=texas&show=131247
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
- w=131247
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107052-131247@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261010
+DTSTART:20261010T150000
+DURATION:PT2H
 SUMMARY:U15 FC Westlake at DKSC
-DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=131247
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
- w=131247
-END:VEVENT
-BEGIN:VEVENT
-UID:ecnl-1107142-131247@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
-SUMMARY:U15 FC Westlake at Sting
-DESCRIPTION:ECNL Boys · U15 Texas · kickoff time not set yet\nhttps://stw
- 1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&show=131247
+LOCATION:Clark East Field - Field 1
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131247
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
  w=131247
 END:VEVENT
@@ -105,6 +85,18 @@ DTSTART:20261018T110000
 DURATION:PT2H
 SUMMARY:U15 FC Westlake vs SOLAR SC
 LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131247
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131247
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106992-131247@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at HTX
+LOCATION:Bear Branch Sportsfields - Field 3
 DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U15&conf=texas&show=131247
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
@@ -153,6 +145,18 @@ DTSTART:20261115T110000
 DURATION:PT2H
 SUMMARY:U15 FC Westlake vs RISE SC
 LOCATION:Westlake High School - Field 1 & 2
+DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U15&conf=texas&show=131247
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho
+ w=131247
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1107142-131247@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261213T110000
+DURATION:PT2H
+SUMMARY:U15 FC Westlake at Sting
+LOCATION:Sting National Training Center - Championship Field
 DESCRIPTION:ECNL Boys · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U15&conf=texas&show=131247
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=texas&sho

@@ -172,11 +172,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064944-60424@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270509
+DTSTART:20270509T143000
+DURATION:PT2H
 SUMMARY:U18/19 Ohio Elite SA vs Cleveland Force SC
-DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
- &show=60424
+LOCATION:Ohio Elite Training Center - Field 9
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=60424
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
  alley&show=60424
 END:VEVENT

@@ -130,11 +130,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1057088-136140@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261018
+DTSTART:20261018T090000
+DURATION:PT2H
 SUMMARY:U13 Sporting Nebraska FC vs FC Wichita
-DESCRIPTION:ECNL Boys · U13 Heartland · kickoff time not set yet\nhttps:/
- /stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland&show=1361
- 40
+LOCATION:CHI Nebraska MultiSport Complex - Field 11
+DESCRIPTION:ECNL Boys · U13 Heartland\nhttps://stw1.github.io/ecnl-dashboa
+ rd/index.html?age=U13&conf=heartland&show=136140
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=heartland
  &show=136140
 END:VEVENT

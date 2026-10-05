@@ -81,11 +81,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1132895-133464@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270227
+DTSTART:20270227T090000
+DURATION:PT2H
 SUMMARY:U15 Tennessee SC vs Cleveland Force SC
-DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
- =133464
+LOCATION:Richard Siegel Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=133464
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
  ey&show=133464
 END:VEVENT

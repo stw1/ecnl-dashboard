@@ -140,11 +140,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1094802-95449@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T124000
+DURATION:PT2H
 SUMMARY:U15 Bay Area Surf - vs Mustang SC
-DESCRIPTION:ECNL Girls · U15 Northern Cal · kickoff time not set yet\nhtt
- ps://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-cal&sh
- ow=95449
+LOCATION:Willow Glen High School - Football Stadium
+DESCRIPTION:ECNL Girls · U15 Northern Cal\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U15&conf=northern-cal&show=95449
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=northern-
  cal&show=95449
 END:VEVENT

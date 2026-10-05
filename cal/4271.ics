@@ -45,11 +45,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1064736-4271@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270130
+DTSTART:20270130T140000
+DURATION:PT2H
 SUMMARY:U18/19 Pittsburgh Riverhounds vs Cleveland Force SC
-DESCRIPTION:ECNL Boys · U18/19 Ohio Valley · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-valley
- &show=4271
+LOCATION:Montour Junction Sports Complex - Indoor
+DESCRIPTION:ECNL Boys · U18/19 Ohio Valley\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U18/19&conf=ohio-valley&show=4271
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=ohio-v
  alley&show=4271
 END:VEVENT

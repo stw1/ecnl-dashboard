@@ -21,11 +21,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1132895-60141@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270227
+DTSTART:20270227T090000
+DURATION:PT2H
 SUMMARY:U15 Cleveland Force SC at Tennessee SC
-DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
- =60141
+LOCATION:Richard Siegel Soccer Complex - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=60141
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
  ey&show=60141
 END:VEVENT
@@ -120,11 +121,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1133057-60141@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20270425
+DTSTART:20270425T143000
+DURATION:PT2H
 SUMMARY:U15 Cleveland Force SC at FC Pride Elite
-DESCRIPTION:ECNL Girls · U15 Ohio Valley · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-valley&show
- =60141
+LOCATION:FC Pride Performance Center - Field 1
+DESCRIPTION:ECNL Girls · U15 Ohio Valley\nhttps://stw1.github.io/ecnl-dash
+ board/girls.html?age=U15&conf=ohio-valley&show=60141
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=ohio-vall
  ey&show=60141
 END:VEVENT

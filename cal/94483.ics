@@ -105,10 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1067921-94483@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T151500
+DURATION:PT2H
 SUMMARY:U15 Liverpool FC MI at FC Wisconsin
-DESCRIPTION:ECNL Girls · U15 Midwest · kickoff time not set yet\nhttps://
- stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&show=94483
+LOCATION:Chicago Inter Complex - Field 4
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=94483
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
  how=94483
 END:VEVENT

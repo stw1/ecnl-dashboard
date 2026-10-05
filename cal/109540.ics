@@ -130,11 +130,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1099762-109540@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261115
+DTSTART:20261114T100000
+DURATION:PT2H
 SUMMARY:U13 Placer United at San Francisco Elite Academy
-DESCRIPTION:ECNL Boys · U13 Northern Cal · kickoff time not set yet\nhttp
- s://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-cal&sho
- w=109540
+LOCATION:Skyline College - Lower Field
+DESCRIPTION:ECNL Boys · U13 Northern Cal\nhttps://stw1.github.io/ecnl-dash
+ board/index.html?age=U13&conf=northern-cal&show=109540
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=northern-
  cal&show=109540
 END:VEVENT

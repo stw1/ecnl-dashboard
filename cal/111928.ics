@@ -55,18 +55,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=texas&sho
  w=111928
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1106991-111928@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T140000
-DURATION:PT2H
-SUMMARY:U14 HTX vs FC Westlake
-LOCATION:Bear Branch Sportsfields - Field 1
-DESCRIPTION:ECNL Boys · U14 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
- ndex.html?age=U14&conf=texas&show=111928
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=texas&sho
- w=111928
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1107087-111928@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261010T110000
@@ -121,6 +109,18 @@ DTSTART:20261025T120000
 DURATION:PT2H
 SUMMARY:U14 HTX vs Albion Hurricanes FC
 LOCATION:Bear Branch Sportsfields - Field 7
+DESCRIPTION:ECNL Boys · U14 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
+ ndex.html?age=U14&conf=texas&show=111928
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=texas&sho
+ w=111928
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1106991-111928@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261101T120000
+DURATION:PT2H
+SUMMARY:U14 HTX vs FC Westlake
+LOCATION:Bear Branch Sportsfields - Field 1
 DESCRIPTION:ECNL Boys · U14 Texas\nhttps://stw1.github.io/ecnl-dashboard/i
  ndex.html?age=U14&conf=texas&show=111928
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=texas&sho

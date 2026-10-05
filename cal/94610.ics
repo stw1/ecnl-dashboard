@@ -105,11 +105,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1078811-94610@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T110000
+DURATION:PT2H
 SUMMARY:U14 World Class FC at Baltimore Celtic
-DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
- &show=94610
+LOCATION:Glenelg Country School - Turf
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=94610
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=94610
 END:VEVENT

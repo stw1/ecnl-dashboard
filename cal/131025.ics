@@ -120,11 +120,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1078810-131025@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261031
+DTSTART:20261031T123000
+DURATION:PT2H
 SUMMARY:U13 Baltimore Celtic vs World Class FC
-DESCRIPTION:ECNL Boys · U13 North Atlantic · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atlantic
- &show=131025
+LOCATION:Glenelg Country School - Turf
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=131025
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
  antic&show=131025
 END:VEVENT
