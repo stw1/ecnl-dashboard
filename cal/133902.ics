@@ -43,18 +43,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=florida&s
  how=133902
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068374-133902@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260913T150000
-DURATION:PT2H
-SUMMARY:U17 Fort Lauderdale United FC at Parkland Soccer Club
-LOCATION:Terramar Park - Field D
-DESCRIPTION:ECNL Boys · U17 Florida\nhttps://stw1.github.io/ecnl-dashboard
- /index.html?age=U17&conf=florida&show=133902
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=florida&s
- how=133902
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068392-133902@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20260919T130000
@@ -145,6 +133,18 @@ DTSTART:20261101T130000
 DURATION:PT2H
 SUMMARY:U17 Fort Lauderdale United FC vs Florida Premier FC South
 LOCATION:Miami Dolphins Training Facility @ NOVA Southeaste - Field 1
+DESCRIPTION:ECNL Boys · U17 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U17&conf=florida&show=133902
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=florida&s
+ how=133902
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068374-133902@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T150000
+DURATION:PT2H
+SUMMARY:U17 Fort Lauderdale United FC at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
 DESCRIPTION:ECNL Boys · U17 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U17&conf=florida&show=133902
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U17&conf=florida&s

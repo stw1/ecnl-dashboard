@@ -105,10 +105,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068616-59550@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261031T120000
+DTSTART:20261031T110000
 DURATION:PT2H
 SUMMARY:U15 Athletic Club Florida vs Space Coast United
-LOCATION:Nob Hill Soccer Park - Field 1
+LOCATION:Tamarac Sports Complex - Field 4
 DESCRIPTION:ECNL Boys · U15 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U15&conf=florida&show=59550
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U15&conf=florida&s

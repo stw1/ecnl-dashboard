@@ -31,18 +31,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
  est&show=131727
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1085481-131727@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T083000
-DURATION:PT2H
-SUMMARY:U18/19 Legends FC Del Mar vs So Cal Blues
-LOCATION:Canyon Crest Academy - Stadium
-DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
- hboard/girls.html?age=U18/19&conf=southwest&show=131727
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
- est&show=131727
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1085517-131727@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261017T090000
@@ -156,6 +144,18 @@ SUMMARY:U18/19 Legends FC Del Mar vs LAFC So Cal
 DESCRIPTION:ECNL Girls · U18/19 Southwest · kickoff time not set yet\nhtt
  ps://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southwest&sh
  ow=131727
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
+ est&show=131727
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085481-131727@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T083000
+DURATION:PT2H
+SUMMARY:U18/19 Legends FC Del Mar vs So Cal Blues
+LOCATION:Canyon Crest Academy - STADIUM
+DESCRIPTION:ECNL Girls · U18/19 Southwest\nhttps://stw1.github.io/ecnl-das
+ hboard/girls.html?age=U18/19&conf=southwest&show=131727
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=southw
  est&show=131727
 END:VEVENT

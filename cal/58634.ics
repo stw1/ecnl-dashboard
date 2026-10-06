@@ -67,24 +67,24 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
  show=58634
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1073487-58634@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261007T153000
-DURATION:PT2H
-SUMMARY:U18/19 Real Colorado Athletico at Real Colorado National
-LOCATION:Highland Heritage Regional Park - HHRP Stadium
-DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
- rd/girls.html?age=U18/19&conf=texas&show=58634
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
- show=58634
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1073715-58634@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART;VALUE=DATE:20261018
 SUMMARY:U18/19 Real Colorado Athletico at Colorado Rush
 DESCRIPTION:ECNL Girls · U18/19 Texas · kickoff time not set yet\nhttps:/
  /stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&show=58634
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=58634
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073487-58634@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T153000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado Athletico at Real Colorado National
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=58634
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
  show=58634
 END:VEVENT

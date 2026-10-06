@@ -31,30 +31,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
  nd&show=94747
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068173-94747@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260926T120000
-DURATION:PT2H
-SUMMARY:U13 Scorpions SC vs Connecticut FC United
-LOCATION:Taunton Forekicks - Field 12
-DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
- board/girls.html?age=U13&conf=new-england&show=94747
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
- nd&show=94747
-END:VEVENT
-BEGIN:VEVENT
-UID:ecnl-1068179-94747@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260927T164500
-DURATION:PT2H
-SUMMARY:U13 Scorpions SC vs World Class FC
-LOCATION:Taunton Forekicks - Field 12
-DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
- board/girls.html?age=U13&conf=new-england&show=94747
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
- nd&show=94747
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068195-94747@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261007T180000
@@ -82,10 +58,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068197-94747@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261017T173000
+DTSTART:20261017T090000
 DURATION:PT2H
 SUMMARY:U13 Scorpions SC vs East Meadow Soccer Club
-LOCATION:Wheeler School - field 1
+LOCATION:Johnson and Wales University - Scotts Miracle-Gro - Field 1
 DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
  board/girls.html?age=U13&conf=new-england&show=94747
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
@@ -112,6 +88,28 @@ SUMMARY:U13 Scorpions SC vs Select
 LOCATION:Walpole Soccer Complex - Field 2
 DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
  board/girls.html?age=U13&conf=new-england&show=94747
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=94747
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068173-94747@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:U13 Scorpions SC vs Connecticut FC United
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =94747
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=94747
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068179-94747@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:U13 Scorpions SC vs World Class FC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =94747
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
  nd&show=94747
 END:VEVENT

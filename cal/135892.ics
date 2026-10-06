@@ -31,18 +31,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
  &show=135892
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1085483-135892@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T123000
-DURATION:PT2H
-SUMMARY:U16 So Cal Blues at Legends FC Del Mar
-LOCATION:Canyon Crest Academy - Stadium
-DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
- ard/girls.html?age=U16&conf=southwest&show=135892
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
- &show=135892
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1085537-135892@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261017T110000
@@ -154,6 +142,18 @@ SUMMARY:U16 So Cal Blues at Utah Royals FC-AZ
 DESCRIPTION:ECNL Girls · U16 Southwest · kickoff time not set yet\nhttps:
  //stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest&show=135
  892
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
+ &show=135892
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085483-135892@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T123000
+DURATION:PT2H
+SUMMARY:U16 So Cal Blues at Legends FC Del Mar
+LOCATION:Canyon Crest Academy - STADIUM
+DESCRIPTION:ECNL Girls · U16 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U16&conf=southwest&show=135892
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U16&conf=southwest
  &show=135892
 END:VEVENT

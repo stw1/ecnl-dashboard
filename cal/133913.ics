@@ -43,18 +43,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
  how=133913
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068378-133913@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260913T150000
-DURATION:PT2H
-SUMMARY:U13 Fort Lauderdale United FC at Parkland Soccer Club
-LOCATION:Terramar Park - Field C
-DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
- /index.html?age=U13&conf=florida&show=133913
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
- how=133913
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068420-133913@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20260920T130000
@@ -158,6 +146,18 @@ DTSTART:20270130T120000
 DURATION:PT2H
 SUMMARY:U13 Fort Lauderdale United FC vs Sporting SA JAX
 LOCATION:Autonation Field at U School - Field 1
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=133913
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=133913
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068378-133913@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T150000
+DURATION:PT2H
+SUMMARY:U13 Fort Lauderdale United FC at Parkland Soccer Club
+LOCATION:Terramar Park - Field D
 DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U13&conf=florida&show=133913
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s

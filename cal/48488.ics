@@ -125,10 +125,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107085-48488@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261114T130000
+DTSTART:20261121T130000
 DURATION:PT2H
 SUMMARY:U18/19 FC Dallas Youth White at Lonestar ATX Red
-LOCATION:Frost Elementary School - Field 1
+LOCATION:Wagner Middle School - Field 1
 DESCRIPTION:ECNL Boys · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboar
  d/index.html?age=U18/19&conf=texas&show=48488
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=texas&
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1107133-48488@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261115T110000
+DTSTART:20261122T110000
 DURATION:PT2H
 SUMMARY:U18/19 FC Dallas Youth White at Lonestar ATX Royal
 LOCATION:Wagner Middle School - Field 1

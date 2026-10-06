@@ -141,10 +141,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068013-94483@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261031T110000
+DTSTART:20261031T090000
 DURATION:PT2H
 SUMMARY:U15 Liverpool FC MI vs Eclipse Select Soccer Club
-LOCATION:Avondale High School - Stadium
+LOCATION:Avondale High School - Auxiliary
 DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
  d/girls.html?age=U15&conf=midwest&show=94483
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s

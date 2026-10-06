@@ -115,18 +115,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
  w=108897
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1073492-108897@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261007T193000
-DURATION:PT2H
-SUMMARY:U13 Real Colorado National vs Real Colorado Athletico
-LOCATION:Highland Heritage Regional Park - HHRP West
-DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
- girls.html?age=U13&conf=texas&show=108897
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
- w=108897
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1073678-108897@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261017T090000
@@ -145,6 +133,18 @@ DTSTART:20261018T090000
 DURATION:PT2H
 SUMMARY:U13 Real Colorado National vs Sting Black
 LOCATION:Real Colorado Soccer Complex - RCSC 1
+DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U13&conf=texas&show=108897
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho
+ w=108897
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073492-108897@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T193000
+DURATION:PT2H
+SUMMARY:U13 Real Colorado National vs Real Colorado Athletico
+LOCATION:Highland Heritage Regional Park - HHRP West
 DESCRIPTION:ECNL Girls · U13 Texas\nhttps://stw1.github.io/ecnl-dashboard/
  girls.html?age=U13&conf=texas&show=108897
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=texas&sho

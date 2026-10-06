@@ -79,18 +79,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
  how=79684
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1067869-79684@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T090000
-DURATION:PT2H
-SUMMARY:U15 FC Wisconsin at Eclipse Select Soccer Club
-LOCATION:Redmond Recreational Complex - Turf Field - Turf
-DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
- d/girls.html?age=U15&conf=midwest&show=79684
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
- how=79684
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1067897-79684@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261010T151500
@@ -157,6 +145,18 @@ DTSTART:20261101T130000
 DURATION:PT2H
 SUMMARY:U15 FC Wisconsin vs Sporting Blue Valley
 LOCATION:Mercy Health Sportscore 2 - Field 2
+DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
+ d/girls.html?age=U15&conf=midwest&show=79684
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s
+ how=79684
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1067869-79684@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261111T190000
+DURATION:PT2H
+SUMMARY:U15 FC Wisconsin at Eclipse Select Soccer Club
+LOCATION:Oak Brook Park District - Turf
 DESCRIPTION:ECNL Girls · U15 Midwest\nhttps://stw1.github.io/ecnl-dashboar
  d/girls.html?age=U15&conf=midwest&show=79684
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=midwest&s

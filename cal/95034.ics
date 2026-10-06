@@ -67,18 +67,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=95034
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1078779-95034@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260927T130000
-DURATION:PT2H
-SUMMARY:U14 Maryland United FC at Penn Fusion Soccer Academy
-LOCATION:Scott Auto Field - Field 1
-DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
- shboard/index.html?age=U14&conf=north-atlantic&show=95034
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
- antic&show=95034
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1140137-n-95034@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261010T080000
@@ -146,6 +134,18 @@ DTSTART:20261107T123000
 DURATION:PT2H
 SUMMARY:U14 Maryland United FC vs Philadelphia Ukrainian Nationals
 LOCATION:Indian Creek - Field 1
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=95034
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=95034
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078779-95034@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T130000
+DURATION:PT2H
+SUMMARY:U14 Maryland United FC at Penn Fusion Soccer Academy
+LOCATION:Scott Auto Field - Field 1
 DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
  shboard/index.html?age=U14&conf=north-atlantic&show=95034
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl

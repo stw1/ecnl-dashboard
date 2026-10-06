@@ -69,18 +69,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
  how=133324
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068389-133324@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260919T140000
-DURATION:PT2H
-SUMMARY:U14 AC Florida West vs Athletic Club Florida
-LOCATION:North Collier Regional Park - Field 3
-DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
- /index.html?age=U14&conf=florida&show=133324
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
- how=133324
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068413-133324@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20260920T140000
@@ -135,6 +123,18 @@ DTSTART;VALUE=DATE:20261107
 SUMMARY:U14 AC Florida West at Palm Beach United
 DESCRIPTION:ECNL Boys · U14 Florida · kickoff time not set yet\nhttps://s
  tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=133324
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=133324
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068389-133324@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T100000
+DURATION:PT2H
+SUMMARY:U14 AC Florida West vs Athletic Club Florida
+LOCATION:JetBlue Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=133324
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
  how=133324
 END:VEVENT

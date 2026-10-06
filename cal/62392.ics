@@ -19,18 +19,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
  how=62392
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068389-62392@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260919T140000
-DURATION:PT2H
-SUMMARY:U14 Athletic Club Florida at AC Florida West
-LOCATION:North Collier Regional Park - Field 3
-DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
- /index.html?age=U14&conf=florida&show=62392
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
- how=62392
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068473-62392@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261003T150000
@@ -105,10 +93,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068617-62392@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261031T100000
+DTSTART:20261031T090000
 DURATION:PT2H
 SUMMARY:U14 Athletic Club Florida vs Space Coast United
-LOCATION:Nob Hill Soccer Park - Field 1
+LOCATION:Tamarac Sports Complex - Field 4
 DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U14&conf=florida&show=62392
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
@@ -133,6 +121,18 @@ DTSTART:20261121T120000
 DURATION:PT2H
 SUMMARY:U14 Athletic Club Florida at Doral Soccer Club
 LOCATION:Morgan Levy Park Doral - Field 1
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=62392
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
+ how=62392
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068389-62392@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261212T100000
+DURATION:PT2H
+SUMMARY:U14 Athletic Club Florida at AC Florida West
+LOCATION:JetBlue Park - Field 2
 DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U14&conf=florida&show=62392
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s

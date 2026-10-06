@@ -153,10 +153,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1065302-129027@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261212T090000
+DTSTART:20261212T170000
 DURATION:PT2H
 SUMMARY:U18/19 South Carolina Surf vs CESA Triumph
-LOCATION:Pinewood Prep - Field 1
+LOCATION:Shea Family Fields - Field 2
 DESCRIPTION:ECNL Boys · U18/19 Southeast\nhttps://stw1.github.io/ecnl-dash
  board/index.html?age=U18/19&conf=southeast&show=129027
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=southe

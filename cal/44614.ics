@@ -141,10 +141,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068613-44614@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261031T140000
+DTSTART:20261031T130000
 DURATION:PT2H
 SUMMARY:U18/19 Space Coast United at Athletic Club Florida
-LOCATION:Nob Hill Soccer Park - Field 2
+LOCATION:Tamarac Sports Complex - Field 5
 DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
  ard/index.html?age=U18/19&conf=florida&show=44614
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid

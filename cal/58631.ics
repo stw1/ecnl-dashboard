@@ -115,18 +115,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
  show=58631
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1073487-58631@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261007T153000
-DURATION:PT2H
-SUMMARY:U18/19 Real Colorado National vs Real Colorado Athletico
-LOCATION:Highland Heritage Regional Park - HHRP Stadium
-DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
- rd/girls.html?age=U18/19&conf=texas&show=58631
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
- show=58631
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1073673-58631@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261017T133000
@@ -145,6 +133,18 @@ DTSTART:20261018T133000
 DURATION:PT2H
 SUMMARY:U18/19 Real Colorado National vs Sting Black
 LOCATION:Real Colorado Soccer Complex - RCSC Grass
+DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
+ rd/girls.html?age=U18/19&conf=texas&show=58631
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&
+ show=58631
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073487-58631@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T153000
+DURATION:PT2H
+SUMMARY:U18/19 Real Colorado National vs Real Colorado Athletico
+LOCATION:Highland Heritage Regional Park - HHRP Stadium
 DESCRIPTION:ECNL Girls · U18/19 Texas\nhttps://stw1.github.io/ecnl-dashboa
  rd/girls.html?age=U18/19&conf=texas&show=58631
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U18/19&conf=texas&

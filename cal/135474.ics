@@ -72,18 +72,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
  antic&show=135474
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1078778-135474@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260927T113000
-DURATION:PT2H
-SUMMARY:U13 Penn Fusion Soccer Academy vs Maryland United FC
-LOCATION:Scott Auto Field - Field 1
-DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
- shboard/index.html?age=U13&conf=north-atlantic&show=135474
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
- antic&show=135474
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1078766-135474@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261003T134500
@@ -161,6 +149,18 @@ DTSTAMP:20260801T000000Z
 DTSTART:20261107T113000
 DURATION:PT2H
 SUMMARY:U13 Penn Fusion Soccer Academy vs PSA Monmouth
+LOCATION:Scott Auto Field - Field 1
+DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U13&conf=north-atlantic&show=135474
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=north-atl
+ antic&show=135474
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078778-135474@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261108T113000
+DURATION:PT2H
+SUMMARY:U13 Penn Fusion Soccer Academy vs Maryland United FC
 LOCATION:Scott Auto Field - Field 1
 DESCRIPTION:ECNL Boys · U13 North Atlantic\nhttps://stw1.github.io/ecnl-da
  shboard/index.html?age=U13&conf=north-atlantic&show=135474

@@ -31,18 +31,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
  &show=131706
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1085486-131706@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261003T174500
-DURATION:PT2H
-SUMMARY:U13 Legends FC Del Mar vs So Cal Blues
-LOCATION:Canyon Crest Academy - Stadium
-DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
- ard/girls.html?age=U13&conf=southwest&show=131706
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
- &show=131706
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1141561-n-131706@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261010T135500
@@ -168,6 +156,18 @@ SUMMARY:U13 Legends FC Del Mar vs LAFC So Cal
 DESCRIPTION:ECNL Girls · U13 Southwest · kickoff time not set yet\nhttps:
  //stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest&show=131
  706
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
+ &show=131706
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1085486-131706@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270424T174500
+DURATION:PT2H
+SUMMARY:U13 Legends FC Del Mar vs So Cal Blues
+LOCATION:Canyon Crest Academy - STADIUM
+DESCRIPTION:ECNL Girls · U13 Southwest\nhttps://stw1.github.io/ecnl-dashbo
+ ard/girls.html?age=U13&conf=southwest&show=131706
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=southwest
  &show=131706
 END:VEVENT

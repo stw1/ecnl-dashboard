@@ -67,24 +67,24 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
  w=95110
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1073490-95110@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20261007T173000
-DURATION:PT2H
-SUMMARY:U15 Real Colorado Athletico at Real Colorado National
-LOCATION:Highland Heritage Regional Park - HHRP West
-DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
- girls.html?age=U15&conf=texas&show=95110
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
- w=95110
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1073718-95110@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART;VALUE=DATE:20261018
 SUMMARY:U15 Real Colorado Athletico at Colorado Rush
 DESCRIPTION:ECNL Girls · U15 Texas · kickoff time not set yet\nhttps://st
  w1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&show=95110
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
+ w=95110
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1073490-95110@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261021T173000
+DURATION:PT2H
+SUMMARY:U15 Real Colorado Athletico at Real Colorado National
+LOCATION:Highland Heritage Regional Park - HHRP West
+DESCRIPTION:ECNL Girls · U15 Texas\nhttps://stw1.github.io/ecnl-dashboard/
+ girls.html?age=U15&conf=texas&show=95110
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U15&conf=texas&sho
  w=95110
 END:VEVENT

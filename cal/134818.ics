@@ -128,10 +128,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068197-134818@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART:20261017T173000
+DTSTART:20261017T090000
 DURATION:PT2H
 SUMMARY:U13 East Meadow Soccer Club at Scorpions SC
-LOCATION:Wheeler School - field 1
+LOCATION:Johnson and Wales University - Scotts Miracle-Gro - Field 1
 DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
  board/girls.html?age=U13&conf=new-england&show=134818
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla

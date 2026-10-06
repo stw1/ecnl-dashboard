@@ -71,18 +71,6 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=new-engla
  nd&show=64207
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068180-64207@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260927T113000
-DURATION:PT2H
-SUMMARY:U14 World Class FC at Scorpions SC
-LOCATION:Taunton Forekicks - Field 12
-DESCRIPTION:ECNL Girls · U14 New England\nhttps://stw1.github.io/ecnl-dash
- board/girls.html?age=U14&conf=new-england&show=64207
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=new-engla
- nd&show=64207
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068190-64207@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART;VALUE=DATE:20261003
@@ -136,6 +124,17 @@ SUMMARY:U14 World Class FC at Select
 LOCATION:Union Point Sports Complex - Field 1
 DESCRIPTION:ECNL Girls · U14 New England\nhttps://stw1.github.io/ecnl-dash
  board/girls.html?age=U14&conf=new-england&show=64207
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=new-engla
+ nd&show=64207
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068180-64207@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:U14 World Class FC at Scorpions SC
+DESCRIPTION:ECNL Girls · U14 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=new-england&show
+ =64207
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U14&conf=new-engla
  nd&show=64207
 END:VEVENT

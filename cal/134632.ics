@@ -93,11 +93,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1056648-134632@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261003
+DTSTART:20261003T110000
+DURATION:PT2H
 SUMMARY:U13 FC Alliance TN vs Chattanooga Red Wolves SC
-DESCRIPTION:ECNL Boys · U13 Mid-America · kickoff time not set yet\nhttps
- ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-america&show=
- 134632
+LOCATION:Tommy Shumpert - Field 2
+DESCRIPTION:ECNL Boys · U13 Mid-America\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=mid-america&show=134632
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=mid-ameri
  ca&show=134632
 END:VEVENT

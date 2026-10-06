@@ -19,18 +19,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
  how=111914
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068378-111914@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260913T150000
-DURATION:PT2H
-SUMMARY:U13 Parkland Soccer Club vs Fort Lauderdale United FC
-LOCATION:Terramar Park - Field C
-DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
- /index.html?age=U13&conf=florida&show=111914
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
- how=111914
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068414-111914@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20260920T120000
@@ -169,6 +157,18 @@ DTSTART:20270228T090000
 DURATION:PT2H
 SUMMARY:U13 Parkland Soccer Club vs AC Florida West
 LOCATION:Terramar Park - Field C
+DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U13&conf=florida&show=111914
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s
+ how=111914
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068378-111914@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T150000
+DURATION:PT2H
+SUMMARY:U13 Parkland Soccer Club vs Fort Lauderdale United FC
+LOCATION:Terramar Park - Field D
 DESCRIPTION:ECNL Boys · U13 Florida\nhttps://stw1.github.io/ecnl-dashboard
  /index.html?age=U13&conf=florida&show=111914
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=florida&s

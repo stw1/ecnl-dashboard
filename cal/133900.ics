@@ -31,18 +31,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
  a&show=133900
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068373-133900@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260913T190000
-DURATION:PT2H
-SUMMARY:U18/19 Fort Lauderdale United FC at Parkland Soccer Club
-LOCATION:Terramar Park - Field D
-DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
- ard/index.html?age=U18/19&conf=florida&show=133900
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
- a&show=133900
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068391-133900@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20260919T110000
@@ -145,6 +133,18 @@ DTSTART:20261101T110000
 DURATION:PT2H
 SUMMARY:U18/19 Fort Lauderdale United FC vs Florida Premier FC South
 LOCATION:Miami Dolphins Training Facility @ NOVA Southeaste - Field 1
+DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
+ ard/index.html?age=U18/19&conf=florida&show=133900
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid
+ a&show=133900
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068373-133900@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20270313T170000
+DURATION:PT2H
+SUMMARY:U18/19 Fort Lauderdale United FC at Parkland Soccer Club
+LOCATION:Terramar Park - Field C
 DESCRIPTION:ECNL Boys · U18/19 Florida\nhttps://stw1.github.io/ecnl-dashbo
  ard/index.html?age=U18/19&conf=florida&show=133900
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U18/19&conf=florid

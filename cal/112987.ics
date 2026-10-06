@@ -83,17 +83,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=112987
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1078785-112987@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261017
-SUMMARY:U14 PSA Monmouth at Baltimore Celtic
-DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
- &show=112987
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
- antic&show=112987
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1078805-112987@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261024T150000
@@ -160,6 +149,17 @@ DTSTART:20261213T131500
 DURATION:PT2H
 SUMMARY:U14 PSA Monmouth at Potomac Soccer Association
 LOCATION:Maryland Soccerplex - Field 19
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=112987
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=112987
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078785-112987@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T113000
+DURATION:PT2H
+SUMMARY:U14 PSA Monmouth at Baltimore Celtic
 DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
  shboard/index.html?age=U14&conf=north-atlantic&show=112987
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl

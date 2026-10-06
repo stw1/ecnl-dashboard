@@ -69,10 +69,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1068521-114364@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261011
+DTSTART:20261011T130000
+DURATION:PT2H
 SUMMARY:U14 Doral Soccer Club at Palm Beach United
-DESCRIPTION:ECNL Boys · U14 Florida · kickoff time not set yet\nhttps://s
- tw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&show=114364
+LOCATION:Mirasol Park - Field 2
+DESCRIPTION:ECNL Boys · U14 Florida\nhttps://stw1.github.io/ecnl-dashboard
+ /index.html?age=U14&conf=florida&show=114364
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=florida&s
  how=114364
 END:VEVENT

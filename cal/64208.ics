@@ -71,22 +71,10 @@ URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
  nd&show=64208
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1068179-64208@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART:20260927T164500
-DURATION:PT2H
-SUMMARY:U13 World Class FC at Scorpions SC
-LOCATION:Taunton Forekicks - Field 12
-DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
- board/girls.html?age=U13&conf=new-england&show=64208
-URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
- nd&show=64208
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1068189-64208@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART;VALUE=DATE:20261003
-SUMMARY:U13 World Class FC at Connecticut FC United
+SUMMARY:U13 World Class FC at Connecticut FC United (D 1–1)
 DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
  s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
  =64208
@@ -136,6 +124,17 @@ SUMMARY:U13 World Class FC at Select
 LOCATION:Union Point Sports Complex - Field 1
 DESCRIPTION:ECNL Girls · U13 New England\nhttps://stw1.github.io/ecnl-dash
  board/girls.html?age=U13&conf=new-england&show=64208
+URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
+ nd&show=64208
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1068179-64208@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:U13 World Class FC at Scorpions SC
+DESCRIPTION:ECNL Girls · U13 New England · kickoff time not set yet\nhttp
+ s://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-england&show
+ =64208
 URL:https://stw1.github.io/ecnl-dashboard/girls.html?age=U13&conf=new-engla
  nd&show=64208
 END:VEVENT

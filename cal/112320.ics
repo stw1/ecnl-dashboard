@@ -83,17 +83,6 @@ URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=112320
 END:VEVENT
 BEGIN:VEVENT
-UID:ecnl-1078785-112320@stw1.github.io
-DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261017
-SUMMARY:U14 Baltimore Celtic vs PSA Monmouth
-DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
- tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
- &show=112320
-URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
- antic&show=112320
-END:VEVENT
-BEGIN:VEVENT
 UID:ecnl-1078797-112320@stw1.github.io
 DTSTAMP:20260801T000000Z
 DTSTART:20261024T130000
@@ -184,6 +173,17 @@ SUMMARY:U14 Baltimore Celtic vs Penn Fusion Soccer Academy
 DESCRIPTION:ECNL Boys · U14 North Atlantic · kickoff time not set yet\nht
  tps://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atlantic
  &show=112320
+URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
+ antic&show=112320
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnl-1078785-112320@stw1.github.io
+DTSTAMP:20260801T000000Z
+DTSTART:20261219T113000
+DURATION:PT2H
+SUMMARY:U14 Baltimore Celtic vs PSA Monmouth
+DESCRIPTION:ECNL Boys · U14 North Atlantic\nhttps://stw1.github.io/ecnl-da
+ shboard/index.html?age=U14&conf=north-atlantic&show=112320
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U14&conf=north-atl
  antic&show=112320
 END:VEVENT

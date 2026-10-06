@@ -57,11 +57,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecnl-1117855-114496@stw1.github.io
 DTSTAMP:20260801T000000Z
-DTSTART;VALUE=DATE:20261018
+DTSTART:20261018T111500
+DURATION:PT2H
 SUMMARY:U13 SUSA FC vs Connecticut FC United
-DESCRIPTION:ECNL Boys · U13 New England · kickoff time not set yet\nhttps
- ://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-england&show=
- 114496
+LOCATION:The SUSA Orlin & Cohen Sports Complex - field 5
+DESCRIPTION:ECNL Boys · U13 New England\nhttps://stw1.github.io/ecnl-dashb
+ oard/index.html?age=U13&conf=new-england&show=114496
 URL:https://stw1.github.io/ecnl-dashboard/index.html?age=U13&conf=new-engla
  nd&show=114496
 END:VEVENT
