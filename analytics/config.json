@@ -1,9 +1,0 @@
-{
-  "projectId": "spaikz-dashboards",
-  "authDomain": "spaikz-dashboards.firebaseapp.com",
-  "sites": [
-    "mlsnext",
-    "ecnl"
-  ],
-  "reportUrl": "https://spaikz-dashboards.web.app/"
-}
